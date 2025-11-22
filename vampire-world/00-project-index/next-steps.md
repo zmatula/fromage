@@ -4,100 +4,88 @@
 
 ## Immediate Next Phase
 
-### Phase 3: Pre-Collapse Vampire History
+### Phase 4: Post-Collapse History to Present
 
-**Objective**: Build vampire civilization history working backwards from collapse
+**Objective**: Build the 1,200 years from collapse to story start
 
 **Primary Tasks**:
 
 1. **Create era breakdown files** in `02-timeline/era-breakdowns/`:
-   - `era-final-century.md` (Year -100 to 0)
-   - `era-golden-age.md` (Year -500 to -100)
-   - `era-rise.md` (Year -1000 to -500)
-   - `era-pre-vampire.md` (Year -1200 to -1000)
+   - `era-immediate-aftermath.md` (Year 0-50)
+   - `era-dark-ages.md` (Year 50-300)
+   - `era-warring-kingdoms.md` (Year 300-700)
+   - `era-consolidation.md` (Year 700-1100)
+   - `era-recent-past.md` (Year 1100-1200)
 
 2. **For each era, document**:
-   - Major events (wars, discoveries, catastrophes)
-   - Vampire factions (who held power, beliefs)
-   - Technological/magical developments
-   - Relationship with other races
-   - Cultural achievements
-   - Seeds of collapse
-   - Physical evidence remaining
+   - Power structures (who ruled what?)
+   - Major wars/conflicts
+   - Vampire relic discoveries and impacts
+   - Knowledge recovered/lost
+   - Cultural development
+   - Key figures and legends
 
-3. **Create `02-timeline/vampire-factions.md`**:
-   - List all major vampire groups/philosophies
-   - Which faction created protagonist? Why?
-   - What happened to each during collapse?
+3. **Create discovery timeline**:
+   - Track significant vampire ruin/artifact discoveries
+   - Who found them? Political impact?
+   - Store in `05-geography/relic-distribution.md`
 
-4. **Update `02-timeline/master-timeline.md`** with all events chronologically
+4. **Update `02-timeline/master-timeline.md`** with post-collapse events
 
-**Output**: Detailed pre-collapse history with internal consistency
+**Output**: Complete 1,200-year history from collapse to present
 
 **Validation Questions**:
-- Do events logically lead to collapse?
-- Are the three covenants well-developed?
-- Is protagonist's creation context clear?
-- Does the Sanguine Vessels Initiative make sense?
+- Does history progress logically?
+- Are there clear cause-effect chains?
+- Do current powers have deep roots?
+- Are artifact discoveries strategically placed?
 
 ---
 
-## Key References from Phase 2
+## Key References from Phase 3
 
-### Established Facts to Honor
+### Pre-Collapse Foundation
 
-**The Three Covenants**:
-1. **Covenant of the Eternal Mind**: Knowledge/research, ran Ascension Experiment, capital Neth'Korath
-2. **Covenant of the Crimson Throne**: Military/governance, Vel'Krath
-3. **Covenant of the Silver Twilight**: Spiritualists/traditionalists, Sel'Naroth
+**Vampire Civilization Summary**:
+- Peak: ~15 million vampires, three covenants
+- Collapse causes: Ascension Experiment + Bloodweb dependency + faction conflict
+- Survivors: <1% (isolated, shielded, or changed)
 
-**Key Dates Already Established**:
-- Year -800: Bloodweb created
-- Year -600: Bloodweb enhanced for ambient energy
-- Year -400: Blood potency enhancement added
-- Year -200: Most vampires dependent on Bloodweb
-- Year -50: Human rebellion (eastern provinces)
-- Year -30: Elven crafters guild strike
-- Year -20: Dwarven tunnel sabotage
-- Year -12 to 0: Sanguine Vessels Initiative
-- Year -7: Protagonist created
+**Key Locations Established**:
+- Neth'Korath (capital) → Now "The Scar"
+- Vel'Krath (Throne) → Northern ruins
+- Sel'Naroth (Twilight) → Western ruins/sanctuaries
+- Vel'Thoras (research) → Eastern underground ruins
 
 **Protagonist Context**:
-- Project: Sanguine Vessels Initiative
-- Designation: Vessel Seven
-- Purpose: Survive outside Bloodweb
-- Location: Vel'Thoras (research center, eastern provinces)
-- Vessels 1-6: Dead/destroyed
-- Vessel 11: Possibly survived (location unknown)
+- Vessel Seven, created Year -7
+- In stasis in Vel'Thoras laboratory
+- Unknown to present world
+- Vessel Eleven possibly also survived
 
 ---
 
-## Questions to Answer in Phase 3
+## Questions to Answer in Phase 4
 
-### About the Covenants
-- When did each form?
-- What were their original purposes?
-- How did rivalry develop?
-- Key figures in each?
-- Philosophy differences?
+### Immediate Aftermath
+- How did servant races organize post-collapse?
+- What happened to vampire survivors?
+- First generation of "free" races—what did they do?
 
-### About the Bloodweb
-- Who built it and why?
-- How did it become dependency?
-- Who maintained it?
-- Were there alternatives?
+### Power Structure Evolution
+- How did current empires form?
+- What wars shaped present borders?
+- When did kingdoms become stable?
 
-### About Pre-Collapse Society
-- How were other races governed?
-- What was daily life like?
-- What did vampires value?
-- What were their achievements?
+### Knowledge and Artifacts
+- When were major ruins discovered?
+- Who controls what artifacts now?
+- How much vampire knowledge survived?
 
-### About the Transcendence Program
-- When did it start (200 years before collapse)?
-- What breakthroughs preceded protagonist?
-- Who led it within Mind Covenant?
-- What was ultimate goal?
+### Cultural Development
+- How did each race's identity form?
+- When did current religions emerge?
+- How did vampire history become legend?
 
 ---
 
@@ -107,31 +95,33 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Read `collapse-event.md` for established facts
-4. ☐ Begin with `era-final-century.md` (work backward from collapse)
-5. ☐ Track consistency with collapse causes
+3. ☐ Review `collapse-event.md` consequence cascade section
+4. ☐ Begin with `era-immediate-aftermath.md`
+5. ☐ Track how present-day powers emerge
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 3, the sequence is:
+After Phase 4, the sequence is:
 
-- **Phase 4**: Post-Collapse History (Year 0 to 1200)
-- **Phase 5**: Cultural Memory Matrix
-- **Phase 6**: Factions & Power Structures
+- **Phase 5**: Cultural Memory Matrix (how each race remembers)
+- **Phase 6**: Factions & Power Structures (present-day politics)
+- **Phase 7**: Geography & Relic Placement
 
-These complete historical/political foundation before geography, characters, and plot.
+These complete the historical and political foundation before characters and plot.
 
 ---
 
 ## Notes
 
-- Work backward from collapse for logical consistency
-- The final century should be most detailed (leads directly to collapse)
-- Develop covenants as complex organizations, not monoliths
-- Each era should show seeds of later problems
-- Remember: protagonist was created as INSURANCE—they knew something might go wrong
+- Post-collapse history should show:
+  - Gradual forgetting of vampire truth
+  - Rise of current empires from chaos
+  - Transformation of history into legend
+  - Strategic artifact discoveries driving politics
+- Each era should plant seeds for later story conflicts
+- Present-day Year 1200 should feel like culmination of this history
 
 ---
 

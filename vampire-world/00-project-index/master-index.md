@@ -13,7 +13,7 @@
 
 - [x] Phase 1: Foundation Setup
 - [x] Phase 2: The Collapse Event (Year 0)
-- [ ] Phase 3: Pre-Collapse Vampire History
+- [x] Phase 3: Pre-Collapse Vampire History
 - [ ] Phase 4: Post-Collapse History to Present
 - [ ] Phase 5: Cultural Memory Matrix
 - [ ] Phase 6: Faction & Power Structure Development
@@ -40,15 +40,15 @@
 - [x] `thematic-pillars.md` - Central themes
 
 ### 02-timeline/
-- [ ] `master-timeline.md` - Chronological event list
+- [x] `master-timeline.md` - Chronological event list
 - [x] `collapse-event.md` - Detailed collapse analysis
 - [ ] `timeline-validation.md` - Consistency checks
-- [ ] `vampire-factions.md` - Pre-collapse factions
+- [x] `vampire-factions.md` - Pre-collapse factions
 - **era-breakdowns/**
-  - [ ] `era-pre-vampire.md` (Year -1200 to -1000)
-  - [ ] `era-rise.md` (Year -1000 to -500)
-  - [ ] `era-golden-age.md` (Year -500 to -100)
-  - [ ] `era-final-century.md` (Year -100 to 0)
+  - [x] `era-pre-vampire.md` (Year -1200 to -1000)
+  - [x] `era-rise.md` (Year -1000 to -500)
+  - [x] `era-golden-age.md` (Year -500 to -100)
+  - [x] `era-final-century.md` (Year -100 to 0)
   - [ ] `era-immediate-aftermath.md` (Year 0-50)
   - [ ] `era-dark-ages.md` (Year 50-300)
   - [ ] `era-warring-kingdoms.md` (Year 300-700)

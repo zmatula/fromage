@@ -164,4 +164,83 @@ Proceed to **Phase 3: Pre-Collapse Vampire History**
 
 ---
 
+## Session 3 - 2025-11-22
+
+### Phase Completed
+**Phase 3: Pre-Collapse Vampire History**
+
+### Work Completed
+
+1. **Created four era breakdown files**:
+   - `era-pre-vampire.md` (Year -1200 to -1000): Other races' kingdoms, vampire rise from scattered clans to unified threat
+   - `era-rise.md` (Year -1000 to -500): Conquest wars, founding generation, covenant formation, Bloodweb creation
+   - `era-golden-age.md` (Year -500 to -100): Peak civilization, achievements, and slow rot
+   - `era-final-century.md` (Year -100 to 0): Decade-by-decade decline, all seeds of collapse
+
+2. **Created `vampire-factions.md`**:
+   - Full profiles of three covenants
+   - Leadership histories
+   - Philosophical differences
+   - The coup that never happened
+   - Sanguine Vessels Initiative details
+   - Vessel 1-12 fates
+
+3. **Created `master-timeline.md`**:
+   - Comprehensive chronological event list
+   - Year -1200 to Year 0
+   - Categorized by type
+   - Warning signs pattern
+   - Escalation pattern
+
+### Major Decisions Made
+
+**Pre-Vampire Era**:
+- Other races had kingdoms/civilizations before vampire dominion
+- Vampires nearly went extinct (Year -1160: only ~30,000)
+- Unification happened because of survival pressure
+- Conquest completed by Year -900
+
+**Covenant Details**:
+- Mind: Founded Year -810, Archon Nathara, built Bloodweb
+- Throne: Founded Year -808, Warlord-Regent Drakhan, military focus
+- Twilight: Founded Year -805, High Seer Vaelwyn, traditionalist
+
+**Key Figures Established**:
+- Vykros the Conqueror (united clans, assassinated Year -890)
+- Archon Mordecai (ran Ascension Experiment, died Year 0)
+- High Seer Selene (possibly still alive in sanctuary)
+- General Aethra (Throne, fate unknown)
+- High Researcher Velanna (created protagonist, fate unknown)
+
+**Timeline Patterns**:
+- Bloodweb: from tool to crutch to noose
+- Factions: from cooperation to cold war to isolation
+- Warnings: all ignored, covered up, or suppressed
+
+### Key Connections Established
+
+- Pre-vampire civilizations largely destroyed; present races are descended from servant populations
+- Bloodweb dependency developed gradually over 800 years
+- Final Century shows decade-by-decade deterioration
+- All three covenants partially right, all partially wrong
+- Vessel Eleven remains mystery—possible story thread
+
+### Open Questions Preserved
+
+- What was world like before Year -1200?
+- Where exactly are Twilight sanctuaries?
+- Did High Researcher Velanna survive?
+- Is anything still alive in sanctuaries?
+- What entity was glimpsed through Year -54 breach?
+
+### Next Session Focus
+
+Proceed to **Phase 4: Post-Collapse History to Present**
+- Create five post-collapse era files
+- Track how present powers emerged
+- Document artifact discoveries
+- Build toward Year 1200 present day
+
+---
+
 *Add new sessions below this line*
