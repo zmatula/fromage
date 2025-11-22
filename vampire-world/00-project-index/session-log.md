@@ -72,4 +72,86 @@ Proceed to **Phase 2: The Collapse Event (Year 0)**
 
 ---
 
+## Session 2 - 2025-11-22
+
+### Phase Completed
+**Phase 2: The Collapse Event (Year 0)**
+
+### Work Completed
+
+1. **Created Collapse Event Document** (`02-timeline/collapse-event.md`)
+   - Most detailed document in the project (~4,500 words)
+   - Comprehensive multi-causal breakdown of collapse
+
+2. **Established Shadow Truth (What Actually Happened)**
+   - **Project Sanguine Ascension**: The triggering experiment
+     - Crimson Covenant faction initiated soul-binding experiment
+     - 144 subjects including protagonist (Subject 73)
+     - Created resonance feedback through blood-magic network
+     - Network inversion drained power from all vampires
+   - **Blood Tithe Rebellion**: Other races sensed weakness, rose up
+   - **Factional Civil War**: Vampires turned on each other
+   - **Systemic Weaknesses**: Infrastructure dependency, population vulnerability, knowledge concentration
+
+3. **Detailed Collapse Timeline**
+   - 18-month cascade from Year -1 to Year 0
+   - Week-by-week breakdown of critical period
+   - Regional variations in how collapse manifested
+
+4. **Survivor Categories Defined**
+   - The Sealed (stasis chambers, including protagonist)
+   - The Hidden (fled to remote locations)
+   - The Veiled (underground faction that lasted until ~Year 200)
+   - The Feral (devolved hunters, extinct by Year 500)
+
+5. **What Was Lost Analysis**
+   - Immediately lost: infrastructure, population, unrecoverable knowledge
+   - Lost over time: physical structures, degraded records
+   - Preserved: underground cities, artifacts, genetic legacy
+
+6. **Contradictory Historical Interpretations**
+   - Official Version (divine punishment narrative)
+   - Scholarly Interpretation (multi-causal, trigger event)
+   - Elven Memory (partnership and tragedy)
+   - Dwarven Memory (practical contractors, infrastructure failure)
+   - Goblin Memory (intelligence gathering, led rebellion)
+   - Human Memory (blood-slaves, divine-blessed rebellion)
+   - Veil Keepers Theory (closest to truth)
+
+7. **Consequence Cascade**
+   - Immediate Aftermath (Year 0-10): chaos, power vacuums, first consolidation
+   - Power Vacuum Effects (Year 10-50): kingdoms form, knowledge mythologized
+   - Long-Term Impacts (Year 50-1200): political evolution, knowledge evolution, cultural evolution
+
+### Decisions Made
+
+- **Triggering Event**: Project Sanguine Ascension - soul-binding to transcend vampire limitations
+- **Protagonist Designation**: Subject 73 of 144 in the experiment
+- **Collapse Speed**: ~18 months from trigger to completion
+- **Vampire Factions**: Four major factions during collapse (Crimson Covenant, Obsidian Court, Pallid Hand, Veiled Ones)
+- **Survivor Numbers**: Fewer than 10,000 vampires survived Year 0
+- **Key Figures Named**: Archon Veltharion, Magister Seraphine, Commander Kaelis (vampire), plus post-collapse leaders
+
+### Key Connections Established
+
+- Protagonist's creation directly caused the collapse (Subject 73 in Project Sanguine Ascension)
+- Blood-magic network was both vampire strength and fatal weakness
+- Each race's memory serves their political interests
+- Current world built on vampire infrastructure (especially goblins in tunnels)
+- Veiled Ones' sealed cities are prime locations for undiscovered ruins
+
+### Open Questions for Future Sessions
+
+1. What made Subject 73 different from other subjects?
+2. What happened to other Sanguine Ascension survivors?
+3. Detailed faction histories (Phase 3)
+4. Geographic specifics of each region's collapse
+5. Protagonist's specific selection criteria
+
+### Next Session Focus
+
+Proceed to **Phase 3: Pre-Collapse Vampire History**
+
+---
+
 *Add new sessions below this line*
