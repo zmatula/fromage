@@ -4,44 +4,68 @@
 
 ## Immediate Next Phase
 
-### Phase 11: Plot Architecture
+### Phase 12: GRRM Style Guide
 
-**Objective**: Structure the actual story threads and character arcs
+**Objective**: Create writing guidelines to maintain consistent GRRM tone/style
 
 **Primary Tasks**:
 
-1. **Create `09-plot-architecture/story-arcs.md`**:
-   - 5-10 major plot threads
-   - Initial situation for each
-   - Key turning points
-   - Major characters involved
-   - How threads connect
-   - Resolution trajectories
+1. **Create `10-style-guide/grrm-writing-principles.md`**:
+   - No pure heroes or villains
+   - Actions have consequences
+   - Anyone can die
+   - Deep POV technique
+   - Historical ambiguity
+   - Political complexity
 
-2. **Create `09-plot-architecture/character-arcs.md`**:
-   - For each POV character:
-     - Starting position
-     - Character journey beats
-     - Transformation trajectory
-     - Potential ending states
+2. **Create `10-style-guide/narrative-voice.md`**:
+   - Third person limited
+   - Voice adapts to POV character
+   - Vocabulary reflects background
+   - Internal monologue balance
 
-3. **Create `09-plot-architecture/intersection-points.md`**:
-   - Where separate storylines converge
-   - What events affect multiple characters
-   - How character paths cross
-   - Timeline of intersections
+3. **Create `10-style-guide/scene-construction.md`**:
+   - Start late, end early
+   - Every scene has conflict
+   - Scene-sequel structure
+   - Layer multiple conflicts
 
-4. **Create `09-plot-architecture/consequence-chains.md`**:
-   - Track cause and effect across storylines
-   - How action in thread A affects thread B
-   - Build consequence cascade for major events
+4. **Create `10-style-guide/dialogue-guidelines.md`**:
+   - Subtext over exposition
+   - Power dynamics in conversation
+   - Distinct vocabulary per character
+   - Interruptions and body language
 
-**Output**: Story architecture with interwoven threads
+**Output**: Complete writing style guide
 
 **Validation Questions**:
-- Do storylines organically intersect?
-- Are there consequence chains?
-- Does each character have agency?
+- Does guidance avoid over-explaining?
+- Are character voices distinct?
+- Does it serve GRRM authenticity?
+
+---
+
+## Key References from Phase 11
+
+### Plot Architecture Established
+
+**8 Story Arcs**:
+- Awakening, Hunt, Succession, Northern Threat
+- Knowledge Race, Dimensional Threat, Elven Secret, Goblin Reckoning
+
+**7 POV Character Arcs**:
+- Each with fatal flaw, journey beats, potential endings
+- All can die—no plot armor
+
+**7 Major Intersection Points**:
+- Vel'Thoras Convergence, Crown's Vision, Border Clash
+- Blood Archives Revelation, Living Artifact Truth
+- Sel'Naroth Expedition, Scar Crisis
+
+**8 Consequence Chains**:
+- Awakening Cascade, Crown's Corruption, Northern Buildup
+- Knowledge Release, Faith Crisis, Elven Revelation
+- Goblin Choice, Dimensional Crisis
 
 ---
 
