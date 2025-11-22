@@ -330,4 +330,147 @@ How faction conflict intensified:
 
 ---
 
+---
+
+## Post-Collapse History (Year 0 to 1200)
+
+### Immediate Aftermath (Year 0-50)
+
+| Year | Event | Category |
+|------|-------|----------|
+| 1 | First organized servant uprisings | Political |
+| 2 | Purifier bands form for vampire hunting | Military |
+| 3 | First warlords emerge among humans | Political |
+| 5 | Major vampire refuge destroyed | Military |
+| 8 | Collaborator purges peak; knowledge destruction | Cultural |
+| 10 | First trade routes reestablished | Economic |
+| 12 | Valdris Kingdom founded | Political |
+| 15 | Ironpeak Confederation formed | Political |
+| 18 | Silverwood Domain declared | Political |
+| 20 | Church of Divine Light established | Religious |
+| 22 | Great Swamp Dominion formed | Political |
+| 25 | Sanctified Realm founded | Political |
+| 28 | Free Cities League chartered | Political |
+| 30 | Northern Marches consolidated | Political |
+| 40 | First artifact auction | Economic |
+| 50 | Era of Aftermath ends; ~10 million population | Demographic |
+
+### Dark Ages (Year 50-300)
+
+| Year | Event | Category |
+|------|-------|----------|
+| 52 | First major artifact activation accident | Artifact |
+| 60 | Last fluent vampire-script reader dies | Cultural |
+| 75 | Church declares artifacts "demonic" | Religious |
+| 87 | Last public vampire killing | Military |
+| 100 | Church declares vampires extinct | Religious |
+| 125 | First artifact dealer guild formed | Economic |
+| 140 | Mystery schools codify preserved knowledge | Cultural |
+| 148 | Functional artifact causes political crisis | Artifact |
+| 158 | Major ruin expedition lost | Exploration |
+| 160 | First generation with no living vampire memory | Cultural |
+| 168 | Great Plague; 20% population loss | Demographic |
+| 175 | "Vampire" becomes generic term for monster | Cultural |
+| 195 | Healing artifact creates cult following | Artifact |
+| 210 | First secret society forms around artifacts | Political |
+| 230 | Intact but unreadable library discovered | Exploration |
+| 245 | Artifact trade becomes major economic factor | Economic |
+| 258 | First university founded (Free Cities) | Cultural |
+| 270 | Standardized calendar adopted | Cultural |
+| 278 | First successful vampire text translation | Scholarship |
+| 295 | Systematic ruin exploration begins | Exploration |
+| 300 | Dark Ages end; ~25 million population | Demographic |
+
+### Warring Kingdoms (Year 300-700)
+
+| Year | Event | Category |
+|------|-------|----------|
+| 312 | Crown of Seeing discovered; artifact arms race begins | Artifact |
+| 315 | Valdris Expansion Wars begin | Military |
+| 350 | Great Schism in Church of Divine Light | Religious |
+| 358 | Forge of Souls discovered by dwarves | Artifact |
+| 380 | Valdris Expansion Wars end | Military |
+| 400 | Northern Unification Wars begin | Military |
+| 405 | Vel'Thoras outer complex explored | Exploration |
+| 420 | Goblin Wars begin | Military |
+| 450 | Sanctified Crusades at peak | Military |
+| 478 | Healer's Stone discovered | Artifact |
+| 480 | Northern Kingdom independent | Political |
+| 520 | Goblin Wars end; goblins contained | Military |
+| 534 | Gate Fragment recovered | Artifact |
+| 550 | Twilight War begins | Military |
+| 560 | Maritime Republic dominates seas | Political |
+| 590 | Twilight War ends; elven borders confirmed | Military |
+| 612 | Blood Archives discovered | Artifact |
+| 620 | Great Northern War begins | Military |
+| 667 | Mind Codex recovered | Artifact |
+| 680 | Great Northern War ends | Military |
+| 700 | Warring Kingdoms era ends | Political |
+
+### Consolidation (Year 700-1100)
+
+| Year | Event | Category |
+|------|-------|----------|
+| 702 | Congress of Iron Rivers; peace framework | Political |
+| 745 | Deep Vel'Krath expedition | Exploration |
+| 760 | Inheritors establish first artifact vault | Secret Society |
+| 780 | Order of Dawn receives formal charter | Religious |
+| 812 | Stasis vampire discovered and destroyed | Discovery |
+| 815 | First complete vampire text translated | Scholarship |
+| 830 | Magical theory systematized | Magic |
+| 850 | Inheritors secretly found universities | Secret Society |
+| 860 | Vampire language grammar reconstructed | Scholarship |
+| 878 | Vel'Thoras complex marked dangerous | Exploration |
+| 900 | Four-empire system established | Political |
+| 920 | Order of Dawn exterminates "vampire cult" | Religious |
+| 934 | Twilight Border expedition turned back | Exploration |
+| 940 | Inheritors recover blood codex | Secret Society |
+| 950-1000 | Shadow Wars between secret societies | Conflict |
+| 1000 | "Encyclopaedia Vampirica" completed | Scholarship |
+| 1002 | Deep Library discovered | Exploration |
+| 1020 | Inheritor artifact reactivation project fails | Secret Society |
+| 1050 | Silverwood closes borders completely | Political |
+| 1100 | Consolidation era ends; ~40 million population | Demographic |
+
+### Recent Past (Year 1100-1200)
+
+| Year | Event | Category |
+|------|-------|----------|
+| 1112 | Vel'Thoras deep expedition; stasis chambers suspected | Exploration |
+| 1115 | Northern tomb complex opened | Exploration |
+| 1118 | "Living Artifact" recovered and sealed | Artifact |
+| 1121 | Veil Keepers purge scholars | Secret Society |
+| 1124 | Inheritors exposed; go underground | Secret Society |
+| 1127 | Order of Dawn major expansion | Religious |
+| 1131 | Valdrian-Northern border incident | Political |
+| 1135 | Sanctified fundamentalism peaks | Religious |
+| 1152 | Congress of Silver (empire summit) | Political |
+| 1172 | Vel'Thoras inner sanctum located | Exploration |
+| 1175 | Twilight sanctuary entrance found | Exploration |
+| 1178 | Dimensional readings detected | Discovery |
+| 1180 | Awakening protocols texts discovered | Discovery |
+| 1192 | Aldric XII becomes Northern king | Political |
+| 1195 | Sanctified persecution of magic users | Religious |
+| 1197 | Valdrian succession crisis | Political |
+| 1199 | Maritime Republic internal coup | Political |
+| 1200 | Present day; story begins | Story |
+
+---
+
+## Era Summary
+
+| Era | Years | Duration | Key Character |
+|-----|-------|----------|---------------|
+| Pre-Vampire | -1200 to -1000 | 200 years | Multi-power balance |
+| Rise | -1000 to -500 | 500 years | Conquest and building |
+| Golden Age | -500 to -100 | 400 years | Peak and rot |
+| Final Century | -100 to 0 | 100 years | Collapse approach |
+| Aftermath | 0 to 50 | 50 years | Chaos and liberation |
+| Dark Ages | 50 to 300 | 250 years | Loss and recovery |
+| Warring Kingdoms | 300 to 700 | 400 years | War and forging |
+| Consolidation | 700 to 1100 | 400 years | Empire and learning |
+| Recent Past | 1100 to 1200 | 100 years | Tension and discovery |
+
+---
+
 *This timeline is the skeleton of vampire history. Every date, every event, every pattern points toward the inevitable collapse.*

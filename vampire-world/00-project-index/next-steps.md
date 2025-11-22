@@ -4,88 +4,92 @@
 
 ## Immediate Next Phase
 
-### Phase 4: Post-Collapse History to Present
+### Phase 5: Cultural Memory Matrix
 
-**Objective**: Build the 1,200 years from collapse to story start
+**Objective**: Develop how each race/culture remembers and interprets history
 
 **Primary Tasks**:
 
-1. **Create era breakdown files** in `02-timeline/era-breakdowns/`:
-   - `era-immediate-aftermath.md` (Year 0-50)
-   - `era-dark-ages.md` (Year 50-300)
-   - `era-warring-kingdoms.md` (Year 300-700)
-   - `era-consolidation.md` (Year 700-1100)
-   - `era-recent-past.md` (Year 1100-1200)
+1. **Create `03-cultures/cultural-memory-matrix.md`**:
+   - Table format: Event vs. how each race remembers it
+   - Cover: Collapse, vampire wars, race origins, major events
+   - Include: Official version, scholarly view, shadow truth
 
-2. **For each era, document**:
-   - Power structures (who ruled what?)
-   - Major wars/conflicts
-   - Vampire relic discoveries and impacts
-   - Knowledge recovered/lost
-   - Cultural development
-   - Key figures and legends
+2. **Create race files in `03-cultures/races/`**:
+   - `humans.md`
+   - `elves.md`
+   - `dwarves.md`
+   - `goblins.md`
+   - `vampires.md` (what protagonist remembers)
 
-3. **Create discovery timeline**:
-   - Track significant vampire ruin/artifact discoveries
-   - Who found them? Political impact?
-   - Store in `05-geography/relic-distribution.md`
+3. **For each race, document**:
+   - Sub-races and cultural variations
+   - Origin story (what they believe)
+   - Vampire relationship history
+   - Collapse narrative
+   - Cultural values
+   - Historical heroes/villains
+   - Present-day culture
+   - Relationship with ruins/artifacts
+   - Internal conflicts
+   - Secrets they hide
 
-4. **Update `02-timeline/master-timeline.md`** with post-collapse events
+4. **Create `03-cultures/cultural-conflicts.md`**:
+   - Where narratives clash
+   - What disputes drive present conflicts
+   - Whose version is closest to truth
 
-**Output**: Complete 1,200-year history from collapse to present
+**Output**: Rich, contradictory cultural perspectives
 
 **Validation Questions**:
-- Does history progress logically?
-- Are there clear cause-effect chains?
-- Do current powers have deep roots?
-- Are artifact discoveries strategically placed?
+- Do cultures have genuinely different interpretations?
+- Are interpretations self-serving and logical?
+- Do conflicts stem from historical disagreements?
 
 ---
 
-## Key References from Phase 3
+## Key References from Phase 4
 
-### Pre-Collapse Foundation
+### Present-Day World (Year 1200)
 
-**Vampire Civilization Summary**:
-- Peak: ~15 million vampires, three covenants
-- Collapse causes: Ascension Experiment + Bloodweb dependency + faction conflict
-- Survivors: <1% (isolated, shielded, or changed)
+**Four Great Empires**:
+1. Valdrian Empire (east) - Emperor Cassius VIII
+2. Northern Dominion (north) - Warlord-King Aldric XII
+3. Sanctified States (central-south) - High Theocrat Solarius VII
+4. Maritime Republic (coast) - First Merchant Corus IX
 
-**Key Locations Established**:
-- Neth'Korath (capital) → Now "The Scar"
-- Vel'Krath (Throne) → Northern ruins
-- Sel'Naroth (Twilight) → Western ruins/sanctuaries
-- Vel'Thoras (research) → Eastern underground ruins
+**Secondary Powers**:
+- Ironpeak Confederation (dwarves)
+- Silverwood Domain (elves, isolated since 1050)
+- Broken Lands (goblins)
 
-**Protagonist Context**:
-- Vessel Seven, created Year -7
-- In stasis in Vel'Thoras laboratory
-- Unknown to present world
-- Vessel Eleven possibly also survived
+**Secret Societies**:
+- Veil Keepers (destroy dangerous knowledge)
+- Inheritors (recover vampire knowledge)
+- Order of the Dawn (prepare for vampire return)
+
+**Current Tensions**:
+- Valdrian-Northern rivalry
+- Sanctified fundamentalism
+- Dimensional readings increasing
+- Awakening protocols discovered (Year 1180)
 
 ---
 
-## Questions to Answer in Phase 4
+## Questions to Answer in Phase 5
 
-### Immediate Aftermath
-- How did servant races organize post-collapse?
-- What happened to vampire survivors?
-- First generation of "free" races—what did they do?
+### For Each Race
+- How do they explain the collapse?
+- What do they believe about their origins?
+- How do they view vampires?
+- What secrets do they keep from other races?
+- What internal divisions exist?
 
-### Power Structure Evolution
-- How did current empires form?
-- What wars shaped present borders?
-- When did kingdoms become stable?
-
-### Knowledge and Artifacts
-- When were major ruins discovered?
-- Who controls what artifacts now?
-- How much vampire knowledge survived?
-
-### Cultural Development
-- How did each race's identity form?
-- When did current religions emerge?
-- How did vampire history become legend?
+### Cultural Conflicts
+- Where do human and elf histories contradict?
+- Why do dwarves and goblins hate each other?
+- What truths would shatter racial identities?
+- Which race's version is closest to reality?
 
 ---
 
@@ -95,33 +99,31 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Review `collapse-event.md` consequence cascade section
-4. ☐ Begin with `era-immediate-aftermath.md`
-5. ☐ Track how present-day powers emerge
+3. ☐ Review `collapse-event.md` contradictory interpretations
+4. ☐ Review `era-recent-past.md` for present-day context
+5. ☐ Begin with `cultural-memory-matrix.md`
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 4, the sequence is:
+After Phase 5, the sequence is:
 
-- **Phase 5**: Cultural Memory Matrix (how each race remembers)
-- **Phase 6**: Factions & Power Structures (present-day politics)
+- **Phase 6**: Factions & Power Structures (empires, secret societies)
 - **Phase 7**: Geography & Relic Placement
+- **Phase 8**: Character Architecture
 
-These complete the historical and political foundation before characters and plot.
+These complete worldbuilding before plot architecture.
 
 ---
 
 ## Notes
 
-- Post-collapse history should show:
-  - Gradual forgetting of vampire truth
-  - Rise of current empires from chaos
-  - Transformation of history into legend
-  - Strategic artifact discoveries driving politics
-- Each era should plant seeds for later story conflicts
-- Present-day Year 1200 should feel like culmination of this history
+- Each race should have self-serving historical narratives
+- Contradictions between accounts create story opportunities
+- Protagonist's vampire memories are valuable and dangerous
+- Some truths would destabilize current political order
+- Cultural conflicts should drive present-day tensions
 
 ---
 
