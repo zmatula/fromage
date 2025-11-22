@@ -4,78 +4,92 @@
 
 ## Immediate Next Phase
 
-### Phase 2: The Collapse Event (Year 0)
+### Phase 5: Cultural Memory Matrix
 
-**Objective**: Define the pivot point of all history in exhaustive detail
+**Objective**: Develop how each race/culture remembers and interprets history
 
 **Primary Tasks**:
 
-1. **Create `02-timeline/collapse-event.md`**
-   - Multi-causal breakdown of what happened
-   - Timeline: was collapse sudden or gradual?
-   - Who survived and how (different factions, different fates)
-   - What was lost immediately vs over time
-   - Regional variations in collapse
-   - The triggering experiment (protagonist's creation)
-   - Evidence that remains in present day
+1. **Create `03-cultures/cultural-memory-matrix.md`**:
+   - Table format: Event vs. how each race remembers it
+   - Cover: Collapse, vampire wars, race origins, major events
+   - Include: Official version, scholarly view, shadow truth
 
-2. **Develop Contradictory Interpretations**
-   - Official version (popular belief)
-   - Scholar interpretation (evidence-based)
-   - Cultural variations (each race's memory)
-   - Shadow truth (what actually happened)
-   - Unknown elements (what can never be known)
+2. **Create race files in `03-cultures/races/`**:
+   - `humans.md`
+   - `elves.md`
+   - `dwarves.md`
+   - `goblins.md`
+   - `vampires.md` (what protagonist remembers)
 
-3. **Create Consequence Cascade**
-   - Immediate aftermath (Year 0-10)
-   - Power vacuum effects (Year 10-50)
-   - Long-term impacts (to present day Year 1200)
+3. **For each race, document**:
+   - Sub-races and cultural variations
+   - Origin story (what they believe)
+   - Vampire relationship history
+   - Collapse narrative
+   - Cultural values
+   - Historical heroes/villains
+   - Present-day culture
+   - Relationship with ruins/artifacts
+   - Internal conflicts
+   - Secrets they hide
 
-**Output**: The most detailed document in the project
+4. **Create `03-cultures/cultural-conflicts.md`**:
+   - Where narratives clash
+   - What disputes drive present conflicts
+   - Whose version is closest to truth
+
+**Output**: Rich, contradictory cultural perspectives
 
 **Validation Questions**:
-- Does the collapse feel complex and realistic?
-- Do multiple interpretations make sense?
-- Does it connect to protagonist's creation?
-- Does it create story opportunities?
+- Do cultures have genuinely different interpretations?
+- Are interpretations self-serving and logical?
+- Do conflicts stem from historical disagreements?
 
 ---
 
-## Questions to Answer in Phase 2
+## Key References from Phase 4
 
-### The Triggering Event
-- What was the experiment that went wrong?
-- Why was it conducted?
-- Who authorized it?
-- What was supposed to happen?
-- What actually happened?
+### Present-Day World (Year 1200)
 
-### The Cascade
-- How did a single event destroy a civilization?
-- What infrastructure failed?
-- What made it irreversible?
-- How fast did it spread?
+**Four Great Empires**:
+1. Valdrian Empire (east) - Emperor Cassius VIII
+2. Northern Dominion (north) - Warlord-King Aldric XII
+3. Sanctified States (central-south) - High Theocrat Solarius VII
+4. Maritime Republic (coast) - First Merchant Corus IX
 
-### The Survival Question
-- Why did protagonist survive?
-- Who else survived (vampires)?
-- How did other races survive?
-- What was the immediate death toll?
+**Secondary Powers**:
+- Ironpeak Confederation (dwarves)
+- Silverwood Domain (elves, isolated since 1050)
+- Broken Lands (goblins)
 
-### The Cover-Up
-- Why is so much forgotten?
-- Who benefits from forgetting?
-- What evidence was destroyed?
-- What evidence remains?
+**Secret Societies**:
+- Veil Keepers (destroy dangerous knowledge)
+- Inheritors (recover vampire knowledge)
+- Order of the Dawn (prepare for vampire return)
+
+**Current Tensions**:
+- Valdrian-Northern rivalry
+- Sanctified fundamentalism
+- Dimensional readings increasing
+- Awakening protocols discovered (Year 1180)
 
 ---
 
-## Reference Documents for Phase 2
+## Questions to Answer in Phase 5
 
-Before starting, review:
-- `01-core-framework/premise-constraints.md` - Non-negotiables
-- `01-core-framework/core-mysteries.md` - Mystery 1 (Why collapse?) and Mystery 3 (Protagonist creation)
-- `01-core-framework/thematic-pillars.md` - All themes manifest in collapse
+### For Each Race
+- How do they explain the collapse?
+- What do they believe about their origins?
+- How do they view vampires?
+- What secrets do they keep from other races?
+- What internal divisions exist?
+
+### Cultural Conflicts
+- Where do human and elf histories contradict?
+- Why do dwarves and goblins hate each other?
+- What truths would shatter racial identities?
+- Which race's version is closest to reality?
 
 ---
 
@@ -85,30 +99,31 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Read recent `session-log.md` entries
-4. ☐ Load reference documents above
-5. ☐ Begin Phase 2 tasks
+3. ☐ Review `collapse-event.md` contradictory interpretations
+4. ☐ Review `era-recent-past.md` for present-day context
+5. ☐ Begin with `cultural-memory-matrix.md`
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 2, the sequence is:
+After Phase 5, the sequence is:
 
-- **Phase 3**: Pre-Collapse Vampire History (working backward from collapse)
-- **Phase 4**: Post-Collapse History to Present (1,200 years of aftermath)
-- **Phase 5**: Cultural Memory Matrix (how each race remembers)
+- **Phase 6**: Factions & Power Structures (empires, secret societies)
+- **Phase 7**: Geography & Relic Placement
+- **Phase 8**: Character Architecture
 
-These three phases complete the historical foundation before moving to factions, geography, and characters.
+These complete worldbuilding before plot architecture.
 
 ---
 
 ## Notes
 
-- Phase 2 is the most critical document - take time to get it right
-- The collapse must be complex enough to support multiple interpretations
-- But specific enough to drive concrete plot elements
-- Balance detail with maintaining mystery
+- Each race should have self-serving historical narratives
+- Contradictions between accounts create story opportunities
+- Protagonist's vampire memories are valuable and dangerous
+- Some truths would destabilize current political order
+- Cultural conflicts should drive present-day tensions
 
 ---
 

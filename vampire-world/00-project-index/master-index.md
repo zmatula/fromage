@@ -12,9 +12,9 @@
 ## Completion Status
 
 - [x] Phase 1: Foundation Setup
-- [ ] Phase 2: The Collapse Event (Year 0)
-- [ ] Phase 3: Pre-Collapse Vampire History
-- [ ] Phase 4: Post-Collapse History to Present
+- [x] Phase 2: The Collapse Event (Year 0)
+- [x] Phase 3: Pre-Collapse Vampire History
+- [x] Phase 4: Post-Collapse History to Present
 - [ ] Phase 5: Cultural Memory Matrix
 - [ ] Phase 6: Faction & Power Structure Development
 - [ ] Phase 7: Geography & Relic Placement
@@ -40,20 +40,20 @@
 - [x] `thematic-pillars.md` - Central themes
 
 ### 02-timeline/
-- [ ] `master-timeline.md` - Chronological event list
-- [ ] `collapse-event.md` - Detailed collapse analysis
+- [x] `master-timeline.md` - Chronological event list
+- [x] `collapse-event.md` - Detailed collapse analysis
 - [ ] `timeline-validation.md` - Consistency checks
-- [ ] `vampire-factions.md` - Pre-collapse factions
+- [x] `vampire-factions.md` - Pre-collapse factions
 - **era-breakdowns/**
-  - [ ] `era-pre-vampire.md` (Year -1200 to -1000)
-  - [ ] `era-rise.md` (Year -1000 to -500)
-  - [ ] `era-golden-age.md` (Year -500 to -100)
-  - [ ] `era-final-century.md` (Year -100 to 0)
-  - [ ] `era-immediate-aftermath.md` (Year 0-50)
-  - [ ] `era-dark-ages.md` (Year 50-300)
-  - [ ] `era-warring-kingdoms.md` (Year 300-700)
-  - [ ] `era-consolidation.md` (Year 700-1100)
-  - [ ] `era-recent-past.md` (Year 1100-1200)
+  - [x] `era-pre-vampire.md` (Year -1200 to -1000)
+  - [x] `era-rise.md` (Year -1000 to -500)
+  - [x] `era-golden-age.md` (Year -500 to -100)
+  - [x] `era-final-century.md` (Year -100 to 0)
+  - [x] `era-immediate-aftermath.md` (Year 0-50)
+  - [x] `era-dark-ages.md` (Year 50-300)
+  - [x] `era-warring-kingdoms.md` (Year 300-700)
+  - [x] `era-consolidation.md` (Year 700-1100)
+  - [x] `era-recent-past.md` (Year 1100-1200)
 
 ### 03-cultures/
 - [ ] `cultural-memory-matrix.md` - How each race remembers history
