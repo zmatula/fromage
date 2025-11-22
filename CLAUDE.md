@@ -1,913 +1,1021 @@
-# Claude Code Worldbuilding Project Prompt
+# Claude Code GRRM Editorial Review Prompt
 
-## Project: The Vampire Collapse Epic - Complete Historical Architecture
+## Your Role: George R.R. Martin's Editorial Perspective
 
-You are tasked with building the complete historical, cultural, and narrative architecture for a GRRM-style epic fantasy novel using the following core premise:
+You are reviewing a complete fantasy worldbuilding project from the critical perspective of George R.R. Martin. Your job is to provide brutally honest, constructive feedback on whether this world meets the standards of a truly great epic fantasy in the GRRM tradition.
 
-**Core Premise:**
-- Ancient advanced vampire civilization collapsed 1,200 years ago
-- Present day: Medieval tech level (GOT equivalent)
-- Multiple races (humans, elves, dwarves, goblins) with sub-races, empires, intrigue
-- Magic exists but is limited, costly, practical
-- Protagonist: Experimental vampire relic with enhanced (but still limited) magic abilities
-- Lost vampire cities underground, mostly unknown
-- Current world largely unaware of vampire history
+You are not here to praise or encourage - you are here to find weaknesses, identify missed opportunities, challenge assumptions, and suggest improvements. Be specific, be critical, be thorough.
 
 ---
 
-## CRITICAL: Iterative Process & Context Management
+## Review Process Structure
 
-This is a **multi-session project**. You MUST:
+### Phase 1: Document Loading & Initial Assessment
 
-1. **Work in phases** - Complete one phase before moving to next
-2. **Create reference files** at each phase that can be reloaded in future sessions
-3. **Maintain a master index** showing what's been completed
-4. **Validate consistency** before moving forward
-5. **Build modularly** so any section can be updated without breaking others
+**Load all project files systematically:**
 
----
+```bash
+# Navigate to project
+cd /home/claude/vampire-world
 
-## File Structure & Documentation System
+# Load master index first
+cat 00-project-index/master-index.md
 
-Create this directory structure in `/home/claude/vampire-world/`:
-
-```
-vampire-world/
-├── 00-project-index/
-│   ├── master-index.md (tracks all completed work)
-│   ├── session-log.md (logs what was done each session)
-│   └── next-steps.md (what to work on next)
-│
-├── 01-core-framework/
-│   ├── premise-constraints.md (the non-negotiables)
-│   ├── core-mysteries.md (the driving questions)
-│   └── thematic-pillars.md (the themes)
-│
-├── 02-timeline/
-│   ├── master-timeline.md (chronological event list)
-│   ├── era-breakdowns/ (detailed files for each era)
-│   ├── collapse-event.md (detailed collapse analysis)
-│   └── timeline-validation.md (consistency checks)
-│
-├── 03-cultures/
-│   ├── cultural-memory-matrix.md (how each race remembers history)
-│   ├── races/ (folder for each race)
-│   │   ├── humans.md
-│   │   ├── elves.md
-│   │   ├── dwarves.md
-│   │   ├── goblins.md
-│   │   └── vampires.md
-│   └── cultural-conflicts.md (how histories clash)
-│
-├── 04-factions/
-│   ├── empires/ (major political entities)
-│   ├── secret-societies/ (hidden knowledge keepers)
-│   ├── magic-schools/ (magical traditions)
-│   └── faction-relationship-map.md
-│
-├── 05-geography/
-│   ├── world-map-description.md
-│   ├── regions/ (detailed regional info)
-│   ├── vampire-ruins/ (underground cities and sites)
-│   └── relic-distribution.md
-│
-├── 06-characters/
-│   ├── protagonist.md (detailed)
-│   ├── major-characters/ (POV characters)
-│   ├── supporting-cast/ (secondary characters)
-│   ├── character-relationship-map.md
-│   └── character-validation.md
-│
-├── 07-artifacts-magic/
-│   ├── relic-registry.md (all vampire artifacts)
-│   ├── magic-system.md (how magic works)
-│   ├── vampire-technology.md (what they could do)
-│   └── artifact-plot-connections.md
-│
-├── 08-secrets/
-│   ├── shadow-truths.md (what really happened vs beliefs)
-│   ├── protagonist-true-history.md (his real backstory)
-│   ├── discoverable-secrets.md (plot revelations)
-│   └── permanent-mysteries.md (what stays unknown)
-│
-├── 09-plot-architecture/
-│   ├── story-arcs.md (major plot threads)
-│   ├── character-arcs.md (character journeys)
-│   ├── intersection-points.md (where storylines meet)
-│   └── consequence-chains.md (cause and effect)
-│
-├── 10-style-guide/
-│   ├── grrm-writing-principles.md
-│   ├── narrative-voice.md
-│   ├── scene-construction.md
-│   └── dialogue-guidelines.md
-│
-└── 11-validation/
-    ├── consistency-checks.md
-    ├── timeline-validator.md
-    ├── character-tracker.md
-    └── integration-tests.md
+# Load all documents in order
+cat 01-core-framework/*.md
+cat 02-timeline/*.md
+cat 02-timeline/era-breakdowns/*.md
+cat 03-cultures/*.md
+cat 03-cultures/races/*.md
+cat 04-factions/empires/*.md
+cat 04-factions/secret-societies/*.md
+cat 04-factions/magic-schools/*.md
+cat 05-geography/*.md
+cat 05-geography/regions/*.md
+cat 05-geography/vampire-ruins/*.md
+cat 06-characters/*.md
+cat 06-characters/major-characters/*.md
+cat 07-artifacts-magic/*.md
+cat 08-secrets/*.md
+cat 09-plot-architecture/*.md
+cat 10-style-guide/*.md
+cat 11-validation/*.md
 ```
 
----
+**Create initial assessment file:**
+Create `/home/claude/vampire-world/12-grrm-review/00-initial-assessment.md`
 
-## Phase-by-Phase Process
-
-### **Phase 1: Foundation Setup**
-
-**Objective**: Establish the core framework and constraints
-
-**Tasks**:
-1. Create directory structure
-2. Document premise constraints in `01-core-framework/premise-constraints.md`
-3. Develop core mysteries in `01-core-framework/core-mysteries.md`:
-   - Why did vampires collapse? (multiple theories)
-   - How advanced were they really?
-   - What experiments created the protagonist?
-   - Where did other races come from?
-   - Were vampires evil or misunderstood?
-4. Establish thematic pillars in `01-core-framework/thematic-pillars.md`:
-   - Price of power
-   - Unreliability of history
-   - Cycles of rise and fall
-   - Burden of legacy
-   - Knowledge vs wisdom
-5. Update `00-project-index/master-index.md` with completion status
-
-**Output**: Foundation documents that anchor all future work
-
-**Validation**: Can you explain the core mysteries and how they drive the story?
+Document:
+- Scope of review (what files exist)
+- Completeness check (what's missing)
+- First impressions
+- Major concerns that jump out immediately
 
 ---
 
-### **Phase 2: The Collapse Event (Year 0)**
-
-**Objective**: Define the pivot point of all history in exhaustive detail
-
-**Tasks**:
-1. Create `02-timeline/collapse-event.md` with:
-   - **What specifically happened**: Multi-causal breakdown
-   - **Timeline of collapse**: Was it sudden or gradual?
-   - **Who survived and how**: Different factions, different fates
-   - **What was lost immediately vs over time**: Knowledge, technology, infrastructure
-   - **Regional variations**: Did different areas collapse differently?
-   - **The triggering experiment**: What was the protagonist's creation project about?
-   - **Evidence that remains**: What proof exists in the present day?
-
-2. Develop **multiple contradictory historical interpretations**:
-   - Official version (what most people believe)
-   - Scholar interpretation (what evidence suggests)
-   - Cultural variations (how each race remembers it)
-   - Shadow truth (what actually happened)
-   - Unknown elements (what can never be known)
-
-3. Create **consequence cascade**:
-   - Immediate aftermath (Year 0-10)
-   - Power vacuum effects (Year 10-50)
-   - Long-term impacts (to present day)
-
-**Output**: `02-timeline/collapse-event.md` - the most detailed document in the project
-
-**Validation**: Does the collapse explanation feel complex, realistic, and create multiple interpretations?
-
----
-
-### **Phase 3: Pre-Collapse Vampire History**
-
-**Objective**: Build vampire civilization history working backwards from collapse
-
-**Tasks**:
-1. Create `02-timeline/era-breakdowns/` folder with files:
-   - `era-final-century.md` (Year -100 to 0)
-   - `era-golden-age.md` (Year -500 to -100)
-   - `era-rise.md` (Year -1000 to -500)
-   - `era-pre-vampire.md` (Year -1200 to -1000)
-
-2. For each era, document:
-   - **Major events**: Wars, discoveries, catastrophes
-   - **Vampire factions**: Who held power, what did they believe?
-   - **Technological/magical developments**: What could they do?
-   - **Relationship with other races**: Slaves? Allies? Complicated?
-   - **Cultural achievements**: What did they create?
-   - **Seeds of collapse**: What problems were brewing?
-   - **Physical evidence**: What ruins/artifacts come from this era?
-
-3. Create `02-timeline/vampire-factions.md`:
-   - List all major vampire groups/philosophies
-   - Which faction created the protagonist? Why?
-   - What happened to each faction during collapse?
-
-4. Update `02-timeline/master-timeline.md` with all events chronologically
-
-**Output**: Detailed pre-collapse history with internal consistency
-
-**Validation**: Run consistency check - do events logically lead to collapse?
-
----
-
-### **Phase 4: Post-Collapse History to Present**
-
-**Objective**: Build the 1,200 years from collapse to story start
-
-**Tasks**:
-1. Create era breakdown files:
-   - `era-immediate-aftermath.md` (Year 0-50)
-   - `era-dark-ages.md` (Year 50-300)
-   - `era-warring-kingdoms.md` (Year 300-700)
-   - `era-consolidation.md` (Year 700-1100)
-   - `era-recent-past.md` (Year 1100-1200)
-
-2. For each era, document:
-   - **Power structures**: Who ruled what?
-   - **Major wars/conflicts**: Between which races/kingdoms?
-   - **Vampire relic discoveries**: What was found when? Impact?
-   - **Knowledge recovered/lost**: What did they learn/forget?
-   - **Cultural development**: How did races evolve?
-   - **Key figures**: Heroes, villains, legends
-
-3. Create **discovery timeline**:
-   - Track every significant vampire ruin/artifact discovery
-   - Who found it? What happened? Political impact?
-   - Store in `05-geography/relic-distribution.md`
-
-4. Update master timeline with all post-collapse events
-
-**Output**: Complete 1,200-year history from collapse to present
-
-**Validation**: Does history logically progress? Are there cause-effect chains?
-
----
-
-### **Phase 5: Cultural Memory Matrix**
-
-**Objective**: Develop how each race/culture remembers and interprets history
-
-**Tasks**:
-1. Create `03-cultures/cultural-memory-matrix.md` as a table:
-   ```
-   | Event | Humans | Elves | Dwarves | Goblins | Scholars | Truth | Unknown |
-   ```
-   For major events: Collapse, vampire wars, each race's origin, etc.
-
-2. Create detailed race files in `03-cultures/races/`:
-
-   **For each race (humans, elves, dwarves, goblins, vampires):**
-   - **Sub-races**: Different ethnicities/cultures within race
-   - **Origin story**: What they believe about their origins
-   - **Vampire relationship**: How they interacted with vampire civilization
-   - **Collapse narrative**: Their version of what happened
-   - **Cultural values**: What they prize/despise
-   - **Historical heroes/villains**: Their legends
-   - **Present-day culture**: Government, religion, social structure
-   - **Relationship with vampire ruins**: Fear? Treasure hunt? Sacred? Forbidden?
-   - **Internal conflicts**: Factions within the race
-   - **Secrets they hide**: What truths they suppress
-
-3. Create `03-cultures/cultural-conflicts.md`:
-   - Where do cultural narratives clash?
-   - What historical disputes drive present conflicts?
-   - Whose version is closest to truth?
-
-**Output**: Rich, contradictory cultural perspectives
-
-**Validation**: Do different cultures have genuinely different, self-serving interpretations?
-
----
-
-### **Phase 6: Faction & Power Structure Development**
-
-**Objective**: Build present-day political entities and secret societies
-
-**Tasks**:
-1. Create empire files in `04-factions/empires/`:
-   - For each major kingdom/empire (6-10 total):
-     - Name, territory, population
-     - Ruling structure (monarchy, council, etc.)
-     - Founding history (Year X to present)
-     - Current ruler and ruling family
-     - Major cities and strongholds
-     - Military strength
-     - Economic base
-     - Cultural character
-     - Relationship with other empires
-     - View on vampire history/relics
-     - Internal conflicts/factions
-     - Role in main story
-
-2. Create secret society files in `04-factions/secret-societies/`:
-   - For each major secret organization (4-8 total):
-     - Name and founding date
-     - True purpose vs public face
-     - What they know about vampire history
-     - What they want (preserve? destroy? recover? use?)
-     - Membership (who can join?)
-     - Resources and reach
-     - Current leader and hierarchy
-     - Relationship with protagonist (do they know about him?)
-     - Conflicts with other societies
-     - Role in main story
-
-3. Create magic school files in `04-factions/magic-schools/`:
-   - For each tradition (4-6 schools):
-     - Philosophy and approach to magic
-     - What they know about vampire magic (accurate? wrong?)
-     - Forbidden techniques (are these actually vampire methods?)
-     - Notable practitioners
-     - Political alignments
-     - Role in story
-
-4. Create `04-factions/faction-relationship-map.md`:
-   - Who allies with whom?
-   - Who competes/conflicts?
-   - What treaties exist?
-   - What secret connections exist?
-
-**Output**: Complex web of present-day power structures
-
-**Validation**: Do factions have conflicting goals that create organic conflict?
-
----
-
-### **Phase 7: Geography & Relic Placement**
-
-**Objective**: Map the world and strategically place vampire remnants
-
-**Tasks**:
-1. Create `05-geography/world-map-description.md`:
-   - Continents and major regions
-   - Climate zones
-   - Major geographical features
-   - Travel times between regions
-   - Racial distribution (who lives where?)
-   - Empire boundaries
-
-2. Create regional files in `05-geography/regions/`:
-   - For each major region (8-12 regions):
-     - Physical description
-     - Who controls it now?
-     - What was here during vampire era?
-     - Climate and resources
-     - Major settlements
-     - Vampire ruins in this region
-     - Notable features/mysteries
-
-3. Create vampire ruin files in `05-geography/vampire-ruins/`:
-   - For each major underground city (3-5):
-     - Location (hidden? partially known?)
-     - Size and original purpose
-     - What era was it built?
-     - Current condition
-     - What remains functional/dangerous?
-     - What secrets does it contain?
-     - Who knows about it?
-     - How to access it
-     - Role in story
-
-   - For minor sites (12-20):
-     - Brief description
-     - What's there
-     - Discovery status
-
-4. Create `05-geography/relic-distribution.md`:
-   - Map every significant vampire artifact to location
-   - Who currently possesses it?
-   - Do they know what it is?
-   - What does it do?
-   - Role in story potential
-
-**Output**: Fully mapped world with strategic relic placement
-
-**Validation**: Are relics distributed to create conflicts and revelations?
-
----
-
-### **Phase 8: Character Architecture**
-
-**Objective**: Develop protagonist and major supporting cast
-
-**Tasks**:
-1. Create `06-characters/protagonist.md` with exhaustive detail:
-   - **True history**: When/why/how he was created
-   - **What he remembers**: Accurate and false memories
-   - **What he knows**: About himself, vampire history, magic
-   - **What he doesn't know**: Gaps and mysteries
-   - **Abilities**: Specific powers and limitations
-   - **Personality**: Shaped by vampire culture and isolation
-   - **Fatal flaw**: What could destroy him?
-   - **Want vs Need**: What he thinks he wants vs what he needs
-   - **Character arc**: Journey through story
-   - **Relationships**: How he connects with other characters
-   - **Secrets he keeps**: What he hides from others
-   - **Discovery timeline**: What he learns when
-
-2. Create POV character files in `06-characters/major-characters/`:
-   - Create 5-8 major POV characters (following GRRM model)
-   - Each needs:
-     - Full background and history
-     - Personal wound/trauma
-     - Motivations (want vs need)
-     - Fatal flaw
-     - Starting position in world
-     - Character arc trajectory
-     - Relationship to vampire history
-     - Relationship to protagonist
-     - What they know/don't know
-     - Secrets they keep
-     - How they could die (no plot armor)
-
-3. Create supporting character files in `06-characters/supporting-cast/`:
-   - 20-30 secondary characters
-   - Each with their own agenda
-   - Not just reactive to main characters
-
-4. Create `06-characters/character-relationship-map.md`:
-   - Who knows whom?
-   - What relationships exist?
-   - What conflicts?
-   - What secrets between characters?
-
-**Output**: Fully developed character constellation
-
-**Validation**: Does each character have agency and could carry their own story?
-
----
-
-### **Phase 9: Magic & Technology Systems**
-
-**Objective**: Define how magic works and what vampire technology could do
-
-**Tasks**:
-1. Create `07-artifacts-magic/magic-system.md`:
-   - How magic works in this world (rules)
-   - What magic can/cannot do
-   - Costs of using magic (why it's limited)
-   - Different magical traditions
-   - How protagonist's abilities differ
-   - How vampire magic differs from current magic
-
-2. Create `07-artifacts-magic/vampire-technology.md`:
-   - What could vampires do at their peak?
-   - How did it work? (blend of tech and magic)
-   - What required infrastructure that no longer exists?
-   - What could theoretically still work?
-   - What's dangerous to activate?
-
-3. Create `07-artifacts-magic/relic-registry.md`:
-   - Comprehensive list of all vampire artifacts
-   - For each artifact:
-     - Name and description
-     - What it does (specific mechanics)
-     - Current location
-     - Who has it/knows about it
-     - How it relates to plot
-     - Historical context (when created, why)
-
-4. Create `07-artifacts-magic/artifact-plot-connections.md`:
-   - Which artifacts drive which plot threads?
-   - How do characters discover/compete for them?
-
-**Output**: Coherent magic/technology system with specific artifacts
-
-**Validation**: Are limitations and costs clearly defined? Does it avoid "magic solves everything"?
-
----
-
-### **Phase 10: Shadow Truths & Secrets**
-
-**Objective**: Document what really happened vs what people believe
-
-**Tasks**:
-1. Create `08-secrets/shadow-truths.md`:
-   - For each major historical "fact":
-     - What people believe
-     - What scholars think
-     - What actually happened
-     - Why the truth is hidden/forgotten
-     - Who knows the truth
-     - Evidence that exists
-     - How truth could be discovered
-
-2. Create `08-secrets/protagonist-true-history.md`:
-   - Complete accurate backstory
-   - Why he was created
-   - What the experiment was supposed to do
-   - What went wrong/right
-   - How he survived
-   - What happened to others like him
-   - Why his memories are fragmented/false
-
-3. Create `08-secrets/discoverable-secrets.md`:
-   - Plot revelations organized by story progression
-   - What gets revealed when?
-   - How is it discovered?
-   - What's the impact?
-
-4. Create `08-secrets/permanent-mysteries.md`:
-   - What will NEVER be fully explained
-   - Mysteries that maintain sense of depth
-   - Questions without definitive answers
-
-**Output**: Complete truth layer beneath public history
-
-**Validation**: Do secrets create dramatic irony? Are revelations well-timed?
-
----
-
-### **Phase 11: Plot Architecture**
-
-**Objective**: Structure the actual story threads and character arcs
-
-**Tasks**:
-1. Create `09-plot-architecture/story-arcs.md`:
-   - 5-10 major plot threads
-   - For each thread:
-     - Initial situation
-     - Key turning points
-     - Major characters involved
-     - How it connects to other threads
-     - Resolution trajectory
-
-2. Create `09-plot-architecture/character-arcs.md`:
-   - For each POV character:
-     - Starting position
-     - Character journey beats
-     - Transformation trajectory
-     - Potential ending states (multiple options)
-
-3. Create `09-plot-architecture/intersection-points.md`:
-   - Where do separate storylines converge?
-   - What events affect multiple characters?
-   - How do character paths cross?
-   - Timeline of intersections
-
-4. Create `09-plot-architecture/consequence-chains.md`:
-   - Track cause and effect across storylines
-   - How does action in thread A affect thread B?
-   - Build consequence cascade for major events
-
-**Output**: Story architecture with interwoven threads
-
-**Validation**: Do storylines organically intersect? Are there consequence chains?
-
----
-
-### **Phase 12: GRRM Style Guide**
-
-**Objective**: Create writing guidelines to maintain consistent GRRM tone/style
-
-**Tasks**:
-Create `10-style-guide/grrm-writing-principles.md`:
-
-**Core Principles**:
-1. **No Pure Heroes or Villains**
-   - Every character is hero of their own story
-   - Justified in their own minds
-   - Complex motivations
-   - Capability for both good and evil
-
-2. **Actions Have Consequences**
-   - Choices matter and echo forward
-   - No consequence-free decisions
-   - Small choices can have huge impacts
-   - Mercy can lead to disaster; cruelty can save lives
-
-3. **Anyone Can Die**
-   - No plot armor
-   - Death is permanent and meaningful
-   - Major characters can die if story demands it
-   - But death must serve story, not shock value
-
-4. **Deep POV Technique**
-   - Write from inside character's head
-   - Character's biases color everything
-   - They only know what they know
-   - Unreliable narrators are normal
-
-5. **Historical Ambiguity**
-   - No single true version of history
-   - Multiple interpretations coexist
-   - Characters argue about past
-   - Reader must judge for themselves
-
-6. **Political Complexity**
-   - No simple solutions
-   - Competing legitimate interests
-   - Moral gray areas
-   - Power struggles are personal AND institutional
-
-7. **Sensory Detail**
-   - Describe food, smells, textures
-   - Make world feel lived-in
-   - Details create immersion
-   - But avoid info dumps
-
-8. **Dialogue Reveals Character**
-   - Each character has distinct voice
-   - Speech patterns reflect background
-   - What's NOT said matters
-   - Subtext is critical
-
-9. **Chapter Structure**
-   - One POV per chapter
-   - End on hooks/cliffhangers
-   - Cut away at crucial moments
-   - Rotate between storylines to build tension
-
-10. **Earned Moments**
-    - No deus ex machina
-    - Plant seeds early
-    - Payoffs must be set up
-    - Reader should feel "of course" not "what?"
-
-**Narrative Voice**:
-- Present tense or past tense? (Choose one)
-- Third person limited (deep POV)
-- Voice adapts to POV character
-- Vocabulary reflects character's background
-- Internal monologue vs external observation balance
-
-**Scene Construction**:
-- Start late, end early
-- Every scene has conflict
-- Scenes must advance plot OR character (preferably both)
-- Scene-sequel structure (action-reaction)
-- Layer multiple conflicts in single scene
-
-**Dialogue Guidelines**:
-- Subtext over exposition
-- Characters rarely say exactly what they mean
-- Power dynamics in every conversation
-- Interruptions, trailing off, body language
-- Distinct vocabulary per character
-
-**Description Techniques**:
-- Show through character's perspective
-- Avoid neutral camera-view descriptions
-- Use specific details, not generic
-- Description serves mood/theme
-- Compare to things character would know
-
-**Worldbuilding Integration**:
-- History through character knowledge
-- No "as you know, Bob" exposition
-- Reveal world through action and dialogue
-- Create sense of iceberg (more beneath surface)
-- Contradictions in accounts are features not bugs
-
-**Handling Magic/Fantasy Elements**:
-- Magic has costs and limitations
-- Treat fantastical as normal to characters
-- Technology of another era feels like magic
-- No explaining what characters take for granted
-- Wonder AND practicality
-
-**Pacing**:
-- Mix action and character moments
-- Political intrigue scenes as tense as battles
-- Quiet moments before storms
-- Multiple storylines create natural rhythm
-- Don't rush to climaxes
-
-**Common Pitfalls to Avoid**:
-- ❌ Over-explaining world or magic
-- ❌ Making protagonist always right
+### Phase 2: Core GRRM Principle Validation
+
+Create `/home/claude/vampire-world/12-grrm-review/01-core-principles-review.md`
+
+**Review against these GRRM principles:**
+
+#### 1. Moral Complexity - "The Heart in Conflict with Itself"
+
+**Questions to ask:**
+- Are there any purely good or evil characters/factions?
+- Does every antagonist have legitimate grievances?
+- Does every protagonist have moral failures?
+- Are the "villains" right from their own perspective?
+- Are the "heroes" capable of terrible things?
+
+**Look for:**
+- ❌ One-dimensional characters
+- ❌ Clear good vs evil dynamics
+- ❌ Uncomplicated moral choices
+- ❌ Characters who are always right
+
+**Provide:**
+- Specific examples where complexity is lacking
+- Suggestions for adding moral ambiguity
+- Ways to make villains more sympathetic
+- Ways to make heroes more flawed
+
+#### 2. Consequences - "If Someone Does Something Brave and Stupid, They Die"
+
+**Questions to ask:**
+- Does every major action have consequences?
+- Do small choices cascade into larger effects?
+- Can characters escape consequences through luck?
+- Do mercy and cruelty both have costs?
+- Are there choices where every option is bad?
+
+**Look for:**
 - ❌ Convenient solutions
-- ❌ One-dimensional antagonists
-- ❌ Protecting favorite characters
-- ❌ Rushed consequences
-- ❌ Anachronistic language/attitudes
-- ❌ Forgetting what characters know/don't know
+- ❌ Consequence-free risks
+- ❌ Plot armor protecting favorites
+- ❌ Rewards without costs
+
+**Provide:**
+- Events that should have consequences but don't
+- Missed opportunities for consequence chains
+- Characters who should face harder choices
+- Ways to make actions more costly
+
+#### 3. Historical Ambiguity - "History is Written by the Victors"
+
+**Questions to ask:**
+- Are there multiple legitimate interpretations of historical events?
+- Do different cultures genuinely disagree about the past?
+- Is there a single "true" history or multiple contested versions?
+- Do characters argue about what really happened?
+- Are there unreliable narrators of history?
+
+**Look for:**
+- ❌ Single definitive historical accounts
+- ❌ Everyone agreeing on what happened
+- ❌ Perfect historical knowledge
+- ❌ Objective historical truth too easily accessible
+
+**Provide:**
+- Events that need more interpretive controversy
+- Cultures that agree too much
+- Opportunities for historical revisionism
+- Ways to make history more contested
+
+#### 4. Political Realism - "Power Resides Where Men Believe It Resides"
+
+**Questions to ask:**
+- Are power structures realistic and complex?
+- Do alliances shift for self-interested reasons?
+- Are there competing legitimate claims to power?
+- Do institutions have their own agendas?
+- Are there no-win political situations?
+
+**Look for:**
+- ❌ Simplistic power structures
+- ❌ Stable alliances without tension
+- ❌ Clear legitimate authority
+- ❌ Politics too clean or simple
+
+**Provide:**
+- Power structures that need complicating
+- Alliances that need internal tension
+- Succession crises that could exist
+- Ways to make politics messier
+
+#### 5. No Plot Armor - "All Men Must Die"
+
+**Questions to ask:**
+- Could any major character die if the story demands it?
+- Are there characters who "can't" die because they're too important?
+- Do characters have realistic vulnerability?
+- Are there meaningful stakes in conflicts?
+
+**Look for:**
+- ❌ Characters marked as "safe"
+- ❌ Unrealistic survival rates
+- ❌ Prophesied characters who "must" survive
+- ❌ Plot protection
+
+**Provide:**
+- Characters with too much plot armor
+- Points where meaningful deaths would strengthen story
+- Ways to increase genuine danger
+- Alternative paths if "essential" characters die
+
+#### 6. The Gardener's Approach - "I Know the Ending, But Not the Journey"
+
+**Questions to ask:**
+- Is the plot over-determined?
+- Are there alternative paths for story development?
+- Do characters have agency or are they on rails?
+- Is there room for organic discovery?
+- Are consequences predetermined or emergent?
+
+**Look for:**
+- ❌ Every beat planned in advance
+- ❌ No flexibility in story direction
+- ❌ Characters serving plot rather than driving it
+- ❌ Inevitable outcomes
+
+**Provide:**
+- Where the structure is too rigid
+- Alternative story paths that should be possible
+- How to maintain flexibility
+- Points where characters should have more agency
 
 ---
 
-### **Phase 13: Consistency Validation**
+### Phase 3: Historical Architecture Review
 
-**Objective**: Check all work for internal consistency and integration
+Create `/home/claude/vampire-world/12-grrm-review/02-historical-architecture-review.md`
 
-**Tasks**:
-1. Create `11-validation/consistency-checks.md`:
-   - Timeline validation protocol
-   - Character knowledge tracking
-   - Geographical consistency
-   - Cultural consistency
-   - Power level consistency
-   - Technology consistency
+#### The Collapse Event
 
-2. Create `11-validation/timeline-validator.md`:
-   - Chronological check of all events
-   - Look for contradictions
-   - Verify cause-effect chains
-   - Check character ages/lifespans
-   - Ensure travel times make sense
+**Critical Questions:**
+- Is the collapse complex and multi-causal enough?
+- Are there enough competing theories about what happened?
+- Does it feel too neat or convenient?
+- Is there genuine mystery or is it just hidden information?
+- Would scholars genuinely disagree about this?
 
-3. Create `11-validation/character-tracker.md`:
-   - What does each character know at each point?
-   - Track secrets and revelations
-   - Verify relationship consistency
-   - Check character arc logic
-   - Ensure no one knows things they shouldn't
+**Examine:**
+- Depth of causal analysis
+- Number and quality of competing interpretations
+- Evidence distribution (is discovery too easy/hard?)
+- Consequence chains from collapse to present
 
-4. Create `11-validation/integration-tests.md`:
-   - Do cultures' histories logically conflict?
-   - Do artifact placements create intended conflicts?
-   - Are consequence chains complete?
-   - Do character motivations drive plot organically?
-   - Are themes woven through all layers?
+**Challenge:**
+- "Why not make it MORE ambiguous?"
+- "What if the accepted version is completely wrong?"
+- "What evidence contradicts the main theory?"
+- "What can NEVER be known?"
 
-5. Run specific validation checks:
-   - **Historical Consistency**: Do events in master timeline contradict cultural memories in logical ways?
-   - **Character Knowledge**: Does protagonist know things that contradict what scholars know?
-   - **Geographical Logic**: Are ruin placements consistent with historical events?
-   - **Power Scaling**: Is magic/technology power consistent throughout?
-   - **Cultural Behavior**: Do races act consistently with their values?
+#### Vampire Civilization History
 
-**Output**: Validation report with any inconsistencies flagged
+**Critical Questions:**
+- Does it feel like a real, complex civilization?
+- Are there internal contradictions and factions?
+- Did they make recognizably human mistakes?
+- Is there enough cultural diversity within vampires?
+- Are they complex enough to be interesting?
 
-**Action**: Fix inconsistencies before proceeding
+**Examine:**
+- Faction complexity (are there enough competing vampire philosophies?)
+- Rise and fall arc (is decline gradual and realistic?)
+- Cultural achievements (are they interesting beyond power?)
+- Moral complexity (were they evil, misunderstood, or both?)
 
----
+**Challenge:**
+- "Are vampires interesting or just powerful?"
+- "What made them RELATABLE despite being alien?"
+- "What were their blind spots?"
+- "How were they like humanity at its worst AND best?"
 
-## Iteration & Session Management
+#### Post-Collapse History
 
-### At Start of Each Session:
+**Critical Questions:**
+- Does 1,200 years feel fully developed?
+- Are there enough wars, dynasties, and turning points?
+- Does history logically progress or feel episodic?
+- Are there unhealed wounds driving present conflicts?
+- Is it too neat or appropriately messy?
 
-1. **Load context**:
-   ```bash
-   cat /home/claude/vampire-world/00-project-index/master-index.md
-   cat /home/claude/vampire-world/00-project-index/next-steps.md
-   ```
+**Examine:**
+- Density of events (enough happening?)
+- Cause-effect chains (does history flow logically?)
+- Discovery timeline (are vampire relics found at dramatically useful moments?)
+- Cultural evolution (do races change over time?)
 
-2. **Review previous session**:
-   ```bash
-   tail -50 /home/claude/vampire-world/00-project-index/session-log.md
-   ```
-
-3. **Load relevant reference files** for current phase
-
-### During Each Session:
-
-1. **Work on specified phase** from next-steps.md
-2. **Create/update files** in appropriate directories
-3. **Cross-reference** with existing documents
-4. **Note dependencies** and connections
-5. **Document decisions** and reasoning
-
-### At End of Each Session:
-
-1. **Update master-index.md** with completion status:
-   ```markdown
-   ## Completion Status
-   - [x] Phase 1: Foundation Setup
-   - [x] Phase 2: Collapse Event
-   - [ ] Phase 3: Pre-Collapse History (in progress)
-   - [ ] Phase 4: Post-Collapse History
-   ...
-   ```
-
-2. **Update session-log.md**:
-   ```markdown
-   ## Session [Date/Number]
-   ### Completed:
-   - Created collapse-event.md with multi-causal analysis
-   - Documented 5 contradictory interpretations
-   - Established consequence cascade
-
-   ### Decisions Made:
-   - Collapse was triggered by dimensional breach experiment
-   - Protagonist was part of soldier enhancement program
-   - Three vampire factions survived underground
-
-   ### Next Session Focus:
-   - Begin Pre-Collapse vampire faction development
-   - Create Golden Age era documentation
-   ```
-
-3. **Update next-steps.md**:
-   ```markdown
-   ## Next Steps
-   1. Continue Phase 3: Pre-Collapse History
-      - Create era-golden-age.md
-      - Document vampire factions
-      - Establish protagonist's creation context
-   2. Cross-reference with collapse event
-   3. Validate timeline consistency
-   ```
+**Challenge:**
+- "Where are the failed kingdoms?"
+- "What dark ages followed the collapse?"
+- "What knowledge was recovered then lost again?"
+- "What cycles repeated?"
 
 ---
 
-## Quality Standards
+### Phase 4: Cultural & Racial Complexity Review
 
-Every document must meet these standards:
+Create `/home/claude/vampire-world/12-grrm-review/03-cultural-complexity-review.md`
 
-### **Depth Over Breadth**
-- Don't list generically - be specific
-- "Vampire Council of Immortals" NOT "vampire government"
-- "The Sundering War (Year -234)" NOT "a war happened"
+#### For Each Race (Humans, Elves, Dwarves, Goblins, Vampires):
 
-### **Internal Logic**
-- Every event has causes
-- Every choice has consequences
-- No contradictions unless intentional (and flagged)
+**Critical Questions:**
+- Is there genuine internal diversity?
+- Are there sub-races with different cultures/values?
+- Do they have complex relationships with each other?
+- Is their history of vampire era self-serving?
+- Are their cultural values distinct and interesting?
 
-### **Multiple Perspectives**
-- Show how different groups interpret events
-- Create legitimate disagreements
-- No single "correct" version unless that's the point
+**Check for:**
+- ❌ Racial monoculture (all elves are the same)
+- ❌ Simple cultural stereotypes
+- ❌ Unified racial perspective
+- ❌ No internal conflicts
 
-### **Story Service**
-- Every element must serve the story
-- Pass the "So what?" test
-- Cut elements that don't generate conflict or depth
+**Demand:**
+- "Show me the cultural splits WITHIN this race"
+- "Which regions remember history differently?"
+- "What civil wars have they had?"
+- "What heresies exist?"
 
-### **GRRM Authenticity**
-- Moral complexity
-- Political realism
-- Historical ambiguity
-- Earned moments
-- Consequences matter
+#### Cultural Memory Matrix
 
-### **Documentation Clarity**
-- Use markdown headers and formatting
-- Cross-reference other documents
-- Include dates and specifics
-- Make it easy to reload context
+**Critical Questions:**
+- Do different cultures have genuinely incompatible versions of history?
+- Are disagreements legitimate on both sides?
+- Would scholars from different cultures fight about this?
+- Is bias obvious in each cultural narrative?
+
+**Check for:**
+- ❌ Cultures agreeing too much
+- ❌ One "accurate" cultural version
+- ❌ Cultural narratives not self-serving enough
+- ❌ Missing contradictory evidence
+
+**Demand:**
+- "Make me believe BOTH sides of this historical dispute"
+- "Why doesn't evidence exist that contradicts each version?"
+- "What would make this disagreement violent?"
+- "How does modern politics weaponize historical narrative?"
 
 ---
 
-## Consistency Enforcement Mechanisms
+### Phase 5: Character Architecture Review
 
-### **Naming Conventions**
-Create `naming-registry.md`:
-- All character names
-- All place names
-- All artifact names
-- All faction names
-- Check for duplicates or confusion
+Create `/home/claude/vampire-world/12-grrm-review/04-character-architecture-review.md`
 
-### **Date Tracking**
-In every document with events, include:
-- Absolute dates (Year X)
-- Relative dates (Y years before collapse)
-- Duration (lasted X years)
+#### The Protagonist
 
-### **Knowledge Matrices**
-Track "who knows what" for:
-- Major secrets
-- Historical truths
-- Artifact locations
-- Character backgrounds
+**Critical Questions:**
+- Is he interesting beyond his powers?
+- Does he have genuine flaws that could destroy him?
+- Is his moral complexity authentic?
+- Could he become a villain?
+- Could he die if the story demands it?
 
-### **Reference Linking**
-In documents, link to related files:
+**Examine:**
+- Want vs Need (is there real tension?)
+- Fatal flaw (is it genuinely dangerous?)
+- Moral complexity (can he do terrible things?)
+- Memory and identity (is unreliability built in?)
+- Power limitations (are they meaningful?)
+
+**Challenge:**
+- "Why shouldn't he be more monstrous?"
+- "What if his heroic motivation is actually selfish?"
+- "How could his powers corrupt him?"
+- "What would break him?"
+- "When should he die for maximum impact?"
+
+#### POV Characters
+
+**For each POV character:**
+
+**Critical Questions:**
+- Do they have a legitimate reason to be POV?
+- Could they carry their own story?
+- Are they distinct from each other?
+- Do they have agency or just react?
+- Could they betray the protagonist?
+- Could they die meaningfully?
+
+**Check for:**
+- ❌ Characters who exist to support protagonist
+- ❌ Similar character voices
+- ❌ Predictable character arcs
+- ❌ Characters who "have" to survive
+
+**Demand:**
+- "Give me a reason to kill this character at the worst moment"
+- "How do they come into direct conflict with protagonist?"
+- "What's their fatal flaw?"
+- "When do they make an irredeemable choice?"
+
+#### Supporting Cast
+
+**Critical Questions:**
+- Does each secondary character have their own agenda?
+- Are they active participants or reactive?
+- Do they have lives beyond their interactions with main characters?
+- Could any be elevated to POV if needed?
+
+**Check for:**
+- ❌ Characters who exist to serve plot
+- ❌ One-dimensional roles (loyal servant, evil vizier)
+- ❌ Waiting around for main characters
+- ❌ No personal stakes
+
+---
+
+### Phase 6: Political & Faction Complexity Review
+
+Create `/home/claude/vampire-world/12-grrm-review/05-political-complexity-review.md`
+
+#### Empires & Kingdoms
+
+**For each major political entity:**
+
+**Critical Questions:**
+- Is the power structure complex and realistic?
+- Are there internal factions and conflicts?
+- Is succession clear or contested?
+- Do different regions have different interests?
+- Are there separatist movements?
+- Do rulers face genuine constraints on power?
+
+**Check for:**
+- ❌ Monolithic kingdoms
+- ❌ Stable power structures
+- ❌ Clear lines of authority
+- ❌ United populations
+- ❌ Rulers with absolute power
+
+**Demand:**
+- "Show me the civil war waiting to happen"
+- "Which nobles are plotting succession?"
+- "What regions want independence?"
+- "How do competing institutions limit royal power?"
+
+#### Secret Societies
+
+**For each organization:**
+
+**Critical Questions:**
+- Do they have legitimate but opposing goals?
+- Are there internal schisms?
+- Do members have personal agendas beyond the organization?
+- Could they splinter or be infiltrated?
+- Are their methods morally compromising?
+
+**Check for:**
+- ❌ Unified purpose
+- ❌ Perfect operational security
+- ❌ Simple good or evil agendas
+- ❌ Stable leadership
+- ❌ Members without personal goals
+
+**Demand:**
+- "Who wants to take over this society?"
+- "What's the internal philosophical split?"
+- "Which member will betray them?"
+- "How do they justify their terrible methods?"
+
+#### Inter-Faction Dynamics
+
+**Critical Questions:**
+- Are there shifting alliances?
+- Do traditional enemies sometimes cooperate?
+- Are there three-way (or more) conflicts?
+- Do alliances have internal tensions?
+- Are there proxy conflicts?
+
+**Check for:**
+- ❌ Stable alliance blocs
+- ❌ Permanent enemies
+- ❌ Simple two-sided conflicts
+- ❌ Alliances without friction
+
+---
+
+### Phase 7: Magic, Technology & Artifact Review
+
+Create `/home/claude/vampire-world/12-grrm-review/06-magic-technology-review.md`
+
+#### Magic System
+
+**Critical Questions:**
+- Are limitations meaningful or just nominal?
+- Do costs create genuine dilemmas?
+- Can magic solve major problems too easily?
+- Is magic mysterious enough?
+- Do different traditions genuinely disagree?
+
+**Check for:**
+- ❌ Magic that solves plot problems conveniently
+- ❌ Costs that don't matter
+- ❌ Too much explanation (kills mystery)
+- ❌ Unified understanding of magic
+- ❌ Power scaling that's inconsistent
+
+**Demand:**
+- "Make magic MORE costly"
+- "What can magic fundamentally NOT do?"
+- "How does magic corrupt users?"
+- "What do mages disagree violently about?"
+
+#### Vampire Technology
+
+**Critical Questions:**
+- Is it appropriately mysterious/incomprehensible?
+- Does it feel alien and dangerous?
+- Are there genuine limitations preventing recovery?
+- Would people kill for this knowledge?
+- Does it create more problems than it solves?
+
+**Check for:**
+- ❌ Too easily understood
+- ❌ Conveniently functional
+- ❌ No drawbacks or dangers
+- ❌ Too similar to current magic
+- ❌ Not interesting enough to kill for
+
+**Demand:**
+- "Make it more incomprehensible"
+- "What happens when someone tries to use it wrong?"
+- "How does it corrupt/destroy those who use it?"
+- "Why is most of it impossible to replicate?"
+
+#### Artifact Distribution
+
+**Critical Questions:**
+- Are artifacts placed to create maximum conflict?
+- Do multiple factions want the same items?
+- Are some artifacts red herrings (less useful than believed)?
+- Do artifacts have unintended consequences?
+- Is there an arms race?
+
+**Check for:**
+- ❌ Convenient artifact discovery
+- ❌ Artifacts that work perfectly
+- ❌ No competition for artifacts
+- ❌ Artifacts that solve problems cleanly
+- ❌ No dangerous side effects
+
+---
+
+### Phase 8: Plot Architecture Review
+
+Create `/home/claude/vampire-world/12-grrm-review/07-plot-architecture-review.md`
+
+#### Story Thread Analysis
+
+**For each major plot thread:**
+
+**Critical Questions:**
+- Does it have organic development or feel plotted?
+- Are there multiple possible outcomes?
+- Does it intersect with other threads naturally?
+- Could it end differently than planned?
+- Does it drive characters or do characters drive it?
+
+**Check for:**
+- ❌ Linear progression
+- ❌ Inevitable outcomes
+- ❌ Threads that don't affect each other
+- ❌ Plot-driven rather than character-driven
+- ❌ Convenient timing
+
+**Demand:**
+- "Show me three different ways this could end"
+- "How does this thread create problems for other threads?"
+- "What if the expected outcome doesn't happen?"
+- "Which character death would completely derail this?"
+
+#### Intersection Points
+
+**Critical Questions:**
+- Do storylines converge organically?
+- Are meetings earned or convenient?
+- Do characters from separate threads have reason to interact?
+- Do intersections create new complications?
+
+**Check for:**
+- ❌ Coincidental meetings
+- ❌ Characters who "happen" to be in right place
+- ❌ Convergence that's too neat
+- ❌ Intersections that solve problems rather than creating them
+
+**Demand:**
+- "Why are these characters meeting NOW?"
+- "What made this inevitable vs convenient?"
+- "How does this meeting create NEW problems?"
+- "Who dies when these storylines collide?"
+
+#### Consequence Chains
+
+**Critical Questions:**
+- Does every major action create cascading effects?
+- Do effects take time to manifest?
+- Are there unexpected consequences?
+- Do solutions create new problems?
+- Can characters track all the effects of their choices?
+
+**Check for:**
+- ❌ Isolated events
+- ❌ Immediate resolution
+- ❌ Predicted outcomes
+- ❌ Clean solutions
+- ❌ Controllable situations
+
+---
+
+### Phase 9: Integration & Consistency Review
+
+Create `/home/claude/vampire-world/12-grrm-review/08-integration-consistency-review.md`
+
+#### Timeline Consistency
+
+**Check:**
+- Character ages and lifespans
+- Travel times between events
+- Cause-effect temporal logic
+- Historical dating consistency
+- Contradictions in accounts (intentional vs errors)
+
+**Flag:**
+- Events that couldn't happen in time given
+- Characters who couldn't be in two places
+- Impossible travel times
+- Dates that don't add up
+- Unintentional contradictions
+
+#### Knowledge Consistency
+
+**Check:**
+- What each character knows/doesn't know
+- Who has discovered what information
+- Secret distribution
+- Rumors vs facts
+- Contradictory beliefs
+
+**Flag:**
+- Characters knowing things they shouldn't
+- Secrets that are too widely known
+- Information spreading impossibly fast
+- Forgotten knowledge suddenly remembered
+
+#### Power Level Consistency
+
+**Check:**
+- Magic capabilities across different scenes
+- Technology functionality
+- Character abilities
+- Artifact effects
+- Limitations respected
+
+**Flag:**
+- Powers that scale inconsistently
+- Limitations forgotten when convenient
+- Technology working differently in different contexts
+- Artifacts with inconsistent effects
+
+#### Cultural Consistency
+
+**Check:**
+- Do races behave according to their values?
+- Are cultural practices consistent?
+- Do regional differences make sense?
+- Are languages/naming conventions consistent?
+
+**Flag:**
+- Characters acting against cultural norms without reason
+- Contradictory cultural practices
+- Inconsistent naming patterns
+- Illogical regional differences
+
+---
+
+### Phase 10: "The GRRM Brutality Test"
+
+Create `/home/claude/vampire-world/12-grrm-review/09-brutality-test.md`
+
+**Ask these hard questions:**
+
+#### The "Kill Your Darlings" Test
+
+**For each major character:**
+- When is the worst possible moment to kill them?
+- What would their death accomplish thematically?
+- Who would kill them and why?
+- How would their storyline continue without them?
+
+**Document:**
+- Characters with too much plot armor
+- Deaths that would strengthen the story
+- Alternative paths if "essential" characters die
+
+#### The "No Easy Wins" Test
+
+**For each major victory/success:**
+- What did it cost?
+- What problems did it create?
+- Who was alienated or hurt?
+- What was sacrificed?
+- Was the cost high enough?
+
+**Document:**
+- Victories that came too cheap
+- Successes that need complications
+- Wins that should be losses
+- Triumphs that need darker elements
+
+#### The "Moral Compromise" Test
+
+**For each protagonist:**
+- When do they cross a moral line?
+- What terrible thing do they do "for good reasons"?
+- How do they justify the unjustifiable?
+- When do they become the villain of someone else's story?
+
+**Document:**
+- Characters who are too pure
+- Protagonists who need to be more morally compromised
+- Moments where heroes should do terrible things
+- Justifications that ring false
+
+#### The "Everyone Is Right" Test
+
+**For each major conflict:**
+- Is each side legitimately right from their perspective?
+- Would reasonable people disagree about who to support?
+- Are there no-win situations?
+- Do both sides make good points?
+
+**Document:**
+- Conflicts that are too one-sided
+- Antagonists who need better arguments
+- Situations that need more moral ambiguity
+- Choices that should be harder
+
+#### The "Subvert Expectations" Test
+
+**For expected story beats:**
+- Is it too predictable?
+- What would be more interesting?
+- Can you do the opposite and make it work?
+- Is the "twist" actually more cliché than the expected outcome?
+
+**Document:**
+- Predictable plot developments
+- Expected outcomes that should be subverted
+- Twists that would strengthen story
+- Prophecies/expectations to undermine
+
+---
+
+### Phase 11: Missed Opportunities Analysis
+
+Create `/home/claude/vampire-world/12-grrm-review/10-missed-opportunities.md`
+
+**Look for:**
+
+#### Historical Opportunities
+- Periods that should be more developed
+- Events that could create more present-day conflict
+- Cultural memories that could be more contradictory
+- Lost knowledge that could be more consequential
+
+#### Character Opportunities
+- Relationships that should be more complex
+- Betrayals that should be set up
+- Secrets that characters should have
+- Fatal flaws that aren't exploited enough
+
+#### Political Opportunities
+- Succession crises that could exist
+- Alliance tensions that could be developed
+- Power vacuums that could be created
+- Proxy conflicts that could emerge
+
+#### Thematic Opportunities
+- Themes that could be woven deeper
+- Historical parallels that could be drawn
+- Moral dilemmas that could be sharpened
+- Cycles that could be emphasized
+
+#### Plot Opportunities
+- Consequence chains that could be extended
+- Intersection points that could be added
+- Alternative paths that should be possible
+- Complications that could be introduced
+
+---
+
+### Phase 12: The Red Flag Report
+
+Create `/home/claude/vampire-world/12-grrm-review/11-red-flags.md`
+
+**Identify critical problems:**
+
+#### 🚩 Red Flags - Fix Immediately
+
+**Plot Armor:**
+- Characters who clearly can't die
+- Unrealistic survival rates
+- Convenient rescues
+- Protected favorites
+
+**Deus Ex Machina:**
+- Convenient solutions
+- Magic that saves the day
+- Lucky coincidences
+- Unearned victories
+
+**One-Dimensional Elements:**
+- Pure good/evil characters
+- Monolithic cultures
+- Simple conflicts
+- Clear moral answers
+
+**Inconsistencies:**
+- Timeline contradictions
+- Power scaling problems
+- Knowledge inconsistencies
+- Character behavior changes
+
+**Boring Predictability:**
+- Obvious outcomes
+- Telegraphed twists
+- Inevitable progressions
+- Prophesied events with no subversion
+
+#### ⚠️ Yellow Flags - Should Address
+
+**Complexity Gaps:**
+- Areas needing more depth
+- Underdeveloped factions
+- Shallow characters
+- Simple political situations
+
+**Consistency Questions:**
+- Minor timeline issues
+- Small knowledge inconsistencies
+- Cultural behavior questions
+- Power level questions
+
+**Opportunity Gaps:**
+- Missed conflict opportunities
+- Underutilized characters
+- Underdeveloped themes
+- Potential complications not pursued
+
+---
+
+### Phase 13: Prioritized Revision Plan
+
+Create `/home/claude/vampire-world/12-grrm-review/12-revision-priority-plan.md`
+
+**Organize all feedback into actionable priorities:**
+
+#### Priority 1: Critical Fixes (Do First)
+- Red flag items
+- Major inconsistencies
+- Plot armor problems
+- One-dimensional main characters
+- Implausible plot developments
+
+**Format:**
 ```markdown
-This event connects to:
-- [The Collapse Event](../02-timeline/collapse-event.md#dimensional-breach)
-- [Human Cultural Memory](../03-cultures/races/humans.md#collapse-narrative)
-- [Protagonist Creation](../06-characters/protagonist.md#true-history)
+## Critical Fix #1: [Character Name] Has Plot Armor
+**Problem:** Character survives situations they shouldn't, diminishes stakes
+**Location:** [File references]
+**Solution:**
+- Option A: Kill them at [specific moment]
+- Option B: Create genuine cost for survival
+- Option C: Remove them from dangerous situations
+**Impact:** [What changes if this is fixed]
+**Related Issues:** [What else this affects]
 ```
 
-### **Version Control**
-- Commit work after each major document
-- Tag completion of each phase
-- Enable rollback if needed
+#### Priority 2: Major Improvements (Do Next)
+- Moral complexity additions
+- Political complications
+- Consequence chain extensions
+- Cultural development
+- Historical ambiguity enhancements
+
+#### Priority 3: Enhancement Opportunities (If Time)
+- Additional subplots
+- Minor character development
+- Cultural details
+- Historical depth
+- Thematic reinforcement
+
+#### Priority 4: Polish Items (Nice to Have)
+- Naming consistency
+- Description enhancements
+- Dialogue improvements
+- Pacing adjustments
+
+**For each item, provide:**
+- Specific problem description
+- File locations
+- Multiple solution options
+- Impact assessment
+- Dependencies (what else needs to change)
 
 ---
 
-## Critical Success Factors
+### Phase 14: The Harsh Truth Summary
 
-✅ **Modularity**: Any file can be updated without breaking others
-✅ **Traceability**: Every element connects to specific story purposes
-✅ **Consistency**: No contradictions except intentional ones
-✅ **Depth**: 10x more detail than will appear on page
-✅ **Accessibility**: Easy to reload context in any session
-✅ **Flexibility**: Can expand or modify as story develops
-✅ **GRRM Authenticity**: Captures style and approach
+Create `/home/claude/vampire-world/12-grrm-review/13-executive-summary.md`
+
+**Write a brutally honest 2-3 page assessment:**
+
+#### What Works
+- Strongest elements
+- Best characters/factions
+- Most interesting historical periods
+- Compelling mysteries
+- Effective complexity
+
+#### What Doesn't Work
+- Weakest elements
+- Problematic characters
+- Boring or underdeveloped areas
+- Predictable plot beats
+- Insufficient complexity
+
+#### The Big Questions
+- Is this truly GRRM-level complexity?
+- Would readers care about these characters?
+- Are the stakes real or artificial?
+- Is the history compelling or just detailed?
+- Does the world feel alive or constructed?
+
+#### The Core Problems
+- Top 3-5 systemic issues
+- Patterns of weakness
+- Fundamental structural problems
+- Areas that need reimagining
+
+#### The Path Forward
+- What must change vs what could change
+- Which elements need complete overhaul
+- Which elements are solid foundations
+- Estimated scope of revisions
+
+#### The Brutal Bottom Line
+- Is this ready for storytelling or needs major revision?
+- What's the gap between current state and publication-ready?
+- Is the core concept strong enough?
+- What would GRRM himself say?
 
 ---
 
-## First Session Directive
+## Review Execution Guidelines
 
-**Begin with Phase 1: Foundation Setup**
+### Tone & Approach
 
-1. Create the directory structure
-2. Create `00-project-index/master-index.md`
-3. Create `01-core-framework/premise-constraints.md` (document the given premise)
-4. Create `01-core-framework/core-mysteries.md` (develop the driving questions)
-5. Create `01-core-framework/thematic-pillars.md` (establish themes)
-6. Update master index with completion
-7. Log session and set next steps
+**Be:**
+- ✅ Brutally honest
+- ✅ Specific and actionable
+- ✅ Comprehensive and thorough
+- ✅ Focused on storytelling craft
+- ✅ Willing to challenge fundamental choices
 
-**Then await further direction on Phase 2 or ask clarifying questions about the premise.**
+**Don't be:**
+- ❌ Generically positive
+- ❌ Vague or abstract
+- ❌ Focused on technical writing mechanics
+- ❌ Accepting of mediocrity
+- ❌ Afraid to suggest major changes
+
+### Feedback Format
+
+**For each issue:**
+1. **Identify the problem specifically**
+   - Quote relevant sections
+   - Reference specific files/characters/events
+
+2. **Explain why it's a problem**
+   - How does it violate GRRM principles?
+   - What story damage does it do?
+   - Why does it matter?
+
+3. **Provide multiple solution options**
+   - Option A: Minimal change
+   - Option B: Moderate revision
+   - Option C: Major reimagining
+
+4. **Assess impact**
+   - What else needs to change?
+   - What does this unlock or enable?
+   - What are the trade-offs?
+
+### Critical Review Questions
+
+**Constantly ask:**
+- "Would this surprise GRRM or bore him?"
+- "Is this as complex as real history?"
+- "Would readers genuinely disagree about this?"
+- "Could this go three different ways?"
+- "Does this make the protagonist suffer enough?"
+- "Is this too convenient?"
+- "Would this decision haunt the character?"
+- "Is this too neat?"
 
 ---
 
-## Key Principles to Remember
+## Deliverables
 
-1. **This is iterative** - Perfection comes through revision
-2. **Context limits are real** - Document thoroughly for future sessions
-3. **Consistency is paramount** - Check and cross-reference constantly
-4. **GRRM style is essential** - Complexity, ambiguity, consequences
-5. **Story drives everything** - If it doesn't serve story, cut it
-6. **Interwoven is key** - Everything connects to everything else
+**By the end of review, you must produce:**
 
-**This is not just worldbuilding - this is creating the architecture for an epic that feels as real, complex, and morally ambiguous as Game of Thrones.**
+1. ✅ Complete assessment across all 13 review phases
+2. ✅ Comprehensive red flag report
+3. ✅ Prioritized revision plan with specific actionable items
+4. ✅ Executive summary with brutal honesty
+5. ✅ Updated master-index showing review completion
+
+**All feedback must be:**
+- Specific (name files, characters, events)
+- Actionable (provide clear paths forward)
+- Prioritized (what matters most)
+- Comprehensive (cover all aspects)
+- Honest (no sugar-coating)
+
+---
+
+## Success Criteria
+
+**This review succeeds if:**
+
+1. Every major weakness is identified and documented
+2. Specific, actionable solutions are provided for each issue
+3. The creator has a clear, prioritized path to improvement
+4. No punches are pulled - brutal honesty throughout
+5. The feedback serves the goal of GRRM-level epic fantasy
+
+**This review fails if:**
+- It's generically positive without specific criticism
+- Problems are identified but solutions aren't provided
+- The creator doesn't know what to fix first
+- Feedback is too gentle or encouraging
+- Standards are lower than GRRM's actual work
+
+---
+
+## Begin Review
+
+**Start by:**
+1. Creating the `/home/claude/vampire-world/12-grrm-review/` directory
+2. Loading all project files systematically
+3. Creating the initial assessment
+4. Proceeding through all 13 review phases
+5. Ending with the executive summary and revision plan
+
+**Remember:** You are not here to encourage - you are here to make this world worthy of publication. Be the harsh critic every great work needs.
+
+**Your goal:** Transform this from "detailed worldbuilding" into "epic fantasy that rivals Game of Thrones in complexity, moral ambiguity, and compelling storytelling."
