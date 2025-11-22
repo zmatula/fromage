@@ -4,92 +4,102 @@
 
 ## Immediate Next Phase
 
-### Phase 5: Cultural Memory Matrix
+### Phase 6: Faction & Power Structure Development
 
-**Objective**: Develop how each race/culture remembers and interprets history
+**Objective**: Build present-day political entities and secret societies
 
 **Primary Tasks**:
 
-1. **Create `03-cultures/cultural-memory-matrix.md`**:
-   - Table format: Event vs. how each race remembers it
-   - Cover: Collapse, vampire wars, race origins, major events
-   - Include: Official version, scholarly view, shadow truth
+1. **Create empire files** in `04-factions/empires/`:
+   - Valdrian Empire
+   - Northern Dominion
+   - Sanctified States
+   - Maritime Republic
+   - Ironpeak Confederation
+   - Silverwood Domain
+   - Broken Lands Confederation
 
-2. **Create race files in `03-cultures/races/`**:
-   - `humans.md`
-   - `elves.md`
-   - `dwarves.md`
-   - `goblins.md`
-   - `vampires.md` (what protagonist remembers)
-
-3. **For each race, document**:
-   - Sub-races and cultural variations
-   - Origin story (what they believe)
-   - Vampire relationship history
-   - Collapse narrative
-   - Cultural values
-   - Historical heroes/villains
-   - Present-day culture
-   - Relationship with ruins/artifacts
+2. **For each power, document**:
+   - Government and rulers
+   - Territory and resources
+   - Military strength
+   - Cultural character
+   - Artifact holdings
    - Internal conflicts
-   - Secrets they hide
+   - Relations with others
+   - Role in story
 
-4. **Create `03-cultures/cultural-conflicts.md`**:
-   - Where narratives clash
-   - What disputes drive present conflicts
-   - Whose version is closest to truth
+3. **Create secret society files** in `04-factions/secret-societies/`:
+   - Veil Keepers
+   - The Inheritors
+   - Order of the Dawn
+   - Others as needed
 
-**Output**: Rich, contradictory cultural perspectives
+4. **Create `faction-relationship-map.md`**:
+   - Alliances and rivalries
+   - Trade dependencies
+   - Secret connections
+   - Potential conflicts
+
+**Output**: Complex present-day political web
 
 **Validation Questions**:
-- Do cultures have genuinely different interpretations?
-- Are interpretations self-serving and logical?
-- Do conflicts stem from historical disagreements?
+- Do factions have conflicting goals?
+- Are internal conflicts believable?
+- Do relationships create organic conflict?
 
 ---
 
-## Key References from Phase 4
+## Key References from Phase 5
 
-### Present-Day World (Year 1200)
+### Cultural Framework Established
 
-**Four Great Empires**:
-1. Valdrian Empire (east) - Emperor Cassius VIII
-2. Northern Dominion (north) - Warlord-King Aldric XII
-3. Sanctified States (central-south) - High Theocrat Solarius VII
-4. Maritime Republic (coast) - First Merchant Corus IX
+**Each race has**:
+- Self-serving historical narrative
+- Secrets from other races
+- Internal conflicts
+- Relationship with ruins/artifacts
 
-**Secondary Powers**:
-- Ironpeak Confederation (dwarves)
-- Silverwood Domain (elves, isolated since 1050)
-- Broken Lands (goblins)
+**Major conflicts**:
+- Goblin Wars (genocide vs. defense)
+- Twilight War (aggression vs. defense)
+- Divine punishment (true or myth)
+- Who freed whom (everyone claims credit)
 
-**Secret Societies**:
-- Veil Keepers (destroy dangerous knowledge)
-- Inheritors (recover vampire knowledge)
-- Order of the Dawn (prepare for vampire return)
+**Truths that would destabilize**:
+- Divine punishment is myth
+- Races were modified by vampires
+- Elves can read vampire script
+- Goblins have blood magic
+- Vampire survivors exist
 
-**Current Tensions**:
-- Valdrian-Northern rivalry
-- Sanctified fundamentalism
-- Dimensional readings increasing
-- Awakening protocols discovered (Year 1180)
+### Protagonist's Challenge
+- His existence threatens all narratives
+- His knowledge is valuable and dangerous
+- He must navigate cultural conflicts
+- His choices shape outcomes
 
 ---
 
-## Questions to Answer in Phase 5
+## Questions to Answer in Phase 6
 
-### For Each Race
-- How do they explain the collapse?
-- What do they believe about their origins?
-- How do they view vampires?
-- What secrets do they keep from other races?
-- What internal divisions exist?
+### For Each Empire
+- What does the ruler want?
+- What threatens them?
+- How would they react to protagonist?
+- What artifacts do they have?
 
-### Cultural Conflicts
-- Where do human and elf histories contradict?
-- Why do dwarves and goblins hate each other?
-- What truths would shatter racial identities?
-- Which race's version is closest to reality?
+### For Secret Societies
+- Who actually leads them?
+- What do they really know?
+- What would they do with protagonist?
+- How do they conflict?
+
+### For Relationships
+- Who allies against whom?
+- What trade makes peace?
+- What could trigger war?
+- Where does protagonist fit?
 
 ---
 
@@ -99,19 +109,20 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Review `collapse-event.md` contradictory interpretations
-4. ☐ Review `era-recent-past.md` for present-day context
-5. ☐ Begin with `cultural-memory-matrix.md`
+3. ☐ Review `era-recent-past.md` for current rulers
+4. ☐ Review `cultural-conflicts.md` for tensions
+5. ☐ Begin with major empires
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 5, the sequence is:
+After Phase 6, the sequence is:
 
-- **Phase 6**: Factions & Power Structures (empires, secret societies)
 - **Phase 7**: Geography & Relic Placement
 - **Phase 8**: Character Architecture
+- **Phase 9**: Magic & Technology Systems
+- **Phase 10**: Shadow Truths & Secrets
 
 These complete worldbuilding before plot architecture.
 
@@ -119,11 +130,11 @@ These complete worldbuilding before plot architecture.
 
 ## Notes
 
-- Each race should have self-serving historical narratives
-- Contradictions between accounts create story opportunities
-- Protagonist's vampire memories are valuable and dangerous
-- Some truths would destabilize current political order
-- Cultural conflicts should drive present-day tensions
+- Empires should reflect cultural patterns from Phase 5
+- Secret societies are key plot drivers
+- Relationships should create natural conflicts
+- Protagonist will interact with all factions
+- Leave room for character connections in Phase 8
 
 ---
 

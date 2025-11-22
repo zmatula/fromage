@@ -15,7 +15,7 @@
 - [x] Phase 2: The Collapse Event (Year 0)
 - [x] Phase 3: Pre-Collapse Vampire History
 - [x] Phase 4: Post-Collapse History to Present
-- [ ] Phase 5: Cultural Memory Matrix
+- [x] Phase 5: Cultural Memory Matrix
 - [ ] Phase 6: Faction & Power Structure Development
 - [ ] Phase 7: Geography & Relic Placement
 - [ ] Phase 8: Character Architecture
@@ -56,14 +56,14 @@
   - [x] `era-recent-past.md` (Year 1100-1200)
 
 ### 03-cultures/
-- [ ] `cultural-memory-matrix.md` - How each race remembers history
-- [ ] `cultural-conflicts.md` - Where narratives clash
+- [x] `cultural-memory-matrix.md` - How each race remembers history
+- [x] `cultural-conflicts.md` - Where narratives clash
 - **races/**
-  - [ ] `humans.md`
-  - [ ] `elves.md`
-  - [ ] `dwarves.md`
-  - [ ] `goblins.md`
-  - [ ] `vampires.md`
+  - [x] `humans.md`
+  - [x] `elves.md`
+  - [x] `dwarves.md`
+  - [x] `goblins.md`
+  - [x] `vampires.md`
 
 ### 04-factions/
 - [ ] `faction-relationship-map.md` - Alliances and conflicts
