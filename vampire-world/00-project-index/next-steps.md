@@ -4,49 +4,130 @@
 
 ## Immediate Next Phase
 
-### Phase 10: Shadow Truths & Secrets
+### Phase 11: Plot Architecture
 
-**Objective**: Document what really happened vs what people believe
+**Objective**: Structure the actual story threads and character arcs
 
 **Primary Tasks**:
 
-1. **Create `08-secrets/shadow-truths.md`**:
-   - For each major historical "fact": what people believe vs what happened
-   - Why the truth is hidden/forgotten
-   - Who knows the truth
-   - Evidence that exists
-   - How truth could be discovered
+1. **Create `09-plot-architecture/story-arcs.md`**:
+   - 5-10 major plot threads
+   - Initial situation for each
+   - Key turning points
+   - Major characters involved
+   - How threads connect
+   - Resolution trajectories
 
-2. **Create `08-secrets/protagonist-true-history.md`**:
-   - Complete accurate backstory
-   - Why he was created
-   - What the experiment was supposed to do
-   - What went wrong/right
-   - How he survived
-   - What happened to others like him
-   - Why his memories are fragmented/false
+2. **Create `09-plot-architecture/character-arcs.md`**:
+   - For each POV character:
+     - Starting position
+     - Character journey beats
+     - Transformation trajectory
+     - Potential ending states
 
-3. **Create `08-secrets/discoverable-secrets.md`**:
-   - Plot revelations organized by story progression
-   - What gets revealed when?
-   - How is it discovered?
-   - What's the impact?
+3. **Create `09-plot-architecture/intersection-points.md`**:
+   - Where separate storylines converge
+   - What events affect multiple characters
+   - How character paths cross
+   - Timeline of intersections
 
-4. **Create `08-secrets/permanent-mysteries.md`**:
-   - What will NEVER be fully explained
-   - Mysteries that maintain sense of depth
-   - Questions without definitive answers
+4. **Create `09-plot-architecture/consequence-chains.md`**:
+   - Track cause and effect across storylines
+   - How action in thread A affects thread B
+   - Build consequence cascade for major events
 
-**Output**: Complete truth layer beneath public history
+**Output**: Story architecture with interwoven threads
 
 **Validation Questions**:
-- Do secrets create dramatic irony?
-- Are revelations well-timed?
-- Do permanent mysteries enhance or frustrate?
+- Do storylines organically intersect?
+- Are there consequence chains?
+- Does each character have agency?
 
 ---
 
-## Key References from Phase 9
+## Key References from Phase 10
+
+### Secrets Established
+
+**Shadow Truths**:
+- Collapse was vampire hubris (not divine punishment)
+- All races modified by vampires
+- Divine Light is magic, not god
+- Goblin Wars were human aggression
+- Elves hiding major plans
+
+**Protagonist True History**:
+- Created as insurance (Year -7)
+- Memories partially false
+- Pre-conversion identity unknown
+- Vessel 11 may exist (Living Artifact?)
+
+**Discoverable Secrets** (by story phase):
+- Early: World different than expected, memories false
+- Mid: Created as tool, not alone in being "made"
+- Late: Complete truth, existential threats
+
+**Permanent Mysteries**:
+- Pre-vampire history
+- Vampire origins
+- Divine existence
+- Pre-conversion identity details
+- Why protagonist specifically worked
+
+---
+
+## Questions to Answer in Phase 11
+
+### For Story Arcs
+- What are the major plot threads?
+- How do they interweave?
+- What drives each thread?
+
+### For Character Arcs
+- Where does each POV start?
+- What transforms them?
+- Where might they end?
+
+### For Intersections
+- When do characters meet?
+- What events affect multiple threads?
+- How do actions cascade?
+
+---
+
+## Session Start Checklist
+
+When beginning next session:
+
+1. ☐ Read this document
+2. ☐ Read `master-index.md` for completion status
+3. ☐ Review `discoverable-secrets.md` for revelation timing
+4. ☐ Review `artifact-plot-connections.md` for plot threads
+5. ☐ Review `character-relationship-map.md` for connections
+6. ☐ Begin with story-arcs.md
+
+---
+
+## Long-Term Roadmap
+
+After Phase 10, the sequence is:
+
+- **Phase 11**: Plot Architecture
+- **Phase 12**: GRRM Style Guide
+- **Phase 13**: Consistency Validation
+
+---
+
+## Notes
+
+- Plot threads should emerge from established secrets
+- Character arcs should reflect fatal flaws
+- Intersections should create meaningful choices
+- Consequences should cascade logically
+
+---
+
+*Update this document at the end of each session*
 
 ### Magic System Established
 

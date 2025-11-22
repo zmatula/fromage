@@ -667,4 +667,85 @@ Proceed to **Phase 10: Shadow Truths & Secrets**
 
 ---
 
+## Session 10 - 2025-11-22
+
+### Phase Completed
+**Phase 10: Shadow Truths & Secrets**
+
+### Work Completed
+
+1. **Created `08-secrets/shadow-truths.md`**:
+   - Shadow truths for Collapse, Race Origins, Divine Light, Goblin Wars, Twilight War
+   - What each faction/race believes vs reality
+   - Who knows what and why
+   - Evidence that exists
+   - Truth distribution matrix
+
+2. **Created `08-secrets/protagonist-true-history.md`**:
+   - Complete Vessel Seven backstory
+   - Pre-conversion identity (unknown)
+   - Creation details and purpose (insurance)
+   - Why memories are false
+   - What happened to other Vessels
+   - What Velanna's records contain
+
+3. **Created `08-secrets/discoverable-secrets.md`**:
+   - 14 major revelations organized by story phase
+   - Early: world different, memories false, collapse was hubris
+   - Mid: created as tool, races modified, Vessel 11 exists
+   - Late: complete truth, dimensional threat, vampire survivors
+   - Methods of discovery and impact
+
+4. **Created `08-secrets/permanent-mysteries.md`**:
+   - Ancient history (pre-vampire, vampire origins)
+   - Metaphysical questions (Divine being, rift contents, magic source)
+   - Personal histories (pre-conversion identity, Velanna's feelings)
+   - Philosophical questions (personhood, free will)
+   - Why some mysteries should never be resolved
+
+### Major Decisions Made
+
+**Shadow Truths**:
+- Every major "truth" is partially or completely false
+- Each race has self-serving version of history
+- Collapse caused by Ascension Experiment (not divine punishment)
+- All races modified by vampires (identity crisis for everyone)
+- Divine Light is magic with faith-focus (not actual god)
+
+**Protagonist History**:
+- Created Year -7 as Vessel Seven
+- Insurance against Bloodweb failure
+- Memories implanted to ensure obedience
+- Vessel 11 fate unknown (Living Artifact?)
+- Pre-conversion identity lost forever
+
+**Revelation Timing**:
+- Designed flow from confusion to understanding to choice
+- Each revelation drives character growth
+- Timing creates dramatic irony and plot advancement
+
+**Permanent Mysteries**:
+- Some things should stay unknown for depth
+- Pre-conversion identity should remain largely mystery
+- Protagonist must define himself going forward
+- Not every question needs an answer
+
+### Key Connections Established
+
+- Shadow truths create dramatic irony
+- Protagonist's true history explains fatal flaw
+- Revelation timing drives character arcs
+- Permanent mysteries maintain sense of depth
+- All established secrets connect to plot threads
+
+### Next Session Focus
+
+Proceed to **Phase 11: Plot Architecture**
+- Create story-arcs.md
+- Create character-arcs.md
+- Create intersection-points.md
+- Create consequence-chains.md
+
+---
+
 *Add new sessions below this line*

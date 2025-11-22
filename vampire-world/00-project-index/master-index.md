@@ -5,7 +5,7 @@
 **Project**: The Vampire Collapse Epic
 **Type**: GRRM-style Epic Fantasy Novel Architecture
 **Started**: 2025-11-22
-**Current Phase**: Phase 8 - Character Architecture (Complete)
+**Current Phase**: Phase 10 - Shadow Truths & Secrets (Complete)
 
 ---
 
@@ -20,7 +20,7 @@
 - [x] Phase 7: Geography & Relic Placement
 - [x] Phase 8: Character Architecture
 - [x] Phase 9: Magic & Technology Systems
-- [ ] Phase 10: Shadow Truths & Secrets
+- [x] Phase 10: Shadow Truths & Secrets
 - [ ] Phase 11: Plot Architecture
 - [ ] Phase 12: GRRM Style Guide
 - [ ] Phase 13: Consistency Validation
@@ -122,10 +122,10 @@
 - [x] `artifact-plot-connections.md` - Plot relevance
 
 ### 08-secrets/
-- [ ] `shadow-truths.md` - What really happened
-- [ ] `protagonist-true-history.md` - Real backstory
-- [ ] `discoverable-secrets.md` - Plot revelations
-- [ ] `permanent-mysteries.md` - Intentionally unknown
+- [x] `shadow-truths.md` - What really happened
+- [x] `protagonist-true-history.md` - Real backstory
+- [x] `discoverable-secrets.md` - Plot revelations
+- [x] `permanent-mysteries.md` - Intentionally unknown
 
 ### 09-plot-architecture/
 - [ ] `story-arcs.md` - Major plot threads
