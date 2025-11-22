@@ -4,106 +4,96 @@
 
 ## Immediate Next Phase
 
-### Phase 7: Geography & Relic Placement
+### Phase 8: Character Architecture
 
-**Objective**: Map the world and strategically place vampire remnants
+**Objective**: Develop protagonist and major supporting cast
 
 **Primary Tasks**:
 
-1. **Create `05-geography/world-map-description.md`**:
-   - Continents and major regions
-   - Climate zones
-   - Major geographical features
-   - Travel times between regions
-   - Racial distribution
-   - Empire boundaries
+1. **Create `06-characters/protagonist.md`** with exhaustive detail:
+   - True history: When/why/how created
+   - What he remembers vs reality
+   - Abilities and limitations
+   - Personality and fatal flaw
+   - Want vs Need
+   - Character arc through story
 
-2. **Create regional files** in `05-geography/regions/`:
-   - For each major region (8-12 regions)
-   - Physical description
-   - Who controls it now
-   - What was here during vampire era
-   - Climate and resources
-   - Major settlements
-   - Vampire ruins in this region
+2. **Create POV character files** in `06-characters/major-characters/`:
+   - 5-8 major POV characters
+   - Full backgrounds and arcs
+   - Relationships to protagonist
+   - Each needs fatal flaw, motivation, secrets
 
-3. **Create vampire ruin files** in `05-geography/vampire-ruins/`:
-   - Major underground cities (3-5):
-     - Vel'Thoras (protagonist's location)
-     - Vel'Krath (Throne military complex)
-     - Neth'Korath (Mind covenant capital)
-     - Sel'Naroth (Twilight sanctuary)
-   - Minor sites (12-20)
+3. **Create supporting cast files** in `06-characters/supporting-cast/`:
+   - 20-30 secondary characters
+   - Each with own agenda
+   - From various factions
 
-4. **Create `05-geography/relic-distribution.md`**:
-   - Map every significant artifact to location
-   - Who currently possesses it
-   - What it does
-   - Role in story potential
+4. **Create `06-characters/character-relationship-map.md`**:
+   - Who knows whom
+   - What relationships exist
+   - What secrets between characters
 
-**Output**: Fully mapped world with strategic relic placement
+**Output**: Fully developed character constellation
 
 **Validation Questions**:
-- Are relics distributed to create conflicts?
-- Do ruins contain plot-relevant discoveries?
-- Do travel times make sense?
+- Does each character have agency?
+- Could each carry their own story?
+- Are relationships creating conflict?
 
 ---
 
-## Key References from Phase 6
+## Key References from Phase 7
 
-### Political Web Established
+### Geography Established
 
-**Four Great Empires**:
-- Valdrian Empire: Traditional, succession crisis, largest artifact collection
-- Northern Dominion: Martial, aggressive king, Living Artifact conflict
-- Sanctified States: Theocratic, fundamentalist, Order of Dawn headquarters
-- Maritime Republic: Commercial, new leader after coup, Inheritor presence
+**World Layout**:
+- ~2,000 miles east-west, 1,500 north-south
+- 9 major regions mapped
+- Climate zones defined
+- Travel times calculated
 
-**Three Secondary Powers**:
-- Ironpeak Confederation: Dwarven neutral, essential to all, deep secrets
-- Silverwood Domain: Elven isolate, 150 years closed, unknown plans
-- Broken Lands: Goblin marginal, blood magic secret, justified rage
+**Major Vampire Ruins**:
+- Vel'Thoras: Protagonist location (Valdrian)
+- Vel'Krath: Military complex (Northern)
+- Neth'Korath: Destroyed capital (The Scar)
+- Sel'Naroth: Twilight sanctuary (Silverwood)
 
-**Three Secret Societies**:
-- Veil Keepers: Destroy dangerous knowledge, would kill protagonist
-- Inheritors: Recover knowledge, would study protagonist
-- Order of Dawn: Military order, would hunt protagonist
+**Artifact Distribution**:
+- Crown of Seeing (Valdrian)
+- Vel'Krath Cache (Northern)
+- Forge of Souls (Ironpeak)
+- Living Artifact (Veil Keepers)
+- Imperial Collection (Valdrian)
 
-**Key Dynamics**:
-- Valdrian-Northern war likely
-- Valdrian succession crisis
-- Sanctified persecution escalating
-- Secret society shadow war
-- Dimensional readings increasing
+### Protagonist's Starting Situation
 
-### Protagonist's Situation
-
-**Immediate Threats**: Veil Keepers, Order of Dawn, Sanctified States
-**Ambiguous**: Inheritors, Northern Dominion, Maritime Republic
-**Possible Allies**: Individual reformists, scholars, goblins, elves
-**Best Hopes**: Ironpeak, Silverwood (if they allow)
+**Location**: Vel'Thoras inner sanctum
+**Awakening Options**: Timer, Inheritors, automatic systems, expedition
+**Immediate Environment**: Approaching factions, failing systems
+**Escape Routes**: East, North, South, Mountains, West (closed)
 
 ---
 
-## Questions to Answer in Phase 7
+## Questions to Answer in Phase 8
 
-### For World Geography
-- Where exactly are empire territories?
-- What natural barriers exist?
-- How long to travel between major cities?
-- Where are the borders contested?
+### For Protagonist
+- What specific abilities does he have?
+- What are his limitations?
+- What personality emerged from vampire creation?
+- What does he remember incorrectly?
+- What is his fatal flaw?
 
-### For Vampire Ruins
-- Exact locations of major cities
-- What's in each (relevant to plot)
-- Current accessibility
-- Who knows about them
+### For POV Characters
+- Who are the 5-8 POV characters?
+- What factions do they represent?
+- How do they intersect with protagonist?
+- What are their own goals?
 
-### For Artifact Distribution
-- Where is each major artifact now?
-- How were they distributed post-collapse?
-- Which create story opportunities?
+### For Relationships
+- Which characters know each other?
+- What alliances and conflicts exist?
+- What secrets do characters keep from each other?
 
 ---
 
@@ -113,17 +103,16 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Review `faction-relationship-map.md` for political context
-4. ☐ Review `era-recent-past.md` for current world state
-5. ☐ Begin with world-map-description.md
+3. ☐ Review `vel-thoras.md` for protagonist's starting location
+4. ☐ Review faction files for NPC context
+5. ☐ Begin with protagonist.md
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 7, the sequence is:
+After Phase 8, the sequence is:
 
-- **Phase 8**: Character Architecture
 - **Phase 9**: Magic & Technology Systems
 - **Phase 10**: Shadow Truths & Secrets
 - **Phase 11**: Plot Architecture
@@ -134,11 +123,11 @@ After Phase 7, the sequence is:
 
 ## Notes
 
-- Geography should support political conflicts
-- Ruin placement should create exploration opportunities
-- Artifact distribution should drive plot
-- Travel times affect pacing
-- Consider protagonist's journey through world
+- Characters should reflect their faction backgrounds
+- Each POV character needs different perspective on events
+- Protagonist's abilities should be limited but distinct
+- Leave room for character growth
+- Create characters that could die
 
 ---
 
