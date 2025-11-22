@@ -792,4 +792,51 @@ Proceed to **Phase 12: GRRM Style Guide**
 
 ---
 
+## Session 12 - 2025-11-22
+
+### Phase Completed
+**Phase 12: GRRM Style Guide**
+
+### Work Completed
+
+1. **Created `10-style-guide/grrm-writing-principles.md`**:
+   - 10 core principles with applications
+   - Common pitfalls to avoid
+   - Examples and anti-examples
+
+2. **Created `10-style-guide/narrative-voice.md`**:
+   - Third person limited (deep POV)
+   - 7 distinct character voices with examples
+   - Voice transition guidelines
+   - Technical mechanics
+
+3. **Created `10-style-guide/scene-construction.md`**:
+   - Start late, end early
+   - Scene vs sequel structure
+   - Tension management
+   - Scene types and pacing
+
+4. **Created `10-style-guide/dialogue-guidelines.md`**:
+   - Dialogue as action
+   - Subtext principles
+   - Character-specific speech patterns
+   - Power dynamics in conversation
+
+### Major Decisions Made
+
+**Core Principles**: 10 fundamental rules for GRRM style
+**Character Voices**: Each POV character has distinct speech patterns and internal focus
+**Scene Structure**: Conflict-driven with hooks at ends
+**Dialogue**: Subtext over exposition; every line is an action
+
+### Next Session Focus
+
+Proceed to **Phase 13: Consistency Validation**
+- Create consistency-checks.md
+- Create timeline-validator.md
+- Create character-tracker.md
+- Create integration-tests.md
+
+---
+
 *Add new sessions below this line*

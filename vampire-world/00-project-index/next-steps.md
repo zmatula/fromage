@@ -4,44 +4,79 @@
 
 ## Immediate Next Phase
 
-### Phase 12: GRRM Style Guide
+### Phase 13: Consistency Validation
 
-**Objective**: Create writing guidelines to maintain consistent GRRM tone/style
+**Objective**: Check all work for internal consistency and integration
 
 **Primary Tasks**:
 
-1. **Create `10-style-guide/grrm-writing-principles.md`**:
-   - No pure heroes or villains
-   - Actions have consequences
-   - Anyone can die
-   - Deep POV technique
-   - Historical ambiguity
-   - Political complexity
+1. **Create `11-validation/consistency-checks.md`**:
+   - Timeline validation protocol
+   - Character knowledge tracking
+   - Geographical consistency
+   - Power level consistency
 
-2. **Create `10-style-guide/narrative-voice.md`**:
-   - Third person limited
-   - Voice adapts to POV character
-   - Vocabulary reflects background
-   - Internal monologue balance
+2. **Create `11-validation/timeline-validator.md`**:
+   - Chronological check of all events
+   - Look for contradictions
+   - Verify cause-effect chains
+   - Check travel times
 
-3. **Create `10-style-guide/scene-construction.md`**:
-   - Start late, end early
-   - Every scene has conflict
-   - Scene-sequel structure
-   - Layer multiple conflicts
+3. **Create `11-validation/character-tracker.md`**:
+   - What does each character know at each point?
+   - Track secrets and revelations
+   - Verify relationship consistency
 
-4. **Create `10-style-guide/dialogue-guidelines.md`**:
-   - Subtext over exposition
-   - Power dynamics in conversation
-   - Distinct vocabulary per character
-   - Interruptions and body language
+4. **Create `11-validation/integration-tests.md`**:
+   - Do cultures' histories logically conflict?
+   - Do artifact placements create intended conflicts?
+   - Are themes woven through all layers?
 
-**Output**: Complete writing style guide
+**Output**: Validation report with any inconsistencies flagged
 
 **Validation Questions**:
-- Does guidance avoid over-explaining?
-- Are character voices distinct?
-- Does it serve GRRM authenticity?
+- Are there contradictions?
+- Do consequences cascade properly?
+- Is worldbuilding internally consistent?
+
+---
+
+## Key References from Phase 12
+
+### Style Guide Established
+
+**10 Core Principles**:
+- No pure heroes/villains
+- Actions have consequences
+- Anyone can die
+- Deep POV technique
+- Historical ambiguity
+- Political complexity
+- Sensory detail
+- Subtext in dialogue
+- Earned moments
+- Moral complexity
+
+**7 Character Voices**:
+- Protagonist: Formal, archaic, clinical
+- Elara: Political, euphemistic, calculating
+- Marcus: Military, religious, absolute
+- Vera: Academic, clinical, categorical
+- Kira: Guarded, layered, exhausted
+- Gritha: Poetic, bitter, fierce
+- Thandril: Formal, detached, alien
+
+**Scene Construction**:
+- Start late, end early
+- Every scene has conflict
+- Scene-sequel structure
+- Multiple conflict layering
+
+**Dialogue Principles**:
+- Subtext over exposition
+- Power dynamics in every exchange
+- Speech patterns as character fingerprints
+- Dialogue is action
 
 ---
 
