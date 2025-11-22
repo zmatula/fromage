@@ -19,7 +19,7 @@
 - [x] Phase 6: Faction & Power Structure Development
 - [x] Phase 7: Geography & Relic Placement
 - [x] Phase 8: Character Architecture
-- [ ] Phase 9: Magic & Technology Systems
+- [x] Phase 9: Magic & Technology Systems
 - [ ] Phase 10: Shadow Truths & Secrets
 - [ ] Phase 11: Plot Architecture
 - [ ] Phase 12: GRRM Style Guide
@@ -116,10 +116,10 @@
   - [x] `supporting-cast-registry.md` (30+ NPCs)
 
 ### 07-artifacts-magic/
-- [ ] `magic-system.md` - How magic works
-- [ ] `vampire-technology.md` - Peak vampire capabilities
-- [ ] `relic-registry.md` - All vampire artifacts
-- [ ] `artifact-plot-connections.md` - Plot relevance
+- [x] `magic-system.md` - How magic works
+- [x] `vampire-technology.md` - Peak vampire capabilities
+- [x] `relic-registry.md` - All vampire artifacts
+- [x] `artifact-plot-connections.md` - Plot relevance
 
 ### 08-secrets/
 - [ ] `shadow-truths.md` - What really happened

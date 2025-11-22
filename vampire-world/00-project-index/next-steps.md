@@ -4,92 +4,104 @@
 
 ## Immediate Next Phase
 
-### Phase 9: Magic & Technology Systems
+### Phase 10: Shadow Truths & Secrets
 
-**Objective**: Define how magic works and what vampire technology could do
+**Objective**: Document what really happened vs what people believe
 
 **Primary Tasks**:
 
-1. **Create `07-artifacts-magic/magic-system.md`**:
-   - How magic works in this world
-   - What magic can/cannot do
-   - Costs of using magic
-   - Different magical traditions
-   - How protagonist's abilities differ
+1. **Create `08-secrets/shadow-truths.md`**:
+   - For each major historical "fact": what people believe vs what happened
+   - Why the truth is hidden/forgotten
+   - Who knows the truth
+   - Evidence that exists
+   - How truth could be discovered
 
-2. **Create `07-artifacts-magic/vampire-technology.md`**:
-   - What vampires could do at peak
-   - How it worked (tech + magic blend)
-   - What required infrastructure
-   - What could still work
-   - What's dangerous to activate
+2. **Create `08-secrets/protagonist-true-history.md`**:
+   - Complete accurate backstory
+   - Why he was created
+   - What the experiment was supposed to do
+   - What went wrong/right
+   - How he survived
+   - What happened to others like him
+   - Why his memories are fragmented/false
 
-3. **Create `07-artifacts-magic/relic-registry.md`**:
-   - Comprehensive artifact list
-   - Specific mechanics for each
-   - Current locations
-   - Historical context
-   - Plot connections
+3. **Create `08-secrets/discoverable-secrets.md`**:
+   - Plot revelations organized by story progression
+   - What gets revealed when?
+   - How is it discovered?
+   - What's the impact?
 
-4. **Create `07-artifacts-magic/artifact-plot-connections.md`**:
-   - Which artifacts drive which plots
-   - How characters discover/compete for them
+4. **Create `08-secrets/permanent-mysteries.md`**:
+   - What will NEVER be fully explained
+   - Mysteries that maintain sense of depth
+   - Questions without definitive answers
 
-**Output**: Coherent magic/technology system
+**Output**: Complete truth layer beneath public history
 
 **Validation Questions**:
-- Are limitations clearly defined?
-- Does it avoid "magic solves everything"?
-- Are costs meaningful?
+- Do secrets create dramatic irony?
+- Are revelations well-timed?
+- Do permanent mysteries enhance or frustrate?
 
 ---
 
-## Key References from Phase 8
+## Key References from Phase 9
 
-### Characters Established
+### Magic System Established
 
-**Protagonist**: Vessel Seven
-- Enhanced but limited abilities
-- Blood-independent survival
-- Fatal flaw: Need to belong
-- Arc: From tool to person
+**Source**: Ambient energy (finite, regenerating)
+**Costs**: Physical, mental, material, ambient—always
+**Traditions**: Church, Academic, Hedge, Elven Song, Dwarven Rune, Goblin Blood
 
-**6 POV Characters**:
-- Elara Goldstone (Valdrian reformist)
-- Marcus Ashford (Order of Dawn hunter)
-- Vera Nighthollow (Inheritor scholar)
-- Kira Frost (Northern/Veil Keeper)
-- Gritha Bloodsinger (Goblin shaman)
-- Thandril Shadowleaf (Elven agent)
+**Protagonist's Abilities**:
+- Blood magic (modified for efficiency)
+- 3-4x strength, 2-3x speed
+- Mental resilience
+- Enhanced but not peak vampire
 
-**30+ Supporting Cast** across all factions
+### Vampire Technology Established
 
-### Relationship Web
-- Every character has conflicting loyalties
-- Multiple factions hunting protagonist
-- Conditional allies require prices
-- Secret society infiltration everywhere
+**Bloodweb**: Network destroyed, cannot return
+**Categories**: Information, Military, Biological, Infrastructure, Research
+**Status**: Some works, some doesn't, some dangerous
+
+### Major Artifacts Established
+
+**8 Major Artifacts** with full mechanics:
+- Crown of Seeing, Forge of Souls, Living Artifact
+- Blood Archives, Mind Codex, Gate Fragment
+- Healer's Stone, Vel'Krath Cache, Order Arsenal
+
+**Plot Connections**:
+- Hunt for protagonist
+- Succession crisis
+- Northern expansion
+- Knowledge recovery
+- Dimensional threat
 
 ---
 
-## Questions to Answer in Phase 9
+## Questions to Answer in Phase 10
 
-### For Magic System
-- What is magic's source?
-- What are universal costs?
-- How do different traditions differ?
-- What can protagonist do specifically?
+### For Shadow Truths
+- What really happened in each major event?
+- Who knows the truth and why?
+- What evidence exists?
 
-### For Vampire Technology
-- What was Bloodweb really?
-- How did artifacts work?
-- Why can some still function?
-- What's dangerous about activation?
+### For Protagonist True History
+- Complete accurate backstory
+- Why memories are false
+- What happened to other Vessels
 
-### For Artifacts
-- Specific mechanics for each major artifact
-- How do they affect plot?
-- What can protagonist use?
+### For Discoverable Secrets
+- What gets revealed when?
+- How is it discovered?
+- What are consequences?
+
+### For Permanent Mysteries
+- What should never be explained?
+- What enhances depth through ambiguity?
 
 ---
 
@@ -99,9 +111,10 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Review `protagonist.md` for abilities baseline
-4. ☐ Review `relic-distribution.md` for artifact locations
-5. ☐ Begin with magic-system.md
+3. ☐ Review `magic-system.md` for magic rules
+4. ☐ Review `relic-registry.md` for artifact mechanics
+5. ☐ Review `collapse-event.md` for shadow truth baseline
+6. ☐ Begin with shadow-truths.md
 
 ---
 
