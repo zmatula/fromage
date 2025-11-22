@@ -433,4 +433,197 @@ The goal is not to give characters THE truth, but to give them truths they must 
 
 ---
 
-*The world runs on comfortable lies and uncertain truths. These shadow truths are not answers but better questions—the real foundation is ambiguity itself.*
+## Permanent Mysteries
+
+These questions can **never** be answered. Not because the evidence is hidden, but because it was destroyed, was never recorded, or involves fundamentally unknowable factors.
+
+### The Collapse
+
+**Permanently Unknown**:
+- The exact sequence of events on 14th Deepwinter. All eyewitnesses died. Records were destroyed by the energy wave itself.
+- Whether Mordecai knew the experiment would fail. His last thoughts died with him.
+- What the dimensional entities actually wanted. Alien minds are not comprehensible by mortal understanding.
+- Why Velanna activated the protagonist's stasis early. She died without recording her reasoning.
+- Whether the Collapse could have been prevented. The counterfactual cannot be tested.
+
+**Why These Are Unknowable**:
+Every witness is dead. The records were at ground zero. The dimensional entities (if they exist) don't communicate in ways we can understand. Some truths simply ceased to exist on 14th Deepwinter.
+
+### What Happened in Twilight Sanctuaries
+
+**Permanently Unknown**:
+- How many vampires survived the Collapse in sanctuaries. No contact in 1,200 years.
+- What they've been doing for twelve centuries. No observation possible.
+- Whether they're still alive. No one has reached a sanctuary and returned.
+- What they want. They haven't communicated.
+- Whether they're a threat. No interaction to judge from.
+
+**Why These Are Unknowable**:
+The sanctuaries are sealed. No one has penetrated them. We don't even know for certain where they are. Absence of evidence isn't evidence of absence—or of presence.
+
+### The True Nature of Divine Light
+
+**Permanently Unknown**:
+- Whether any conscious entity exists. Every test has been inconclusive.
+- If something exists, what it wants. No clear communication has ever occurred.
+- Whether faith-magic is fundamentally different from secular magic. Cannot separate the variables.
+- Why faith works as a focus. Could be divine, could be psychological, could be unknown.
+
+**Why These Are Unknowable**:
+If the Divine Light is a conscious entity, it has never clearly communicated. If it's not, there's no mind to query. We cannot design an experiment that distinguishes "deity that chooses not to respond" from "no deity." The question may be unanswerable by nature.
+
+### The Year 812 Vampire's "They"
+
+**Permanently Unknown**:
+- What the Year 812 vampire meant by "they" in reference to the Scar. He died before explaining.
+- Whether his information about "Children of the Vessels" was accurate. No corroborating source exists.
+- What else he knew. The questioning was incomplete when he was executed.
+
+**Why These Are Unknowable**:
+The vampire was destroyed before he could explain. The Church officials who questioned him are dead. The records were sealed and don't contain clarification. The one person who knew is gone.
+
+### The Death of Vykros
+
+**Permanently Unknown**:
+- Whether the first vampire king was murdered or died of natural causes. All witnesses are dead.
+- If murdered, by whom. Four factions had motive; all denied involvement.
+- What his final words meant. Different accounts report different things.
+- What would have happened if he'd lived. Counterfactual—cannot be known.
+
+**Why These Are Unknowable**:
+Vykros died before the Bloodweb recorded memories. The vampires who were present all died on Collapse Day. The throne succession happened under secrecy rules. No physical evidence survived.
+
+### Pre-Vampire Civilization
+
+**Permanently Unknown**:
+- What the races looked like before vampire modification. No unmodified populations survive.
+- The true history of pre-vampire nations. Most records were destroyed by vampires.
+- What knowledge existed that vampires suppressed. Suppressed knowledge doesn't survive.
+- Whether any "original" cultures continue. We'd have no way to recognize them.
+
+**Why These Are Unknowable**:
+The vampires spent a thousand years destroying pre-vampire records and modifying subject populations. The Dark Ages finished the job. What remains is fragments, often filtered through vampire perspectives.
+
+---
+
+## Year 812: Disputed Versions
+
+This event deserves special attention because it's the only confirmed post-Collapse contact with vampire civilization—and it was hidden.
+
+### The Official Version (Church)
+
+"Ancient vampire corpse discovered in stasis chamber. Destroyed immediately as precaution. No intelligence value. No ongoing threat."
+
+*Purpose of this narrative*: Maintain that vampires are extinct. No need for alarm or action.
+
+### Veil Keeper Version
+
+"Living vampire interrogated for six days. Revealed information about survivors, dimensional threats, and something called 'the Vessels.' Executed, and records sealed by Church inner council."
+
+*Purpose of this narrative*: Prove Church conspiracy. Justify Veil Keeper surveillance and independence.
+
+### Inheritor Version
+
+"Vampire confirmed existence of Project Vessel and other preservation programs. Knowledge destroyed by Church to maintain monopoly on vampire heritage."
+
+*Purpose of this narrative*: Support Inheritor claims to vampire legacy. Attack Church legitimacy.
+
+### Scholarly Version
+
+"Something happened at Iron Ridge Mine in Year 812. Official records are inconsistent. The truth is probably between extremes."
+
+*Purpose of this narrative*: Cautious academic position. Avoids commitment.
+
+### The Actual Record (Sealed)
+
+Inquisitor Sennett's report exists in Church vault. It confirms:
+- Living vampire, questioned six days
+- Revealed information about sanctuaries, Vessel, dimensional threats
+- Executed, records sealed by High Council decision
+- Cover-up acknowledged as "necessary protection of faithful"
+
+*But*: Even this record may be incomplete. Sennett died five years later under suspicious circumstances. What he knew beyond what he wrote is lost.
+
+### What Can Never Be Verified
+
+- Whether the vampire told the truth (he may have lied or been wrong)
+- What he would have revealed with more questioning (he was executed early)
+- Whether the Church investigation found anything (records of investigation are also sealed—or destroyed)
+- What the miners saw that wasn't reported (they were "dealt with")
+
+---
+
+## Contradictory Evidence: Examples
+
+For each major historical question, evidence exists that supports AND contradicts every theory. This isn't hidden information to be discovered—it's genuine ambiguity built into the historical record.
+
+### The Collapse
+
+**Evidence the experiment caused it**:
+- The Scar's dimensional signature
+- Mind equipment at ground zero
+- Timing on experiment day
+- Bloodweb behavior consistent with overload
+
+**Evidence something else caused it**:
+- Energy patterns suggest multiple sources
+- Twilight sealed sanctuaries 3 days BEFORE
+- Slave race coordination suggests pre-existing crisis
+- Some systems failed before experiment began
+
+**Evidence of sabotage**:
+- Twilight foreknowledge
+- Velanna's early stasis activation
+- Dwarven maintenance log alterations
+- Internal faction tensions
+
+**Evidence against sabotage**:
+- No confessions ever found
+- Twilight lost members too
+- Sabotage capability questionable
+- Would require impossible coordination
+
+*No theory survives contact with all evidence.*
+
+### Vampire Survivor Accounts
+
+The roughly 1,000 vampires who survived in sanctuaries have never been contacted. But in the early years, some escaped vampires left accounts before dying.
+
+**What they described**:
+- "Attack from within the Bloodweb"
+- "The network turned against us"
+- "Something came through"
+- "We were drained"
+
+**Why this doesn't clarify**:
+- "Attack" could be Bloodweb inversion or actual assault
+- "Something came through" could be literal or metaphor
+- These vampires were dying and confused
+- Their accounts contradict each other
+
+### Year 812 Vampire Statements
+
+**What he reportedly said**:
+- "Others sleeping" (sanctuaries? or something else?)
+- "Children of the Vessels" (Project Vessel? or different program?)
+- "Did they come through?" (dimensional entities? vampires? who?)
+- "You don't know" (about what specifically?)
+
+**Why this doesn't clarify**:
+- He spoke in fragments, often unclear
+- Inquisitor's report interprets rather than quotes
+- Some statements may have been fever-speech
+- He was executed before explaining
+
+---
+
+## Cross-References
+
+- [The Collapse](../02-timeline/collapse-scenes.md) - Dramatized events
+- [Year 812 Discovery](../02-timeline/year-812-discovery.md) - Dramatized scenes
+- [Consequence Chains](../09-plot-architecture/consequence-chains.md) - How these mysteries affect Year 1200
+- [Cultural Memory Matrix](../03-cultures/cultural-memory-matrix.md) - How races remember these events differently
+
+---
+
+*The world runs on comfortable lies and uncertain truths. These shadow truths are not answers but better questions—the real foundation is ambiguity itself. Some mysteries are hidden. Some are disputed. Some are permanently unknowable—and that's the most authentic history of all.*
