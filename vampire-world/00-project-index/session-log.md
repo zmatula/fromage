@@ -72,4 +72,96 @@ Proceed to **Phase 2: The Collapse Event (Year 0)**
 
 ---
 
+## Session 2 - 2025-11-22
+
+### Phase Completed
+**Phase 2: The Collapse Event (Year 0)**
+
+### Work Completed
+
+1. **Created `02-timeline/collapse-event.md`** (comprehensive collapse analysis)
+   - Part I: Shadow Truth (what actually happened)
+   - Part II: Contributing Factors (deep roots)
+   - Part III: Detailed Timeline (day-by-day breakdown)
+   - Part IV: Regional Variations
+   - Part V: Survival Categories
+   - Part VI: What Was Lost
+   - Part VII: Evidence Remaining
+   - Part VIII: Contradictory Interpretations
+   - Part IX: Consequence Cascade
+   - Part X: Unanswered Questions
+
+### Major Decisions Made
+
+**The Triggering Event**:
+- Ascension Experiment (14th Deepwinter, Year 0)
+- Attempt to create dimensional anchor for unlimited power
+- Opened breaches that resonated with/inverted Bloodweb
+
+**The Cascade Mechanism**:
+- Bloodweb inversion pulled life force from connected vampires
+- 47-hour initial cascade in capital region
+- Sundering Wave spread at 100 miles/day
+- 94% vampire death within 6 months
+
+**The Three Covenants**:
+1. Covenant of the Eternal Mind (research, capital Neth'Korath) - ran experiment
+2. Covenant of the Crimson Throne (military, Vel'Krath) - attempted order
+3. Covenant of the Silver Twilight (traditionalists, Sel'Naroth) - prepared refuges
+
+**The Protagonist**:
+- Designation: Vessel Seven
+- Project: Sanguine Vessels Initiative (Year -12 to 0)
+- Purpose: Survive outside Bloodweb (insurance against failure)
+- Created Year -7 in Vel'Thoras
+- One of twelve vessels; 1-6 failed, 8-10 died in collapse, 11 unknown, 12 incomplete
+- Survived due to: disconnection from Bloodweb, shielded lab, enhanced regeneration, stasis
+
+**Contradictory Interpretations**:
+- Divine Punishment (human popular belief)
+- Civil War (elven scholarly view)
+- Infrastructure Collapse (dwarven practical view)
+- Slave Rebellion (goblin oral tradition)
+- Forbidden Knowledge (Veil Keepers secret society)
+- Shadow Truth: all partially correct, multi-causal
+
+**Key Established Dates**:
+- Year -800: Bloodweb created
+- Year -600: Ambient energy enhancement
+- Year -400: Blood potency enhancement
+- Year -200: Dependency nearly universal
+- Year -50: Human rebellion
+- Year -30: Elven strike
+- Year -20: Dwarven sabotage
+- Year -12: Transcendence Program begins Sanguine Vessels
+- Year -7: Protagonist created
+- Year 0: Collapse
+
+### Key Connections Established
+
+- Bloodweb dependency was civilization's fatal vulnerability
+- Protagonist was INSURANCE—they knew risks existed
+- Three covenants were in cold war; no cooperation possible
+- Servant race tensions meant no help during crisis
+- Infrastructure aging meant no resilience
+- Magical pollution made dimensional work extra dangerous
+
+### Open Questions Preserved
+
+- Did Mind Covenant know the risks?
+- Was experiment sabotaged?
+- How many vampires survive in Year 1200?
+- What happened to Vessel 11?
+- What are the Twilight sanctuaries like?
+- Is something in the dimensional rifts?
+
+### Next Session Focus
+
+Proceed to **Phase 3: Pre-Collapse Vampire History**
+- Create era breakdown files (final century first)
+- Develop vampire factions in detail
+- Build toward established collapse causes
+
+---
+
 *Add new sessions below this line*
