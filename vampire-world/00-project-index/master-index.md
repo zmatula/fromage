@@ -5,7 +5,7 @@
 **Project**: The Vampire Collapse Epic
 **Type**: GRRM-style Epic Fantasy Novel Architecture
 **Started**: 2025-11-22
-**Current Phase**: Phase 7 - Geography & Relic Placement (Complete)
+**Current Phase**: Phase 8 - Character Architecture (Complete)
 
 ---
 
@@ -18,7 +18,7 @@
 - [x] Phase 5: Cultural Memory Matrix
 - [x] Phase 6: Faction & Power Structure Development
 - [x] Phase 7: Geography & Relic Placement
-- [ ] Phase 8: Character Architecture
+- [x] Phase 8: Character Architecture
 - [ ] Phase 9: Magic & Technology Systems
 - [ ] Phase 10: Shadow Truths & Secrets
 - [ ] Phase 11: Plot Architecture
@@ -102,11 +102,18 @@
   - [x] `minor-sites.md` (15+ minor ruins)
 
 ### 06-characters/
-- [ ] `protagonist.md` - Detailed protagonist file
-- [ ] `character-relationship-map.md` - Character connections
+- [x] `protagonist.md` - Vessel Seven, detailed
+- [x] `character-relationship-map.md` - Character connections
 - [ ] `character-validation.md` - Consistency checks
-- **major-characters/** - POV characters (5-8)
-- **supporting-cast/** - Secondary characters (20-30)
+- **major-characters/**
+  - [x] `elara-goldstone.md` (Valdrian reformist)
+  - [x] `marcus-ashford.md` (Order of Dawn hunter)
+  - [x] `vera-nighthollow.md` (Inheritor scholar)
+  - [x] `kira-frost.md` (Northern/Veil Keeper)
+  - [x] `gritha-bloodsinger.md` (Goblin shaman)
+  - [x] `thandril-shadowleaf.md` (Elven agent)
+- **supporting-cast/**
+  - [x] `supporting-cast-registry.md` (30+ NPCs)
 
 ### 07-artifacts-magic/
 - [ ] `magic-system.md` - How magic works
