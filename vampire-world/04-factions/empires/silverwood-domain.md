@@ -1,0 +1,296 @@
+# The Silverwood Domain
+
+The mysterious elven isolate. Closed borders, deep knowledge, and secrets that could reshape the world. No one knows what's happening inside.
+
+---
+
+## Overview
+
+**Full Name**: The Eternal Domain of the Silverwood
+**Founded**: Before Year -1200 (predates records)
+**Capital**: Unknown to outsiders (called "The Heart")
+**Population**: ~500,000 (estimated)
+**Dominant Race**: Elven (100%)
+**Government**: Unknown (believed to be council of eldest)
+**Current Ruler**: Unknown
+
+---
+
+## Territory
+
+**Geography**:
+- Ancient western forests
+- Exact extent unknown
+- Heavily warded borders
+- Interior impenetrable to outsiders
+
+**Known Border Points**:
+- Twilight Gate (former trade point, closed Year 1050)
+- Silver Stream (border river)
+- Ancient Watch (abandoned border post)
+- Mist Crossing (occasional emergence point)
+
+**Strategic Resources**:
+- Ancient knowledge
+- Vampire-era records
+- Unique magical traditions
+- Unknown capabilities
+
+---
+
+## Government Structure
+
+### What's Known
+
+- Ruled by council of elders
+- Decisions by consensus
+- Long-term planning (centuries)
+- Very conservative
+
+### What's Unknown
+
+- Specific leaders
+- How decisions are made
+- Current policies
+- Internal factions (if any)
+
+### The Year 1050 Closure
+
+- All diplomatic contact severed
+- Trade ended
+- Borders sealed
+- No explanation given
+- No response to messages since
+
+---
+
+## The Mystery
+
+### What Happened?
+
+**Theories**:
+1. Internal civil war
+2. Discovered something dangerous
+3. Preparing for something
+4. Responding to human aggression
+5. All contact was illusion anyway
+
+**Evidence**:
+- Border wards strengthened
+- Occasional patrols spotted
+- Lights in the deep forest
+- Magic resonance increased
+- Refugee attempts (all failed)
+
+### What Are They Doing?
+
+**Speculation**:
+- Perfecting magical defenses
+- Studying vampire artifacts
+- Preparing for vampire return
+- Creating something new
+- Simply waiting
+
+---
+
+## What's Known About Elves
+
+### Capabilities
+
+**Magic**: Most sophisticated living practitioners
+**Knowledge**: Remember pre-collapse firsthand (eldest)
+**Language**: Can read vampire script
+**Preservation**: Maintain vampire-era records
+**Lifespan**: Indefinite (can die but don't age)
+
+### Historical Role
+
+**Pre-Collapse**:
+- Vampire allies/servants
+- Scholars and artists
+- Intermediaries with other races
+- Preserved much knowledge
+
+**Post-Collapse**:
+- Maintained isolation
+- Shared little
+- Defended borders ruthlessly
+- Observed without acting
+
+### The Twilight War (Year 742-748)
+
+- Human expansion into elven territory
+- Elves warned, then destroyed invaders
+- Coalition humiliated
+- Treaty entirely on elven terms
+- Border set and enforced since
+
+---
+
+## Secrets
+
+### What Elves Know
+
+**About Vampires**:
+- Can read all vampire texts
+- Understand vampire magic
+- Know true collapse cause
+- Know what vampires created
+- Know who survived
+
+**About Protagonist**:
+- Almost certainly know he exists
+- Probably know his location
+- Understand what he is
+- May have known his creators
+
+### What They're Hiding
+
+**The Great Secret**: Elves can read vampire script
+- Would revolutionize scholarship
+- Other races would demand access
+- Would end elven isolation
+- Would expose their collaboration
+
+**Other Secrets**:
+- Vampire artifacts in their possession
+- Knowledge of sanctuary locations
+- Understanding of Bloodweb remnants
+- Possibly in contact with survivors
+
+### Why They Closed
+
+**Most Likely**:
+- Detected awakening approaching
+- Preparing response
+- Don't want to be involved
+- Or planning intervention
+
+---
+
+## Foreign Relations
+
+### All Human Powers
+
+**Status**: No contact since Year 1050
+**History**: Cordial but distant trade
+**Present**: Complete mystery
+**Danger**: What will they do when protagonist wakes?
+
+### Ironpeak Confederation
+
+**Status**: Ancient respect
+**Connection**: Both predate humans
+**Communication**: Possibly still occurs
+**Secret**: Dwarves may know what's happening
+
+### Broken Lands
+
+**Status**: Unknown
+**History**: Complex relationship under vampires
+**Present**: No information
+
+---
+
+## Role in Story
+
+### Opportunities for Protagonist
+
+- Elves understand what he is
+- Could explain his nature
+- Have knowledge no one else has
+- Might offer sanctuary
+- Shared history under vampires
+
+### Dangers for Protagonist
+
+- Might want to destroy him
+- Could be planning to use him
+- 150 years of planning—for what?
+- Magical capabilities unknown
+- Motives completely unclear
+
+### Potential Story Threads
+
+- Must reach elves for answers
+- Discovers elves have been watching
+- Elves contact him first
+- Must gain entry to Silverwood
+- Elves reveal terrible truth
+- Elven civil war over him
+
+### What Would Elven Reaction Be?
+
+**If Protagonist Approaches**:
+- They already know
+- Question is what they planned
+- Could welcome or destroy
+- Would have prepared either way
+- Might have been waiting for him
+
+---
+
+## Key NPCs (Speculative)
+
+### The Eldest
+- If still alive, oldest living being
+- Would remember vampires personally
+- Ultimate authority
+- What does she want?
+
+### The Warden
+- Border commander
+- Enforces closure
+- First elven contact point
+- Speaks for Domain externally
+
+### The Lorekeeper
+- Maintains vampire records
+- Understands protagonist's nature
+- Key to answers
+- Dangerous knowledge
+
+### The Returner
+- Elf who was outside during closure
+- Desperate to return
+- Might help protagonist
+- Might know what's happening
+
+---
+
+## What Will Happen
+
+### When Protagonist Wakes
+
+- Elves will know
+- They've been preparing
+- They will act
+- Question is: how?
+
+### Possible Elven Actions
+
+1. **Intervention**: Send agents to find him
+2. **Observation**: Watch what happens
+3. **Destruction**: Eliminate threat
+4. **Recruitment**: Bring him in
+5. **Revelation**: Share what they know
+
+### The 150-Year Question
+
+- Why close in Year 1050?
+- What did they detect?
+- What are they preparing?
+- Was it about protagonist?
+- Is the timing coincidence?
+
+---
+
+## Cross-References
+
+- [Elves Race File](../../03-cultures/races/elves.md) - Cultural background
+- [Era: Warring Kingdoms](../../02-timeline/era-breakdowns/era-warring-kingdoms.md) - Twilight War
+- [Cultural Conflicts](../../03-cultures/cultural-conflicts.md) - Elven secrets
+
+---
+
+*The Silverwood Domain is the great unknown. They know more than anyone about vampires, they've been closed for 150 years, and they will absolutely have a plan for when the protagonist awakens. Whether that plan helps or destroys him is the question.*

@@ -4,102 +4,106 @@
 
 ## Immediate Next Phase
 
-### Phase 6: Faction & Power Structure Development
+### Phase 7: Geography & Relic Placement
 
-**Objective**: Build present-day political entities and secret societies
+**Objective**: Map the world and strategically place vampire remnants
 
 **Primary Tasks**:
 
-1. **Create empire files** in `04-factions/empires/`:
-   - Valdrian Empire
-   - Northern Dominion
-   - Sanctified States
-   - Maritime Republic
-   - Ironpeak Confederation
-   - Silverwood Domain
-   - Broken Lands Confederation
+1. **Create `05-geography/world-map-description.md`**:
+   - Continents and major regions
+   - Climate zones
+   - Major geographical features
+   - Travel times between regions
+   - Racial distribution
+   - Empire boundaries
 
-2. **For each power, document**:
-   - Government and rulers
-   - Territory and resources
-   - Military strength
-   - Cultural character
-   - Artifact holdings
-   - Internal conflicts
-   - Relations with others
-   - Role in story
+2. **Create regional files** in `05-geography/regions/`:
+   - For each major region (8-12 regions)
+   - Physical description
+   - Who controls it now
+   - What was here during vampire era
+   - Climate and resources
+   - Major settlements
+   - Vampire ruins in this region
 
-3. **Create secret society files** in `04-factions/secret-societies/`:
-   - Veil Keepers
-   - The Inheritors
-   - Order of the Dawn
-   - Others as needed
+3. **Create vampire ruin files** in `05-geography/vampire-ruins/`:
+   - Major underground cities (3-5):
+     - Vel'Thoras (protagonist's location)
+     - Vel'Krath (Throne military complex)
+     - Neth'Korath (Mind covenant capital)
+     - Sel'Naroth (Twilight sanctuary)
+   - Minor sites (12-20)
 
-4. **Create `faction-relationship-map.md`**:
-   - Alliances and rivalries
-   - Trade dependencies
-   - Secret connections
-   - Potential conflicts
+4. **Create `05-geography/relic-distribution.md`**:
+   - Map every significant artifact to location
+   - Who currently possesses it
+   - What it does
+   - Role in story potential
 
-**Output**: Complex present-day political web
+**Output**: Fully mapped world with strategic relic placement
 
 **Validation Questions**:
-- Do factions have conflicting goals?
-- Are internal conflicts believable?
-- Do relationships create organic conflict?
+- Are relics distributed to create conflicts?
+- Do ruins contain plot-relevant discoveries?
+- Do travel times make sense?
 
 ---
 
-## Key References from Phase 5
+## Key References from Phase 6
 
-### Cultural Framework Established
+### Political Web Established
 
-**Each race has**:
-- Self-serving historical narrative
-- Secrets from other races
-- Internal conflicts
-- Relationship with ruins/artifacts
+**Four Great Empires**:
+- Valdrian Empire: Traditional, succession crisis, largest artifact collection
+- Northern Dominion: Martial, aggressive king, Living Artifact conflict
+- Sanctified States: Theocratic, fundamentalist, Order of Dawn headquarters
+- Maritime Republic: Commercial, new leader after coup, Inheritor presence
 
-**Major conflicts**:
-- Goblin Wars (genocide vs. defense)
-- Twilight War (aggression vs. defense)
-- Divine punishment (true or myth)
-- Who freed whom (everyone claims credit)
+**Three Secondary Powers**:
+- Ironpeak Confederation: Dwarven neutral, essential to all, deep secrets
+- Silverwood Domain: Elven isolate, 150 years closed, unknown plans
+- Broken Lands: Goblin marginal, blood magic secret, justified rage
 
-**Truths that would destabilize**:
-- Divine punishment is myth
-- Races were modified by vampires
-- Elves can read vampire script
-- Goblins have blood magic
-- Vampire survivors exist
+**Three Secret Societies**:
+- Veil Keepers: Destroy dangerous knowledge, would kill protagonist
+- Inheritors: Recover knowledge, would study protagonist
+- Order of Dawn: Military order, would hunt protagonist
 
-### Protagonist's Challenge
-- His existence threatens all narratives
-- His knowledge is valuable and dangerous
-- He must navigate cultural conflicts
-- His choices shape outcomes
+**Key Dynamics**:
+- Valdrian-Northern war likely
+- Valdrian succession crisis
+- Sanctified persecution escalating
+- Secret society shadow war
+- Dimensional readings increasing
+
+### Protagonist's Situation
+
+**Immediate Threats**: Veil Keepers, Order of Dawn, Sanctified States
+**Ambiguous**: Inheritors, Northern Dominion, Maritime Republic
+**Possible Allies**: Individual reformists, scholars, goblins, elves
+**Best Hopes**: Ironpeak, Silverwood (if they allow)
 
 ---
 
-## Questions to Answer in Phase 6
+## Questions to Answer in Phase 7
 
-### For Each Empire
-- What does the ruler want?
-- What threatens them?
-- How would they react to protagonist?
-- What artifacts do they have?
+### For World Geography
+- Where exactly are empire territories?
+- What natural barriers exist?
+- How long to travel between major cities?
+- Where are the borders contested?
 
-### For Secret Societies
-- Who actually leads them?
-- What do they really know?
-- What would they do with protagonist?
-- How do they conflict?
+### For Vampire Ruins
+- Exact locations of major cities
+- What's in each (relevant to plot)
+- Current accessibility
+- Who knows about them
 
-### For Relationships
-- Who allies against whom?
-- What trade makes peace?
-- What could trigger war?
-- Where does protagonist fit?
+### For Artifact Distribution
+- Where is each major artifact now?
+- How were they distributed post-collapse?
+- Which create story opportunities?
 
 ---
 
@@ -109,32 +113,32 @@ When beginning next session:
 
 1. ☐ Read this document
 2. ☐ Read `master-index.md` for completion status
-3. ☐ Review `era-recent-past.md` for current rulers
-4. ☐ Review `cultural-conflicts.md` for tensions
-5. ☐ Begin with major empires
+3. ☐ Review `faction-relationship-map.md` for political context
+4. ☐ Review `era-recent-past.md` for current world state
+5. ☐ Begin with world-map-description.md
 
 ---
 
 ## Long-Term Roadmap
 
-After Phase 6, the sequence is:
+After Phase 7, the sequence is:
 
-- **Phase 7**: Geography & Relic Placement
 - **Phase 8**: Character Architecture
 - **Phase 9**: Magic & Technology Systems
 - **Phase 10**: Shadow Truths & Secrets
-
-These complete worldbuilding before plot architecture.
+- **Phase 11**: Plot Architecture
+- **Phase 12**: GRRM Style Guide
+- **Phase 13**: Consistency Validation
 
 ---
 
 ## Notes
 
-- Empires should reflect cultural patterns from Phase 5
-- Secret societies are key plot drivers
-- Relationships should create natural conflicts
-- Protagonist will interact with all factions
-- Leave room for character connections in Phase 8
+- Geography should support political conflicts
+- Ruin placement should create exploration opportunities
+- Artifact distribution should drive plot
+- Travel times affect pacing
+- Consider protagonist's journey through world
 
 ---
 

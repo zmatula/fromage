@@ -399,4 +399,88 @@ Proceed to **Phase 6: Faction & Power Structure Development**
 
 ---
 
+## Session 6 - 2025-11-22
+
+### Phase Completed
+**Phase 6: Faction & Power Structure Development**
+
+### Work Completed
+
+1. **Created seven empire files in `04-factions/empires/`**:
+   - `valdrian-empire.md`: Traditional monarchy, succession crisis, Crown of Seeing
+   - `northern-dominion.md`: Martial elective monarchy, aggressive king, Living Artifact conflict
+   - `sanctified-states.md`: Theocratic confederation, fundamentalist persecution, Order of Dawn HQ
+   - `maritime-republic.md`: Merchant oligarchy, recent coup, Inheritor base
+   - `ironpeak-confederation.md`: Dwarven neutral power, deep secrets, Forge of Souls
+   - `silverwood-domain.md`: Elven isolate, 150 years closed, unknown plans
+   - `broken-lands.md`: Goblin confederation, blood magic secret, justified rage
+
+2. **Created three secret society files in `04-factions/secret-societies/`**:
+   - `veil-keepers.md`: Destroy dangerous knowledge, would kill protagonist
+   - `inheritors.md`: Recover knowledge, would study/imprison protagonist
+   - `order-of-dawn.md`: Religious military order, would hunt protagonist relentlessly
+
+3. **Created `04-factions/faction-relationship-map.md`**:
+   - Empire relationships and dependencies
+   - Secret society conflicts
+   - Trade dependencies
+   - Alliance blocs and flashpoints
+   - How factions would react to protagonist
+
+### Major Decisions Made
+
+**Empire Rulers**:
+- Emperor Cassius VIII (Valdrian): Aging, no heir, Crown of Seeing visions
+- Warlord-King Aldric XII (Northern): Young, aggressive, wants war
+- High Theocrat Solarius VII (Sanctified): Fundamentalist, aging, fearful
+- First Merchant Corus IX (Maritime): New, uncertain, post-coup legitimacy
+- High Thane Borin Stonehammer (Ironpeak): Ancient (312 years), patient, cautious
+- War Chief Skarva Bloodtooth (Broken Lands): Young, intelligent, aggressive
+
+**Secret Society Leaders**:
+- Veil Keepers: The Circle (12 unknown), regional masters
+- Inheritors: Council of Light led by Grand Scholar Aldric Penwright
+- Order of Dawn: Grand Master Aurelius Dawnbringer
+
+**Key Political Dynamics**:
+- Valdrian-Northern war likely within years
+- Valdrian succession crisis (three candidates)
+- Sanctified persecution escalating (magic users, non-humans)
+- Maritime internal instability (Corus's legitimacy)
+- Silverwood 150-year silence (preparing for something)
+
+**Protagonist's Position**:
+- Immediate kill threats: Veil Keepers, Order of Dawn, Sanctified States
+- Would capture/study: Inheritors
+- Would weaponize: Northern Dominion
+- Would calculate: Maritime Republic
+- Might protect: Ironpeak (for study), Silverwood (unknown)
+
+### Key Connections Established
+
+- Each empire has internal conflicts that protagonist could exploit
+- Secret societies are in active shadow war
+- Every power has something to gain/lose from protagonist
+- Trade dependencies create leverage
+- Border disputes are flashpoints for war
+- Protagonist's awakening will catalyst everything
+
+### NPCs Created
+
+**~40 named NPCs** across all factions with:
+- Specific positions and goals
+- Relationships to protagonist
+- Internal conflicts
+- Story roles
+
+### Next Session Focus
+
+Proceed to **Phase 7: Geography & Relic Placement**
+- Create world-map-description.md
+- Create regional files (8-12)
+- Create vampire ruin files (3-5 major, 12-20 minor)
+- Create relic-distribution.md
+
+---
+
 *Add new sessions below this line*
