@@ -1,6 +1,6 @@
 # Shadow Truths
 
-What really happened vs what people believe for every major historical event.
+What might have happened vs what people believe. These are not definitive answers—they are the best reconstructions possible from fragmentary, contradictory evidence. Even these "shadow truths" may be wrong.
 
 ---
 
@@ -20,66 +20,69 @@ Most educated scholars believe:
 - Multi-causal: rebellion, infighting, overreach
 - Magical catastrophe of some kind
 - Specifics lost to time
-- Evidence fragmentary
+- Evidence fragmentary and contradictory
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What Actually Happened**:
-The Ascension Experiment on 14th Deepwinter, Year 0 attempted to create a permanent dimensional anchor to draw unlimited power. It overloaded the Bloodweb, inverting energy flow and draining life force from all connected vampires. 94% died within 6 months.
+**Possibility A: The Ascension Experiment**
+The Mind Covenant attempted to create a permanent dimensional anchor. It overloaded the Bloodweb, inverting energy flow and draining connected vampires.
+- *Evidence for*: The Scar's dimensional signature; Neth'Korath equipment; timing on 14th Deepwinter
+- *Evidence against*: Energy patterns suggest multiple sources, not one; Twilight sanctuaries sealed 3 days BEFORE the experiment
+- *Who benefits from this narrative*: Inheritors (proves vampire hubris, not divine plan)
 
-**Why This Happened**:
-- Covenant of the Eternal Mind believed unlimited power possible
-- Bloodweb dependency made all vampires vulnerable
-- No cooperation between covenants (cold war prevented coordination)
-- Warnings suppressed, dissenters silenced
-- Hubris: believed they could transcend limits
+**Possibility B: Sabotaged Experiment**
+The experiment was deliberately compromised by Twilight agents (or Throne, or slave races) who knew it would fail catastrophically.
+- *Evidence for*: Twilight pre-sealed their sanctuaries; Velanna activated protagonist's stasis 14 hours early; slave race coordination in final decade
+- *Evidence against*: No confessions found; Twilight lost members too; sabotage capability questionable
+- *Who benefits from this narrative*: Those who want to blame specific factions
 
-**Contributing Factors**:
-- 800 years of Bloodweb dependency
-- Servant race rebellions (human Year -50, elf Year -30, dwarf Year -20)
-- Aging infrastructure
-- Magical pollution from centuries of use
-- Covenant cold war preventing response
+**Possibility C: Multi-Causal Cascade**
+No single cause—infrastructure failure, magical pollution, active sabotage, and the experiment combined unpredictably.
+- *Evidence for*: Bloodweb efficiency down to 15%; slave rebellions ongoing; covenant cold war prevented response
+- *Evidence against*: Collapse was too sudden and complete for gradual failure
+- *Who benefits from this narrative*: Those who want no one blamed
 
-### Who Knows The Truth
+**Possibility D: Something Came Through**
+The dimensional breach worked—and something on the other side responded by draining the vampires.
+- *Evidence for*: Energy signatures at The Scar show BOTH inward and outward flow; dimensional entities documented in vampire research; the breach is still active
+- *Evidence against*: No entity was ever seen; vampires died of Bloodweb drain, not attack
+- *Who benefits from this narrative*: Veil Keepers (proves dimensional threat is real)
 
-**Full Truth**:
-- No one living (except possibly vampire survivors in sanctuaries)
-- Protagonist knows partial truth from memories
+### What Cannot Be Known
 
-**Substantial Understanding**:
-- Inheritors (theory based on Blood Archives)
-- Veil Keepers (fragments from surveillance)
-- Silverwood elves (their own records)
+- The exact sequence of events on 14th Deepwinter
+- Whether anyone intended the full scale of destruction
+- What the experiment was truly meant to accomplish
+- Who (if anyone) knew it would fail
+- Why Velanna activated protagonist's stasis early
 
-**Hints**:
+### Contradictory Evidence
+
+- Twilight sanctuaries sealed 3 days before collapse—foreknowledge or coincidental paranoia?
+- Dwarven maintenance logs altered in Year 3—covering up sabotage or just errors?
+- Vampire survivor accounts describe "attack from within"—Bloodweb inverting or actual assault?
+- Energy patterns show multiple origin points—multiple causes or measurement error?
+
+### Who Has Partial Understanding
+
+**Extensive but flawed**:
+- Inheritors (theory based on Blood Archives—but Archives are incomplete)
+- Silverwood elves (their records—but records were edited)
+- Veil Keepers (surveillance fragments—but fragments are fragments)
+
+**Hints only**:
 - Some dwarven scholars
 - Maritime academics
 - Order of Dawn researchers (suppressed)
 
-### Evidence That Exists
-
-- Blood Archives describe experiment (encrypted sections)
-- Neth'Korath ruins contain equipment
-- The Scar is physical proof of dimensional breach
-- Vampire records in various ruins
-- Sel'Naroth sanctuaries may have complete records
-
-### How Truth Could Be Discovered
-
-- Protagonist's memories (partial, some false)
-- Blood Archives full access (requires vampire blood)
-- Vel'Thoras inner sanctum records
-- Sel'Naroth expedition
-- Living Artifact interrogation
+*Note: No one has "full truth." The elves believe they do, but their archives have sealed sections and internal contradictions.*
 
 ### Why It Matters
 
-- Proves collapse was preventable (vampire hubris, not divine plan)
-- Shows dimensional threat still active
-- Explains protagonist's existence
-- Could repeat if others pursue unlimited power
-- Undermines Church authority (no divine intervention)
+- The collapse pattern could repeat
+- The dimensional threat may still be active
+- Understanding the cause might prevent recurrence
+- Each interpretation supports different current political positions
 
 ---
 
@@ -99,53 +102,42 @@ The Ascension Experiment on 14th Deepwinter, Year 0 attempted to create a perman
 - Conquered and subjugated
 - Recovered after collapse
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What Actually Happened**:
-All current races were modified by vampires during their dominion. The pre-vampire civilizations were largely destroyed. Present races are descended from servant populations that were genetically/magically altered for specific purposes.
+**Possibility A: Complete Modification**
+All current races were genetically/magically altered by vampires for specific purposes. Pre-vampire populations were destroyed or absorbed.
+- *Evidence for*: Vampire records of "servant optimization"; physical traces of modification; goblin blood magic compatibility
+- *Evidence against*: Pre-vampire ruins show similar-looking populations; modifications would require more infrastructure than existed early
 
-**Modifications**:
-- Humans: Modified for blood quality and breeding speed
-- Elves: Modified for magical sensitivity and longevity
-- Dwarves: Modified for strength and craftsmanship
-- Goblins: Modified for blood magic compatibility
+**Possibility B: Partial Enhancement**
+Races existed before vampires but were enhanced for specific roles. Core nature unchanged; abilities augmented.
+- *Evidence for*: Pre-vampire civilizations documented; racial characteristics predate vampire contact; enhancement more feasible than creation
+- *Evidence against*: Vampire records claim more extensive modification
 
-**Original Forms**:
-Unknown. Pre-modification populations may have been similar to current races or quite different. Records unclear.
+**Possibility C: Selective Breeding**
+Not magical modification but centuries of selective breeding for desired traits. Less dramatic but still artificial.
+- *Evidence for*: Simpler explanation; doesn't require advanced vampire capabilities; breeding programs documented
+- *Evidence against*: Some traits seem too extreme for breeding alone; timeline too short
 
-### Who Knows The Truth
+### What Cannot Be Known
 
-**Full Truth**:
-- Silverwood elves (their archives)
-- Possibly vampire survivors
-- Protagonist (partial, implanted counter-memories)
+- What the races looked like before vampire contact
+- Whether any "original" populations survive
+- The full extent of modifications
+- Whether modifications are reversible
 
-**Suspects**:
-- Inheritor leadership
-- Some dwarven deep holds
-- Goblin elder shamans
+### Contradictory Evidence
 
-### Evidence That Exists
-
-- Vampire records of "servant optimization"
-- Physical traces of modifications
-- Elven archives (sealed)
-- Goblin blood magic suggests connection
-
-### How Truth Could Be Discovered
-
-- Vel'Thoras biology archives
-- Silverwood records (if elves share)
-- Protagonist's knowledge
-- Blood Archives encrypted sections
+- Elven archives claim they were "optimized for sensitivity"—but also claim ancient pre-vampire magical traditions. Both can't be fully true.
+- Dwarven deep holds have pre-vampire artifacts—made by whom?
+- Human and goblin blood are more similar than either is to elves or dwarves—common modification or common origin?
 
 ### Why It Matters
 
-- Identity crisis for all races (not created, but made)
-- Human religion undermined (not divine creation)
-- Elven superiority challenged (just differently modified)
-- Goblin connection to vampires explained
-- Political upheaval if widely known
+- Identity crisis for all races
+- Religious implications (humans: not divine creation?)
+- Political implications (elven superiority challenged)
+- May explain current magical capabilities and limitations
 
 ---
 
@@ -160,58 +152,43 @@ Unknown. Pre-modification populations may have been similar to current races or 
 ### What Scholars Think
 
 - Magic works through faith focus
-- No evidence of actual deity
+- No conclusive evidence of actual deity
 - Church magic effective regardless of theology
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What Actually Happened**:
-There is no Divine Light as a conscious deity. Church "divine" magic is actually standard ambient energy manipulation using faith as a focusing mechanism. This works—faith is an effective focus—but there's no god answering prayers.
+**Possibility A: No Deity**
+There is no Divine Light as conscious entity. Church "divine" magic is ambient energy manipulation using faith as focus. Works because faith provides concentration, not because god answers.
+- *Evidence for*: Church magic works for trained non-believers; no documented divine intervention; collapse clearly not targeted punishment
+- *Evidence against*: Cannot prove negative; faith healings have occurred; something responds to prayer (even if just magic)
 
-**Why It Works**:
-- Faith provides concentration and will
-- Ritual creates proper mental state
-- Symbols focus ambient energy
-- Healing happens because magic works, not because god wills it
+**Possibility B: Impersonal Force**
+The Divine Light exists as a real force but not a conscious deity. It can be channeled but doesn't have will or intent.
+- *Evidence for*: Consistent magical effects; faith as focus works better than other methods for some people; something IS there
+- *Evidence against*: No communication; no guidance; no miracles beyond what magic explains
 
-**The Collapse**:
-Was not divine punishment. Was vampire hubris and magical catastrophe. Divine punishment narrative was created by emerging Church to explain events and establish authority.
+**Possibility C: Unknown Entity**
+Something exists that responds to faith—but its nature is unknown. Could be deity, could be something else entirely.
+- *Evidence for*: Prayer effects sometimes exceed standard magic; rare events defy explanation; faith traditions predate vampires
+- *Evidence against*: Entity never communicates clearly; never intervenes decisively; might be projection
 
-### Who Knows The Truth
+### What Cannot Be Known
 
-**Full Truth**:
-- No one conclusively (no proof god doesn't exist either)
-- High-level Inheritors suspect
-- Some Academic magicians know church magic is just magic
-
-**Theological Doubts**:
-- Veil Keeper leadership (they see faith as tool)
-- Maritime secular scholars
-- Some honest priests
-
-### Evidence That Exists
-
-- Church magic works for non-believers who use faith-focus technique
-- No documented divine intervention (all explainable as magic)
-- Collapse clearly not targeted punishment (everyone suffered)
-
-### How Truth Could Be Discovered
-
-- Comparing church magic to other traditions
-- Examining collapse evidence (no divine hand visible)
-- Protagonist's vampire perspective (they didn't encounter divine beings)
+- Whether any conscious entity exists
+- If something exists, whether it's benevolent
+- Whether faith-magic is fundamentally different from other magic
+- Why faith works as a focus if there's no deity
 
 ### Why It Matters
 
-- Would destroy Church authority
-- Millions rely on faith for meaning
-- Church magic would still work, but belief would shake
-- Political chaos in Sanctified States
-- Some truths may be better unknown
+- Church authority rests on divine mandate
+- Millions find meaning through faith
+- Political stability of Sanctified States depends on belief
+- *Some truths may cause more harm than good*
 
 ---
 
-## The Goblin Wars
+## The Goblin Wars (Year 420-520)
 
 ### What People Believe
 
@@ -225,55 +202,50 @@ Was not divine punishment. Was vampire hubris and magical catastrophe. Divine pu
 - Both sides committed atrocities
 - Goblins lost and were confined
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What Actually Happened**:
-After the collapse, humans systematically targeted goblins for extermination, blaming them for collaborating with vampires. Goblins were the most visibly modified race and the easiest scapegoats. The "Goblin Wars" were largely human aggression against a population that fought back.
+**Possibility A: Human Genocide**
+Humans systematically targeted goblins for extermination after collapse, blaming them for vampire collaboration. Goblins fought defensively.
+- *Evidence for*: Human weapons in goblin mass graves; "containment zones" established before major goblin actions; goblin oral histories consistent
+- *Evidence against*: Goblin raids documented from Year 380; goblins held dangerous blood magic knowledge; some attacks were clearly offensive
 
-**Human Actions**:
-- Systematic destruction of goblin settlements
-- Massacres of civilian populations
-- Forced concentration in Broken Lands
-- Erasure from historical record
+**Possibility B: Goblin Aggression**
+Goblins used post-collapse chaos to seize territory and power. Their blood magic made them genuine threats. Humans defended themselves, perhaps excessively.
+- *Evidence for*: Goblin raids on human settlements from Year 380; blood magic use in attacks; goblin population expanding while humans suffered famine
+- *Evidence against*: Raids may have been retaliation for earlier unrecorded actions; "containment" preceded major goblin military action
 
-**Goblin Actions**:
-- Defensive warfare
-- Retaliatory raids
-- Retreat to marginal lands
-- Development of blood magic in secret
+**Possibility C: Mutual Escalation**
+Local conflicts over vampire ruins and resources escalated into total war. Neither side wanted it; neither would back down. Both committed atrocities.
+- *Evidence for*: Dwarven neutral records show both sides' aggression; initial conflicts were over ruin access; escalation pattern clear
+- *Evidence against*: Doesn't explain scale of human anti-goblin action; mass graves suggest systematic, not reactive
 
-### Who Knows The Truth
+**Possibility D: Third Party Manipulation**
+Elves or proto-secret societies deliberately provoked both sides to weaken potential rivals.
+- *Evidence for*: Elves stayed suspiciously neutral; some "first strikes" may have been false flags; someone benefited from both sides weakening
+- *Evidence against*: No direct evidence; both sides had real grievances
 
-**Full Truth**:
-- Goblin oral histories
-- Some dwarven records (they stayed neutral)
-- Elven archives
-- Protagonist (vampire perspective saw goblins as servants, not aggressors)
+### What Cannot Be Known
 
-**Suspects**:
-- Honest human historians (findings suppressed)
-- Maritime scholars (more objective)
+- Who struck first and where
+- Whether any single incident started it or if it was multiple origins
+- The true death tolls (records destroyed by both sides)
+- Whether peace was ever possible
 
-### Evidence That Exists
+### Contradictory Evidence
 
-- Goblin oral traditions (dismissed as biased)
-- Archaeological evidence (human weapons in goblin mass graves)
-- Dwarven neutral accounts
-- Elven records
+- Year 450 peace treaty rejected by humans—but goblin terms demanded human children as hostages. Unreasonable or reasonable security?
+- Blackmarsh Massacre: 3,000 goblin dead, human weapons—but shamanic residue suggests blood magic was being performed. Genocide or preemptive strike?
+- Dwarven records from Year 415: "human armies moving south"—but dwarves were selling weapons to both sides. Accurate witness or interested party?
 
-### How Truth Could Be Discovered
+### The Uncomfortable Question
 
-- Protagonist sharing vampire-era perspective
-- Dwarven records made public
-- Archaeological work
-- Silverwood archives
+Does "who started it" even matter after a century of mutual atrocities? Both peoples are now shaped by this war. The moral accounting may be impossible—and attempts to establish it just reopen wounds.
 
 ### Why It Matters
 
-- Justifies goblin rage (it's righteous, not savage)
-- Undermines human moral superiority
-- Explains current tensions
-- Could either heal divisions or inflame them
+- Justifies or undermines goblin rage
+- Challenges or supports human moral claims
+- Could heal divisions—or make reconciliation impossible
 
 ---
 
@@ -291,51 +263,41 @@ After the collapse, humans systematically targeted goblins for extermination, bl
 - Elves responded with force
 - Treaty resulted in elven isolation
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What Actually Happened**:
-Human expeditions discovered approaching Sel'Naroth sanctuary. Elves realized humans might find vampire survivors or dangerous knowledge. Elves launched preemptive attack to establish buffer zone and seal approach to sanctuary.
+**Possibility A: Sel'Naroth Protection**
+Human expeditions approached Sel'Naroth sanctuary. Elves launched preemptive attack to establish buffer zone and protect the sanctuary secret.
+- *Evidence for*: War started after specific expedition reports; elven attack targeted specific areas; isolation more complete than conflict required
+- *Evidence against*: Sanctuary location still uncertain; elves lost territory and gained nothing visible
 
-**Elven Motivation**:
-- Protect Sel'Naroth secret
-- Prevent human access to dangerous knowledge
-- Buy time for unknown elven plans
-- Not about territory—about the sanctuary
+**Possibility B: Internal Elven Conflict**
+The war was actually about something internal to Silverwood—a coup, a succession crisis, a purge. The "human threat" was pretext.
+- *Evidence for*: 150-year isolation suggests internal issues; no elven faction benefited from human conflict; leadership changed after war
+- *Evidence against*: Real casualties on both sides; territory genuinely lost
 
-**Result**:
-- Elves achieved objective
-- Sanctuary approach protected
-- 150 years of isolation to prepare for... something
+**Possibility C: Prophecy Response**
+Elven seers foresaw events now occurring (protagonist's awakening?). The war and isolation were preparation for this moment.
+- *Evidence for*: Timing matches Twilight calendar cycles; elves have longer planning horizons; Thandril's daughter knew something
+- *Evidence against*: Prophecy is unfalsifiable; elves may just claim foresight after the fact
 
-### Who Knows The Truth
+**Possibility D: They Found Something Terrible**
+The human expedition didn't approach Sel'Naroth—they found something worse. Elves are protecting the world, not themselves.
+- *Evidence for*: Would explain extreme reaction; would explain continued isolation; would explain why they won't explain
+- *Evidence against*: No evidence of what this "something" could be
 
-**Full Truth**:
-- Silverwood leadership
-- Thandril Shadowleaf (but doesn't understand why)
+### What Cannot Be Known
 
-**Suspects**:
-- Veil Keepers (they watch everything)
-- Some Inheritors
-
-### Evidence That Exists
-
-- War started after specific expedition reports
-- Elven attack targeted specific areas
-- Isolation more complete than conflict required
-
-### How Truth Could Be Discovered
-
-- Thandril learning the purpose of his orders
-- Veil Keeper intelligence
-- Finding what the expedition discovered
-- Sel'Naroth expedition
+- Why the elves really attacked
+- What the human expedition actually found
+- What the elves are preparing for
+- Whether the isolation will end
 
 ### Why It Matters
 
 - Elves are hiding something major
-- Sel'Naroth may have survivors
-- 150 years of isolation suggests big preparation
+- 150 years of isolation suggests significant preparation
 - War may resume if humans approach again
+- Elven knowledge is inaccessible to other races
 
 ---
 
@@ -343,110 +305,325 @@ Human expeditions discovered approaching Sel'Naroth sanctuary. Elves realized hu
 
 ### What People Believe
 
-**Northern Dominion**: Powerful weapon they want back
+**Northern Dominion**: Powerful weapon they want
 **Veil Keepers**: Dangerous object requiring containment
 **Scholars**: Unknown vampire creation
 
 ### What Scholars Think
 
 - Some kind of autonomous intelligence
-- Possibly bound entity
-- Possibly artificial mind
+- Possibly bound entity or artificial mind
 - Very dangerous
 
-### Shadow Truth
+### Possible Truths (All Fit Evidence)
 
-**What It Actually Is**:
-Unknown. Possibilities include:
-1. Preserved vampire consciousness (a survivor in object form)
-2. Failed Sanguine Vessel (Vessel 11?)
-3. Bound extra-dimensional entity
-4. Artificial intelligence experiment
-5. Something entirely unprecedented
+**Possibility A: Failed Sanguine Vessel**
+Vessel 11 from the protagonist's program. Stasis failed differently—consciousness preserved in different form.
+- *Evidence for*: Timeline matches; similar creation process; responds to blood
+- *Evidence against*: Different enough to be unrecognizable; no records of this failure mode
 
-**What It Knows**:
-- Responds to questions sometimes
-- Demands blood
-- Shows awareness of surroundings
-- May be manipulating handlers
+**Possibility B: Preserved Vampire Consciousness**
+A vampire who transferred into an object to survive the collapse.
+- *Evidence for*: Vampires researched consciousness transfer; would explain survival; would explain knowledge
+- *Evidence against*: No record of successful transfer; would need Bloodweb access
 
-### Who Knows The Truth
+**Possibility C: Bound Dimensional Entity**
+Something brought through a breach and bound into the artifact.
+- *Evidence for*: Vampires worked with dimensional energy; would explain alien behavior; doesn't need vampire survival
+- *Evidence against*: Binding process unknown; entity would be very different
 
-- Possibly no one
-- Veil Keepers studying it
-- It knows what it is
+**Possibility D: Something Unprecedented**
+None of the above. Something genuinely new.
 
-### Evidence That Exists
+### What Cannot Be Known
 
-- The artifact itself
-- Vel'Krath records (if accessible)
-- Blood Archives (if relevant sections exist)
-
-### How Truth Could Be Discovered
-
-- Getting it to reveal itself
-- Vel'Krath deep records
-- Protagonist might recognize it
-- Full Blood Archives access
+- What it actually is
+- What it knows
+- What it wants
+- Whether it can be trusted
 
 ### Why It Matters
 
-- Connection to protagonist?
-- Information source about vampire era
-- Potential weapon or ally
-- Could be very dangerous if freed/activated
+- Possible connection to protagonist
+- Potential information source—or disinformation source
+- Could be weapon, ally, or threat
+- May know truths no one else does—or may lie
 
 ---
 
-## Additional Shadow Truths
+## Additional Contested Truths
 
-### Emperor Cassius's Madness
+### Emperor Cassius's Decline
 
 **What People Believe**: Aging and stress
-**Shadow Truth**: Crown of Seeing is destroying his mind with visions he can't stop
+**Possible Truth A**: Crown of Seeing destroying his mind
+**Possible Truth B**: Dimensional entity manipulating him through Crown
+**Possible Truth C**: Genuine prophetic visions he can't process
+*What remains unknown*: Which visions are real, which are corruption
 
 ### Maritime Coup (Year 1198)
 
 **What People Believe**: Legitimate merchant dispute
-**Shadow Truth**: Inheritor-backed power play; Corus IX is their puppet
+**Possible Truth A**: Inheritor-backed power play
+**Possible Truth B**: Veil Keeper operation gone wrong
+**Possible Truth C**: Corus IX genuinely won legitimately
+*What remains unknown*: Who really controls the Republic now
 
-### Northern Military Buildup
+### Silverwood Border Closure (Year 1050)
 
-**What People Believe**: Defense against border threats
-**Shadow Truth**: Aldric XII preparing invasion of Valdrian Empire; wants all artifacts
-
-### Sanctified Persecution
-
-**What People Believe**: Religious purification
-**Shadow Truth**: Theocrat Solarius paranoid about losing power; persecution is control mechanism
+**What People Believe**: Response to Twilight War
+**Possible Truth A**: Preparing for protagonist's awakening
+**Possible Truth B**: Hiding internal civil war
+**Possible Truth C**: Protecting world from something they found
+**Possible Truth D**: Leadership change requiring isolation
+*What remains unknown*: What triggered it; when it will end
 
 ### Dwarven Neutrality
 
 **What People Believe**: Traditional isolationism
-**Shadow Truth**: Deep holds hide major secrets; neutrality protects them from scrutiny
+**Possible Truth A**: Deep holds hide active vampire technology
+**Possible Truth B**: Dwarves trade with Twilight sanctuaries
+**Possible Truth C**: Neutrality protects genuinely innocent population
+*What remains unknown*: What's in the sealed holds
 
 ---
 
-## Truth Distribution Matrix
+## Knowledge Distribution
 
-| Secret | Valdrian | Northern | Sanctified | Maritime | Inheritors | Veil Keepers | Elves | Dwarves | Goblins |
-|--------|----------|----------|------------|----------|------------|--------------|-------|---------|---------|
-| Collapse cause | No | No | No | Partial | Most | Partial | Yes | Partial | No |
-| Race modification | No | No | No | No | Suspect | No | Yes | Partial | Partial |
-| Divine Light | No | No | No | Suspect | Suspect | Yes | Yes | Suspect | Yes |
-| Goblin Wars truth | No | No | No | Partial | No | Partial | Yes | Yes | Yes |
-| Twilight War truth | No | No | No | No | Suspect | Suspect | Yes | No | No |
-| Living Artifact | No | No | No | No | No | Studying | No | No | No |
+Rather than a simple matrix of who "knows" what, this reflects degrees of understanding and confidence.
+
+### The Collapse
+
+| Faction | Understanding | Confidence | Accuracy |
+|---------|---------------|------------|----------|
+| Inheritors | Extensive theory | High | Uncertain |
+| Silverwood | Edited records | High | Partial |
+| Veil Keepers | Surveillance fragments | Medium | Uncertain |
+| Dwarves | Maintenance records | Low | Unknown |
+| Goblins | Shamanic visions | Low | Unknown |
+| Humans | Religious narrative | High | Probably wrong |
+
+### Race Origins
+
+| Faction | Understanding | Confidence | Accuracy |
+|---------|---------------|------------|----------|
+| Silverwood | Detailed but edited | High | Partial |
+| Inheritors | Theoretical | Medium | Uncertain |
+| Dwarves | Physical evidence | Low | Unknown |
+| Goblins | Shamanic traditions | Medium | Unknown |
+| Humans | Religious belief | High | Probably wrong |
+
+### Key Insight
+
+**No faction has "the truth."** The elves are confident but their archives were edited. The Inheritors have theories but incomplete evidence. The Veil Keepers observe but don't understand. Everyone is working with fragments and biases.
+
+---
+
+## Principles for Discovery
+
+When the protagonist or other characters learn "truths," remember:
+
+1. **Sources are biased**: Every informant has agenda and blind spots
+2. **Evidence contradicts**: Physical proof supports multiple readings
+3. **Memory fails**: Even vampire records may be wrong
+4. **Some things are unknowable**: Not every question has an answer
+5. **"Truth" may cause harm**: Some revelations destabilize without enlightening
+
+The goal is not to give characters THE truth, but to give them truths they must evaluate—and often cannot verify.
+
+---
+
+## Permanent Mysteries
+
+These questions can **never** be answered. Not because the evidence is hidden, but because it was destroyed, was never recorded, or involves fundamentally unknowable factors.
+
+### The Collapse
+
+**Permanently Unknown**:
+- The exact sequence of events on 14th Deepwinter. All eyewitnesses died. Records were destroyed by the energy wave itself.
+- Whether Mordecai knew the experiment would fail. His last thoughts died with him.
+- What the dimensional entities actually wanted. Alien minds are not comprehensible by mortal understanding.
+- Why Velanna activated the protagonist's stasis early. She died without recording her reasoning.
+- Whether the Collapse could have been prevented. The counterfactual cannot be tested.
+
+**Why These Are Unknowable**:
+Every witness is dead. The records were at ground zero. The dimensional entities (if they exist) don't communicate in ways we can understand. Some truths simply ceased to exist on 14th Deepwinter.
+
+### What Happened in Twilight Sanctuaries
+
+**Permanently Unknown**:
+- How many vampires survived the Collapse in sanctuaries. No contact in 1,200 years.
+- What they've been doing for twelve centuries. No observation possible.
+- Whether they're still alive. No one has reached a sanctuary and returned.
+- What they want. They haven't communicated.
+- Whether they're a threat. No interaction to judge from.
+
+**Why These Are Unknowable**:
+The sanctuaries are sealed. No one has penetrated them. We don't even know for certain where they are. Absence of evidence isn't evidence of absence—or of presence.
+
+### The True Nature of Divine Light
+
+**Permanently Unknown**:
+- Whether any conscious entity exists. Every test has been inconclusive.
+- If something exists, what it wants. No clear communication has ever occurred.
+- Whether faith-magic is fundamentally different from secular magic. Cannot separate the variables.
+- Why faith works as a focus. Could be divine, could be psychological, could be unknown.
+
+**Why These Are Unknowable**:
+If the Divine Light is a conscious entity, it has never clearly communicated. If it's not, there's no mind to query. We cannot design an experiment that distinguishes "deity that chooses not to respond" from "no deity." The question may be unanswerable by nature.
+
+### The Year 812 Vampire's "They"
+
+**Permanently Unknown**:
+- What the Year 812 vampire meant by "they" in reference to the Scar. He died before explaining.
+- Whether his information about "Children of the Vessels" was accurate. No corroborating source exists.
+- What else he knew. The questioning was incomplete when he was executed.
+
+**Why These Are Unknowable**:
+The vampire was destroyed before he could explain. The Church officials who questioned him are dead. The records were sealed and don't contain clarification. The one person who knew is gone.
+
+### The Death of Vykros
+
+**Permanently Unknown**:
+- Whether the first vampire king was murdered or died of natural causes. All witnesses are dead.
+- If murdered, by whom. Four factions had motive; all denied involvement.
+- What his final words meant. Different accounts report different things.
+- What would have happened if he'd lived. Counterfactual—cannot be known.
+
+**Why These Are Unknowable**:
+Vykros died before the Bloodweb recorded memories. The vampires who were present all died on Collapse Day. The throne succession happened under secrecy rules. No physical evidence survived.
+
+### Pre-Vampire Civilization
+
+**Permanently Unknown**:
+- What the races looked like before vampire modification. No unmodified populations survive.
+- The true history of pre-vampire nations. Most records were destroyed by vampires.
+- What knowledge existed that vampires suppressed. Suppressed knowledge doesn't survive.
+- Whether any "original" cultures continue. We'd have no way to recognize them.
+
+**Why These Are Unknowable**:
+The vampires spent a thousand years destroying pre-vampire records and modifying subject populations. The Dark Ages finished the job. What remains is fragments, often filtered through vampire perspectives.
+
+---
+
+## Year 812: Disputed Versions
+
+This event deserves special attention because it's the only confirmed post-Collapse contact with vampire civilization—and it was hidden.
+
+### The Official Version (Church)
+
+"Ancient vampire corpse discovered in stasis chamber. Destroyed immediately as precaution. No intelligence value. No ongoing threat."
+
+*Purpose of this narrative*: Maintain that vampires are extinct. No need for alarm or action.
+
+### Veil Keeper Version
+
+"Living vampire interrogated for six days. Revealed information about survivors, dimensional threats, and something called 'the Vessels.' Executed, and records sealed by Church inner council."
+
+*Purpose of this narrative*: Prove Church conspiracy. Justify Veil Keeper surveillance and independence.
+
+### Inheritor Version
+
+"Vampire confirmed existence of Project Vessel and other preservation programs. Knowledge destroyed by Church to maintain monopoly on vampire heritage."
+
+*Purpose of this narrative*: Support Inheritor claims to vampire legacy. Attack Church legitimacy.
+
+### Scholarly Version
+
+"Something happened at Iron Ridge Mine in Year 812. Official records are inconsistent. The truth is probably between extremes."
+
+*Purpose of this narrative*: Cautious academic position. Avoids commitment.
+
+### The Actual Record (Sealed)
+
+Inquisitor Sennett's report exists in Church vault. It confirms:
+- Living vampire, questioned six days
+- Revealed information about sanctuaries, Vessel, dimensional threats
+- Executed, records sealed by High Council decision
+- Cover-up acknowledged as "necessary protection of faithful"
+
+*But*: Even this record may be incomplete. Sennett died five years later under suspicious circumstances. What he knew beyond what he wrote is lost.
+
+### What Can Never Be Verified
+
+- Whether the vampire told the truth (he may have lied or been wrong)
+- What he would have revealed with more questioning (he was executed early)
+- Whether the Church investigation found anything (records of investigation are also sealed—or destroyed)
+- What the miners saw that wasn't reported (they were "dealt with")
+
+---
+
+## Contradictory Evidence: Examples
+
+For each major historical question, evidence exists that supports AND contradicts every theory. This isn't hidden information to be discovered—it's genuine ambiguity built into the historical record.
+
+### The Collapse
+
+**Evidence the experiment caused it**:
+- The Scar's dimensional signature
+- Mind equipment at ground zero
+- Timing on experiment day
+- Bloodweb behavior consistent with overload
+
+**Evidence something else caused it**:
+- Energy patterns suggest multiple sources
+- Twilight sealed sanctuaries 3 days BEFORE
+- Slave race coordination suggests pre-existing crisis
+- Some systems failed before experiment began
+
+**Evidence of sabotage**:
+- Twilight foreknowledge
+- Velanna's early stasis activation
+- Dwarven maintenance log alterations
+- Internal faction tensions
+
+**Evidence against sabotage**:
+- No confessions ever found
+- Twilight lost members too
+- Sabotage capability questionable
+- Would require impossible coordination
+
+*No theory survives contact with all evidence.*
+
+### Vampire Survivor Accounts
+
+The roughly 1,000 vampires who survived in sanctuaries have never been contacted. But in the early years, some escaped vampires left accounts before dying.
+
+**What they described**:
+- "Attack from within the Bloodweb"
+- "The network turned against us"
+- "Something came through"
+- "We were drained"
+
+**Why this doesn't clarify**:
+- "Attack" could be Bloodweb inversion or actual assault
+- "Something came through" could be literal or metaphor
+- These vampires were dying and confused
+- Their accounts contradict each other
+
+### Year 812 Vampire Statements
+
+**What he reportedly said**:
+- "Others sleeping" (sanctuaries? or something else?)
+- "Children of the Vessels" (Project Vessel? or different program?)
+- "Did they come through?" (dimensional entities? vampires? who?)
+- "You don't know" (about what specifically?)
+
+**Why this doesn't clarify**:
+- He spoke in fragments, often unclear
+- Inquisitor's report interprets rather than quotes
+- Some statements may have been fever-speech
+- He was executed before explaining
 
 ---
 
 ## Cross-References
 
-- [Collapse Event](../02-timeline/collapse-event.md) - Full collapse details
-- [Cultural Memory Matrix](../03-cultures/cultural-memory-matrix.md) - What each culture believes
-- [Protagonist](../06-characters/protagonist.md) - What he knows/doesn't know
-- [Discoverable Secrets](discoverable-secrets.md) - When truths are revealed
+- [The Collapse](../02-timeline/collapse-scenes.md) - Dramatized events
+- [Year 812 Discovery](../02-timeline/year-812-discovery.md) - Dramatized scenes
+- [Consequence Chains](../09-plot-architecture/consequence-chains.md) - How these mysteries affect Year 1200
+- [Cultural Memory Matrix](../03-cultures/cultural-memory-matrix.md) - How races remember these events differently
 
 ---
 
-*The world runs on comfortable lies. Every major "truth" is partially or completely false. These shadow truths are the real foundation of history—and the protagonist's arrival threatens to expose them all.*
+*The world runs on comfortable lies and uncertain truths. These shadow truths are not answers but better questions—the real foundation is ambiguity itself. Some mysteries are hidden. Some are disputed. Some are permanently unknowable—and that's the most authentic history of all.*
