@@ -228,6 +228,140 @@ Wars were mostly about resources and power, not ideology. Each side's atrocities
 
 ---
 
+## Internal Race Debates
+
+Each race is not monolithic—they argue among themselves about their own history, values, and future.
+
+---
+
+### Human Internal Debates
+
+**The Collaborator Question**:
+- **Hardliners**: All collaborators were traitors. Their descendants should be marked and excluded.
+- **Pragmatists**: Collaboration was survival. Many "heroes" were collaborators too. Let the past die.
+- **Revisionists**: Some collaborators protected humans from worse fates. We should be grateful.
+- **Status**: Officially settled (collaborators forgiven after three generations) but still divides noble families.
+
+**The Divine Light's Nature**:
+- **Orthodox**: Divine Light is literally divine—a god who intervened to destroy vampires.
+- **Pragmatic**: Divine Light is divine energy that humans learned to channel. God helps those who help themselves.
+- **Secular**: Divine Light is natural magic. Vampires had it too. Church is political control.
+- **Status**: Orthodox is official doctrine but Pragmatic is growing among educated classes.
+
+**What To Do With Vampire Knowledge**:
+- **Destroyers**: All vampire knowledge is tainted. Destroy it. Build human knowledge from scratch.
+- **Users**: Knowledge is neutral. Use what's useful. Vampires were advanced; learn from them.
+- **Preservers**: Study but don't use. Understand the past without repeating it.
+- **Status**: Users are winning politically but Destroyers have popular support.
+
+**Goblin Policy**:
+- **Exterminationists**: Goblins are a threat. Finish what the Goblin Wars started.
+- **Containment**: Keep them in the Broken Lands. Trade when convenient. Kill raiders.
+- **Integration**: Goblins are people. The wars were wrong. Work toward reconciliation.
+- **Status**: Containment is official policy but Exterminationists have military support.
+
+---
+
+### Elven Internal Debates
+
+**The Collaboration Shame**:
+- **Acknowledgment**: We collaborated. We should admit it, learn from it, move on.
+- **Denial**: Collaboration was a few traitors. Most elves resisted. Humans collaborated more.
+- **Justification**: We collaborated to preserve elven lives and knowledge. It worked.
+- **Status**: Silverwood officially denies collaboration depth. Urban elves more willing to discuss.
+
+**Silverwood's Isolation**:
+- **Supporters**: Isolation preserved our culture. The outside world is chaos. Stay closed.
+- **Critics**: Isolation abandoned other elves. We have responsibilities. Time to engage.
+- **Reformers**: Selective engagement. Help when we choose. Keep core territory closed.
+- **Status**: Silverwood is totally closed since Year 1050. Critics growing but powerless.
+
+**What We Owe Other Races**:
+- **Superiority**: We're the eldest race. Others should learn from us, not we from them.
+- **Partnership**: All races have value. We should share knowledge and cooperate.
+- **Reparations**: We helped vampires enslave others. We owe them, especially goblins.
+- **Status**: Superiority is default assumption but Partnership growing among urban elves.
+
+**Vampire Knowledge Preservation**:
+- **Protectors**: We preserve it to prevent repetition. Dangerous knowledge must be guarded.
+- **Users**: We preserve it to use it. Why guard power you don't use?
+- **Destroyers**: We should have destroyed it all. Keeping it tempts us.
+- **Status**: Protectors control Silverwood archives. Users growing in influence.
+
+---
+
+### Dwarven Internal Debates
+
+**The Deep Holds Question**:
+- **Traditionalists**: The deep holds are our heritage. Reclaim them all.
+- **Pragmatists**: Some deep holds are lost for good reason. Let sleeping dangers lie.
+- **Curious**: We should explore but carefully. Knowledge justifies risk.
+- **Status**: Individual holds decide. Some reclaiming, some sealing permanently.
+
+**Vampire Technical Knowledge**:
+- **Users**: It's just engineering. Use it. Make profit.
+- **Cautious**: Use carefully. Test everything. Some things shouldn't be replicated.
+- **Purists**: Dwarven engineering should be dwarven. Vampire techniques corrupt our craft.
+- **Status**: Users dominate industry. Purists are minority but vocal.
+
+**Surface vs. Underground**:
+- **Isolationists**: Stay underground. Surface races are chaotic. Trade but don't integrate.
+- **Engagers**: Surface opportunity is huge. Dwarves should participate in world affairs.
+- **Hybrid**: Surface dwarves and hold dwarves are now different cultures. Accept it.
+- **Status**: Surface dwarf communities growing. Traditional holds worried about cultural drift.
+
+**The High King Question**:
+- **Monarchists**: Dwarves need central authority. Restore true High King power.
+- **Federalists**: Hold independence is paramount. High King should be ceremonial.
+- **Abolitionists**: High King is relic. Each hold should be fully independent.
+- **Status**: Federalists won this debate. High King is ceremonial. Some regret this.
+
+---
+
+### Goblin Internal Debates
+
+**The Future of Rage**:
+- **Revenge First**: No reconciliation until they pay. Keep the rage. Use it.
+- **Survival First**: Rage hasn't worked. We need different strategy to survive.
+- **Integration**: Become part of the world. Rage keeps us marginalized.
+- **Status**: Revenge First dominates but Survival First growing after centuries of losing.
+
+**Relationship With Vampire Heritage**:
+- **Rejection**: Vampires made us slaves. Reject everything they gave us.
+- **Reclamation**: They twisted our shamanism but the core is ours. Reclaim it.
+- **Use**: They gave us blood magic. Use it against those who enslaved us.
+- **Status**: Reclamation is mainstream. Use faction is powerful but secret.
+
+**Unity vs. Tribes**:
+- **Reunifiers**: We need another Unity. Only together can we survive.
+- **Tribalists**: Unity failed. Tribes are stronger. Each tribe for itself.
+- **Confederalists**: Loose alliance. Cooperate when useful. No central authority.
+- **Status**: Confederalists won. But every generation a Reunifier rises and fails.
+
+**Human Relations**:
+- **War**: Humans will always hate us. Raid and fight. No peace possible.
+- **Grudging Coexistence**: Trade when possible. Fight when necessary. Don't trust.
+- **Reconciliation**: Humans could change. We should try. Some already have.
+- **Status**: War faction dominant but Coexistence growing in border tribes.
+
+---
+
+### Debates That Cross Racial Lines
+
+**What Really Caused the Collapse?**:
+- Even within races, disagreement about whether collapse was divine punishment, engineering failure, internal war, slave rebellion, or dimensional accident.
+
+**Are Vampire Survivors a Threat?**:
+- Most say no—they're gone or irrelevant. Veil Keepers (all races) say yes.
+
+**Will History Repeat?**:
+- Some see current powers making vampire-era mistakes. Others say comparison is insulting.
+
+**Who Was Truly Victimized?**:
+- Each race claims greatest suffering. Goblins objectively suffered most but humans claim divine victimhood. Generates anger in cross-racial discussions.
+
+---
+
 ## Secrets Each Race Keeps
 
 ### Human Secrets
