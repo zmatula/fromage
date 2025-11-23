@@ -21,10 +21,10 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | -1180 | Elven Moonspire Kingdom begins systematic vampire hunts | Military |
 | -1170 | Dwarven Deep Throne seals mountain passes against vampires | Military |
 | -1160 | Vampire population drops to ~30,000; near extinction | Demographic |
-| -1155 | First Conclave of Survival; clans consider unification | Political |
-| -1148 | Warlord Karath attempts to unite clans by force | Political |
-| -1140 | Karath's coalition defeats Human Crusade army | Military |
-| -1135 | Karath assassinated; coalition collapses | Political |
+| -1155 | First Conclave of Survival; Elder Morath, Lady Velanna, Lord Thannis, Warlord Serath, Captain Drenn attend; fails | Political |
+| -1148 | Warlord Karath begins forced unification; inner circle includes Vexa, Draven, Thessara, Korrin | Political |
+| -1140 | Karath's coalition defeats Human Crusade at Battle of Red Valley; 20,000 humans dead | Military |
+| -1135 | Karath assassinated by poison (Vexa, Thannis, Serath conspiracy); coalition collapses | Political |
 | -1125 | Second unification attempt under Elder Vexa; fails | Political |
 | -1110 | Third unification attempt by small clans; crushed | Political |
 | -1095 | Clans begin aggressive territorial expansion | Political |
@@ -36,8 +36,11 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | -1025 | Vampire population reaches ~120,000 | Demographic |
 | -1015 | First significant vampire raids on major cities | Military |
 | -1010 | Inter-race conference fails to agree on vampire response | Political |
-| -1005 | Vykros emerges; begins final unification | Political |
-| -1000 | Vykros completes unification; conquest begins | Political |
+| -1005 | Vykros emerges with inner circle (Toran, Mira, Valdris, Nathos, Kex); begins final unification | Political |
+| -1000 | Vykros alliance with Veleth and Duskren; 60 clans united | Political |
+| -985 | Vykros conquers Morthis (bloodline supremacists) | Military |
+| -975 | Fall of Krath; Elder Vorath assassinated; last great clan submits | Military |
+| -970 | Final independent clans destroyed; Vykros's unification complete | Political |
 
 ---
 
@@ -64,7 +67,7 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | Year | Event | Category |
 |------|-------|----------|
 | -895 | Servant race "domestication" programs begin | Social |
-| -890 | Council of Clans established (60+ members) | Political |
+| -890 | Vykros dies (cause unknown—assassination, disease, or suicide); Council of Clans continues | Political |
 | -885 | First vampire cities founded | Construction |
 | -880 | Bloodline registration for all subjects | Social |
 | -870 | Council reduced to Twelve major clans | Political |
@@ -187,6 +190,7 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 |------|-------|----------|
 | -98 | Mind-Throne Treaty of Mutual Recognition | Political |
 | -97 | Bloodweb efficiency below 80% | Technology |
+| -95 | Council Session: Councillor Lyris warns of Bloodweb dependency; proposal rejected | Political |
 | -95 | Twilight secretly surveys sanctuary locations | Political |
 | -94 | Transcendence Program founded | Technology |
 | -92 | First Throne military exercises near Mind borders | Military |
@@ -194,8 +198,11 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | -88 | Throne demands Bloodweb maintenance records; refused | Political |
 | -87 | Dwarven mining quotas increased 40% | Social |
 | -86 | First Transcendence breakthrough: temporary independence | Technology |
+| -85 | Council Session: Twilight proposes sanctuary disclosure; Mordecai refuses | Political |
 | -85 | Twilight sanctuary construction begins in secret | Construction |
+| -82 | Council Session: Border incident debate; Cassius walks out | Political |
 | -82 | Mind-Throne border skirmish; 200 casualties | Military |
+| -80 | Council Session: Twilight withdrawal vote; unanimous | Political |
 | -80 | Twilight withdraws from Council of Three | Political |
 | -79 | Early Vessel concepts developed | Technology |
 | -78 | Throne begins fortifying Vel'Krath | Military |
@@ -203,8 +210,10 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | -76 | Bloodweb efficiency at 70% | Technology |
 | -74 | Mind detects dimensional "thin spots" | Technology |
 | -70 | Assassination attempt on Archon Vaelith | Political |
+| -70 | Council Session: Emergency meeting on assassination; blame exchanged | Political |
 | -69 | Project Wellspring fails; 200 dead | Technology |
-| -68 | Council of Three suspended | Political |
+| -68 | Council Session: Final meeting; Mordecai and Cassius nearly come to blows | Political |
+| -68 | Council of Three suspended; last formal inter-covenant cooperation | Political |
 | -67 | Ascension concept developed | Technology |
 | -65 | Twilight completes first sanctuary | Construction |
 | -64 | Bloodweb efficiency at 60%; first rationing | Technology |
@@ -325,8 +334,12 @@ How faction conflict intensified:
 ## Cross-References
 
 - [Collapse Event](collapse-event.md) - Detailed Day 1 and aftermath
+- [Collapse Days 2-7](collapse-days-2-7.md) - Hour-by-hour Week One
+- [Council Final Sessions](council-final-sessions.md) - Dramatized Council meetings Year -95 to -68
 - [Vampire Factions](vampire-factions.md) - Covenant details
+- [Vampire Unification Wars](vampire-unification-wars.md) - Karath, Vykros, and clan politics
 - [Era Breakdowns](era-breakdowns/) - Detailed era analysis
+- [Immediate Aftermath Ground](era-breakdowns/immediate-aftermath-ground.md) - First warlords and purifiers
 
 ---
 
@@ -338,11 +351,17 @@ How faction conflict intensified:
 
 | Year | Event | Category |
 |------|-------|----------|
+| 0-1 | First warlords emerge: Thresh (mines), Mara of the Healing Hands (river valley), General Koss (plains) | Political |
 | 1 | First organized servant uprisings | Political |
+| 1 | Sister Keth begins liberating blood farms | Military |
+| 1 | Righteous Flame purifiers formed by Caldris the Accuser | Military |
 | 2 | Purifier bands form for vampire hunting | Military |
-| 3 | First warlords emerge among humans | Political |
+| 3 | Kovan Marsh executed for collaboration (falsely accused; was resistance spy) | Social |
+| 3 | First warlords consolidate: General Koss controls ~15,000 | Political |
+| 5 | General Koss executed by own officers; Mara assassinated | Political |
 | 5 | Major vampire refuge destroyed | Military |
-| 8 | Collaborator purges peak; knowledge destruction | Cultural |
+| 8 | Collaborator purges peak; Caldris the Accuser burned by own lieutenant | Cultural |
+| 8 | Roderick controls three territories; path to kingship begins | Political |
 | 10 | First trade routes reestablished | Economic |
 | 12 | Valdris Kingdom founded | Political |
 | 15 | Ironpeak Confederation formed | Political |

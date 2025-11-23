@@ -594,6 +594,8 @@ But each was also partially wrong, and none could see their own blindness. The c
 ## Cross-References
 
 - [Collapse Event](collapse-event.md) - How factions responded to disaster
+- [Vampire Unification Wars](vampire-unification-wars.md) - How clans became covenants
+- [Council Final Sessions](council-final-sessions.md) - Last Council meetings before collapse
 - [Era: Final Century](era-breakdowns/era-final-century.md) - Detailed faction history
 - [Era: Rise](era-breakdowns/era-rise.md) - Faction formation
 

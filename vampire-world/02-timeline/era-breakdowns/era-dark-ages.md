@@ -41,8 +41,8 @@ Two and a half centuries of struggle, loss, and slow recovery. The knowledge of 
 ### Living Conditions
 
 **Population**:
-- Year 50: ~15 million total (all races)
-- Year 150: ~18 million (slow growth)
+- Year 50: ~10 million total (all races)
+- Year 150: ~18 million (slow recovery)
 - Year 300: ~25 million (accelerating)
 
 **Life Expectancy**:

@@ -20,7 +20,7 @@ The century of decline, desperation, and the seeds of destruction. This era saw 
 
 **Covenant of the Eternal Mind**
 - **Status**: Dominant but weakening
-- **Leader**: Archon Vaelith the Seeker (Year -100 to -45), then Archon Mordecai the Ambitious (Year -45 to 0)
+- **Leader**: Archon Vaelith the Seeker (since Year -180, to -45), then Archon Mordecai the Ambitious (Year -45 to 0)
 - **Power Base**: Control of Bloodweb, research monopoly, capital Neth'Korath
 - **Population**: ~40% of vampires
 - **Philosophy**: Transcendence through knowledge; vampires are meant to evolve beyond current limitations

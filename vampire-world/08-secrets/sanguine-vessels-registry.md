@@ -681,6 +681,7 @@ The Vessels were people who became experiments. Seven's journey is about becomin
 
 - [Protagonist True History](protagonist-true-history.md) - Vessel Seven details
 - [Vessel Seven's Memories](vessel-seven-memories.md) - His conscious experiences
+- [Sanguine Vessels Laboratory](sanguine-vessels-lab.md) - Lab culture and researcher relationships
 - [Vel'Thoras](../05-geography/vampire-ruins/vel-thoras.md) - The facility
 - [Discoverable Secrets](discoverable-secrets.md) - When information is found
 
