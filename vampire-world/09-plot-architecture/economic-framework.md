@@ -303,6 +303,28 @@ House Goldvault extended credit to Prince Aldric's faction. House Ironmark backe
 - Control through charity
 - Rich in some areas, broke in others
 
+### Secret Society Funding
+
+**Veil Keepers**
+- **Total Annual Budget**: ~180,000 crowns
+- **Sources**: Donations from scholars, academic institutions, some government black budgets
+- **Expenses**: Cell operations, archive maintenance, bribes, travel
+- **Economic Model**: Distributed cells minimize costs; knowledge is currency
+
+**Inheritors of Knowledge**
+- **Total Annual Budget**: ~250,000 crowns
+- **Sources**: Wealthy patrons, Banking House connections, artifact sales
+- **Expenses**: Research, site acquisitions, security, infiltration
+- **Economic Model**: Centralized wealth enables large projects
+
+**Order of Dawn**
+- **Total Annual Budget**: ~400,000 crowns
+- **Sources**: Church treasury, noble donations, Sanctified state funding
+- **Expenses**: Military operations, equipment, training, intelligence
+- **Economic Model**: Institutional backing enables military capability
+
+*See individual faction files for detailed breakdowns.*
+
 ---
 
 ## The Artifact Expedition Economy

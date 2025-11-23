@@ -2,6 +2,10 @@
 
 A theocratic confederation united by faith. The most populous human power, most hostile to magic users, and most threatened by the truth of vampire history.
 
+**Related Files**:
+- [Church Internal Conflicts](church-internal-conflicts.md) - Factional struggles within the Church
+- [Religious Syncretism](../../03-cultures/religious-syncretism.md) - How Church practices blend with local traditions
+
 ---
 
 ## Overview

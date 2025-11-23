@@ -130,7 +130,7 @@ How the Inheritors, Order of Dawn, and Veil Keepers were founded—with their co
 - Organization revealed
 - Mass arrests
 
-**Director Maren Thorne's Response**
+**Director Selene Thorne's Response**
 - Emergency protocols
 - Destroyed compromised vaults (centuries of work)
 - Killed three members who knew too much

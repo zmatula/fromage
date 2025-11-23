@@ -231,7 +231,7 @@ Orin escaped with the complete translation. He had children. His descendants hav
 
 **Possible Descendants**:
 - The Hooded Scholar (Year 850): Some say Orin bloodline
-- Director Maren Thorne (Inheritors): Claimed Orin connection
+- Director Selene Thorne (Inheritors): Claimed Orin connection
 - Scholar Kess Orin (Year 1200): Too obvious to be real?
 
 **The Search**:

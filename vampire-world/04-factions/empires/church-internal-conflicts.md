@@ -214,12 +214,14 @@ Why?
 **What he does**: Protects vampire artifacts that come through his parish. Sends them to scholars instead of Inquisition.
 **What he wants**: To understand what he is. To know if he's damned.
 
-### Sister Helena Ashford
+### Sister Cordelia Ashford
 
 **Position**: Archivist, Cathedral of Light (Cardinal Ashford's niece)
 **Secret**: She's been copying sealed texts and sending them to the Inheritors.
 **What she does**: Intelligence pipeline between Church scholars and Inheritors.
 **What she wants**: Truth preserved, whatever it is. She doesn't trust the Church to keep it.
+
+*Note: Not to be confused with Helena Ashford, the Veil Keeper archivist descended from Scholar Merik Ashford. The Ashford name is common in scholarly circles.*
 
 ### Father Aldric Valorian
 

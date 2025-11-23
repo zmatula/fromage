@@ -2,6 +2,10 @@
 
 Where racial narratives clash and create present-day tensions. These conflicts drive politics, fuel wars, and would be destabilized by the truth.
 
+**Related Files**:
+- [Contamination Matrix](contamination-matrix.md) - How cultures have influenced each other
+- [Religious Syncretism](religious-syncretism.md) - How religious practices have blended across borders
+
 ---
 
 ## Major Historical Disputes
