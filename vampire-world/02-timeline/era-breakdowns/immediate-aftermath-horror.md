@@ -8,7 +8,7 @@ The true horror of the collapse's first decade. This is not a timeline—it's a 
 
 **Before the Collapse**
 - Total population (all servant races): ~50 million
-- Vampires: ~100,000
+- Vampires: ~15 million
 
 **Year 1**
 - Servants: ~40 million (10 million dead in collapse itself)

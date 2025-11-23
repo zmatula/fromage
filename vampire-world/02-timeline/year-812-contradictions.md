@@ -1,17 +1,30 @@
 # The Year 812 Discovery: Conflicting Accounts
 
-What was really found at Sel'Naroth, and why the official story doesn't add up.
+What was really found, where, and why even the official story doesn't add up.
 
 ---
 
-## The Official Account
+## The Two Accounts
+
+### Public Story (What People Know)
+
+**Date**: Year 812, 3rd of Highsun
+**Location**: Iron Ridge Mine, Northern Kingdom
+**Discovery**: Miners broke into an underground chamber, found vampire in stasis
+**Outcome**: Vampire questioned, then destroyed for safety
+
+This is what witnesses described before they disappeared. It's the story that leaked.
+
+### Sealed Official Record (Discovered Year 1189)
 
 **Date**: Year 812, Month 6
 **Location**: Sel'Naroth ruins, Northern Kingdom territory
-**Discovery**: First vampire in stasis since the collapse
-**Outcome**: Subject destroyed by expedition team
+**Discovery**: Expedition team found vampire in stasis
+**Outcome**: Subject destroyed per Protocol Seven
 
-This is what the records say. It's not what happened.
+This is what the sealed Church records say. Note: Sel'Naroth is a Crimson Throne military installation, not a mine.
+
+**The Problem**: These can't both be true. Either the public story is a cover for Sel'Naroth, or the sealed record is hiding that this was a random mine discovery. Why would either require falsification?
 
 ---
 

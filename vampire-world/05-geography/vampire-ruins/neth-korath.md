@@ -31,7 +31,7 @@ The Mind Covenant's capital—destroyed in the Ascension Experiment. Now The Sca
 - Attempt to create dimensional anchor
 - Breach resonated with Bloodweb
 - Inverted the entire network
-- ~100,000 vampires died instantly
+- ~2 million vampires died instantly (200,000 residents plus those gathered for the experiment)
 - City destroyed in seconds
 - Created The Scar
 

@@ -82,7 +82,7 @@ The Scar is getting larger. Slowly—a few hundred yards per year—but measurab
 
 ### Day Zero
 
-At the moment of the Ascension Experiment, Neth'Korath contained approximately 100,000 vampires—the highest concentration in the world. They were there to witness Mordecai's triumph.
+At the moment of the Ascension Experiment, Neth'Korath contained approximately 2 million vampires—the highest concentration in the world. The city's 200,000 residents were joined by visitors from across the Dominion, gathered to witness Mordecai's triumph.
 
 They died in 0.3 seconds.
 
