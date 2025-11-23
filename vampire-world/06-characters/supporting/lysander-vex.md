@@ -1,10 +1,32 @@
-# Lysander Vex ("The Cartographer")
+# Lysander Vex (formerly "Vex Shadowhand")
 
 ## Basic Information
-- **Role**: Information broker
+- **Current Role**: Independent information broker
+- **Former Role**: Master of Acquisition, Inheritor Council of Light
 - **Location**: Port Sovereign, Maritime Republic
 - **Age**: 47
-- **Background**: Former Inheritor operative, left after ethical disagreement
+
+## Background
+
+### Inheritor Career (Years 1175-1195)
+- Recruited age 22 for linguistic talents
+- Rose to Master of Acquisition by age 35
+- Council of Light member for 5 years
+- Known as "Vex Shadowhand" (operational name)
+- Specialized in artifact procurement and verification
+
+### The Break (Year 1195)
+- Discovered Inheritors planning to use Seven as weapon
+- Ethical disagreement with Council over "preservation vs exploitation"
+- Argued for study without control; Council wanted leverage
+- Left organization under threat of silencing
+- Took operational knowledge, left artifacts behind
+
+### Current Status
+- Inheritors want him back or dead (knows too much)
+- Uses "Lysander Vex" to distance from Shadowhand identity
+- Maintains some Inheritor contacts (for information, not loyalty)
+- Council has not yet replaced Master of Acquisition position
 
 ## Appearance
 Nondescript by design—medium height, brown hair graying at temples, forgettable face. Dresses as middle merchant. Only distinguishing feature: never sits with back to door.

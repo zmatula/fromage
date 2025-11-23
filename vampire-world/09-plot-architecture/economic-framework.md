@@ -262,12 +262,12 @@ House Goldvault extended credit to Prince Aldric's faction. House Ironmark backe
 
 ## River Toll Systems
 
-### Valdris River (800 miles)
-- **Controller**: Valdrian Empire
-- **Revenue**: ~80,000 crowns/year in tolls
-- **Control Points**: Valdris Prime checkpoint, 3 major crossings
-- **Vulnerability**: Northern could capture one crossing = cut imperial traffic
-- **Strategic Note**: Primary grain transport route; blockade = Northern famine
+### Valdris River System
+- **Length**: 800 miles navigable
+- **Control**: Valdrian Empire (complete)
+- **Checkpoints**: Valdris Prime, Three Forks, River's End
+- **Revenue**: ~200,000 crowns/year in tolls
+- **Strategic value**: Blockade = Northern famine within 6 months
 
 ### Goldwater River (400 miles)
 - **Controller**: Disputed between Maritime Republic and Valdrian Empire
@@ -312,8 +312,10 @@ House Goldvault extended credit to Prince Aldric's faction. House Ironmark backe
 ## Trade Dependencies and Leverage
 
 ### Northern Dependence on Valdrian Grain
-- **Volume**: 1.2 million bushels/year (40% of Northern consumption)
-- **Cost**: ~150,000 crowns/year
+- **Volume**: 2.7 million bushels/year (30% of Northern consumption)
+- **Cost**: ~450,000 crowns/year
+- **Total Northern imports**: 3.6 million bushels (40% of 9M need)
+- **Total import cost**: ~600,000 crowns/year
 - **Leverage**: Valdrian embargo = Northern famine in 6 months
 - **Why It Continues**: Northern minerals fund Valdrian industry
 - **Breaking Point**: War severs trade; Northern must seize farmland immediately

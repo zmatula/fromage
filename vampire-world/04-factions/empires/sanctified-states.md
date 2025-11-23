@@ -200,6 +200,43 @@ A theocratic confederation united by faith. The most populous human power, most 
 - Depends on trade with others
 - Rising costs of Order of Dawn
 
+## Economic Foundation
+
+### Land and Revenue
+- Territory: 500,000 square miles (largest)
+- Population: 5 million (largest)
+- Church land ownership: 30% of arable land
+- State land ownership: 40% of arable land
+- Private holdings: 30%
+
+### Annual Revenues
+- Church tithes (10% of all production): ~800,000 crowns
+- State land taxes: ~500,000 crowns
+- Trade tariffs: ~200,000 crowns
+- **Total state revenue: ~1,500,000 crowns**
+
+### Annual Expenditures
+- State militias (100,000 troops @ 30 crowns): 3,000,000 crowns
+- **Deficit: 1,500,000 crowns/year**
+
+### How They Manage
+- Church subsidizes state military (secret arrangement)
+- Confiscations from "heretics" cover ~300,000/year
+- Debt to Ironpeak: 150,000 crowns @ 5%
+- System is unsustainable without persecution revenue
+
+### Agricultural Surplus
+- Production: 20 million bushels/year
+- Domestic need: 15 million bushels
+- **Export capacity: 5 million bushels**
+- Primary customer: Northern Dominion (900,000 bushels)
+
+### Economic Pressure from Persecution
+- Scholars fleeing: ~50,000 crowns/year in lost taxes
+- Merchants fleeing: ~100,000 crowns/year in lost trade
+- Craftspeople fleeing: ~75,000 crowns/year in lost production
+- **Total annual loss: ~225,000 crowns (and growing)**
+
 ---
 
 ## Culture

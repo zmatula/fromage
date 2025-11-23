@@ -173,10 +173,12 @@ A secret society dedicated to recovering and using vampire knowledge. They would
 - Knows most about vampire language
 - Would interrogate protagonist
 
-**Master of Acquisition Vex Shadowhand**
-- Runs collection operations
-- Thief and spy master
-- Morally flexible
+**Master of Acquisition: VACANT (formerly Vex Shadowhand)**
+- Position empty since Year 1195
+- Vex Shadowhand departed after ethical disagreement
+- Now operates independently as "Lysander Vex" in Port Sovereign
+- Council considers him security risk but hasn't moved against him
+- Temporary duties split between other Council members
 
 **Warden of Secrets Aldric Stone**
 - Dwarven member
@@ -352,10 +354,11 @@ A secret society dedicated to recovering and using vampire knowledge. They would
 - Would exploit protagonist
 - Dangerous funder
 
-### Master Vex Shadowhand
-- Would capture protagonist
-- Morally flexible
-- Gets results
+### Vex Shadowhand (now Lysander Vex) - FORMER
+- Left organization Year 1195
+- Now independent information broker in Port Sovereign
+- May be contacted for protagonist information
+- See [Lysander Vex](../../06-characters/supporting/lysander-vex.md)
 
 ### Keeper Helena Brightstone
 - Translation expert

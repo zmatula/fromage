@@ -246,6 +246,69 @@ When protagonist awakens:
 
 ---
 
+## The 150-Year Question
+
+### The Timeline Problem
+- Year 1050: Silverwood closes borders
+- Year 1200: Protagonist awakens
+- Gap: 150 years of isolation
+
+### Why This Doesn't Make Sense (To Outsiders)
+If elves closed borders to prepare for vampire awakening:
+- How did they know it would be Year 1200?
+- Why close 150 years early?
+- What required 150 years of preparation?
+
+### Possible Explanations (None Confirmed)
+
+**Theory 1: They Didn't Know Exactly**
+- Detected "approaching awakening" in dimensional readings
+- Couldn't determine exact timing
+- 150 years was margin of error
+- Problem: Why not reopen when awakening imminent?
+
+**Theory 2: They're Preparing for Something Else**
+- Protagonist awakening is secondary
+- Primary concern is dimensional instability
+- Protagonist is symptom, not cause
+- Problem: What's the primary threat?
+
+**Theory 3: They Need 150 Years**
+- Whatever they're building/training takes that long
+- Magical construction, generational training
+- Protagonist awakening is the deadline, not the trigger
+- Problem: What takes 150 years to prepare?
+
+**Theory 4: They're Not Preparing—They're Hiding**
+- Discovered something that scared them
+- Closure is defense, not preparation
+- They'll emerge when threat passes
+- Problem: What could scare immortal elves?
+
+### What We Know For Certain
+- Elder generation made the decision (and isn't explaining)
+- Thandril was sent outside in Year 1050 (with vague orders)
+- Thandril received new orders in Year 1199 (regarding awakening)
+- Some young elves have tried to leave (and were stopped)
+- The closure has cost them economically and demographically
+
+### What This Means For The Story
+- Silverwood's purpose remains mystery until they reveal it
+- When they act, it will surprise everyone
+- 150 years of sacrifice suggests enormous stakes
+- They know something no one else knows
+
+### Author Note
+This ambiguity is intentional. The 150-year gap is meant to be unsettling. Whatever the elves know, it was worth:
+- 150 years of isolation
+- Economic decline
+- Generational trauma
+- Sending Thandril outside (with incomplete information)
+
+When the answer comes, it should reframe everything.
+
+---
+
 ## Role in Story
 
 ### Opportunities for Protagonist

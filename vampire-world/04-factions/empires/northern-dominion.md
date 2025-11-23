@@ -133,19 +133,36 @@ A martial nation forged in war, ruled by elected warrior-kings. Pragmatic, ambit
 
 ---
 
-## Military
+## Military Forces
 
-### The Dominion Host
+### Standing Army (Professional)
+- **Core professionals**: 30,000 warriors
+- Cost: 50 crowns/year each = 1,500,000 crowns
+- Funded by: Royal treasury (1,500,000 crowns)
+- Status: Full-time soldiers, highest training
 
-**Standing Forces**: ~80,000 professional warriors
-**Reserves**: ~150,000 able-bodied fighters
-**Character**: Aggressive, adaptable, artifact-integrated
+### Feudal Levies (Semi-Professional)
+- **Levy obligation**: 50,000 warriors
+- Cost: 0 crowns peacetime (lords maintain)
+- Wartime cost: 30 crowns/month each (food, equipment)
+- Status: Train 2 months/year, available on call
 
-**Organization**:
-- 16 War Hosts (5,000 each)
-- Combined arms with cavalry, infantry, archers
-- Artifact weapons widely distributed
-- Elite berserker units
+### Reserve Militia
+- **Available fighters**: 150,000 able-bodied
+- Cost: 0 crowns until mobilized
+- Wartime cost: 20 crowns/month each
+- Status: Minimal training, last resort
+
+### Total Military Potential
+- Peacetime standing: 30,000
+- Rapid mobilization (1 month): 80,000
+- Full mobilization (3 months): 230,000
+
+### Why "80,000 Warriors" Is Claimed
+- Propaganda includes feudal levies as "standing"
+- Intimidation factor
+- Actual deployable force without levies: 30,000
+- With full levy call: 80,000 within 30 days
 
 ### Northern Fleet
 
@@ -196,32 +213,32 @@ A martial nation forged in war, ruled by elected warrior-kings. Pragmatic, ambit
 - Valdrian tariffs hurt exports
 - Warriors need employment (war)
 
-### Food Import Dependency
+## Food Security Crisis
 
-**The Numbers**:
-- Population needs: ~3 million bushels grain/year
-- Domestic production: ~1.8 million bushels
-- Import requirement: ~1.2 million bushels (40%)
+### Consumption Reality
+- Population: 3 million
+- Per capita need: 3 bushels grain/year (minimum)
+- **Total need: 9 million bushels/year**
 
-**Sources**:
-- Valdrian Empire: 900,000 bushels (~150,000 crowns)
-- Sanctified States: 300,000 bushels (~50,000 crowns)
-- Total import cost: ~200,000 crowns/year
+### Production Capacity
+- Domestic production: 5.4 million bushels (60% of need)
+- **Import requirement: 3.6 million bushels (40%)**
 
-**Strategic Vulnerability**:
-- Valdrian embargo = famine within 6 months
-- Grain stores hold 3-month supply maximum
-- King Aldric's war planning MUST secure food supply first
-- Current stockpile: 8 months (building toward war)
+### Current Sources
+- Valdrian Empire: 2.7 million bushels @ 450,000 crowns
+- Sanctified States: 900,000 bushels @ 150,000 crowns
+- **Total import cost: 600,000 crowns/year**
 
-**Why They Can't Just Attack**:
-This dependency constrains Northern aggression. Before any war:
-1. Must stockpile 2-year grain supply
-2. Must secure alternative sea route from Sanctified States
-3. Must take Valdrian farmland in first campaign season
-4. Failure means starving army and home front
+### Strategic Vulnerability
+- Valdrian embargo = 6-month famine window
+- Must stockpile 18+ months before any war with Valdris
+- Current reserves: ~4 months (critically low)
+- War planning requires 2-3 year preparation minimum
 
-This is the single greatest check on Northern expansionism. King Aldric knows it. His war preparations include massive grain purchases, which Valdrian intelligence has noticed.
+### Why This Drives Expansion
+- Cannot afford 600,000/year indefinitely
+- Must seize farmland or face permanent dependency
+- Northern expansion is survival, not ambition
 
 ---
 

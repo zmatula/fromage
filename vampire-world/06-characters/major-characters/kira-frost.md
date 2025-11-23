@@ -100,6 +100,87 @@ Paralyzed between Northern duty and Veil Keeper mission. Both are betrayals.
 
 ---
 
+## Double Agency
+
+### The Structure
+
+**Northern Kingdom Believes**:
+- Kira is elite scout assigned to special operations
+- She reports to Commander Vara Blackwood
+- Her Vel'Thoras mission is reconnaissance
+- Her loyalty is unquestioned (childhood service)
+
+**Veil Keepers Believe**:
+- Kira is deep-cover operative
+- She reports to The Handler (identity unknown to her)
+- Her Vel'Thoras mission is assassination
+- Her loyalty is absolute (they saved her life)
+
+**The Truth**:
+- Kira serves both and doesn't know which she'd choose
+- She's been compartmentalized by both sides
+- Neither knows the full extent of her other loyalty
+- She's never faced a conflict between them (until now)
+
+### How It Works
+
+**Reporting**:
+- Northern: Regular dispatches through military channels
+- Veil Keepers: Dead drops and coded signals
+
+**Cover**:
+- Northern assignments provide placement
+- Veil Keeper missions use Northern cover
+- Each thinks the other is the cover
+
+**Compensation**:
+- Northern: Military salary, equipment, status
+- Veil Keepers: Purpose, belonging, certainty
+
+### The Vel'Thoras Crisis
+
+For the first time, her loyalties directly conflict:
+
+**Northern Orders**: Investigate, assess, report
+**Veil Keeper Orders**: Eliminate vampire at any cost
+
+If she kills Seven:
+- Completes Veil Keeper mission
+- But blows her Northern cover (unauthorized kill)
+- Northern will investigate
+
+If she doesn't kill Seven:
+- Maintains Northern cover
+- But fails Veil Keeper mission
+- They'll question her loyalty
+
+### Discovery Timeline
+
+**Pre-Vel'Thoras**: Neither side suspects
+**During Vel'Thoras**: Her assassination attempt may reveal Veil Keeper connection to Northern survivors
+**Post-Vel'Thoras**: Depending on outcome, one or both sides may learn the truth
+
+### Her Choice
+
+When forced to choose, what decides?
+
+**Arguments for Northern**:
+- Her original identity
+- Commander Vara's mentorship
+- Tangible relationships with real people
+- Desire for normal life
+
+**Arguments for Veil Keepers**:
+- They saved her from certain death
+- Their cause feels righteous
+- They know her darkest capability
+- She's already killed for them
+
+**The Real Question**:
+Is Kira the soldier who was recruited by Veil Keepers, or the Veil Keeper who was inserted into Northern? She doesn't know anymore.
+
+---
+
 ## Northern Cultural Markers
 
 ### Communication Style

@@ -173,6 +173,73 @@ She's not sure if that's Mordecai speaking, the Crown itself, or her own thought
 
 ---
 
+## First Contact Protocol
+
+### If Seven Reaches Vera
+
+**Initial Reaction: Clinical Assessment**
+Vera's first response will be analytical:
+- Subject condition (hunger, injuries, mental state)
+- Threat level (can he be contained? Is he hostile?)
+- Information value (what does he know? What can he share?)
+- Strategic position (who else knows he's here?)
+
+**Not Her Initial Reaction**:
+- Fear (she's worked with vampire artifacts for years)
+- Moral judgment (she's beyond simple good/evil)
+- Immediate alliance (trust requires verification)
+
+### Her Calculation
+
+**What She Wants From Him**:
+- Blood Archive access (knowledge she can't get elsewhere)
+- Vampire physiology study (unique research subject)
+- Historical information (living primary source)
+- Strategic leverage (his existence is power)
+
+**What She'll Offer**:
+- Protection from immediate threats
+- Information about current world
+- Food/blood supply (ethically sourced?)
+- Introduction to potential allies
+
+**Her Dilemma**:
+- Ethical protocols require subject consent
+- He's not just a subject—he's a person
+- But he's a person made from human suffering
+- Her framework may not apply to him
+
+### The Critical Question
+
+When Seven asks "Can I trust you?", Vera must decide:
+
+**Option A: Full Truth**
+"I want to study you. I also want to protect you. These goals may conflict. I'll try to balance them but I can't promise I'll succeed."
+
+**Option B: Partial Truth**
+"I'll protect you from other factions. In return, I hope you'll share what you know." (Doesn't mention study)
+
+**Option C: Manipulation**
+"I'm your ally." (Plans to contain and study regardless of his wishes)
+
+### Likely Choice
+Vera will attempt Option A (full truth) because:
+- She believes in ethical protocols
+- She knows deception destroys research relationships
+- She respects intelligence (and he's intelligent)
+- Crown of Seeing may urge honesty
+
+But she may slide toward Option B under pressure.
+
+### Story Function
+This scene establishes:
+- Whether Seven has any safe haven
+- Whether Vera's ethics survive contact with reality
+- Whether Inheritors can be allies or only captors
+- The cost of being a unique research subject
+
+---
+
 ## Maritime Cultural Influence
 
 ### "Trade Over Ideology" Background

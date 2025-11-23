@@ -168,6 +168,44 @@ The dwarven industrial power. Neutral in empire conflicts, essential to all, and
 - But understand vampire tech deeply
 - Keep knowledge close
 
+## Economic Foundation
+
+### Revenue Sources
+- Iron mining and export: ~400,000 crowns/year
+- Bloodstone monopoly: ~200,000 crowns/year
+- Banking interest (1.15M principal): ~60,000 crowns/year
+- Certification services (artifact verification): ~50,000 crowns/year
+- **Total revenue: ~710,000 crowns/year**
+
+### Annual Expenditures
+- Hold maintenance (7 major holds): ~200,000 crowns
+- Military (standing forces): ~150,000 crowns
+- Food imports (mountains cannot sustain population): ~250,000 crowns
+- **Total expenditure: ~600,000 crowns/year**
+
+### Treasury Position
+- Current reserves: ~2,000,000 crowns (estimated)
+- Annual surplus: ~110,000 crowns
+- Debt holdings: 1,150,000 crowns in loans to surface powers
+
+### Strategic Vulnerability
+- **Food dependency**: Must import 80% of grain
+- Primary suppliers: Valdrian (60%), Sanctified (40%)
+- Cannot sustain blockade longer than 3 months
+- Neutrality depends on continued trade access
+
+### Why Debt Weapon Is Limited
+- Calling all debts would trigger coordinated retaliation
+- Surface powers could embargo food in response
+- 3-month food reserve vs years of war
+- Leverage works through threat, not execution
+
+### Economic Power Without Military Risk
+- Control verification market (is this artifact real?)
+- Control currency standards (dwarven coins most trusted)
+- Control precision manufacturing (human smiths can't match)
+- Control deep earth resources (no competition)
+
 ---
 
 ## Culture

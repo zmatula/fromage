@@ -163,6 +163,148 @@ Seven can read and write vampire script with perfect fluency—something no othe
 
 ---
 
+## Feeding Requirements
+
+### Blood Needs
+- **Optimal**: 1 pint human blood every 3-4 days
+- **Functional**: Can go 2 weeks at reduced capacity
+- **Emergency**: 3-4 weeks maximum before incapacitation
+- **Animal blood**: 50% effective (requires twice volume)
+
+### Effects of Hunger
+- **Days 1-7**: Full capacity
+- **Days 8-14**: Strength reduced 25%, healing slowed
+- **Days 15-21**: Strength reduced 50%, perception dulled
+- **Days 22-28**: Near incapacitation, involuntary hunting instinct
+- **Beyond 28**: Feral state, attacks anything with blood
+
+### Feeding Methods During Travel
+1. **Enemies**: Preferred—leaves no witnesses, morally acceptable
+2. **Willing donors**: Rare—requires trust and secrecy
+3. **Animals**: Inefficient but available—deer, livestock
+4. **Unwilling humans**: Last resort—creates enemies and witnesses
+
+### Travel Constraints
+- Must plan routes through areas with prey availability
+- Cannot cross true wilderness (no blood sources) for more than 2 weeks
+- Urban areas provide more sources but more risk of discovery
+- Each feeding creates potential witness or missing person
+
+### Feeding and Combat
+- Full-fed: Combat effective
+- Week hungry: Still dangerous but tires faster
+- Two weeks hungry: Significant disadvantage
+- Beyond: Cannot reliably win fights
+
+### Story Implications
+- Every 1-2 weeks, Seven must find blood
+- Each feeding is a scene (risk, moral choice, discovery)
+- Hunger becomes ticking clock during chase sequences
+- Feral state is catastrophic failure mode
+
+---
+
+## Sunlight and Travel
+
+### Sunlight Effects
+- **Direct sun**: Painful, weakening, eventually fatal (hours)
+- **Indirect/overcast**: Uncomfortable but functional
+- **Shade**: Full capacity
+- **Dawn/dusk**: Safe to move
+
+### Travel Methods
+
+**Primary: Night Travel**
+- Speed: ~20 miles/night (vs 50-80 day for humans)
+- Advantages: Better senses, predator avoidance
+- Disadvantages: Half the travel speed, suspicious schedule
+
+**Secondary: Covered Day Travel**
+- Heavy cloak, hood, gloves covering all skin
+- Speed: ~30 miles/day (slower than normal due to caution)
+- Risk: Inspection, questions about appearance
+- Effective in rain/overcast
+
+**Emergency: Underground Routes**
+- Vampire ruins often connected by tunnels
+- Speed varies by condition
+- Risk: Unknown hazards, collapse, getting lost
+- Seven's knowledge of tunnel networks: Partial (from Blood Archive)
+
+### Typical Journey Pattern
+- Travel dusk to midnight (6 hours)
+- Rest/hide midnight to dawn
+- Travel dawn to sunrise if covered (2 hours)
+- Total: ~20-25 miles/day
+
+### Comparative Travel Times
+| Route | Normal Human | Seven |
+|-------|--------------|-------|
+| Vel'Thoras → Valdris Prime | 25 days | 40-50 days |
+| Valdris Prime → Port Sovereign | 20 days | 32-40 days |
+| Any mountain crossing | 15 days | 25-35 days |
+
+### Story Implications
+- Seven moves at roughly half human speed
+- Pursuers can gain ground during daylight
+- Must find shelter before dawn (time pressure)
+- Overcast days are gifts; clear days are threats
+- Underground routes offer speed but unknown dangers
+
+---
+
+## Concealment and Disguise
+
+### Physical Tells to Hide
+1. **Eye reflectivity**: Unusual gleam in low light
+2. **Predatory grace**: Movement too smooth, too quiet
+3. **Unusual stillness**: Doesn't fidget, breathe visibly
+4. **Skin pallor**: Pale even by Northern standards
+5. **Vampire script tattoos**: Located on forearms and chest
+
+### Concealment Methods
+
+**Basic Disguise**:
+- Heavy travel cloak (hides movement, pallor, tattoos)
+- Gloves (hides hand pallor, forearm tattoos)
+- Hood in sun (expected for fair-skinned)
+- Deliberate fidgeting (learned behavior to seem human)
+
+**Advanced Measures**:
+- Theatrical makeup for skin tone (expensive, limited availability)
+- Tinted glasses for eye gleam (rare, suspicious)
+- Deliberate clumsiness (harder than it sounds)
+- Speaking with pauses (hides too-smooth delivery)
+
+**What Can't Be Hidden**:
+- Response to direct sunlight
+- Lack of body heat (close contact reveals)
+- Healing too fast from visible wounds
+- Not eating food (can fake but can't digest)
+- Reflection oddities in some mirrors (inconsistent)
+
+### Cover Stories
+- **Northern scholar**: Explains pallor, formality, travel
+- **Plague survivor**: Explains avoiding touch, staying covered
+- **Religious penitent**: Explains hood, silence, avoiding eye contact
+- **Merchant's agent**: Explains odd hours, carrying valuables
+
+### Discovery Risk by Situation
+- **Casual encounter**: Low (cloak and hood sufficient)
+- **Conversation**: Medium (speech patterns may confuse)
+- **Physical contact**: High (no body heat)
+- **Combat**: Very high (healing, speed, strength obvious)
+- **Extended stay**: Very high (feeding needed, no eating)
+
+### Story Implications
+- Seven can pass casual inspection
+- Extended interaction is risky
+- Any combat may blow cover
+- Must avoid intimacy and prolonged contact
+- Each settlement is infiltration challenge
+
+---
+
 ## Personality
 
 ### Core Traits

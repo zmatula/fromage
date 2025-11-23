@@ -33,6 +33,89 @@ Multiple factions converge on Vel'Thoras simultaneously. Protagonist awakens int
 
 ---
 
+## The Vel'Thoras Awakening: Escape Sequence
+
+### Setup
+- Inheritor expedition in final preparation
+- Veil Keeper operative (Kira) embedded in team
+- Security systems active but mapped by Inheritors
+- Seven in stasis chamber, unaware
+
+### Trigger
+Seven's awakening is not gradual:
+- Systems detect dimensional activity spike
+- Inheritors begin awakening protocol
+- Veil Keeper operative alerts handlers
+- Racing clock begins
+
+### The Three-Way Conflict
+
+**Inheritors Want**:
+- Controlled awakening
+- Subject contained for study
+- Secure transport to safe location
+
+**Veil Keepers Want**:
+- Immediate termination
+- Destroy all evidence
+- Prevent any faction from acquiring
+
+**Seven Wants**:
+- Understand situation
+- Escape immediate danger
+- Find allies (doesn't know who)
+
+### Escape Mechanism
+
+**Phase 1: Awakening Chaos (Minutes 1-30)**
+- Seven wakes disoriented, systems activating
+- Inheritors attempt containment protocols
+- Kira breaks cover, attempts assassination
+- Inheritor security responds to Kira
+- Three-way fight in awakening chamber
+
+**Phase 2: System Failure (Minutes 30-60)**
+- Combat damages control systems
+- Blood Archive partially accessible
+- Seven instinctively accesses Archive
+- Downloads fragmentary knowledge (random, incomplete)
+- Systems begin lockdown/self-destruct
+
+**Phase 3: Escape (Minutes 60-90)**
+- Everyone fleeing collapsing/locking facility
+- Seven uses Archive knowledge to find exit
+- Kira pursuing but injured
+- Inheritor survivors trying to regroup
+- Seven reaches surface, flees into wilderness
+
+### What Seven Escapes With
+- Fragmentary Blood Archive knowledge (random access)
+- No supplies (stasis clothing only)
+- No allies (everyone tried to capture/kill)
+- General understanding of his nature
+- No understanding of current world
+
+### Casualties
+- Several Inheritor researchers (Kira's attack)
+- Possibly Kira (injured, may survive)
+- Facility partially collapsed/sealed
+- Blood Archive access possibly lost
+
+### Immediate Aftermath
+- Seven alone in Northern wilderness
+- Inheritors regrouping, sending pursuit
+- Kira (if alive) reporting to Veil Keepers
+- Clock on faction response begins
+
+### Story Function
+- Establishes all factions as potential threats
+- Gives Seven incomplete, fragmentary knowledge
+- Creates immediate survival pressure
+- Provides reason for distrust of everyone
+- Sets up chase dynamic for Hunt arc
+
+---
+
 ### Event 2: The Crown's Vision
 
 **When**: Early-to-mid story
