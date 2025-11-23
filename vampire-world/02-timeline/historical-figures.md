@@ -716,11 +716,13 @@ Named individuals who shaped the 1,200 years between collapse and present. These
 
 ## Recent Past (Year 1100-1200)
 
-### Director Maren Thorne (Year 1124-1180)
+### Director Selene Thorne (Year 1124-1180)
 
 **Role**: Inheritor leader during the exposure crisis
 **Species**: Human
 **Lived**: Year 1088 to Year 1180
+
+*Note: Not to be confused with Maren Thorne, the current Veil Keeper investigator. Different families despite the shared surname.*
 
 **Who She Was**
 - Fourth-generation Inheritor

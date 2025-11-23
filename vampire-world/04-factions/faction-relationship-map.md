@@ -2,6 +2,11 @@
 
 How the major powers and secret societies relate to each other. The web of alliances, rivalries, and dependencies that defines the political landscape.
 
+**Related Files**:
+- [Economic Framework](../09-plot-architecture/economic-framework.md) - Debt matrix and economic leverage
+- [Communication Systems](../09-plot-architecture/communication-systems.md) - Information flow and intelligence networks
+- [Contamination Matrix](../03-cultures/contamination-matrix.md) - Cultural influences between factions
+
 ---
 
 ## Empire Relationships

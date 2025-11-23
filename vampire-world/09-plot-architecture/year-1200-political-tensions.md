@@ -427,6 +427,38 @@ He can't avoid politics. Politics is coming for him whether he wants it or not.
 
 ---
 
+## Information Lag Consequences
+
+### Why Crises Escalate
+
+**Valdrian Succession**:
+- Provincial governors make independent decisions
+- By the time central command knows, actions are taken
+- Contradictory orders cross in transit
+- Each faction claims to act with authority
+
+**Example**: Duke Varen mobilizes troops. Message takes 10 days to reach Valdris Prime. Countermand takes 10 days back. By then, troops have engaged locals. Too late to recall.
+
+### Why Rumors Matter
+
+When official news takes 2 weeks, rumors taking 1 week become "truth":
+- Markets react to rumors, not facts
+- Military repositions on rumors
+- Political decisions made on incomplete information
+- By time truth arrives, decisions are locked
+
+### Implication for Seven
+
+When Seven awakens:
+- Inheritors might know in 2 weeks (agents near Vel'Thoras)
+- Veil Keepers might know in 3 weeks (fewer resources)
+- Order of Dawn might know in 4 weeks (further away)
+- Church hierarchy might know in 5 weeks
+
+Each faction will act on partial information. Mistakes will be made. Seven has a window where no one knows—or everyone "knows" different things.
+
+---
+
 ## Cross-References
 
 - [Valdrian Empire](../04-factions/empires/valdrian-empire.md) - Structure and power

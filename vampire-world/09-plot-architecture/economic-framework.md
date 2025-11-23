@@ -164,6 +164,75 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 ---
 
+## Continental Debt Matrix
+
+### Who Owes What to Dwarves
+
+| Power | Principal | Interest | Purpose | Leverage |
+|-------|-----------|----------|---------|----------|
+| Valdrian Empire | 500,000 | 5% | War debts, infrastructure | High - succession crisis |
+| Northern Dominion | 300,000 | 6% | Weapons, fortifications | Medium - good payer |
+| Maritime Republic | 200,000 | 4% | Shipbuilding, banking | Low - trade partners |
+| Sanctified States | 150,000 | 5% | Order of Dawn equipment | Medium - reliable |
+
+**Total owed to Ironpeak**: 1,150,000 crowns
+**Annual interest to dwarves**: ~60,000 crowns
+
+### The Nuclear Option
+If dwarves called all debts simultaneously:
+- Every major power's treasury emptied
+- Military funding collapses
+- Trade halts for lack of credit
+- Civil unrest follows
+
+This is why everyone maintains dwarven neutrality.
+
+### Current Dwarven Strategy
+- Never call debts (destroys customers)
+- Use debt for policy influence
+- Extend credit to favored factions
+- Deny credit to disfavored ones
+
+House Goldvault extended credit to Prince Aldric's faction. House Ironmark backed Princess Sophia. The succession crisis is partly a proxy war between dwarven banking houses.
+
+---
+
+## Continental Supply Chains
+
+### Food
+
+| Good | Producer | Consumer | Route | Vulnerability |
+|------|----------|----------|-------|---------------|
+| Grain | Sanctified, Valdrian | Northern, Maritime | Land, Sea | Embargo |
+| Fish | Maritime, Northern | Inland | Coastal | Piracy |
+| Wine | Valdrian | All | All routes | Prestige good |
+| Preserved meat | Northern | Southern | Mountain passes | Winter closure |
+
+### Metals
+
+| Good | Producer | Consumer | Route | Control |
+|------|----------|----------|-------|---------|
+| Iron | Dwarves (80%) | All | Mountain passes | Dwarven monopoly |
+| Silver/Gold | Dwarves (90%) | All | Direct | Dwarven monopoly |
+| Bloodstone | Dwarves (100%) | Artifact users | Restricted | Absolute monopoly |
+| Copper | Various | All | Various | Competitive |
+
+### Strategic Materials
+
+| Good | Source | Use | Who Controls |
+|------|--------|-----|--------------|
+| Timber | Northern | Ships, construction | Northern export |
+| Salt | Sanctified coast | Preservation | Sanctified monopoly |
+| Starweave silk | Elves (none exported) | High magic | Elven refusal |
+| Artifact components | Ruins | Repair, research | Whoever finds them |
+
+### Chokepoints
+- **Iron Gate Pass**: Controls east-west trade (dwarven)
+- **Valdris River**: North-south commerce (Valdrian)
+- **Strait of Sovereigns**: Maritime access (Maritime Republic)
+
+---
+
 ## Other Economic Powers
 
 ### Northern Kingdom Treasury
@@ -234,6 +303,28 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 - Control through charity
 - Rich in some areas, broke in others
 
+### Secret Society Funding
+
+**Veil Keepers**
+- **Total Annual Budget**: ~180,000 crowns
+- **Sources**: Donations from scholars, academic institutions, some government black budgets
+- **Expenses**: Cell operations, archive maintenance, bribes, travel
+- **Economic Model**: Distributed cells minimize costs; knowledge is currency
+
+**Inheritors of Knowledge**
+- **Total Annual Budget**: ~250,000 crowns
+- **Sources**: Wealthy patrons, Banking House connections, artifact sales
+- **Expenses**: Research, site acquisitions, security, infiltration
+- **Economic Model**: Centralized wealth enables large projects
+
+**Order of Dawn**
+- **Total Annual Budget**: ~400,000 crowns
+- **Sources**: Church treasury, noble donations, Sanctified state funding
+- **Expenses**: Military operations, equipment, training, intelligence
+- **Economic Model**: Institutional backing enables military capability
+
+*See individual faction files for detailed breakdowns.*
+
 ---
 
 ## The Artifact Expedition Economy
@@ -303,8 +394,18 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 **Mercenary Company** (500 men, one year): 50,000 crowns
 **War Galley**: 10,000 crowns
-**Professional Army** (10,000 men, one year): 500,000 crowns
-**War Campaign**: 1-2 million crowns
+
+#### Military Cost Structure
+
+The headline "500,000 crowns for 10,000 men" applies to **active campaigning**. Actual costs vary:
+
+- **Peacetime Garrison**: 50 crowns/soldier/year (basic wages, food, maintenance)
+- **Active Campaigning**: 150 crowns/soldier/year (full wages, supplies, replacement equipment)
+- **Elite/Artifact Units**: 300 crowns/soldier/year (specialized equipment, hazard pay)
+
+Most large armies consist of **feudal levies** (no direct cost beyond calling them up) plus a **professional core** (paid year-round). This is why Valdrian Empire can maintain 60,000 soldiers on a 2 million crown budget—40,000 are feudal levies, 20,000 professional (1M crowns).
+
+**War Campaign**: 1-2 million crowns (why wars bankrupt kingdoms)
 
 ### Information
 

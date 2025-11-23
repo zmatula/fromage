@@ -90,6 +90,27 @@ The harsh mountains and forests of the Northern Dominion—martial lands rich in
 
 ---
 
+## Scar Proximity Effects
+
+### Eastern Border Concerns
+The Scar affects Northern Kingdom territory, though less severely than Valdris:
+
+**Trade Route Disruption**:
+- Northern Trade Road passes within 150 miles
+- Caravan losses to Scar phenomena increasing
+- Alternative routes through Ironpeak more expensive
+
+**Tariff Revenue Loss**:
+- Lost road fees: ~100,000 crowns/year
+- This funds war preparations, so loss is significant
+
+**Military Opportunity**:
+- Valdrian northern defenses weakened
+- Some hawks see this as invasion window
+- Others fear The Scar itself more than Valdris
+
+---
+
 ## Story Relevance
 
 - Aggressive king seeking war

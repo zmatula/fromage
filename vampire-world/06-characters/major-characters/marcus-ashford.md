@@ -101,4 +101,73 @@ His entire identity is being an Order knight. If the Order is wrong, who is he?
 
 ---
 
+## Sanctified Cultural Conditioning
+
+### Religious Speech Patterns
+Marcus speaks in Divine Light idioms without thinking:
+- "Light guide us" - casual affirmation
+- "By the Dawn" - mild oath
+- "Saints preserve" - surprise/concern
+- References saints for virtues: "patience of Saint Mercy"
+- Frames events as divine providence
+
+### Trained Responses
+Conditioning runs deep:
+- Makes Dawn Sign when hearing vampire references
+- Refuses food/drink not blessed or prepared by faithful
+- Instinctively checks strangers for "collaborator signs" (too much knowledge, wrong questions)
+- Deeply uncomfortable around magical artifacts (even "purified" ones)
+- Prefers lit rooms, positions himself toward east/dawn
+
+### Cultural Blindspots
+Cannot truly comprehend:
+- Moral complexity in vampire era (all vampires were evil, period)
+- Why other cultures find the Order threatening
+- That "freedom of inquiry" is not a dangerous excuse
+- That his own certainty might be wrong
+
+### The Crack
+His Year 1190 raid killed scholars, not cultists. He knows this. He cannot fully process it. This is where his conditioning might eventually break.
+
+### Physical Tells
+- Wears blessed salt in amulet
+- Light-colored clothing always
+- Instinctive positioning toward light sources
+- Hand goes to sword hilt when uncomfortable
+
+---
+
+## Information Profile
+
+### Knows For Certain
+- Order of Dawn doctrine on vampires
+- His training and combat techniques
+- The Inheritors are enemies
+- The Order uses "purified" artifacts
+
+### Believes But Unverified
+- Vampires were literally demonic
+- Divine Light is a conscious deity
+- The Collapse was divine punishment
+- All Inheritors are evil
+
+### Suspects
+- Order leadership knows things they don't share
+- Some doctrine may be simplified for faithful
+- His Year 1190 raid killed scholars, not cultists
+
+### Completely Wrong About
+- The nature of Divine Light (it's not what he thinks)
+- Whether all vampires were evil
+- Whether Seven is irredeemable
+- What his own Order hides
+
+### Information Sources
+- Grand Master Aurelius (filtered)
+- Order archives (incomplete)
+- Confessions from prisoners (biased/coerced)
+- His own observations (colored by training)
+
+---
+
 *Marcus is the protagonist's mirror—both defined by what they were made to be, both must choose who they become.*

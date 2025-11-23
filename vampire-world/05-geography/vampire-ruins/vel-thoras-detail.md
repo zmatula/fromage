@@ -12,6 +12,40 @@ The facility was built into a mountain, with multiple levels descending into the
 
 ---
 
+## Why Vel'Thoras Survived
+
+### The Paradox
+
+Vel'Thoras sits approximately 50 miles from The Scar's edge—well within Zone 4, where dimensional instability should cause equipment failure and "radiation-like sickness." Yet Seven's stasis chamber has functioned for 1,200 years. This demands explanation.
+
+### The Answer: Mordecai's Foresight
+
+Vel'Thoras was built to survive.
+
+**What Mind Covenant Knew**: Between Year -61 and -32, Mind researchers detected dimensional pollution at critical levels. They knew something catastrophic was coming—they just couldn't prevent it. Vel'Thoras was specifically designed as a contingency facility.
+
+**The Shielding**:
+- **Depth**: 500+ feet underground; the mountain provides mass shielding against dimensional effects
+- **Wards**: Dimensional stabilization wards designed by Mordecai himself, the foremost mind of the covenant
+- **Independence**: Self-contained power systems that don't rely on the Bloodweb
+- **Active Protection**: The Mind Codex (Mordecai's consciousness) may be actively maintaining the facility's defenses
+
+### Why It's Failing Now
+
+Even Mordecai's preparations have limits. After 1,200 years:
+- Power reserves are finally depleting
+- Wards are degrading faster than they can self-repair
+- The Scar's expansion is increasing ambient dimensional stress
+- Level Four's stasis systems are failing
+
+Seven is awakening because the facility's protections have finally exceeded their design tolerances. This isn't activation—it's collapse.
+
+### The Implication
+
+If Vel'Thoras was designed to survive the Collapse, Mordecai knew what was coming. The facility wasn't just research—it was a lifeboat. What else did he prepare for? And why did he want the Vessels to survive when everything else burned?
+
+---
+
 ## Surface Level: The Facade
 
 **Original Function**: Reception, security screening, visitor housing

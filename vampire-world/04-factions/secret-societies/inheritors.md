@@ -24,6 +24,8 @@ A secret society dedicated to recovering and using vampire knowledge. They would
 **Purpose**: Recover vampire knowledge for betterment
 **Belief**: Races should inherit what vampires left
 
+*Note: This is the official founding story. The true origins are older, darker, and known only to senior leadership. See [True Origins](true-origins.md) for what really happened in Year 789.*
+
 ### The Original Vision
 
 - Vampire knowledge can elevate all races

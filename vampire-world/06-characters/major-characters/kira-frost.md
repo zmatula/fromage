@@ -100,4 +100,45 @@ Paralyzed between Northern duty and Veil Keeper mission. Both are betrayals.
 
 ---
 
+## Northern Cultural Markers
+
+### Communication Style
+- Terse: minimum words necessary
+- Brief eye contact, single nod for acknowledgment
+- No pleasantries, no small talk
+- Considers excessive speech a weakness
+- Uncomfortable with Valdrian verbosity
+
+### "Strength Through Discipline" Worldview
+Everything filtered through this lens:
+- Judges people by self-control
+- Despises waste and excess
+- Finds religious zealotry performative (strength should be silent)
+- Respects dwarven practicality
+- Values competence over birth
+
+### Ruin Relationship
+Grew up near Vel'Krath ruins:
+- Complex fascination/fear response
+- Knows more about vampire military tech than she admits
+- Dreams about the ruins sometimes
+- This is why she was recruited for intelligence work
+
+### Cultural Superiorities
+- Considers Valdrians "grape-soft" (wine-drinking, over-refined)
+- Finds Maritime amorality contemptible
+- Grudging respect for dwarven strength
+- Views Sanctified as dangerously inflexible
+- Thinks elves are cowards hiding in their forest
+
+### Customs and Tells
+- Offers salt before meals (instinctive host behavior)
+- Drinks Northern Black ale (warm, bitter, strong)
+- Prefers meat over wine
+- Uncomfortable in warm climates
+- Wears practical clothing even at formal occasions
+- Northern nod instead of handshake
+
+---
+
 *Kira represents the impossible position—when every choice is betrayal, what do you do?*

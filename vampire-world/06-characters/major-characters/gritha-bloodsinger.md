@@ -103,4 +103,47 @@ Justified anger at genocide has become all-consuming. Can't see past revenge.
 
 ---
 
+## Goblin Cultural Framework
+
+### "Blood Remembers" Philosophy
+This is her core worldview:
+- The past lives in blood, literally
+- Inherited memory passed through blood rites
+- Her grandmother's knowledge is in her flesh
+- She carries ancestors' pain as physical presence
+- Individual identity is less important than ancestral chain
+
+### Knowledge of Modification
+She knows the terrible truth:
+- Goblins were the most modified race
+- Current goblins "barely resemble pre-vampire ancestors"
+- Shamanic traditions given BY vampires
+- Her power is the oppressor's gift
+- She uses their tools against their legacy
+
+### Cross-Cultural Misreading
+Communication barriers:
+- Misreads human tooth displays as aggression
+- Her tooth-show greeting seems threatening to humans
+- Sees human "hospitality" as condescension
+- Interprets Valdrian formality as mockery
+- Northern bluntness is the only human style she respects
+
+### Tribal Collective Identity
+- Uses "we" more than "I"
+- Individual glory is foreign concept
+- Judges everything by "what serves the tribes"
+- Even revenge is collective, not personal
+- This makes her alien to human allies
+
+### Relationship to Blood Magic
+The central contradiction:
+- Knows it's vampire-derived
+- Uses oppressor's tools against oppressors
+- Creates complicated pride/shame
+- She is most vampire-like of all humans' enemies
+- Does this make her a hypocrite or a pragmatist?
+
+---
+
 *Gritha represents what happens when justified anger becomes everything—wisdom lost to rage.*

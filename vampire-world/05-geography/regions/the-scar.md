@@ -216,6 +216,30 @@ Until now.
 
 The Scar grew more in Year 1199 than in any previous year. The rate is accelerating. If it continues, Keth's Hollow—the abandoned village—will be inside the Distortion Ring within five years. Other settlements within twenty.
 
+### Economic Impact Quantified
+
+**Direct Losses**:
+- Northern Trade Road tariff loss: 100,000 crowns/year (Northern)
+- Valdrian agricultural failure zone: 30,000 crowns/year
+- Property abandonment: 200,000 crowns in devalued land
+
+**Indirect Costs**:
+- Trade insurance: Up 300% for Scar-adjacent routes
+- Alternative routing: Adds 40% to shipping costs
+- Mercenary rates: Double for Scar-area work
+
+**Who Profits**:
+- Maritime Republic: Sea-lane alternative +150,000 crowns/year
+- Ironpeak Confederation: Mountain pass fees +50,000 crowns/year
+- Banking House Ironmark: High-risk expedition loans at 200-300%
+- Scavenger settlements: Black market trade ~50,000 crowns/year
+
+**Political Pressure**:
+- Northern Kingdom increasingly isolated economically
+- Pressure to either "solve" The Scar or find new routes
+- Some advocate invading Valdrian territory for port access
+- The Scar's expansion is becoming a casus belli
+
 ### The Environmental Collapse
 
 The Scar's expansion isn't just swallowing territory—it's poisoning everything around it.

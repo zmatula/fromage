@@ -216,6 +216,24 @@ Goblins know more vampire knowledge than anyone suspects. Their shamanic blood m
 
 ---
 
+## The Cost of the Great Secret
+
+### Sanctuary Knowledge Protection
+
+The goblins' greatest secret—Twilight sanctuary locations—has been protected for 1,200 years through brutal methods:
+
+**The Memory Shamans**: Only 7 shamans at any time know all locations. They never travel together. They never write it down. Knowledge passes through blood ritual only.
+
+**The Tortured Protocol**: When goblins are captured, the tribe assumes the worst. Any goblin held more than a day is... questioned... upon return. Not because they're traitors—because they might have broken.
+
+**The Price Paid**: Over twelve centuries, dozens of goblins who might have revealed the secret under torture have been killed by their own people. Some were probably innocent. The shamans bear this weight.
+
+**Why It Works**: Other races assume goblins know nothing worth knowing. This prejudice is their greatest protection.
+
+**Why It Might Fail**: Seven's awakening makes sanctuaries relevant again. If someone realizes goblins know, the torture will begin in earnest. How many will die to keep the secret this time?
+
+---
+
 ## Internal Conflicts
 
 ### Tribal Rivalries

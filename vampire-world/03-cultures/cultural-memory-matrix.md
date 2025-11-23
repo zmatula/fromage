@@ -398,4 +398,41 @@ Each race is not monolithic—they argue among themselves about their own histor
 
 ---
 
+## How Information Distorts
+
+### Case Study: Year 812 Discovery
+
+**At the Mine** (Year 812):
+"Something was found in deep tunnels. Church came. Everyone disappeared."
+
+**In Northern Towns** (Year 815):
+"Miners found vampire gold. Church stole it and killed them."
+
+**In Valdrian Courts** (Year 830):
+"The Northern Kingdom found a vampire artifact. Church properly confiscated it."
+
+**In Maritime Universities** (Year 900):
+"The Iron Ridge Incident may have involved a stasis chamber."
+
+**In Veil Keeper Records** (Year 1000):
+"Living vampire confirmed in Northern stasis chamber. Church cover-up verified."
+
+Each version serves different interests. None are entirely accurate.
+
+### Case Study: The Twilight War
+
+**Human Version**: Elves attacked unprovoked; heroic defense pushed them back
+**Elven Version**: Humans broke treaty; elves defended homeland
+**Dwarven Version**: Both sides were fools; dwarves stayed out of it
+**Goblin Version**: Both races weakened themselves; briefly good for goblins
+
+### Pattern
+Information distorts through:
+- Distance (further = more distortion)
+- Time (longer = more mythologized)
+- Interest (serves teller's agenda)
+- Retelling (details become dramatic)
+
+---
+
 *Every race remembers history in ways that justify their present. The truth is buried under 1,200 years of self-serving narrative.*

@@ -2,6 +2,10 @@
 
 The world is about to explode. These are the specific tensions—with names, dates, and stakes.
 
+**Related Files**:
+- [Communication Systems](communication-systems.md) - How news travels and information lags affect crisis escalation
+- [Economic Framework](economic-framework.md) - Financial pressures driving political decisions
+
 ---
 
 ## Overview
