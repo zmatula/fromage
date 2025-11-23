@@ -82,8 +82,11 @@ vampire-world/
 | era-consolidation.md | Year 700 to 1100 | Empire formation |
 | era-recent-past.md | Year 1100 to 1200 | Current tensions |
 | immediate-aftermath-ground.md | Year 0-8 ground level | Warlords, purifiers, survivors |
+| lost-centuries-mystery.md | Year 300-700 gaps | Erased history, Second Collapse |
 
-**Additional Scene Files**: golden-age-scenes.md, pre-vampire-scenes.md, great-gathering.md, technology-loss-scenes.md
+**Additional Scene Files**: golden-age-scenes.md, pre-vampire-scenes.md, great-gathering.md, technology-loss-scenes.md, unification-collapse-scenes.md
+
+**Additional Master Files**: year-812-contradictions.md (competing theories about Year 812 discovery)
 
 **Interactions**:
 - Timeline → provides context for everything
@@ -232,6 +235,7 @@ vampire-world/
 | File | Purpose |
 |------|---------|
 | historical-bloodlines.md | Family lines and ideological successions across 1200 years |
+| historical-character-profiles.md | Detailed profiles for Vykros, Karath, Caldris, Koss, others |
 
 **Interactions**:
 - POV independence → each has arc without Seven
@@ -274,6 +278,7 @@ vampire-world/
 | vessel-seven-memories.md | Seven's 7 years awake | Seven (fragmented) |
 | sanguine-vessels-registry.md | All 12 Vessels | Hidden in Vel'Thoras |
 | sanguine-vessels-lab.md | Lab culture and researcher relationships | Hidden in Vel'Thoras |
+| vessel-eleven-mystery.md | Evidence for Eleven's survival | Multiple theories |
 | discoverable-secrets.md | When characters learn what | Plot pacing |
 | shadow-truths.md | Disputed facts | Reader knows truth |
 | permanent-mysteries.md | Never resolved | Stays unknown |
@@ -455,18 +460,18 @@ magic-disagreements.md (how to use them)
 |-----------|-------|---------|
 | 00-project-index | 4 | Navigation |
 | 01-core-framework | 3 | Foundation |
-| 02-timeline | 24 | History |
+| 02-timeline | 27 | History |
 | 03-cultures | 12 | Peoples |
 | 04-factions | 12 | Powers |
 | 05-geography | 15 | Places |
-| 06-characters | 10 | People |
+| 06-characters | 11 | People |
 | 07-artifacts-magic | 7 | Items/Systems |
-| 08-secrets | 7 | Hidden info |
+| 08-secrets | 8 | Hidden info |
 | 09-plot-architecture | 6 | Structure |
 | 10-style-guide | 4 | Writing |
-| 11-validation | 5 | Checking |
+| 11-validation | 6 | Checking |
 | 12-grrm-review | 13 | Review |
-| **Total** | **122** | |
+| **Total** | **128** | |
 
 ---
 
