@@ -123,6 +123,29 @@ Everything depends on the economy functioning, which requires the persecution to
 
 "Every decision tilts the scales. Our duty is ensuring they never fall."
 
+## Character Arc
+
+### Beginning: The Balancing Act
+Solarius enters the story as the moderate High Theocrat, desperately trying to maintain balance between Cardinal Blackfire's persecution faction and Cardinal Brightwater's reform movement. He believes his careful neutrality protects both the faith and the faithful—that by giving neither side what they want, he prevents either from destroying what they claim to protect.
+
+### Middle: The Forced Choice (Week 5)
+Events force Solarius to make a decision he's spent seventeen years avoiding: the Order of Dawn's hunt for the vampire (Seven) requires extraordinary funding. Blackfire demands the Church finance a holy crusade. Brightwater argues the funds should go to feeding refugees from persecution-devastated provinces. Solarius cannot give both sides half—the hunt is too expensive, the refugees too numerous. For the first time, he must choose.
+
+**The Decision Point**:
+- Fund the hunt → Validates Blackfire, persecution accelerates, economy suffers
+- Fund the refugees → Enrages Blackfire faction, possibly triggers religious civil war
+- Fund neither → Both sides unite against him, loses control entirely
+
+### End: Legacy Defined
+Solarius's choice in Week 5 determines his legacy and the Sanctified States' future. Whatever he decides costs him—moderates don't get happy endings. His arc is the tragedy of a good man who discovered that balance isn't a virtue when the scales hold injustice on both sides.
+
+**Possible Outcomes**:
+- Funds the hunt: Dies knowing he enabled persecution's worst excesses
+- Funds refugees: Dies with his conscience but his church in schism
+- Removed from power: Dies seeing his life's work of stability destroyed
+
+---
+
 ## Story Function
 
 Solarius represents the tragedy of moderation taken to paralysis. He is genuinely faithful, genuinely trying to prevent disaster, and genuinely failing because he cannot take sides. His balancing act enables the persecution to continue while preventing the reforms that might end it.

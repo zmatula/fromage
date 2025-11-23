@@ -295,6 +295,26 @@ With Vessel Seven, they explode immediately.
 - Easy to claim "historical right"
 - NOT full conquest—seize resources, establish forward positions, then assess
 
+### The Calculated Gamble
+
+**What Aldric Knows**:
+- Northern grain reserves: 4 months (critically low)
+- Raid must succeed to enable any future campaign
+- Failure means no full invasion possible for 2-3 years
+- This is reconnaissance-in-force AND resource grab simultaneously
+
+**The Risk He's Taking**:
+- If raid fails: Valdris fortifies, opportunity closes
+- If raid succeeds but casualties high: Army too weak for Phase 2
+- If raid triggers immediate war: No stockpile for extended campaign
+- Success window is narrow—must win fast with minimal losses
+
+**Why He's Acting Anyway**:
+- Valdrian succession crisis creates unique opportunity
+- Waiting means Northern food dependency continues
+- His warrior-king legitimacy requires action
+- Better to gamble now than starve later
+
 **Phase 2: Valdrian Weakness**
 - If succession goes badly, grab more
 - Eastern provinces (wealthy)
@@ -465,6 +485,137 @@ With Vessel Seven, they explode immediately.
 - Order will hunt Seven relentlessly
 - They'll kill anyone who helps him
 - They won't negotiate
+
+---
+
+## Order of Dawn Financial Collapse
+
+### The Hunt's Economic Reality
+
+The Order's continental hunt for Seven cannot be sustained indefinitely. Their budget crisis becomes a plot point.
+
+**Timeline**:
+- **Week 4**: Costs spiral beyond projections; reserve funds depleted
+- **Week 5-6**: Noble donors demand political concessions; internal criticism grows
+- **Week 7**: Crisis point—cannot maintain pursuit force without external funding
+- **Week 8**: Tactical retreat forced; active pursuit reduced from 5,000 to 2,000 knights
+
+**Consequences for Story**:
+- Creates breathing room for Seven (Week 8+)
+- Opens window to reach Ironpeak and Living Artifact
+- Forces Sanctified States funding decision (Solarius's choice)
+- Damages Order's reputation and Aurelius's authority
+
+**Political Ripples**:
+- Sanctified States must choose: fund hunt or maintain persecution
+- If they fund hunt, persecution operations suffer
+- If they don't, Order may never recover prestige
+- Either way, the hunt's economic pressure creates cascading effects
+
+---
+
+## Order of Dawn Overextension
+
+### Persecution Capacity Decline Timeline
+
+The Order cannot hunt Seven at full capacity while managing all other threats. Their forces are finite.
+
+**Week 1-2: 100% Persecution Capacity**
+- Full knight deployment on heretic hunts
+- Border monitoring routine
+- All 30 fortress-monasteries contributing to persecution operations
+
+**Week 2-3: Border Clash Response**
+- Northern aggression forces Order to deploy forces to Valdrian border
+- 3-4 fortress-monasteries redirect knights to military operations
+- Persecution capacity drops to ~85%
+
+**Week 3-5: 60% Capacity**
+- Border situation demands sustained presence
+- Succession crisis requires Order protection for Duke Aldric
+- Court politics consume leadership attention
+- Only 18 fortress-monasteries can maintain persecution operations
+- **Gaps appear**: Some regions see no Order patrols for first time in years
+
+**Week 6-8: 30% Capacity**
+- Seven's location becomes known; resources redirect to hunt
+- Continental pursuit requires coordination across jurisdictions
+- Border now requires permanent garrison
+- Persecution effectively suspended in favor of primary target
+- **Enforcement collapses**: Magic users and scholars notice safety, begin moving
+
+### Strategic Consequence for Seven
+
+The more aggressively the Order pursues Seven, the more they must abandon other operations. By Week 6, Seven's existence has accidentally created the largest gap in persecution enforcement in decades. Refugees who fled to Maritime Republic consider returning. Hidden scholars emerge from safe houses.
+
+This creates a potential ally network: people who owe their temporary freedom to Seven's existence.
+
+---
+
+## Northern Invasion Impact on Order Coverage
+
+### Week 2: Border Clash Forces Response
+- Order of Dawn detects Northern military movements
+- Grand Master Aurelius must decide: maintain persecution or defend realm?
+- Three knight-companies redeployed from heretic hunting to border observation
+
+### Week 3-4: Hunt Slows
+- Cassius's vision and subsequent breakdown demands Order presence at court
+- Northern threat assessment consumes intelligence resources
+- Seven pursuit becomes secondary to immediate military threat
+- **Window opens**: Seven has 2-week period with significantly reduced pursuit pressure
+
+### How This Helps Seven Escape
+- Order coordination breaks down across jurisdictions
+- Intelligence network focused on Northern military, not single fugitive
+- Local commanders act independently, creating gaps in coverage
+- Seven reaches Scholar's Haven during lowest Order attention period
+
+---
+
+## Maritime Coup Impact on Continental Systems
+
+### Artifact Authentication Network Collapse
+
+The Maritime Republic ran the continent's most trusted artifact verification system. The Year 1199 coup broke it.
+
+**What Existed Before**:
+- Scholar's Haven maintained registry of authenticated artifacts
+- Maritime experts verified provenance across all major markets
+- Certification enabled legal trade, insurance, banking collateral
+- Network of trained authenticators in every major port and capital
+
+**What the Coup Destroyed**:
+- Political intelligence purged (authenticators often served as informants)
+- Experts fled or were arrested during loyalty checks
+- Registry access now controlled by Banking Consortium
+- Foreign offices closed during "reorganization"
+
+**Current Status (Year 1200)**:
+- Authentication capacity: 40% of pre-coup levels
+- Registry reliability: "Questionable" (may have been altered)
+- Foreign operations: "Suspended indefinitely"
+- Trust level: Collapsed among other powers
+
+### Continental Consequences
+
+**For artifact trade**:
+- Prices volatile (no trusted verification)
+- Insurance unavailable for unverified pieces
+- Banking won't accept artifacts as collateral
+- Black market growing (same uncertainty, lower fees)
+
+**For Seven's story**:
+- Artifacts Seven carries cannot be verified through normal channels
+- Creates opportunity: verification chaos means his nature harder to confirm
+- Creates danger: anyone can claim to verify (or expose) him
+- Consortium might offer authentication services in exchange for access to him
+
+**For other powers**:
+- Valdrian court can't verify succession-related artifacts
+- Northern expedition finds can't be properly catalogued
+- Order of Dawn loses ability to track artifact movement
+- Inheritors lose infrastructure for acquisition network
 
 ---
 

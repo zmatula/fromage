@@ -266,6 +266,40 @@ This means Maritime knows trade movements but not political intentions.
 
 ---
 
+## Artifact Authentication Network Collapse
+
+### Pre-Coup System
+The Maritime Republic operated the continent's most trusted artifact verification network:
+- Central registry in Scholar's Haven with 500 years of records
+- 200+ trained authenticators in major cities across all powers
+- Certification enabled: legal trade, banking collateral, insurance
+- Fees generated ~50,000 crowns/year in revenue
+
+### Coup Damage
+The Banking Consortium's political purge devastated the network:
+- 60% of authenticators were also political informants (now purged or fled)
+- Registry access restricted to Consortium loyalists
+- Foreign authentication offices closed during "loyalty review"
+- No new certifications issued for 3 months post-coup
+
+### Current Status (Year 1200)
+- Authentication capacity: 40% of pre-coup levels
+- Backlog: 6 months of unverified artifacts
+- Trust level: Other powers now question all Maritime certifications
+- Competition: Ironpeak offering alternative verification (50% market share gain)
+
+### Continental Impact
+Without reliable Maritime authentication:
+- Artifact prices swing wildly (no trusted verification standard)
+- Insurance companies won't cover unverified pieces
+- Banks won't accept artifacts as loan collateral
+- Black market growing (same uncertainty, lower fees, no questions)
+
+### Strategic Consequence
+The Consortium destroyed the network that made Scholar's Haven indispensable. They kept the trade but lost the trust. This cannot be rebuilt quickly—authentication requires reputation earned over generations.
+
+---
+
 ## Culture
 
 ### Values

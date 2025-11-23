@@ -18,121 +18,135 @@ Finding people who met all four criteria was difficult. Finding twelve was nearl
 
 ## Recruitment Methods
 
-### Method 1: Voluntary Recruitment (Vessels 1-3)
+### Method 1: Voluntary Recruitment (Vessel 1)
 
 **Approach**: "Serve vampire civilization by participating in important research"
 **Target**: True believers in Mind covenant ideology
 **Incentive**: Honor, advancement, promised benefits to family
-**Success Rate**: Mixed—belief doesn't predict survival
+**Success Rate**: Poor—belief doesn't predict survival
 
 **Vessel One (Arren Thorne)**
-- Background: Scholar's son, devoted to Mind ideology
-- Recruited: Age 24, Year -15
-- Motivation: Believed he would help vampires transcend their limitations
-- Family: Told he was selected for "advanced research"; they were proud
-- Fate: Died in conversion, Year -14
+- Background: Third son of failing Valdrian merchant house
+- Recruited: Age 24, Year -37
+- Motivation: Believed conversion would elevate his family's status
+- Family: Promised they would be "rewarded"—they weren't
+- Fate: Died in conversion Day 12 (blood clotting cascade)
 
-**Vessel Two (Mira Coldwell)**
-- Background: Minor noble family, ambitious
-- Recruited: Age 28, Year -14
-- Motivation: Family advancement; her success would elevate them
-- Family: Given false reports of her "progress" until the project was classified
-- Fate: Survived conversion, died in mental integration testing, Year -12
+### Method 2: Captured Subjects (Vessel 2)
 
-**Vessel Three (Theron Ashward)**
-- Background: Military officer, seeking meaning after injuries
-- Recruited: Age 35, Year -13
-- Motivation: Service; he wanted to contribute despite being unfit for combat
-- Family: Told he was on extended assignment; they stopped asking
-- Fate: Survived integration, died in Bloodweb independence test, Year -11
+**Approach**: Use prisoners and captured enemies
+**Target**: Those with no rights or recourse
+**Incentive**: None required
+**Success Rate**: Poor—resistance affects outcomes
 
-### Method 2: Coerced Recruitment (Vessels 4-6)
+**Vessel Two (Unknown Elf)**
+- Background: Captured from Silverwood border raids
+- Recruited: Unknown age, Year -34
+- Motivation: None—prisoner of war, resisted until sedation
+- Family: No connections in vampire records
+- Fate: Died Day 6 (elven physiology incompatible with process)
 
-**Approach**: "Participate or face consequences"
-**Target**: Vampires with vulnerabilities (debts, crimes, threatened families)
-**Incentive**: Problems disappear; refusal makes problems worse
-**Success Rate**: Poor—resentment affects integration
+### Method 3: Convenient Access (Vessels 3-4)
 
-**Vessel Four (Lyssa Vane)**
-- Background: Gambler, massive debts to dangerous creditors
-- Recruited: Age 31, Year -12
-- Motivation: Debts would be paid; creditors would leave her family alone
-- Family: Never told; they assumed she fled her debts
-- Fate: Died in conversion—possibly deliberate resistance, Year -11
+**Approach**: Select from servant populations and military
+**Target**: Those already within vampire control
+**Incentive**: "Elevation to special service" or "enhanced operations"
+**Success Rate**: Better—compliance without questions
 
-**Vessel Five (Kael Thornwood)**
-- Background: Minor criminal, arrested for blood trafficking
-- Recruited: Age 26, Year -11
-- Motivation: Avoid execution; charges dropped upon completion
-- Family: Told he was executed; they mourned him
-- Fate: Survived conversion, psychological instability, terminated as failure, Year -10
+**Vessel Three (Mira Coldwell)**
+- Background: Servant family in Vel'Thoras support village, worked in kitchens since age 12
+- Recruited: Age 19, Year -30
+- Motivation: Selected from routine blood screenings; family told she was "elevated"
+- Family: Her mother was proud
+- Fate: Brain hemorrhage Day 21 (mental architecture incompatible)
 
-**Vessel Six (Vera Nightfall)**
-- Background: Scholar's assistant, accused of stealing research
-- Recruited: Age 23, Year -10
-- Motivation: Charges dropped; reputation restored
-- Family: Told she was reassigned to classified project; they believed it
-- Fate: Survived integration, died in independence testing, Year -9
+**Vessel Four (Theron Ashward)**
+- Background: Career soldier, Covenant of the Crimson Throne forces, distinguished record
+- Recruited: Age 27, Year -15
+- Motivation: Told he was being "enhanced for special operations"
+- Family: Unknown
+- Fate: Survived 3 months, then blood processing failed
 
-### Method 3: Purchased Recruitment (Vessels 7-9)
+### Method 4: No Connections (Vessels 5-6)
 
-**Approach**: "We'll buy your contract"
-**Target**: Indentured servants, slaves, those with nothing to lose
-**Incentive**: Freedom (in theory); substantial payment to owners
+**Approach**: Select those who won't be missed
+**Target**: Orphans, criminals, those with nothing to lose
+**Incentive**: Freedom from current circumstances
 **Success Rate**: Better—no expectations, no resentment
+
+**Vessel Five (Sera)**
+- Background: Orphan from Neth'Korath servant quarters, worked in textile production
+- Recruited: Age 22, Year -12
+- Motivation: None—selected during routine processing, no one to notice she was gone
+- Family: None; records simply marked "reassigned"
+- Fate: Mental breakdown Week 4, terminated Week 6
+
+**Vessel Six (Corvin Marsh)**
+- Background: Scholar from Free Cities studying vampire artifacts
+- Recruited: Age 31, Year -8
+- Motivation: Captured when expedition got too close to Vel'Thoras; begged to be killed instead
+- Family: Unknown
+- Fate: Survived 6 months, then rapid system deterioration
+
+### Method 5: Purchased/Selected (Vessels 7-10)
+
+**Approach**: "We'll buy your contract" or select for specific profiles
+**Target**: Indentured servants, those with optimal genetic markers
+**Incentive**: Freedom (in theory); substantial payment to owners
+**Success Rate**: Best—refined criteria, no social complications
 
 **Vessel Seven (The Protagonist)**
 - Background: Unknown prior to conversion
-- Recruited: Age unknown, Year -12
+- Recruited: Age unknown, Year -7
 - Motivation: Unknown—records sealed or destroyed
 - Family: Unknown—possibly none
-- Fate: Survived all tests, showed "excessive empathy," placed in stasis Year -7
+- Fate: Survived all tests, SUCCESS—fully stable, placed in stasis
 
 *Note: Seven's pre-conversion history is deliberately obscured. Velanna may have chosen him specifically because he had no connections—no one would ask questions.*
 
 **Vessel Eight (Brennan Cole)**
-- Background: Servant class, no family
-- Recruited: Age 19, Year -9
-- Motivation: Better than servitude; promised meaningful existence
-- Family: None
-- Fate: Survived to independence testing, connected to Bloodweb for "optimization," died in Collapse
+- Background: Soldier (like Vessel Four), professional but less distinguished
+- Recruited: Age 29, Year -5
+- Motivation: Similar profile to Four's partial success
+- Family: Unknown
+- Fate: Monitoring variant—connected to partial Bloodweb feed, died in Collapse
 
-**Vessel Nine (Sera Blackwell)**
-- Background: Orphan, ward of the state
-- Recruited: Age 17, Year -8
-- Motivation: Told she was chosen for "great purpose"
-- Family: None
-- Fate: Same as Vessel Eight—died in Collapse during Bloodweb connection
+**Vessel Nine (Lyssa Thenn)**
+- Background: Servant from capital region, optimal blood markers
+- Recruited: Age 25, Year -5
+- Motivation: Genuinely excited—believed the propaganda about "elevation"
+- Family: Told she was elevated
+- Fate: Same monitoring variant as Eight—died in Collapse
 
-### Method 4: Targeted Recruitment (Vessels 10-12)
+**Vessel Ten (Marcus Vorn)**
+- Background: Convicted murderer from Throne territories
+- Recruited: Age 26, Year -5
+- Motivation: Chance to escape execution; didn't care what it cost
+- Family: None who would claim him
+- Fate: Same monitoring variant—died in Collapse
 
-**Approach**: "We found exactly what we need"
-**Target**: Individuals with specific genetic/psychological profiles
-**Incentive**: Varies—whatever it takes
-**Success Rate**: Best—selection criteria refined
+### Method 6: Classified/Special (Vessels 11-12)
 
-**Vessel Ten (Aldric Dawnward)**
-- Background: Priest's son, rare blood type
-- Recruited: Age 22, Year -7
-- Motivation: Religious duty—told vampires needed him to "save their souls"
-- Family: Lied to; they believe he serves in a monastery
-- Fate: Connected to Bloodweb for optimization, died in Collapse
+**Approach**: Unknown—all records classified or destroyed
+**Target**: Unknown selection criteria
+**Incentive**: Unknown
+**Success Rate**: Unknown
 
 **Vessel Eleven (Unknown Name)**
-- Background: Classified
-- Recruited: Age unknown, Year -5
+- Background: All records classified Level 1, created in different facility
+- Recruited: Age unknown, Year -2
 - Motivation: Unknown
 - Family: Unknown
-- Fate: Evacuated per Protocol Nine, current status unknown
+- Fate: UNKNOWN—possibly evacuated per Protocol Nine
 
-*Note: Eleven's recruitment is the most classified. Even Velanna's notes don't specify how they were found or why they were chosen. They may have been specifically bred for the project.*
+*Note: Eleven's recruitment is the most classified. Even Velanna's notes don't specify how they were found or why they were chosen. Different research team, different approach entirely. They may have been specifically bred for the project.*
 
 **Vessel Twelve (Never Named)**
-- Background: N/A
-- Recruited: N/A, Year -3
+- Background: Selected but conversion incomplete
+- Recruited: Year -1
 - Motivation: N/A
 - Family: N/A
-- Fate: Never completed—embryonic stage at Collapse
+- Fate: Conversion interrupted by Collapse—died mid-transformation
 
 ---
 

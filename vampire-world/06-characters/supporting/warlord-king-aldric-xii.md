@@ -92,6 +92,33 @@ Aldric's personal wealth is modest for a king—he's a warrior, not a merchant. 
 - That dwarves might abandon neutrality if he wins too decisively
 - That Sanctified surplus could solve grain crisis without war
 
+## The Border Raid Gamble
+
+### What Aldric Understands About the Stakes
+
+**He Knows**:
+- Northern grain reserves are at 4 months (critically low)
+- This raid determines whether full invasion is even possible
+- Failure closes the window for 2-3 years (must rebuild, re-stockpile)
+- Success must be fast with minimal casualties to preserve force for Phase 2
+
+**His Calculated Risk**:
+- Raid is reconnaissance-in-force AND resource grab
+- If it works: Granaries seized, forward positions established, Phase 2 enabled
+- If it fails: Army blooded without gain, Valdris fortifies, opportunity lost
+
+**Why He's Gambling**:
+- Valdrian succession crisis is unique opportunity
+- Waiting means continued food dependency on potential enemy
+- His legitimacy as warrior-king requires decisive action
+- Better to act during enemy weakness than wait for strength
+
+**What He Tells His War-Chiefs**:
+"We take the granaries or we spend three years explaining why we didn't. The Valdrians are weak now. They won't be weak forever. We act."
+
+**What He Doesn't Say**:
+He knows this raid could fail. He knows failure means his expansion plans collapse. But he cannot show doubt to his war-chiefs, and he cannot wait while his people's food security depends on Valdrian goodwill. The gamble is calculated, but it's still a gamble.
+
 ## Speech Pattern
 
 ### Markers
@@ -117,6 +144,37 @@ Aldric's personal wealth is modest for a king—he's a warrior, not a merchant. 
 "The kingdom requires grain. I will take it. That is not a request for counsel."
 
 "It will be done because I have spoken. My word is the North's word."
+
+## Character Arc
+
+### Beginning: The Desperate King
+Aldric enters the story facing an impossible situation: his people are starving, and the grain they need is in Valdrian hands. Twenty-five years of kingship have taught him that strength solves problems—but this problem requires grain, not victories. He's planning a raid on Valdrian border territories to seize supplies before winter, knowing it risks full war but seeing no alternative.
+
+### Middle: The Raid's Cost (Week 3-4)
+Aldric's raid succeeds—Northern forces seize significant grain stores from Valdrian border towns. But victory comes with costs he didn't anticipate:
+- Casualties higher than expected (Valdrian defenses were prepared)
+- Grain stores smaller than intelligence suggested (bad harvest affected Valdrians too)
+- Princess Helena's intelligence network compromised by the attack
+- Valdrian succession candidates now unified against the North
+- Dwarves threatening to cut trade over "destabilization"
+
+**The Realization**:
+He won the battle but may have lost the war. The grain he seized will feed his people for months, not years. He's made permanent enemies for temporary relief.
+
+### End: Conquest or Consolidation
+Aldric must decide: push for full conquest while Valdris is in succession crisis, or consolidate his gains and seek a negotiated peace.
+
+**The Decision Point**:
+- Full conquest: Risk everything for permanent solution—but extended campaign will starve his army
+- Consolidation: Accept limited gains, seek peace—but appear weak to war-chiefs who want glory
+- Negotiate from strength: Try to force favorable terms—but Valdrians may refuse while they're angry
+
+**Possible Outcomes**:
+- Pushes for conquest: Either wins an empire or loses his army to logistics
+- Consolidates: Keeps his kingdom but faces challenges from war-chiefs who call him coward
+- Negotiates: Either achieves lasting peace or gets trapped in war he tried to avoid
+
+---
 
 ## Story Function
 

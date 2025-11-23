@@ -113,6 +113,39 @@ Dwarven economic power depends on being essential to everyone and allied with no
 
 "When you have lived three hundred years, we will discuss urgency."
 
+## Character Arc
+
+### Beginning: The Isolationist
+Borin enters the story as the architect of 156 years of dwarven neutrality—a policy that has kept the holds safe while human empires rose and fell around them. He believes time is always on the dwarves' side, that surface chaos burns itself out, and that involvement in human affairs only gets dwarves killed for human causes.
+
+### Middle: Seven's Request (Week 8)
+Seven arrives at the dwarven holds seeking sanctuary—or at minimum, passage through dwarven territory to escape pursuit. Borin's neutrality is tested directly: harboring a vampire means taking sides; refusing means pushing a potential ally toward enemies.
+
+**The Complication**:
+- Forge Master Durin wants to study Seven (vampire blood magic could advance dwarven craft)
+- Young dwarves see alliance opportunity (pick a winner while options exist)
+- Multiple surface factions are pressuring for Seven's extradition
+- Borin's health is failing—this may be his last major decision
+
+**The Pressure Point**:
+For the first time in 156 years, staying neutral means making enemies on all sides. Every faction wants Seven; giving him to no one satisfies no one.
+
+### End: Help or Exile
+Borin must choose whether dwarven neutrality can survive contact with the surface chaos Seven represents.
+
+**The Decision Point**:
+- Grant sanctuary: Abandon neutrality, gain powerful ally—but become target
+- Grant passage only: Maintain technical neutrality—but satisfies no one
+- Refuse entirely: Preserve policy—but push Seven toward enemies and miss opportunity
+- Let Durin decide: Avoid personal responsibility—but lose control of succession politics
+
+**Possible Outcomes**:
+- Helps Seven: Lives to see his policy end, but perhaps saves his people by choosing the right side
+- Refuses Seven: Dies with his neutrality intact, but his successor inherits worse options
+- Dies before deciding: The choice falls to Council, potentially triggering succession crisis
+
+---
+
 ## Story Function
 
 Borin represents the tragedy of wisdom without adaptability. He is genuinely wise, genuinely protective of his people, and genuinely becoming obsolete because the world is changing faster than his thinking. His death could end dwarven neutrality either way - toward isolation or alliance.

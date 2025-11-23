@@ -291,6 +291,65 @@ The dwarven industrial power. Neutral in empire conflicts, essential to all, and
 
 ---
 
+## Current Crisis Involvement (Year 1200)
+
+### Week 8: Seven's Arrival
+
+When Seven reaches Ironpeak seeking the Living Artifact and technical expertise, the Confederation faces its most consequential decision since Year 1089.
+
+**Initial Reception**:
+- Deep Wardens detect Seven's approach through border monitors
+- High Thane Borin informed immediately
+- Council of Thanes convened in emergency session
+- All factions aware: this moment will define Confederation's future
+
+### Week 8-9: The Great Debate
+
+**Forge Master Durin's Position** (Pragmatist):
+- "This is the opportunity we've waited centuries for"
+- Study Seven, understand vampire technology fully
+- Use knowledge to cement dwarven indispensability
+- Risk: Draws Confederation into human conflict
+
+**Ancestor Speaker Grom's Position** (Isolationist):
+- "We sealed those chambers for reasons our ancestors understood"
+- Turn Seven away, maintain strict neutrality
+- Let humans solve human problems
+- Risk: Miss historic opportunity; if Seven succeeds, dwarves seen as having failed
+
+**Vault Keeper Thora's Position** (Opportunist):
+- "Negotiate terms before committing either way"
+- What will Seven offer for help? What will other powers pay to stop him?
+- Maximum leverage, minimum commitment
+- Risk: Alienates everyone, satisfies no one
+
+### Week 9: Borin's Decision
+
+High Thane Borin must choose, knowing:
+- This ends 111 years of strict neutrality regardless of choice
+- His decision shapes Confederation policy for the next century
+- His successor's mandate will be defined by how this turns out
+
+**If Borin Helps Seven**:
+- Forge of Souls access granted
+- Technical expertise provided
+- Vessel 11 information shared
+- Durin faction strengthened; isolationists weakened
+- Surface powers will remember dwarves "chose the vampire"
+
+**If Borin Refuses**:
+- Seven proceeds without dwarven resources
+- Path significantly harder, success less certain
+- Grom faction vindicated (temporarily)
+- If Seven succeeds anyway, dwarves seen as cowards who let others save the world
+- If Seven fails, dwarves may have doomed everyone
+
+### Consequences Either Way
+
+The Confederation's reputation for neutrality is destroyed by the mere fact of Seven's arrival. Every faction will remember how the dwarves responded when the world needed them. There is no choice that preserves the old order.
+
+---
+
 ## Internal Conflicts
 
 ### Isolationist vs Engaged

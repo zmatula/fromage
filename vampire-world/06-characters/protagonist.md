@@ -70,7 +70,7 @@ An experimental vampire creation, designed to survive outside the Bloodweb. He w
 
 - Doesn't know why he was created (insurance)
 - Doesn't know collapse was imminent
-- Missing memories of other Vessels
+- **Other Vessels**: Has emotional impressions—knows they existed, felt connections to some—but no clear memories, no names, no faces. The Blood Archives revelation will fill these gaps, giving him the specific histories he senses but cannot recall.
 - Unclear on covenant politics
 - Doesn't know what happened to Velanna
 
@@ -331,6 +331,44 @@ Seven's escape happens in favorable season, but summer makes mid-story harder (s
 - Any combat may blow cover
 - Must avoid intimacy and prolonged contact
 - Each settlement is infiltration challenge
+
+---
+
+## Post-Alliance Travel: Elven Waypoints
+
+### Access Gained (Week 3+)
+
+After forming alliance with Thandril Shadowleaf, Seven gains access to the elven waypoint network—ancient paths that compress travel time significantly.
+
+**What Waypoints Are**:
+- Pre-collapse elven infrastructure, maintained in secret
+- Hidden roads that exist partially outside normal space
+- Connect major locations across the continent
+- Known only to Silverwood agents and leadership
+
+**Travel Speed Change**:
+- Pre-alliance: 20-25 miles/day (night travel only)
+- Post-alliance: 40-50 miles/day (waypoint network)
+- Some major jumps possible (days compressed to hours)
+
+**Limitations**:
+- Must be guided by someone who knows the network
+- Disorienting—Seven experiences time/space distortion
+- Not all locations connected
+- Cannot use in combat or emergency escape
+- Creates dependency on elven cooperation
+
+**Why This Matters**:
+- Explains how Seven reaches distant locations (Scholar's Haven, Ironpeak) in reasonable time
+- Creates strategic advantage over pursuers who don't have access
+- Demonstrates elven capabilities and what they've been doing during 150 years of isolation
+- Makes Thandril essential rather than optional ally
+
+**Story Implications**:
+- Seven's movement after Week 3 is faster than pursuers expect
+- Order of Dawn cannot predict his travel times
+- Creates windows for reaching locations before pursuit arrives
+- But also creates dependency—without Thandril, Seven is slow again
 
 ---
 

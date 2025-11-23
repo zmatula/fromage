@@ -116,9 +116,20 @@ Seven's awakening is not gradual:
 
 ---
 
+## Parallel Consequences of Event 1
+
+Events 2, 3, and 4 are not a linear sequence—they are three simultaneous threads triggered by Seven's awakening. The Vel'Thoras Convergence sends ripples in multiple directions at once, and these ripples interact with each other.
+
+### Cross-Effects Between Parallel Events
+- **Vision distracts from Clash response**: Cassius's Week 3 breakdown consumes court attention, delaying coordinated Valdrian response to the Border Clash
+- **Clash creates chaos Seven exploits**: Northern military action draws Order of Dawn forces north, creating gaps Seven uses to reach Scholar's Haven
+- **Archives revelation feeds back to Vision**: What Seven discovers confirms what Cassius saw, accelerating the Crown's final breakdown
+
+---
+
 ### Event 2: The Crown's Vision
 
-**When**: Week 3
+**When**: Week 2 (Days 8-10)
 **Location**: Valdris Prime
 
 **Storylines Meeting**:
@@ -141,11 +152,17 @@ Crown of Seeing gives Cassius crucial vision—possibly of protagonist, possibly
 - Protagonist's nature may be revealed to court
 - War preparations change
 
+**Cross-Thread Effects**:
+- Court's focus on Cassius means delayed military response to Border Clash
+- Vision content later confirmed by Archive revelations, completing the madness
+
+**Timeline Note**: This occurs near-simultaneously with the Border Clash (Days 12-14), creating a critical convergence where political crisis in the capital coincides with military crisis on the frontier.
+
 ---
 
 ### Event 3: The Border Clash
 
-**When**: Week 2
+**When**: Week 2 (Days 12-14)
 **Location**: Valdrian-Northern border
 
 ### Timing Constraint
@@ -188,13 +205,21 @@ Document whichever timing is chosen to ensure constraint is satisfied.
 - Gritha Bloodsinger (observing/acting)
 
 **What Happens**:
-Northern provocation or incident sparks open conflict. Protagonist is present and becomes target of both sides. War begins or is barely averted.
+Northern provocation or incident sparks open conflict. War begins or is barely averted.
+
+**Seven's Connection**: Seven does not travel TO the clash. Instead, he learns of it from refugees who overtake him while fleeing southward. These refugees provide firsthand accounts of Northern aggression and Valdrian weakness, shaping his understanding of the political landscape without requiring impossible travel.
 
 **Consequences**:
 - War or near-war changes everything
 - Kira must choose sides
 - Protagonist's value as weapon demonstrated
 - Goblins may act
+- Refugee information gives Seven intelligence about both powers
+
+**Cross-Thread Effects**:
+- Order of Dawn forces diverted to border (Week 3-4), creating pursuit gaps
+- Northern attention divided between war and Seven, reducing coordination
+- Chaos provides cover for Seven's movement toward Scholar's Haven
 
 ---
 
@@ -223,6 +248,16 @@ Protagonist's blood unlocks encrypted Blood Archive sections. What's revealed ch
 - Dimensional threat becomes clear
 - Factions react to revelations
 
+**Mechanical Link to Event 5**:
+- Scholar's Haven records include Year 812 vampire testimony naming Ironpeak as location of sealed Forge of Souls
+- Archives mention Vessel 11's last known location: Northern Veil Keeper facility
+- Seven travels to Ironpeak seeking the Living Artifact and dwarven technical expertise
+
+**Chekhov's Gun Payoff - Year 812 Testimony**:
+- Seven discovers testimony in Blood Archives that names the Scar as origin point of dimensional instability
+- The vampire witness describes what they saw: "The wound that bleeds between worlds"
+- This testimony, preserved for 388 years, finally names the true threat
+
 ---
 
 ### Event 5: The Living Artifact Truth
@@ -249,6 +284,17 @@ Protagonist interacts with Living Artifact. Its true nature is revealed—Vessel
 - Information gained or lost
 - Veil Keeper response
 - Northern reaction
+
+**Mechanical Link to Event 6**:
+- Dwarven artifact analysis reveals component matching Sel'Naroth elven design signatures
+- High Thane Borin reveals ancient dwarven records pointing to elven knowledge of Scar's nature
+- Thandril, present due to earlier intervention bond, offers to guide Seven to Sel'Naroth
+- The path forward requires elven cooperation only Thandril can secure
+
+**Chekhov's Gun Payoff - Thandril Feeding Intervention**:
+- The trust bond created when Thandril broke observation protocol (Week 3) now enables cooperation
+- Thandril vouches for Seven to Silverwood leadership based on direct knowledge of his character
+- Without this earlier intervention, elven access would be impossible
 
 ---
 
@@ -278,6 +324,12 @@ Journey to Sel'Naroth reveals elven plans and potentially vampire survivors. Ult
 - Vampire survivor status known
 - Path to resolution identified
 
+**Mechanical Link to Event 7**:
+- Sel'Naroth records reveal the Scar's 1200-year cycle is reaching critical point
+- Elven astronomical calculations pinpoint the exact timing: Week 12
+- The knowledge of what must be done exists in Sel'Naroth; the means exist in Ironpeak (Forge of Souls + vampire blood)
+- Seven now has the complete picture: what the threat is, when it peaks, and what tool might stop it
+
 ---
 
 ### Event 7: The Scar Crisis
@@ -303,6 +355,35 @@ Dimensional threat reaches critical point. Must be stopped or world ends. Protag
 - Who lives and dies
 - What world remains
 - Story resolution
+
+**Chekhov's Gun Payoffs**:
+- **Crown's Madness History**: The Crown of Seeing, which drove previous emperors mad, finally breaks during the crisis as Cassius receives visions of the Scar opening—the Crown was always showing the truth, and the "madness" was the unbearable knowledge
+- **Blood Anvil + Vampire Blood**: The Forge of Souls can be activated by Seven's blood, creating the tool needed to seal the Scar—the dwarves preserved the capability for 842 years without knowing its ultimate purpose
+- **Year 812 Testimony**: The vampire witness's description provides the key to understanding what must be sealed and how
+
+---
+
+## Dwarven Faction Involvement
+
+### Week 8: Seven Reaches Ironpeak
+- Seven arrives seeking Living Artifact information and technical analysis
+- Initial reception cautious—dwarves aware of continental pursuit
+- Forge Master Durin advocates for study; Ancestor Speaker Grom counsels rejection
+
+### Week 8-9: Council Deliberation
+- High Thane Borin convenes emergency Thane Council session
+- Debate centers on neutrality vs unprecedented opportunity
+- Key question: Does helping Seven drag Confederation into human war?
+
+### Week 9: Borin's Decision
+- High Thane Borin makes historic choice with generational consequences
+- **If yes**: Dwarves provide Forge of Souls access, technical expertise, information on Vessel 11
+- **If no**: Seven must proceed without dwarven resources, significantly harder path
+- Either choice breaks 111 years of strict neutrality and sets Confederation's course for century
+
+### Consequences of Dwarven Involvement
+- **If involved**: Surface powers will remember dwarves chose sides; banking relationships stressed; Forge Master Durin's faction strengthened
+- **If refused**: Seven's mission harder; if he succeeds anyway, dwarves seen as having failed world; Ancestor Speaker Grom's isolation policy vindicated or discredited
 
 ---
 
@@ -395,14 +476,18 @@ Dimensional threat reaches critical point. Must be stopped or world ends. Protag
 
 ### Rough Sequence
 
-1. Vel'Thoras Convergence (opening)
-2. Early pursuit encounters
-3. Crown's Vision (early-mid)
-4. Blood Archives Revelation (mid)
-5. Border Clash (mid)
-6. Living Artifact Truth (mid-late)
-7. Sel'Naroth Expedition (late)
-8. Scar Crisis (climax)
+1. Vel'Thoras Convergence (opening) - Week 1
+2. Early pursuit encounters - Week 1-2
+3. Crown's Vision (Week 2, Days 8-10)
+4. Border Clash (Week 2, Days 12-14)
+5. Thandril Alliance (Week 3)
+6. Inheritor Negotiations (Week 4)
+7. Journey to Scholar's Haven (Week 5)
+8. Blood Archives Revelation (Week 6)
+9. Order Financial Crisis / Tactical Retreat (Week 8)
+10. Living Artifact Truth (Week 8)
+11. Sel'Naroth Expedition (Week 10)
+12. Scar Crisis (Week 12 - climax)
 
 ### Simultaneous Events
 
@@ -470,6 +555,140 @@ Each intersection:
 - Thandril gains direct access for Silverwood intelligence
 - Feeding crisis averted, Seven returns to rational state
 - Sets up path to Silverwood and Sel'Naroth expedition later
+
+---
+
+## Week 3: Thandril Alliance and Travel Upgrade
+
+### Access to Elven Waypoints
+
+**Context**: After Thandril's emergency intervention (Day 21-22), the alliance deepens during Week 3
+
+**What Seven Gains**:
+- Access to elven waypoint network—ancient paths that compress travel time
+- Hidden roads known only to Silverwood agents
+- Knowledge of safe passages that avoid Order patrols
+
+**Travel Speed Change**:
+- Pre-alliance: 20-25 miles/day (night travel only)
+- Post-alliance: 40-50 miles/day (waypoint network)
+- This explains how Seven can reach distant locations in the later timeline
+
+**Why Thandril Shares This**:
+- Council orders (Week 4-5) specify recruiting Seven as ally
+- Faster travel helps evade Order pursuit
+- Demonstrates elven goodwill and capability
+- Creates dependency that serves Silverwood interests
+
+---
+
+## Weeks 4-5: The Trust Period
+
+### Week 4: Inheritor Negotiations
+
+**Location**: Moving between safe houses, avoiding Order patrols
+
+**What Happens**:
+- Vera Nighthollow's Inheritor faction makes contact through intermediaries
+- Trust negotiations: What does Seven want? What will he share?
+- Seven learns to control his abilities under Thandril's guidance
+- Feeding ethics confrontation: Thandril arranges willing donors, Seven struggles with implications
+
+**Character Development**:
+- Seven must decide how much to reveal about Blood Archive knowledge
+- Inheritors want translation services; Seven wants answers about his nature
+- Tension between being used as tool vs. treated as person
+- First genuine choices about who to trust
+
+### Week 5: Journey to Scholar's Haven
+
+**Location**: Using waypoint network to reach Maritime Republic
+
+**What Happens**:
+- Seven travels with Thandril and Inheritor escort
+- Waypoint travel is disorienting but fast
+- Seven confronts feeding ethics during journey—must feed, limited options
+- Learns about Order's financial crisis creating pursuit gaps
+
+**Key Scenes**:
+- Feeding decision: Enemy, willing donor, or animal?
+- Waypoint experience: Ancient elven magic, reminder of what was lost
+- Arrival at Scholar's Haven: Neutral ground, but everyone watching
+
+**Sets Up Event 4**: Blood Archives Revelation (Week 6)
+
+---
+
+## Week 8: Order Tactical Retreat
+
+### The Financial Breaking Point
+
+**What Happens**:
+- Order of Dawn's continental hunt hits financial crisis
+- 6 months of pursuit has depleted reserves
+- Must reduce active pursuit force from 5,000 to 2,000 knights
+- Regional prioritization shifts—gaps appear in coverage
+
+**Consequences for Seven**:
+- Breathing room: Less intense pursuit allows movement
+- Strategic opportunity: Can reach locations previously too dangerous
+- Window is temporary: Order seeking emergency funding from Sanctified States
+- Must act before pursuit resumes at full strength
+
+**Political Ripples**:
+- Grand Master Aurelius faces criticism from Council
+- Some Commanders advocate abandoning hunt to preserve Order
+- Sanctified States must decide: fund the hunt or cut persecution?
+- This creates the Solarius funding choice (see Sanctified States)
+
+---
+
+## NPC Decision Points
+
+Key moments when supporting characters must make choices that shape the narrative.
+
+### Week 2: Aurelius's Hunt Strategy
+**Character**: Grand Master Aurelius Dawnbringer
+**Decision**: How to pursue the vampire—cautious investigation or aggressive hunt?
+- Cautious approach: Gather intelligence, coordinate with Veil Keepers, minimize civilian involvement
+- Aggressive approach: Maximum force, public hunt, accept collateral damage
+**Consequences**: Sets tone for entire pursuit arc; affects Order reputation and Seven's options
+
+### Week 4: Helena's Intelligence Choice
+**Character**: Princess Helena (Northern/Valdrian)
+**Decision**: Share intelligence about Seven with husband Aldric XII—or protect the information?
+- Share: Helps North capture Seven as weapon, damages Valdris
+- Withhold: Protects Valdrian interests, risks exposure as spy
+**Consequences**: Determines whether North can track Seven effectively; tests Helena's true loyalties
+
+### Week 5: Solarius's Funding Decision
+**Character**: High Theocrat Solarius VII
+**Decision**: Fund the Order's hunt or fund refugee relief?
+- Fund hunt: Validates Blackfire faction, accelerates persecution
+- Fund refugees: Enrages Blackfire, risks church schism
+**Consequences**: Defines Sanctified States' response to vampire crisis; determines Solarius's legacy
+
+### Week 6: Elena's Crisis of Faith
+**Character**: Sister Elena
+**Decision**: Report evidence that contradicts Order teachings—or act on conscience?
+- Report: Maintains Order loyalty, condemns innocents
+- Act on conscience: Becomes hunted, potentially helps Seven
+**Consequences**: Potential ally gain/loss for Seven; represents faith vs. institution theme
+
+### Week 8: Borin's Neutrality Decision
+**Character**: High Thane Borin Stonehammer
+**Decision**: Grant Seven sanctuary, passage, or exile?
+- Sanctuary: Abandons 156 years of neutrality, gains powerful ally
+- Passage only: Technical neutrality, satisfies no one
+- Exile: Preserves policy, pushes Seven toward enemies
+**Consequences**: Determines dwarven involvement in surface conflict; may be Borin's last major decision
+
+### Week 10: Kira's Loyalty Break
+**Character**: Kira Frost (Veil Keeper operative)
+**Decision**: Complete assassination mission—or defect?
+- Complete mission: Eliminates Seven, maintains Veil Keeper standing
+- Defect: Saves Seven, becomes hunted by own organization
+**Consequences**: Major ally gain/loss; represents personal connection vs. duty theme
 
 ---
 

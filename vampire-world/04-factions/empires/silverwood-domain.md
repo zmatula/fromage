@@ -432,6 +432,37 @@ Silverwood will act in Week 5-6 at earliest. Their 150-year preparation means th
 
 ---
 
+## The Elven Waypoint Network
+
+### What It Is
+
+A pre-collapse infrastructure of hidden paths that compress travel time, maintained by Silverwood during their 150 years of isolation.
+
+**Characteristics**:
+- Ancient elven construction, possibly predating vampires
+- Paths exist partially outside normal space
+- Connect major locations across the continent
+- Hidden from all non-elven knowledge
+
+**Why Thandril Has Access**:
+- As Silverwood's outside agent since Year 1050, Thandril knows waypoint locations
+- Part of Thandril's equipment for rapid movement and emergency extraction
+- Access shared with Seven after alliance (Week 3) to accelerate his journey
+
+**Strategic Value**:
+- Allows Seven to move faster than any pursuer expects
+- Creates unpredictable travel patterns
+- Demonstrates what elves have been developing during isolation
+- Makes elven cooperation strategically valuable to Seven
+
+**Limitations**:
+- Requires guide who knows network
+- Not all locations connected
+- Disorienting to non-elven travelers
+- Cannot be used for combat escape
+
+---
+
 ## What Will Happen
 
 ### When Protagonist Wakes

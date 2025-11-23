@@ -121,6 +121,35 @@ Her entire identity is Order membership. If she's cast out or leaves, she loses 
 
 "The Order teaches us to burn out corruption like weeds. But Father always said—pull weeds too fast and you take the good roots with them."
 
+## Character Arc
+
+### Beginning: The Secret Doubter
+Elena enters the story as a rising star in the Order of Dawn, her martial prowess and devotion exemplary—but her faith is cracking. The innocent family she watched die haunts her. She still believes in the Divine, but she's no longer certain the Order serves it. She keeps her doubts hidden, hoping to rise high enough to change things from within.
+
+### Middle: Evidence That Breaks Faith (Week 6)
+Elena encounters evidence that shatters her remaining faith in the Order—not just doubts about methods, but proof that contradicts the Order's foundational claims. This could be:
+- Direct encounter with Seven that reveals vampires aren't what she was taught
+- Discovery of Order archives showing deliberate lies about vampire history
+- Witnessing Aurelius or other leadership knowingly condemn innocents
+
+**The Crisis of Faith Moment**:
+Her training tells her to report the heresy (including her own doubts). Her conscience tells her the heresy might be truth. She cannot unknow what she knows, but acting on it means destroying everything she is.
+
+### End: Loyalty or Conscience
+Elena must choose between her community and her convictions. There is no middle path—she cannot reform the Order and remain in it once she's seen the truth.
+
+**The Decision Point**:
+- Choose loyalty: Suppress what she knows, become what she hates, but keep her community
+- Choose conscience: Act on the truth, lose everything, but keep her soul
+- Choose silence: Try to walk away quietly—but the Order doesn't let doubters leave
+
+**Possible Outcomes**:
+- Defects to help Seven: Becomes hunted by the only family she's known
+- Reports what she saw: Watches innocents die on her testimony
+- Flees alone: Loses her name, her purpose, her community—gains only her integrity
+
+---
+
 ## Story Function
 
 Elena represents the tragedy of conscience in an institution. She is genuinely faithful, genuinely capable, and genuinely trapped because her virtues conflict with her community. Her potential alliance with Seven could redeem part of the Order - or destroy her.
