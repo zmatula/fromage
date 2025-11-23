@@ -308,7 +308,7 @@ Named vampires with personalities, motivations, and stories. The people who made
 
 **Position**: Lead Researcher, Sanguine Vessels Initiative
 **Department**: Covenant of the Eternal Mind, Experimental Division
-**Age at Collapse**: 324 years
+**Age at Collapse**: 850 years
 
 #### Who She Was
 

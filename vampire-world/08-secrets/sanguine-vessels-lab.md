@@ -51,7 +51,7 @@ Velanna ran the project with absolute authority. She was brilliant, driven, and 
 **Personality**: Warm, patient, the "father figure" of the lab
 **Relationship with Seven**: Primary trainer and emotional anchor
 
-Dorian was 900 years old and had seen everything. He'd worked on a dozen failed projects before the Vessels Initiative. He didn't expect this one to succeed either—but he came to care about the Vessels anyway.
+Dorian was 203 years old—young for a senior researcher but exceptionally talented. He'd worked on several failed projects before the Vessels Initiative. He didn't expect this one to succeed either—but he came to care about the Vessels anyway.
 
 **His Philosophy**: "They're people, not prototypes. If we forget that, we've already failed."
 
@@ -174,85 +174,85 @@ Krath's subordinate. Strict but not cruel. Occasionally slipped Vessels extra bl
 
 ### The Failures (One through Six)
 
-#### Vessel One - "First"
+#### Vessel One - Arren Thorne
 **Created**: Year -37
-**Lived**: 3 hours
-**Cause of Death**: Catastrophic system failure during creation
+**Lived**: 12 days
+**Cause of Death**: Internal hemorrhaging from incomplete blood replacement
 
-Never woke. The creation process itself killed them. Velanna spent six months analyzing what went wrong before trying again.
+Arren was a merchant's son who volunteered, believing it would elevate his failing family. The conversion showed promising initial response, but his original blood clotted during transformation. He fought for twelve days before internal hemorrhaging killed him.
 
-**Legacy**: The first. Proved the concept was possible—or at least not immediately impossible.
+**Legacy**: The first. Taught Velanna that enthusiasm wasn't enough—the process needed fundamental revision.
 
 ---
 
-#### Vessel Two - "Persister"
-**Created**: Year -27
+#### Vessel Two - The Elven Subject
+**Created**: Year -34
+**Lived**: 6 days
+**Cause of Death**: System shock from magical interference
+
+A captured elf from Silverwood border raids—name never recorded. High magical potential, which researchers thought would help. Instead, the magic interfered with blood transformation. System shock on Day 4, heart stopped Day 6.
+
+**Legacy**: Ruled out elven subjects for the remainder of the initiative. Magical potential was a liability, not an asset.
+
+**What Seven Knows**: Nothing—but this failure is why all later Vessels were human.
+
+---
+
+#### Vessel Three - Mira Coldwell
+**Created**: Year -30
+**Lived**: 21 days
+**Cause of Death**: Mental degradation and brain hemorrhage
+
+Mira was a servant girl from Vel'Thoras support village—selected from routine blood screenings. Her mother was told she'd been "elevated to special service." Physical transformation succeeded, but her mental architecture couldn't handle vampire consciousness. Couldn't form memories by Day 14, brain hemorrhage by Day 21.
+
+**Personality**: Before degradation—hopeful, trusting. During—confused, frightened.
+
+**Last Words**: "Where am I? Who am I? I can't find me anymore."
+
+**What Seven Knows**: Mira's failure is why Velanna adjusted memory implant protocols. Seven has more coherent memories because of what happened to her.
+
+---
+
+#### Vessel Four - Theron Ashward
+**Created**: Year -15
 **Lived**: 3 months
-**Cause of Death**: Gradual organ failure
+**Cause of Death**: Gradual system failure despite successful conversion
 
-Survived creation but couldn't maintain stability. Kept fighting, kept trying, kept failing. Dorian called them "Persister" because they never gave up.
+Theron was a Throne soldier with exceptional physical conditioning—the first real success. Conversion worked, blood system functioned independently for two months. Then slow decline as his systems couldn't maintain without Bloodweb support.
 
-**Personality**: Determined. Angry. Wanted to live more than anything.
+**Personality**: Disciplined, stoic, but struggled with transformation. Missed his unit, his purpose.
 
-**Last Words**: "Not yet. I'm not done yet."
+**His Final Words**: "Tell the next ones that the body wants to live. Trust that."
 
-**What Seven Knows**: Nothing—he wasn't created yet. But Dorian told him about Persister. Seven thinks about them sometimes, when he refuses to quit.
-
----
-
-#### Vessel Three - "Dreamer"
-**Created**: Year -27
-**Lived**: 2 years
-**Cause of Death**: Mental breakdown leading to self-termination
-
-Survived physically but not mentally. The memory implants fragmented their sense of self. They experienced multiple timelines simultaneously—couldn't tell past from future, self from other.
-
-**Personality**: Gentle. Confused. Often spoke to people who weren't there.
-
-**Last Words**: "I'm everyone. I'm no one. I can't find me anymore."
-
-**What Seven Knows**: Dreamer is why Velanna adjusted the memory implant process. Seven has more coherent memories because of Dreamer's failure.
+**What Seven Knows**: Theron's advice influenced later protocols. His service record is in Vel'Thoras—proof that Vessels were people with histories.
 
 ---
 
-#### Vessel Four - "Stillborn"
-**Created**: Year -17
-**Lived**: 0
-**Cause of Death**: Never achieved consciousness
+#### Vessel Five - Sera
+**Created**: Year -12
+**Lived**: 6 weeks
+**Cause of Death**: Terminated after mental breakdown
 
-Created successfully but never woke. Heart beat. Lungs worked. Brain showed no activity. A body without a person.
+Sera was an orphan from Neth'Korath servant quarters—no family connections, wouldn't be missed. Conversion succeeded initially, but she couldn't integrate vampire consciousness with human memories. Violent episodes and self-harm by Week 4, terminated Week 6.
 
-**Legacy**: Forced the team to acknowledge that consciousness wasn't guaranteed—that Vessels might be alive without being anyone.
+**Her Last Words**: "I can hear myself dying. The girl I was. She's screaming."
+
+**What Seven Knows**: Sera is why memory modification became necessary. Seven has implanted memories because of what happened to her—the human self had to be suppressed.
 
 ---
 
-#### Vessel Five - "Feral"
-**Created**: Year -17
+#### Vessel Six - Corvin Marsh
+**Created**: Year -8
 **Lived**: 6 months
-**Cause of Death**: Terminated as dangerous
+**Cause of Death**: Sudden system failure
 
-Woke in a state of constant rage. Couldn't communicate. Attacked anyone who approached. Enhanced strength made them extremely dangerous.
+Corvin was a Free Cities scholar captured studying vampire artifacts. Brilliant, terrified, never stopped fighting mentally. Conversion succeeded, and he survived five months—longest to date. Then rapid deterioration in Month 6, bleeding from every orifice.
 
-**Personality**: None that anyone could reach. Just anger. Pain that became fury.
+**Personality**: Brilliant, observant, never stopped recording. Kept a hidden journal scratched into his cell wall.
 
-**Termination**: Krath did it. He said it was necessary. He didn't sleep for a week afterward.
+**His Last Word**: A name—"Elise."
 
-**What Seven Knows**: He saw Feral once, through security glass. He saw their eyes. He saw something in there—trapped, screaming, unable to get out.
-
----
-
-#### Vessel Six - "Whisper"
-**Created**: Year -17
-**Lived**: 8 months
-**Cause of Death**: Terminated as unstable
-
-Appeared normal initially. Intelligent. Calm. Then Mira noticed they were manipulating blood chemistry in other Vessels—subtly making them weaker. When confronted, Whisper smiled and said, "I want to be the only one."
-
-**Personality**: Sociopathic. Charming. Empty.
-
-**Termination**: Velanna ordered it immediately. Whisper didn't resist. They said, "You'll make another me. You can't help it."
-
-**What Seven Knows**: Whisper is why Seven was monitored so closely. Why his ethics were tested constantly. Why Velanna watched for any sign of manipulation. Seven hated being suspected—but he understood.
+**What Seven Knows**: Corvin was the Vessel whose death Seven witnessed accidentally. The face he sees in nightmares. Corvin's hidden journal in Level 6, Cell 14 contains the truth about the initiative.
 
 ---
 
@@ -269,48 +269,48 @@ The first complete success. Stable physically, mentally, emotionally. Independen
 
 ---
 
-#### Vessel Eight - "Bright"
-**Created**: Year -7
-**Lived**: 7 years
-**Cause of Death**: Bloodweb integration test
+#### Vessel Eight - Brennan Cole
+**Created**: Year -5
+**Lived**: 5 years (until collapse)
+**Cause of Death**: Bloodweb integration test during collapse
 
-The optimist. Believed they were going to save everyone. Volunteered for the Bloodweb integration test that killed them—thought they could survive it and prove the process was safe.
+Brennan was a Throne soldier—selected for similar profile to Theron. Competent but unimaginative, followed orders precisely. He was connected to partial Bloodweb feed for monitoring, making him dependent.
 
-**Personality**: Hopeful. Brave. Trusting.
+**Personality**: Professional. Disciplined. Never questioned.
 
-**Last Words**: "I can feel everyone. It's beautiful—oh. Oh no. Something's wrong. Something's—"
+**Last Words**: Unknown—died when Bloodweb failed in the first wave.
 
-**What Seven Knows**: Bright was his friend. Closest thing to a sibling. Seven begged them not to take the test. Bright smiled and said, "Someone has to be first. Better me than you."
-
----
-
-#### Vessel Nine - "Edge"
-**Created**: Year -7
-**Lived**: 7 years
-**Cause of Death**: Bloodweb integration test
-
-The fighter. Aggressive, protective, always ready for conflict. Took the test because Bright had—wouldn't let Bright face it alone.
-
-**Personality**: Loyal. Fierce. Hidden gentleness.
-
-**Last Words**: None recorded. They were conscious for six hours after the test began. They never screamed.
-
-**What Seven Knows**: Edge taught him to stand his ground. Never back down. Never show fear. Seven still hears Edge's voice when he fights.
+**What Seven Knows**: Seven glimpsed Brennan twice, never spoke to him. Brennan's body is likely still somewhere in Vel'Thoras.
 
 ---
 
-#### Vessel Ten - "Quiet"
-**Created**: Year -7
-**Lived**: 7 years
-**Cause of Death**: Bloodweb integration test
+#### Vessel Nine - Lyssa Thenn
+**Created**: Year -5
+**Lived**: 5 years (until collapse)
+**Cause of Death**: Bloodweb integration test during collapse
 
-The observer. Rarely spoke. Noticed everything. Understood more than they said.
+Lyssa was a servant from the capital region—earnest, grateful, genuinely believed in vampire civilization. She was happy with her "elevation," which made the researchers uncomfortable.
 
-**Personality**: Thoughtful. Perceptive. Sad.
+**Personality**: Trusting. Faithful. Didn't understand why Seven pitied her.
 
-**Last Words**: "I knew. I always knew this would happen. I'm not surprised. I'm just tired."
+**Last Words**: Unknown—died with Brennan when Bloodweb failed.
 
-**What Seven Knows**: Quiet knew the tests would kill them. They took them anyway. Seven never understood why—sacrifice or surrender?
+**What Seven Knows**: Lyssa represented what believing the lies looked like. Her faith was real, which made her fate worse.
+
+---
+
+#### Vessel Ten - Marcus Vorn
+**Created**: Year -5
+**Lived**: 5 years (until collapse)
+**Cause of Death**: Bloodweb integration test during collapse
+
+Marcus was a convicted murderer from Throne territories—selected from prison. Violent, pragmatic, self-interested. He saw conversion as escape from execution and didn't care about the cost. Actually preferred being a monster.
+
+**Personality**: Dangerous. Restrained more than other Vessels. Grateful for conversion.
+
+**Last Words**: Unknown—died with Brennan and Lyssa when Bloodweb failed.
+
+**What Seven Knows**: Marcus made researchers nervous. His existence proved personality didn't affect physical viability—monsters could survive too.
 
 ---
 
