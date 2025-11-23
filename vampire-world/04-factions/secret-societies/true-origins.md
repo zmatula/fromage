@@ -255,7 +255,7 @@ Other records were copies—originals might exist in sealed archives, dwarven va
 
 **The Second Collapse may repeat**. If the original threat wasn't truly eliminated—if it was just contained or suppressed—it could emerge again. The Scar is growing.
 
-**Do current members know?** Senior Keeper Helena Ashford found a fragment in Year 1178 that suggested the original purpose. She's been investigating quietly, but hasn't shared her findings. She's afraid of what it means for everything they've built.
+**Do current members know?** Senior Keeper Maren Thorne found a fragment in Year 1178 that suggested the original purpose. She's been investigating quietly, but hasn't shared her findings. She's afraid of what it means for everything they've built.
 
 ---
 
@@ -311,11 +311,17 @@ Named after the founder but suspicious of the founding story. He's found gaps in
 
 **His secret fear**: What if Aldric the Lightbringer wasn't what they think? What would the Order be if its founder was a monster?
 
-### Helena Ashford (Veil Keepers)
+### Maren Thorne (Veil Keepers)
 
-Senior Keeper who found the fragment about the original purpose. She's a descendant of the Ashford family—the same family whose scholar was murdered by the Inheritors' founders.
+Senior Keeper who found the fragment about the original purpose. She's been with the organization for forty years and has seen too many inconsistencies to ignore.
 
-**Her secret fear**: Her organization destroyed the truth. Her family was killed for knowledge. Everything she's worked for is tainted.
+**Her secret fear**: Her organization destroyed the truth. Everything she's worked for is built on a lie she's only beginning to understand.
+
+### Helena Ashford (Veil Keepers - Separate from Maren)
+
+Veil Keeper archivist and descendant of Scholar Merik Ashford—murdered by the Inheritors' founders in Year 789. She doesn't know about her family connection to the Inheritors' crime yet. She's suspicious of the Inheritors (she's been copying their sealed texts) but doesn't know why they blocked her family from Sel'Naroth for generations.
+
+**Her secret fear**: When she discovers the truth about her ancestor's murder, she'll have both motive and Veil Keeper resources to destroy the Inheritors. But will she also learn what the Veil Keepers themselves did in Year 423?
 
 ---
 

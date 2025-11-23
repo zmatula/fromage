@@ -241,7 +241,10 @@ The continental layout, climate zones, and geographical features that shape poli
 | Ironhold | Ironpeak | 15-20 |
 | Solarium | Port Sovereign | 15-20 |
 | Port Sovereign | Silverwood border | 30-35 |
-| Any capital | The Scar | 10-20 |
+| Valdris Prime | The Scar | 15-20 |
+| Ironhold | The Scar | 8-12 |
+| Solarium | The Scar | 20-25 |
+| Port Sovereign | The Scar | 25-30 |
 
 ### By Sea
 

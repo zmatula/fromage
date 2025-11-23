@@ -303,8 +303,18 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 **Mercenary Company** (500 men, one year): 50,000 crowns
 **War Galley**: 10,000 crowns
-**Professional Army** (10,000 men, one year): 500,000 crowns
-**War Campaign**: 1-2 million crowns
+
+#### Military Cost Structure
+
+The headline "500,000 crowns for 10,000 men" applies to **active campaigning**. Actual costs vary:
+
+- **Peacetime Garrison**: 50 crowns/soldier/year (basic wages, food, maintenance)
+- **Active Campaigning**: 150 crowns/soldier/year (full wages, supplies, replacement equipment)
+- **Elite/Artifact Units**: 300 crowns/soldier/year (specialized equipment, hazard pay)
+
+Most large armies consist of **feudal levies** (no direct cost beyond calling them up) plus a **professional core** (paid year-round). This is why Valdrian Empire can maintain 60,000 soldiers on a 2 million crown budget—40,000 are feudal levies, 20,000 professional (1M crowns).
+
+**War Campaign**: 1-2 million crowns (why wars bankrupt kingdoms)
 
 ### Information
 

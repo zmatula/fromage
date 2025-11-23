@@ -10,7 +10,7 @@ The fertile eastern plains and river valleys that form the core of the Valdrian 
 **Size**: ~300,000 square miles
 **Climate**: Temperate four seasons
 **Controlling Power**: Valdrian Empire
-**Population**: ~3.5 million
+**Population**: ~3.5 million (heartlands only; total empire is ~4 million including border territories)
 
 ---
 

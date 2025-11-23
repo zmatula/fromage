@@ -191,10 +191,37 @@ A martial nation forged in war, ruled by elected warrior-kings. Pragmatic, ambit
 
 ### Current Issues
 
-- Agriculture insufficient, imports food
+- Agriculture insufficient, imports food (see Food Import Dependency below)
 - Depends on dwarven technical expertise
 - Valdrian tariffs hurt exports
 - Warriors need employment (war)
+
+### Food Import Dependency
+
+**The Numbers**:
+- Population needs: ~3 million bushels grain/year
+- Domestic production: ~1.8 million bushels
+- Import requirement: ~1.2 million bushels (40%)
+
+**Sources**:
+- Valdrian Empire: 900,000 bushels (~150,000 crowns)
+- Sanctified States: 300,000 bushels (~50,000 crowns)
+- Total import cost: ~200,000 crowns/year
+
+**Strategic Vulnerability**:
+- Valdrian embargo = famine within 6 months
+- Grain stores hold 3-month supply maximum
+- King Aldric's war planning MUST secure food supply first
+- Current stockpile: 8 months (building toward war)
+
+**Why They Can't Just Attack**:
+This dependency constrains Northern aggression. Before any war:
+1. Must stockpile 2-year grain supply
+2. Must secure alternative sea route from Sanctified States
+3. Must take Valdrian farmland in first campaign season
+4. Failure means starving army and home front
+
+This is the single greatest check on Northern expansionism. King Aldric knows it. His war preparations include massive grain purchases, which Valdrian intelligence has noticed.
 
 ---
 
