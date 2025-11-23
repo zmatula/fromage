@@ -24,6 +24,8 @@ A secret society dedicated to preventing vampire return and keeping dangerous kn
 **Purpose**: Ensure vampires never return
 **Method**: Destroy dangerous knowledge and artifacts
 
+*Note: This is the official founding story. The true founding occurred in Year 423, during the Silent Years, when the organization was created to DESTROY records of a catastrophic event—not to preserve truth. The name originally meant "Keepers of the Veil" (maintaining the cover-up), not "Keepers behind the Veil" (seeking hidden truth). See [True Origins](true-origins.md).*
+
 ### The Original Vision
 
 - Vampires were too powerful to risk return

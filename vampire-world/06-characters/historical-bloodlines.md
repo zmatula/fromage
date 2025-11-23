@@ -224,6 +224,8 @@ If this became public, both houses would be destroyed—by mobs, rivals, or the 
 - Sister Helena: Recanted; died in penitent cell; no descendants
 - Magister Orin: Disappeared Year 279; fate unknown
 
+*Note: This Sister Helena (Year 278) is NOT related to Helena Ashford (Year 1200), who is a Veil Keeper archivist descended from Scholar Merik Ashford (murdered Year 789 in a separate incident). The name is coincidental. These are two different scholar murder events 500 years apart.*
+
 **The Theory**:
 Orin escaped with the complete translation. He had children. His descendants have the text.
 

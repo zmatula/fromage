@@ -58,6 +58,8 @@ Three scholars entered Sel'Naroth. None left. The official story says they died 
 - Scholar Denna Thornwood, specialist in magical theory
 - Scholar Aldric Vane, specialist in pre-Collapse history
 
+*Note: This is NOT the same as the Year 278 scholar murders (Varek, Sister Helena, Magister Orin). That was a separate incident 500 years earlier involving different people translating different texts. The world has a pattern of killing scholars who learn too much about vampires.*
+
 #### Year 789-812: The Building
 
 With the scholars dead, the three thieves held the only translations. But they couldn't use them—they weren't mages or scholars. They needed people who could apply the knowledge.

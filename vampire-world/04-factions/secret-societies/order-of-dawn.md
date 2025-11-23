@@ -24,6 +24,8 @@ A religious military order preparing for vampire return. They would kill the pro
 **Year 780**: Formal military charter from Sanctified States
 **Purpose**: Prepare for and prevent vampire return
 
+*Note: This is the official founding story. The true founder, "Aldric the Lightbringer," was not the saint the Order believes. The real origin in Year 631-634 involves patricide, cover-up, and a buried vampire artifact that's still active. See [True Origins](true-origins.md).*
+
 ### The Original Vision
 
 - Vampires were demons
