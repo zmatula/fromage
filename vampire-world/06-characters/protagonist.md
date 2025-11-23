@@ -260,9 +260,11 @@ Seven's escape happens in favorable season, but summer makes mid-story harder (s
 
 ### Typical Journey Pattern
 - Travel dusk to midnight (6 hours)
-- Rest/hide midnight to dawn
+- Rest/hide midnight to dawn (2-3 hours available for hunting/feeding on animals)
 - Travel dawn to sunrise if covered (2 hours)
 - Total: ~20-25 miles/day
+
+**Feeding Logistics**: The midnight-to-dawn hiding period (typically 2-3 hours of usable darkness before true dawn) is when Seven hunts animals if needed. This is separate from the 8-hour night travel window, allowing him to feed without losing travel time. In areas with wildlife, he can hunt deer, boar, or other large animals during this period while waiting for dawn to pass.
 
 ### Comparative Travel Times
 | Route | Normal Human | Seven |

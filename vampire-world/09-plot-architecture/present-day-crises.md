@@ -287,11 +287,13 @@ With Vessel Seven, they explode immediately.
 
 ### The Targets
 
-**Phase 1: The Border Marches**
+**Phase 1: The Border Marches** (Quick Raid: 3-4 weeks)
 - Valdrian territory but autonomous
-- Valuable agriculture
+- Primary objective: Capture granaries to secure food supply before extended campaign
+- Valuable agriculture (addresses Northern grain deficit)
 - Vampire ruins (artifact sites)
 - Easy to claim "historical right"
+- NOT full conquest—seize resources, establish forward positions, then assess
 
 **Phase 2: Valdrian Weakness**
 - If succession goes badly, grab more
@@ -380,7 +382,7 @@ With Vessel Seven, they explode immediately.
 - Old Twilight prophecy (stolen from elves centuries ago)
 - "When the dead sun wakes, blood will flow again"
 - Interpreted as vampire return
-- Brennan believes it's now
+- Aurelius believes it's now
 
 **The Signs**
 - Dimensional readings at the Scar (real)

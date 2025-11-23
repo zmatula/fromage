@@ -410,6 +410,23 @@ Despite 150 years of preparation:
 3. **Reveal Themselves**: Open borders, declare intentions
 4. **Wait Longer**: Continue observing, act only if necessary
 
+### Council's Chosen Action: Recruit Seven as Ally
+
+**Decision (Week 4-5)**: Send Thandril to recruit and protect Seven as potential ally against the dimensional threat
+
+**Rationale**:
+- Seven's Sanguine Vessel nature may be key to addressing Scar instability
+- Better to have him allied than captured by hostile factions
+- Elven knowledge of vampire systems makes them ideal handlers
+- 150 years of preparation was for this moment
+
+**Thandril's Orders**:
+- Make contact and establish trust
+- Protect Seven from immediate threats
+- Guide him toward Silverwood when ready
+- Assess whether he can be trusted with full truth
+- If he cannot be controlled or trusted: contingency measures authorized
+
 ### Story Implication
 Silverwood will act in Week 5-6 at earliest. Their 150-year preparation means they're ready, but protocol means they're not fast. When they move, it will be decisive but not instant.
 

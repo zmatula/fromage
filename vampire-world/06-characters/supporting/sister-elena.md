@@ -103,6 +103,8 @@ Her entire identity is Order membership. If she's cast out or leaves, she loses 
 - Still uses Order theological language
 - Shorter sentences when stressed
 - Prays aloud when conflicted
+- Rural childhood speech markers: farming metaphors, seasonal references
+- Contrast between Order theological language and personal rural background
 
 ### Sample Lines
 "I pray for guidance, but I hear only silence. Perhaps that is the guidance."
@@ -112,6 +114,12 @@ Her entire identity is Order membership. If she's cast out or leaves, she loses 
 "I want to believe. I do believe. I just... need to understand what I believe in."
 
 "If doubting makes me a heretic, then the Divine made a mistake when making me think."
+
+"The seeds of doubt grow in fertile ground—Father's words, not the Order's."
+
+"You can't rush a harvest, and you can't rush faith. Both rot if you force them."
+
+"The Order teaches us to burn out corruption like weeds. But Father always said—pull weeds too fast and you take the good roots with them."
 
 ## Story Function
 

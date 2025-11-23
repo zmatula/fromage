@@ -228,7 +228,7 @@ A theocratic confederation united by faith. The most populous human power, most 
 ### Agricultural Surplus
 - Production: 20 million bushels/year
 - Domestic need: 15 million bushels
-- **Export capacity: 5 million bushels**
+- **Export capacity: 3 million bushels** (reduced from pre-persecution 6M due to agricultural decline)
 - Primary customer: Northern Dominion (900,000 bushels)
 
 ### Economic Pressure from Persecution

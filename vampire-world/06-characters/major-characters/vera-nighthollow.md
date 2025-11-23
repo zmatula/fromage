@@ -278,6 +278,7 @@ Maritime culture should make her balanced. Instead:
 ### Linguistic Markers
 - Academic precision ("empirically demonstrated," "the evidence suggests")
 - Maritime pragmatism ("everything has a price," "trade-offs are necessary")
+- Maritime transaction language: "investment," "returns," "cost-benefit," "risk assessment"
 - Uses "subject" instead of names when clinical
 - Careful measured speech
 - Qualifies everything ("potentially," "apparently")
@@ -287,6 +288,9 @@ Maritime culture should make her balanced. Instead:
 - "Knowledge preservation requires difficult trade-offs. The ethical protocols exist for good reason."
 - "The Crown whispers that he is ready. I have learned to... interpret these communications."
 - "Every choice has cost. Our task is measuring which costs are acceptable."
+- "The investment in this subject's study could yield significant returns—if risks are properly assessed."
+- "We must conduct a cost-benefit analysis before proceeding. What are our potential returns against the risk exposure?"
+- "Consider this an investment in future knowledge. The returns will compound over time."
 
 ### Tells
 - Takes notes during conversations

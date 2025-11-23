@@ -118,7 +118,7 @@ Seven's awakening is not gradual:
 
 ### Event 2: The Crown's Vision
 
-**When**: Early-to-mid story
+**When**: Week 3
 **Location**: Valdris Prime
 
 **Storylines Meeting**:
@@ -145,7 +145,7 @@ Crown of Seeing gives Cassius crucial vision—possibly of protagonist, possibly
 
 ### Event 3: The Border Clash
 
-**When**: Mid story
+**When**: Week 2
 **Location**: Valdrian-Northern border
 
 ### Timing Constraint
@@ -200,7 +200,7 @@ Northern provocation or incident sparks open conflict. Protagonist is present an
 
 ### Event 4: The Blood Archives Revelation
 
-**When**: Mid story
+**When**: Week 6
 **Location**: Maritime Republic (Scholar's Haven)
 
 **Storylines Meeting**:
@@ -227,7 +227,7 @@ Protagonist's blood unlocks encrypted Blood Archive sections. What's revealed ch
 
 ### Event 5: The Living Artifact Truth
 
-**When**: Mid-to-late story
+**When**: Week 8
 **Location**: Veil Keeper facility (or Northern custody)
 
 **Storylines Meeting**:
@@ -254,7 +254,7 @@ Protagonist interacts with Living Artifact. Its true nature is revealed—Vessel
 
 ### Event 6: The Sel'Naroth Expedition
 
-**When**: Late story
+**When**: Week 10
 **Location**: Silverwood / Sel'Naroth
 
 **Storylines Meeting**:
@@ -282,7 +282,7 @@ Journey to Sel'Naroth reveals elven plans and potentially vampire survivors. Ult
 
 ### Event 7: The Scar Crisis
 
-**When**: Late story (climax)
+**When**: Week 12 (climax)
 **Location**: The Scar / Neth'Korath
 
 **Storylines Meeting**:
@@ -438,6 +438,38 @@ Each intersection:
 - Creates contrast
 - Shows cost
 - Reveals truth
+
+---
+
+## Week 2-4: Emergency Ally Intervention
+
+### Thandril's Critical Observation
+
+**Context**: By Day 20-22, Seven is approaching near-feral state without having secured regular feeding
+**Trigger**: Thandril, observing from a distance per original orders, recognizes the signs
+
+**What Thandril Sees**:
+- Seven's movement patterns becoming erratic
+- Hunting behavior emerging (stalking villages, watching travelers)
+- Loss of cognitive control imminent
+
+**Emergency Decision (Day 21-22)**:
+- Thandril breaks observation-only protocol
+- Makes direct contact before Seven loses rational capacity
+- Offers feeding assistance (willing donor or guided hunt)
+- Establishes first genuine ally relationship
+
+**Why This Works**:
+- Thandril has orders regarding Seven (from Year 1199)
+- Elves understand vampire feeding needs from pre-collapse knowledge
+- Intervention prevents Seven from committing act that would make him hunted everywhere
+- Creates debt/trust foundation for later Silverwood cooperation
+
+**Consequences**:
+- Seven has first ally who isn't trying to capture/kill him
+- Thandril gains direct access for Silverwood intelligence
+- Feeding crisis averted, Seven returns to rational state
+- Sets up path to Silverwood and Sel'Naroth expedition later
 
 ---
 

@@ -105,6 +105,8 @@ Everything depends on the economy functioning, which requires the persecution to
 - Never directly refuses (delays and redirects)
 - References to "the faithful" as abstraction
 - Speaks more slowly as topics get sensitive
+- "The Balance" as framework for every decision
+- Balance/equilibrium metaphors for all political choices
 
 ### Sample Lines
 "Faith must be protected. Sometimes protection requires difficult measures."
@@ -114,6 +116,12 @@ Everything depends on the economy functioning, which requires the persecution to
 "Brother Blackfire's zeal honors his devotion. But zeal must be tempered by wisdom."
 
 "All voices serve the faith. Even those we find... uncomfortable."
+
+"The Balance requires both mercy and severity. We must weigh carefully."
+
+"Tip too far toward reform, and we invite chaos. Too far toward purity, and we break ourselves. The Balance must hold."
+
+"Every decision tilts the scales. Our duty is ensuring they never fall."
 
 ## Story Function
 

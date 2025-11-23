@@ -100,6 +100,8 @@ Aldric's personal wealth is modest for a king—he's a warrior, not a merchant. 
 - Commands rather than requests
 - Hunting and combat metaphors
 - Dismissive of lengthy explanation
+- Royal decision markers: "I have decided," "The kingdom requires," "It will be done"
+- Distinguished from rank-and-file military by absolute pronouncements
 
 ### Sample Lines
 "We act. We win. Philosophy is for those with full bellies."
@@ -109,6 +111,12 @@ Aldric's personal wealth is modest for a king—he's a warrior, not a merchant. 
 "I took this throne with my hands. I will hold it the same way."
 
 "Talk when the fighting's done. Until then, fight."
+
+"I have decided. The kingdom requires action. Prepare the legions."
+
+"The kingdom requires grain. I will take it. That is not a request for counsel."
+
+"It will be done because I have spoken. My word is the North's word."
 
 ## Story Function
 
