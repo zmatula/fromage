@@ -29,6 +29,37 @@ Rural populations who fear magic, urban poor seeking meaning
 ### Cost
 Equivalent to training 30 priests for year; competes with other Church priorities
 
+## Church Campaign Budget Breakdown
+
+### Annual Allocation: 30,000 crowns
+
+**Distribution Methods**:
+
+| Method | Cost | Reach | Effectiveness |
+|--------|------|-------|---------------|
+| Sunday sermons | 5,000 | 80% Sanctified pop | High (weekly) |
+| Traveling priests | 12,000 | 40% rural areas | Medium (monthly) |
+| Printed pamphlets | 8,000 | 10% literate urban | Low (one-time) |
+| Public executions | 5,000 | 30% regional | High (memorable) |
+
+### How 70% Is Achieved
+- Sermons reach most Sanctified population weekly
+- Traveling priests reinforce message monthly
+- Public executions create fear that spreads by word of mouth
+- Pamphlets target influential literate minority
+
+### Regional Effectiveness
+- Sanctified States (70%): All methods active
+- Rural Valdris (40%): Only traveling priests and rumors
+- Maritime (20%): Only pamphlets and merchant rumors
+
+### Cost Efficiency
+30,000 crowns achieves 70% penetration because:
+- Church infrastructure already exists (no new construction)
+- Priests are already paid (no additional salary)
+- Message is simple ("darkness growing, trust Church")
+- Fear spreads faster than information
+
 ---
 
 ## Northern Campaign: "Weakness of Weak Kingdoms"

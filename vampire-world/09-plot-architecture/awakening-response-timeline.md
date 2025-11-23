@@ -7,6 +7,9 @@
 - **Veil Keepers**: Operative at site (Kira), know within hours
 
 ### Week 0 Actions
+- **Hour 0-6**: Kira signals nearest Veil Keeper watcher
+- **Day 1-3**: Message reaches Veil Keeper headquarters
+- **Day 3-4**: Veil Keepers alert Order of Dawn contacts
 - Inheritors attempt containment/study
 - Veil Keepers attempt elimination
 - Conflict at site; Seven escapes in chaos
@@ -59,6 +62,31 @@
 ### Day 36-42
 - **Silverwood Domain**: Unknown mechanism—either Thandril reports or magical sensing
 - **General Population**: Rumors spreading through pilgrim routes
+
+### Dwarven Information Lag (Week 4-5)
+
+**Why So Slow?**
+
+Despite being merchants, Ironpeak receives information late because:
+
+1. **Geographic Isolation**: Holds are in mountains; trade routes go TO dwarves, not through
+2. **Neutrality Policy**: Dwarves avoid human political intelligence; merchants report commerce, not conflict
+3. **Vel'Thoras Location**: Northern Highlands have minimal dwarven trade; no direct merchant contact
+
+**How They Learn**:
+- Week 3-4: Merchant in Port Sovereign hears rumors
+- Week 4: Merchant convoy travels to Ironhold (20-30 mi/day)
+- Week 4-5: Report reaches Thane Council through commercial channels
+
+**Information Quality**: Low
+- Third-hand rumors from Maritime merchants
+- No direct witnesses or intelligence assets
+- Mostly speculation about "something in the North"
+
+**Why This Matters**:
+Dwarven neutrality depends on information. If they can't learn quickly, they can't act quickly. By Week 5, other factions have already made decisions that affect dwarves—and dwarves are reacting to consequences rather than events.
+
+This is why Borin's patience frustrates younger dwarves. Waiting means arriving late.
 
 ---
 

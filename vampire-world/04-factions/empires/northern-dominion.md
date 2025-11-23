@@ -199,12 +199,24 @@ A martial nation forged in war, ruled by elected warrior-kings. Pragmatic, ambit
 **Mercenaries**: Sell military services
 **Ruin Trade**: Artifacts from Vel'Krath region
 
-### Wealth Sources
+### Annual Revenue
+- Land taxes: ~800,000 crowns
+- Trade tariffs: ~400,000 crowns
+- Royal holdings: ~300,000 crowns
+- Tribute/fees: ~200,000 crowns
+- **Total revenue: ~1,700,000 crowns**
 
-- Mineral extraction taxes
-- Mercenary contracts
-- Artifact sales
-- Trade tariffs
+### Annual Expenditure
+- Military (30,000 professionals): 1,500,000 crowns
+- Administration: ~100,000 crowns
+- Infrastructure: ~50,000 crowns
+- Reserves: ~50,000 crowns
+- **Total: ~1,700,000 crowns**
+
+### Treasury Position
+- Current reserves: ~300,000 crowns
+- Strategic grain stockpile: 4 months (critically low)
+- War chest: Insufficient for extended campaign
 
 ### Current Issues
 

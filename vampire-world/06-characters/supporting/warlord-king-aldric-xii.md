@@ -44,16 +44,17 @@ Secure grain supplies for his people before they starve
 
 ## Economic Position
 
-### Wealth
-Royal treasury: ~80,000 crowns (minimal by southern standards)
-War spoils: ~30,000 crowns
+### Personal vs State Wealth
+- **Personal treasury**: ~80,000 crowns (royal estates, hunting rights)
+- **State treasury access**: ~300,000 crowns reserves (as king)
+- **Annual state revenue**: ~1,700,000 crowns (controls allocation)
 
-### Income
-Tribute from war-chiefs: ~25,000 crowns annually
-Raiding profits: variable (~10,000-40,000 crowns)
+### The Distinction
+Aldric's personal wealth is modest for a king—he's a warrior, not a merchant. But he controls the Northern treasury and can direct its spending. The 80,000 crowns are HIS; the 1,700,000 crowns are the KINGDOM's that he commands.
 
 ### Stakes
-The grain crisis threatens everything. Three failed harvests have emptied reserves. Without new supply sources, his people starve or scatter. He must act, regardless of consequences.
+- Personal: Legacy, dynasty, honor
+- State: 600,000 crowns/year grain dependency, military dominance
 
 ## Relationships
 
@@ -75,25 +76,21 @@ The grain crisis threatens everything. Three failed harvests have emptied reserv
 ## Knowledge
 
 ### Knows
-- Military strength and disposition of all neighbors
-- Exactly how much grain remains (weeks, not months)
-- Which war-chiefs are loyal and which ambitious
-- Northern terrain and how to fight in it
-- That the Valdrian succession creates opportunity
+- Grain crisis is severe (that's why he's acting)
+- Must invade before war, not after (stockpile first)
+- Valdrian succession creates opportunity
+- His military can defeat Valdrian forces in field
 
 ### Believes
-- Force solves all problems eventually
-- Southern weakness will collapse under pressure
-- His people are harder and therefore better
-- Complexity is excuse-making for cowardice
-- Taking what you need is morally neutral
+- Northern strength will compensate for supply weakness
+- Quick victory will solve logistics before they break
+- Honor demands action over caution
 
 ### Doesn't Know
-- How fragile Northern logistics actually are
-- That Helena still reports to Valdrian intelligence
-- The depth of Maritime banking manipulation
-- How dwarven neutrality might shift
-- That vampires exist beyond old stories
+- **How quickly logistics collapse under extended campaign** (expects 6 months, reality is 3)
+- The full extent of Helena's intelligence reports (knows she contacts family, doesn't realize it's operational intelligence)
+- That dwarves might abandon neutrality if he wins too decisively
+- That Sanctified surplus could solve grain crisis without war
 
 ## Speech Pattern
 

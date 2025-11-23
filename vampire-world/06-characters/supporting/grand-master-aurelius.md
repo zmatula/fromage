@@ -27,20 +27,25 @@ Third son of a minor Sanctified noble family. Joined the Order at 14 after his v
 ## Motivations
 
 ### Primary Drive
-Protect humanity from supernatural evil, especially vampires
+Destroy all vampire remnants and those who would use them
 
 ### Secondary Concerns
-- Maintain Order strength and funding
-- Expand influence during political chaos
-- Root out vampire sympathizers and corruption
-- Train the next generation of knights
+- Maintain Order's military readiness
+- Expand Order influence in other realms
+- **Justify Order's existence to secular authorities**
+
+### The Institutional Pressure
+Aurelius knows—though he doesn't dwell on it—that Sanctified States depend on confiscation revenue to cover their budget deficit. The Order's hunts produce that revenue. If darkness disappeared, the Order would lose purpose AND the state would lose funding.
+
+This creates unconscious incentive to always find threats. Aurelius isn't corrupt—he genuinely believes darkness is everywhere. But his belief conveniently justifies the Order's existence and the state's solvency.
+
+### What He Tells Himself
+"The darkness is real. We hunt because we must, not because we profit. That our success also funds the state is Divine providence, not corruption."
 
 ### Fears
-- Vampires infiltrating human society
-- The Order failing through internal weakness
-- His own doubts (which he suppresses violently)
-- Dying before the darkness is defeated
-- Being wrong about anything fundamental
+- That he might be wrong (unbearable)
+- That the Order might become unnecessary
+- That doubt would spread among knights
 
 ## Economic Position
 

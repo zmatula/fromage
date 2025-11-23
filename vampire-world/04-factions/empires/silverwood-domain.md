@@ -375,6 +375,46 @@ When the answer comes, it should reframe everything.
 
 ---
 
+## Response Mechanism
+
+### How Silverwood Learns
+
+**Primary Method: Thandril's Report**
+- Thandril has hidden communication channel (magical sending stone)
+- Can send brief message once per month (costly, draining)
+- Message takes 3 days to reach Silverwood Council
+- **Timeline**: Thandril learns Week 0-1, reports Week 1-2, Council receives Week 2-3
+
+**Secondary Method: Dimensional Sensing**
+- Eldest elves can sense major dimensional disturbances
+- Seven's awakening creates detectable ripple
+- Provides general awareness but not location/details
+- **Timeline**: Sensed within hours of awakening
+
+### Silverwood Knows
+- Week 0: Something awakened (dimensional sensing)
+- Week 2-3: Thandril's report with details arrives
+- Week 3-4: Council deliberates response
+- Week 4-5: Decision made, action initiated
+
+### Why They Don't Act Immediately
+Despite 150 years of preparation:
+- Must verify Thandril's report (trust but verify)
+- Must consult with Eldest (protocol requires consensus)
+- Must prepare chosen response (logistics take time)
+- Must maintain secrecy (no premature revelation)
+
+### Possible Actions (Council Will Choose One)
+1. **Send Observers**: More elves outside to watch and report
+2. **Contact Seven Directly**: Through Thandril as intermediary
+3. **Reveal Themselves**: Open borders, declare intentions
+4. **Wait Longer**: Continue observing, act only if necessary
+
+### Story Implication
+Silverwood will act in Week 5-6 at earliest. Their 150-year preparation means they're ready, but protocol means they're not fast. When they move, it will be decisive but not instant.
+
+---
+
 ## What Will Happen
 
 ### When Protagonist Wakes

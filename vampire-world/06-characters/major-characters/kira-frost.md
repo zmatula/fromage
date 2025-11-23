@@ -100,6 +100,37 @@ Paralyzed between Northern duty and Veil Keeper mission. Both are betrayals.
 
 ---
 
+## Communication Protocols
+
+### To Northern Military
+- Standard military courier dispatch
+- Dead drops at predetermined locations
+- Signal patterns for emergency extraction
+- **Speed**: 1-3 days to Commander Vara
+
+### To Veil Keepers
+- Emergency signal: Light pattern at night (visible to watching agents)
+- Regular reports: Dead drop system in Northern cities
+- Priority messages: Runner to nearest Veil Keeper cell
+- **Speed**: 2-5 days to Veil Keeper command
+
+### The Vel'Thoras Report
+Kira's assassination attempt and escape created chaos. Her report traveled:
+1. Hour 0-6: Escaped ruins, signaled nearest Veil Keeper watcher
+2. Day 1-2: Watcher carried message to Northern cell
+3. Day 2-3: Cell relayed to Veil Keeper headquarters (they have the crystal)
+4. Day 3-4: Headquarters alerted allies (Order of Dawn contacts)
+
+**"Within hours" refers to**: Signal reaching first watcher, not full chain
+
+### Why She Doesn't Have a Crystal
+- Crystals are too valuable (only 1 paired set)
+- Field operatives use traditional methods
+- If captured with crystal, Veil Keepers lose capability
+- Her cover would be instantly blown
+
+---
+
 ## Double Agency
 
 ### The Structure

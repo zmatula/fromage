@@ -53,6 +53,34 @@
 - Speed: 60-80 miles/day by rider, instant by signal
 - Coverage: Excellent in Northern, poor elsewhere
 
+### Northern Signal Tower Network
+
+**Coverage**:
+- Major border fortifications (Northern/Valdrian line)
+- Capital approach routes
+- Coastal warning stations
+- **NOT covered**: Interior wilderness, remote ruins, mountain passes
+
+**Limitations**:
+- Line-of-sight only (mountains block)
+- Weather dependent (fog, snow, rain obscure)
+- Simple signals only (fire = danger, smoke patterns = codes)
+- Cannot convey detailed information
+
+**Vel'Thoras Gap**:
+Vel'Thoras is in Northern Highland wilderness, NOT on signal tower network:
+- Nearest tower: 80 miles south
+- Terrain: Forested mountains block line-of-sight
+- No military installation to receive signals
+
+This is why Kira used runner/watcher system, not signals.
+
+**What Signals ARE Used For**:
+- Border alert (Valdrian forces approaching)
+- Coastal raid warning
+- Capital emergency
+- NOT for field intelligence reports
+
 **Valdrian Imperial**
 - Imperial post system (fastest non-magical)
 - Diplomatic pouches with foreign powers

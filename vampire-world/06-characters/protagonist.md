@@ -204,6 +204,33 @@ Seven can read and write vampire script with perfect fluency—something no othe
 
 ---
 
+## Journey Context
+
+### Season: Late Spring (Month 4-5, Year 1200)
+
+**Why Late Spring**:
+- North Pass opens Month 5 (allows Northern invasion timing)
+- Nights are ~9 hours (moderate darkness for travel)
+- Weather is mild (less survival pressure)
+- Forests are leafed (better concealment)
+
+### Daylight Constraints
+- Darkness: ~9 hours (dusk to dawn)
+- Travel window: 8 hours actual movement
+- Distance per day: 20-25 miles (night travel)
+- With covered day travel: 30-35 miles (risky)
+
+### Seasonal Progression
+- Month 4-5 (Awakening): Mild, moderate darkness
+- Month 6-7 (Hunt arc): Summer, shortest nights (6-7 hours)
+- Month 8-9 (Alliance arc): Late summer, nights lengthening
+- Month 10+ (Convergence): Autumn, long nights favor Seven
+
+### Story Implication
+Seven's escape happens in favorable season, but summer makes mid-story harder (shortest nights = most vulnerable). By late story, lengthening nights give him advantage—if he survives summer.
+
+---
+
 ## Sunlight and Travel
 
 ### Sunlight Effects

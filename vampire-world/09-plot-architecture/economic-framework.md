@@ -10,8 +10,9 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 **Annual Artifact Trade Value**: ~500,000 gold crowns
 **For Comparison**:
-- Valdrian imperial budget: 2 million crowns
-- Northern military budget: 800,000 crowns
+- Valdrian imperial budget: ~2,000,000 crowns
+- Northern military budget: ~1,500,000 crowns
+- Total artifact trade: ~500,000 crowns
 - Average merchant's yearly income: 50 crowns
 
 **Artifacts are worth more than kingdoms spend on armies.**

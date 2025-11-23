@@ -170,6 +170,41 @@ Plus three others
 
 ---
 
+## Operational Constraints
+
+### Budget Reality
+- Peacetime maintenance: 900,000 crowns/year
+- Active campaign cost: 150 crowns/knight × 15,000 = 2,250,000 crowns
+- **True budget: 950,000 crowns**
+- **Maximum sustainable campaign: 3-4 months before bankruptcy**
+
+### How They Manage Continental Hunt
+The Order cannot sustain full mobilization. Instead:
+
+**Rotation System**:
+- 5,000 knights active pursuit (750,000 crowns/year)
+- 10,000 knights garrison duty (maintains fortresses)
+- Rotates quarterly to spread fatigue and cost
+
+**Regional Prioritization**:
+- Northern territories: High intensity (Seven's escape route)
+- Sanctified States: Medium intensity (home territory)
+- Valdrian/Maritime: Low intensity (political complications)
+
+**Hidden Costs**:
+- Depleting reserve funds (~100,000 crowns available)
+- Accepting noble "donations" with strings attached
+- Reducing training and recruitment
+- Deferring fortress maintenance
+
+### Strategic Vulnerability
+- Extended hunt weakens defenses elsewhere
+- Political patrons may demand concessions
+- If Seven not found within 6 months, financial crisis
+- Success requires early capture or external funding
+
+---
+
 ## Current Activities
 
 ### Monitoring

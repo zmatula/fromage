@@ -81,3 +81,30 @@
 - Some humans might ally with them against common enemies
 - Their sanctuaries may be compromised
 - Seven may not be what they expect
+
+---
+
+## Information Barriers
+
+### Why Valdrian Doesn't Know
+- **Northern grain crisis severity**: Spy network in North is underfunded; military information prioritized over economic
+- **Dwarven succession pressure**: Holds are sealed; dwarven informants rare and expensive
+- **Order operations in Valdris**: Order operates through Church channels, not state; deliberate compartmentalization
+
+### Why Northern Doesn't Know
+- **Sanctified surplus alternative**: Religious hostility prevents diplomatic contact; wouldn't consider dealing with theocrats
+- **Helena's intelligence extent**: Trusts her as wife; doesn't want to know; willful blindness
+- **Own logistics fragility**: Military culture doesn't examine weaknesses; admitting fragility is shameful
+
+### Why Sanctified Doesn't Know
+- **Persecution's economic cost**: Church controls information; dissent is heresy; no one will report bad news
+- **Their leverage is declining**: See above; also, leadership believes Divine will provides
+- **Rivals recruiting their refugees**: Refugees are traitors; their success elsewhere is denied
+
+### Why Maritime Doesn't Know
+- **Coup damaged intelligence permanently**: Best political agents were purged; network hasn't recovered
+- **Banking faction plans**: Consortium is paranoid; information compartmentalized even from allies
+- **Lysander's knowledge depth**: He's former Inheritor; they don't trust him enough to buy from him
+
+### Why Information Barriers Matter
+Factions act on incomplete information, making "rational" decisions that are collectively disastrous. The Northern invasion, Sanctified persecution, and Maritime coup all make sense from inside—but create catastrophe when combined.

@@ -148,6 +148,33 @@ Crown of Seeing gives Cassius crucial vision—possibly of protagonist, possibly
 **When**: Mid story
 **Location**: Valdrian-Northern border
 
+### Timing Constraint
+**Must occur Week 2 (Days 10-14) or Week 5+ (Days 35+)**
+
+Seven's hunger cycle:
+- Days 1-7: Full capacity
+- Days 8-14: 25% reduction (acceptable for combat)
+- Days 15-21: 50% reduction (significant disadvantage)
+- Days 22-28: Near incapacitation
+
+**Recommended**: Week 2 (Days 12-14)
+- Seven is still strong enough for combat
+- Pursuit pressure is building (regional forces mobilizing)
+- Creates urgency to find allies before weakness sets in
+
+**Alternative**: Week 5+ (Days 35+)
+- Seven has found allies and fed
+- Returns to full strength for major confrontation
+- Makes this a climactic battle rather than desperate survival
+
+### Feeding Requirement
+If Border Clash is Week 3-4, Seven MUST feed immediately before:
+- Hunt successfully (animals or enemies)
+- Ally provides blood
+- Takes from prisoner/enemy during chaos
+
+Document whichever timing is chosen to ensure constraint is satisfied.
+
 **Storylines Meeting**:
 - Northern Arc (aggression)
 - Succession Arc (Valdrian weakness)

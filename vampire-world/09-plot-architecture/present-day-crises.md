@@ -274,7 +274,7 @@ With Vessel Seven, they explode immediately.
 ### The Military Position
 
 **Northern Forces**
-- 40,000 professional soldiers
+- 30,000 professional soldiers with 50,000 feudal levies available within 30 days (80,000 total rapid deployment)
 - Best heavy infantry on continent
 - Good cavalry
 - Excellent logistics
@@ -358,15 +358,15 @@ With Vessel Seven, they explode immediately.
 
 ### Who's Leading It
 
-**High Confessor Brennan**
+**Grand Master Aurelius Dawnbringer**
 - Order of Dawn supreme leader
-- Absolute believer
-- Convinced vampires are returning
+- Commands the Order's military forces from Dawnhaven
+- Absolute believer whose certainty that darkness is rising drives aggressive hunting operations
 - Has been preparing for decades
 
 **Archbishop Aldric Stern**
 - Highest Church authority in Sanctified States
-- Brennan's political ally
+- Aurelius's political ally
 - Provides legal cover for Order actions
 
 **Inquisitor-General Vera Thorne**
@@ -452,14 +452,14 @@ With Vessel Seven, they explode immediately.
 
 **Persecution succeeds**: Church dominance. Knowledge suppressed. Inheritors destroyed. Ignorance wins.
 
-**Persecution fails**: Church weakened. Order of Dawn discredited. Brennan replaced. Knowledge spreads.
+**Persecution fails**: Church weakened. Order of Dawn discredited. Aurelius replaced. Knowledge spreads.
 
 **Escalation**: Full Inquisition like Year 1-50. Mass executions. Civil resistance. Possibly war.
 
 ### Why It Matters for Seven
 
 - He's the ultimate target
-- Brennan has been preparing for exactly this
+- Aurelius has been preparing for exactly this
 - Order will hunt Seven relentlessly
 - They'll kill anyone who helps him
 - They won't negotiate

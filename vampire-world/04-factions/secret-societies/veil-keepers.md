@@ -127,6 +127,40 @@ A secret society dedicated to preventing vampire return and keeping dangerous kn
 
 ---
 
+## Operational Model
+
+### Why Budget Works
+
+**Volunteer Network**:
+- Many agents serve without pay (ideological commitment)
+- Only cell leaders and specialists receive stipend
+- Reduces personnel cost from 240k to ~100k
+
+**Selective Operations**:
+- Continental suppression is myth; actual coverage is regional
+- Focus on: Northern (Seven), Maritime (artifact trade), Valdrian (politics)
+- Sanctified and Ironpeak largely ignored (lower priority)
+
+**Shared Resources**:
+- Use Order of Dawn facilities when aligned
+- Piggyback on government intelligence networks
+- Barter information rather than pay for it
+
+### Actual Costs
+- 12 cells (leadership only): 60,000 crowns
+- Specialist agents (30): 45,000 crowns
+- Archive and security: 20,000 crowns
+- Operations fund: 40,000 crowns
+- **Total: 165,000 crowns** (matches budget)
+
+### What This Means
+- Cannot pursue Seven AND suppress knowledge simultaneously
+- Must choose priorities each quarter
+- Failure to find Seven means knowledge spreads
+- Success requires allies (Order of Dawn cooperation)
+
+---
+
 ## Activities
 
 ### Primary Mission: Containment

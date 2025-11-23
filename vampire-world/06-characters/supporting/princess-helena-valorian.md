@@ -96,23 +96,58 @@ Her position depends on being valuable to both sides. If war comes, she becomes 
 - That war is closer than anyone admits
 - How much Valdris values her (less than she hopes)
 
-## Speech Pattern
+## The Intelligence Question
 
-### Markers
-- Code-switches between Valdrian formality and Northern directness
-- Uses "we" for Northern matters, "they" for Valdrian
-- Pauses when calculating which culture to perform
-- References both cultures' wisdom
-- Speaks differently to each audience
+### What Aldric Knows
+- Helena maintains contact with Valdrian relatives (expected)
+- Some of her correspondence is coded (suspicious but not confronted)
+- She receives visitors from Valdris occasionally (noted but tolerated)
+
+### What Aldric Doesn't Know
+- Contact is systematic intelligence reporting
+- She has dead drops and courier protocols
+- Her reports include military positioning and supply information
+
+### What Helena Doesn't Know
+- Aldric has noticed more than he lets on
+- Commander Vara suspects and is watching
+- She's being allowed to operate as potential double agent
+
+### The Unspoken Agreement
+Both know something is happening. Neither confronts it directly. Aldric because he loves her and needs the alliance. Helena because she fears the consequences. This fragile ignorance cannot last.
+
+## Speech Patterns
+
+### The Two Voices
+
+**In Valdrian Context** (with relatives, ambassadors, in correspondence):
+- Formal structure with embedded clauses
+- Wine and seasonal metaphors
+- Elaborate courtesies before substance
+- "One might observe that the vintage of this alliance requires careful decanting..."
+
+**In Northern Context** (with Aldric, military, at court):
+- Direct statements, minimal elaboration
+- Hunting and weather metaphors
+- Substance before courtesy
+- "The alliance holds. Winter's coming. We prepare."
+
+**In Mixed Context** (stress, surprise, private):
+- Hesitation between patterns
+- Starts formal, shifts direct mid-sentence
+- Self-aware about the performance
+- "One might—no. The truth is simple. I don't know what I am anymore."
 
 ### Sample Lines
-"I am Valdrian. I am Northern. I am neither. I am my children's mother. That is enough."
 
-"In Valdris they would negotiate this for months. Here we decide by dinner. I find I prefer dinner."
+**To Valdrian envoy**: "The hospitality of my husband's court reflects well on Northern civilization. You'll find the arrangements... adequate to your station. The wine cellar is, I confess, less refined than I would prefer."
 
-"My husband speaks truth even when it costs him. I married better than I knew."
+**To King Aldric**: "The envoy arrived. He's watching everything. I'll handle him."
 
-"Both nations claim to want peace. Both nations prepare for war. I am tired of translating lies."
+**To herself**: "Ten years. Half my adult life. Am I still Valdrian? Was I ever really Northern? The children are both. I am neither."
+
+### The Tell
+When genuinely stressed, Helena loses control of code-switching. She'll use Valdrian formality to create distance, then snap to Northern directness when she needs to act. People who know both patterns can read her emotional state.
 
 ## Story Function
 

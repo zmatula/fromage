@@ -239,6 +239,41 @@ A theocratic confederation united by faith. The most populous human power, most 
 
 ---
 
+## Persecution Economic Impact
+
+### Documented Losses (Year 1195-1200)
+- Scholars fled: ~200 (with knowledge and connections)
+- Merchants fled: ~150 (with trade networks)
+- Craftspeople fled: ~100 (with skills)
+- Farmers displaced: ~500 (agricultural disruption)
+
+### Annual Revenue Loss
+- Lost taxes from fled population: ~50,000 crowns
+- Lost trade from merchant exodus: ~100,000 crowns
+- Lost production from craftspeople: ~75,000 crowns
+- **Total annual loss: ~225,000 crowns** (and growing)
+
+### Agricultural Impact
+- Year 1195 grain output: 21 million bushels
+- Year 1200 grain output: 18 million bushels
+- **Decline: 14%** (3 million bushels lost)
+- Export capacity reduced from 6M to 3M bushels
+
+### Why They're Still Largest Producer
+- Started with massive surplus (geographical advantage)
+- Decline not yet catastrophic (14% is survivable)
+- Other regions haven't increased production
+- But trend is clear: continued persecution = collapse
+
+### Strategic Consequence
+Northern could break Valdrian dependency by buying from Sanctified:
+- Sanctified has 3M bushel surplus (matches Northern's 3.6M need)
+- But Sanctified persecution makes trade politically toxic
+- Northern would rather invade than deal with theocrats
+- Ironic: Sanctified's religious purity destroys their leverage
+
+---
+
 ## Culture
 
 ### Values

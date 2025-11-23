@@ -239,6 +239,33 @@ A merchant oligarchy ruling the seas. The most cosmopolitan power, center of art
 
 ---
 
+## Post-Coup Recovery (Year 1199-1200)
+
+### What Was Damaged
+- **Political intelligence network**: Informants arrested or fled
+- **Diplomatic communications**: Ambassadors recalled, couriers suspect
+- **Internal security**: Loyalty uncertain, paranoia high
+
+### What Survived Intact
+- **Commercial networks**: Trade must continue for revenue
+- **Banking operations**: Consortium needs income to survive
+- **Shipping routes**: Captains care about cargo, not politics
+
+### Current Status (Year 1200)
+- Political intelligence: 40% capacity (rebuilding)
+- Commercial intelligence: 90% capacity (never disrupted)
+- Overall information reliability: "Moderate" for trade, "Poor" for politics
+
+### Why The Asymmetry
+Banking Consortium protected commercial assets but purged political operatives:
+- Merchants are loyal to profit, not factions
+- Political agents had dangerous knowledge
+- Revenue streams take priority over intelligence
+
+This means Maritime knows trade movements but not political intentions.
+
+---
+
 ## Culture
 
 ### Values
