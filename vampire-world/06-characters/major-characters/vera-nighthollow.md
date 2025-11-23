@@ -173,6 +173,73 @@ She's not sure if that's Mordecai speaking, the Crown itself, or her own thought
 
 ---
 
+## First Contact Protocol
+
+### If Seven Reaches Vera
+
+**Initial Reaction: Clinical Assessment**
+Vera's first response will be analytical:
+- Subject condition (hunger, injuries, mental state)
+- Threat level (can he be contained? Is he hostile?)
+- Information value (what does he know? What can he share?)
+- Strategic position (who else knows he's here?)
+
+**Not Her Initial Reaction**:
+- Fear (she's worked with vampire artifacts for years)
+- Moral judgment (she's beyond simple good/evil)
+- Immediate alliance (trust requires verification)
+
+### Her Calculation
+
+**What She Wants From Him**:
+- Blood Archive access (knowledge she can't get elsewhere)
+- Vampire physiology study (unique research subject)
+- Historical information (living primary source)
+- Strategic leverage (his existence is power)
+
+**What She'll Offer**:
+- Protection from immediate threats
+- Information about current world
+- Food/blood supply (ethically sourced?)
+- Introduction to potential allies
+
+**Her Dilemma**:
+- Ethical protocols require subject consent
+- He's not just a subject—he's a person
+- But he's a person made from human suffering
+- Her framework may not apply to him
+
+### The Critical Question
+
+When Seven asks "Can I trust you?", Vera must decide:
+
+**Option A: Full Truth**
+"I want to study you. I also want to protect you. These goals may conflict. I'll try to balance them but I can't promise I'll succeed."
+
+**Option B: Partial Truth**
+"I'll protect you from other factions. In return, I hope you'll share what you know." (Doesn't mention study)
+
+**Option C: Manipulation**
+"I'm your ally." (Plans to contain and study regardless of his wishes)
+
+### Likely Choice
+Vera will attempt Option A (full truth) because:
+- She believes in ethical protocols
+- She knows deception destroys research relationships
+- She respects intelligence (and he's intelligent)
+- Crown of Seeing may urge honesty
+
+But she may slide toward Option B under pressure.
+
+### Story Function
+This scene establishes:
+- Whether Seven has any safe haven
+- Whether Vera's ethics survive contact with reality
+- Whether Inheritors can be allies or only captors
+- The cost of being a unique research subject
+
+---
+
 ## Maritime Cultural Influence
 
 ### "Trade Over Ideology" Background
@@ -203,6 +270,53 @@ Maritime culture should make her balanced. Instead:
 - Knowledge hoarding replaced knowledge trading
 - This is her corruption: Maritime gave her tools, Inheritors gave her obsession
 - The Crown accelerates this
+
+---
+
+## Speech Patterns
+
+### Linguistic Markers
+- Academic precision ("empirically demonstrated," "the evidence suggests")
+- Maritime pragmatism ("everything has a price," "trade-offs are necessary")
+- Maritime transaction language: "investment," "returns," "cost-benefit," "risk assessment"
+- Uses "subject" instead of names when clinical
+- Careful measured speech
+- Qualifies everything ("potentially," "apparently")
+
+### Sample Dialogue
+- "The subject demonstrates unexpected stability. Empirically, this suggests..."
+- "Knowledge preservation requires difficult trade-offs. The ethical protocols exist for good reason."
+- "The Crown whispers that he is ready. I have learned to... interpret these communications."
+- "Every choice has cost. Our task is measuring which costs are acceptable."
+- "The investment in this subject's study could yield significant returns—if risks are properly assessed."
+- "We must conduct a cost-benefit analysis before proceeding. What are our potential returns against the risk exposure?"
+- "Consider this an investment in future knowledge. The returns will compound over time."
+
+### Tells
+- Takes notes during conversations
+- Touches pocket containing Crown
+- Deflects personal questions to academic territory
+- Justifies everything through "preservation" framework
+
+---
+
+## Planned Cultural Collision Moments
+
+### Vera's "Ethical Study" Harm
+- **Moment**: Keeps someone contained "for their safety" while studying them
+- **Reality**: Containment causes psychological damage she didn't predict
+- **Consequence**: Must face that her framework causes harm despite intentions
+- **Story Purpose**: Good intentions don't prevent bad outcomes
+
+---
+
+## Knowledge Limitations
+
+### What Vera Cannot Know
+- If Crown is manipulating her (can't tell)
+- How "ethical study" looks like captivity (framework prevents seeing)
+- Three families are getting close to truth
+- What she'll do if forced to choose
 
 ---
 

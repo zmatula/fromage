@@ -169,6 +169,23 @@ A theocratic confederation united by faith. The most populous human power, most 
 - Holy magic (or so they believe)
 - Intelligence network
 
+### Current Deployment Crisis (Year 1200)
+
+The Order cannot maintain all operations simultaneously. Forces are finite.
+
+**Competing Demands**:
+- Northern border observation (3 fortress-monasteries)
+- Heretic persecution (normal: 30, current: 18)
+- Court protection during succession (2 fortress-monasteries)
+- Seven pursuit (escalating demand)
+
+**Enforcement Gaps Appearing**:
+- Week 3-5: Some regions see no Order patrols for first time in years
+- Week 6+: Persecution effectively suspended for primary target
+- Consequence: Magic users notice safety, scholars emerge from hiding
+
+The more resources devoted to hunting Seven, the more the persecution infrastructure collapses. This creates unintended beneficiaries who may become allies.
+
 ### Artifact Policy
 
 **Official**: Vampire artifacts are demonic corruption
@@ -199,6 +216,114 @@ A theocratic confederation united by faith. The most populous human power, most 
 - Little industry or innovation
 - Depends on trade with others
 - Rising costs of Order of Dawn
+
+## Economic Foundation
+
+### Land and Revenue
+- Territory: 500,000 square miles (largest)
+- Population: 5 million (largest)
+- Church land ownership: 30% of arable land
+- State land ownership: 40% of arable land
+- Private holdings: 30%
+
+### Annual Revenues
+- Church tithes (10% of all production): ~800,000 crowns
+- State land taxes: ~500,000 crowns
+- Trade tariffs: ~200,000 crowns
+- **Total state revenue: ~1,500,000 crowns**
+
+### Annual Expenditures
+- State militias (100,000 troops @ 30 crowns): 3,000,000 crowns
+- **Deficit: 1,500,000 crowns/year**
+
+### How They Manage
+- Church subsidizes state military (secret arrangement)
+- Confiscations from "heretics" cover ~300,000/year
+- Debt to Ironpeak: 150,000 crowns @ 5%
+- System is unsustainable without persecution revenue
+
+### Agricultural Surplus
+- Production: 20 million bushels/year
+- Domestic need: 15 million bushels
+- **Export capacity: 3 million bushels** (reduced from pre-persecution 6M due to agricultural decline)
+- Primary customer: Northern Dominion (900,000 bushels)
+
+### Economic Pressure from Persecution
+- Scholars fleeing: ~50,000 crowns/year in lost taxes
+- Merchants fleeing: ~100,000 crowns/year in lost trade
+- Craftspeople fleeing: ~75,000 crowns/year in lost production
+- **Total annual loss: ~225,000 crowns (and growing)**
+
+---
+
+## The Week 5 Funding Choice
+
+### Order of Dawn Emergency Request
+
+By Week 5 of Year 1200, the Order of Dawn's continental hunt for Seven has depleted their reserves. Grand Master Aurelius requests emergency funding from the Sanctified States.
+
+**The Request**: 200,000 crowns to maintain pursuit operations through Week 12
+
+**The Problem**: Sanctified States cannot fund both the Order's hunt AND current persecution operations
+
+**Solarius's Choice**:
+- **Fund the hunt**: Must reduce persecution operations by ~40%
+- **Maintain persecution**: Order reduces pursuit to token force; Seven likely escapes
+
+**Why This Is Agonizing**:
+- Persecution generates revenue through confiscations (~300,000/year)
+- Reducing persecution means less confiscation income
+- But failing to catch Seven undermines everything the Church claims
+- A living vampire proves the "divine punishment" doctrine false
+
+**What Solarius Decides (Week 5)**:
+Solarius chooses to fund the hunt, cutting persecution operations. His reasoning:
+- Seven's existence is existential threat to Church authority
+- Persecution can resume after Seven is destroyed
+- Better to catch the vampire than punish the heretics
+
+**Consequences**:
+- Persecution operations reduced ~40% in Weeks 5-8
+- Some scholars and heretics escape who would have been caught
+- Cardinal Blackfire furious—sees this as weakness
+- But Order gets funding to continue pursuit
+
+**Irony**: The choice delays the Order's financial crisis but doesn't prevent it. By Week 8, even with funding, the hunt has failed to catch Seven and costs continue to spiral.
+
+---
+
+## Persecution Economic Impact
+
+### Documented Losses (Year 1195-1200)
+- Scholars fled: ~200 (with knowledge and connections)
+- Merchants fled: ~150 (with trade networks)
+- Craftspeople fled: ~100 (with skills)
+- Farmers displaced: ~500 (agricultural disruption)
+
+### Annual Revenue Loss
+- Lost taxes from fled population: ~50,000 crowns
+- Lost trade from merchant exodus: ~100,000 crowns
+- Lost production from craftspeople: ~75,000 crowns
+- **Total annual loss: ~225,000 crowns** (and growing)
+
+### Agricultural Impact
+- Year 1195 grain output: 21 million bushels
+- Year 1200 grain output: 18 million bushels
+- **Decline: 14%** (3 million bushels lost)
+- Export capacity reduced from 6M to 3M bushels
+
+### Why They're Still Largest Producer
+- Started with massive surplus (geographical advantage)
+- Decline not yet catastrophic (14% is survivable)
+- Other regions haven't increased production
+- But trend is clear: continued persecution = collapse
+
+### Strategic Consequence
+Northern could break Valdrian dependency by buying from Sanctified:
+- Sanctified has 3M bushel surplus (matches Northern's 3.6M need)
+- But Sanctified persecution makes trade politically toxic
+- Northern would rather invade than deal with theocrats
+- Ironic: Sanctified's religious purity destroys their leverage
 
 ---
 

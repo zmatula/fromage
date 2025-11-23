@@ -95,7 +95,9 @@ The stasis vampire they "found"? They'd known about it since Year 789. They just
 The three murdered scholars left families. Those families still exist in Year 1200—and they're closer to the truth than Vera wants to admit.
 
 **The Ashford Family**:
-Helena Ashford is a senior Veil Keeper archivist. She's already suspicious of the Inheritors (she's been copying their sealed texts). She doesn't know her ancestor was murdered by them—yet. When she finds out, she'll have both the motive and the resources to destroy them.
+Helena Ashford is a Veil Keeper archivist and descendant of Scholar Merik Ashford (murdered Year 789). She knows her family history includes a "suspicious scholar death at Sel'Naroth" but has never investigated deeply—she assumed it was a genuine accident. She's already suspicious of the Inheritors for other reasons (she's been copying their sealed texts, noting inconsistencies in their founding dates). She doesn't know her ancestor was murdered by them—yet. When she finds out, she'll have both the motive and the resources to destroy them.
+
+*Note: Helena is NOT the primary investigator of Veil Keeper origins—that's Maren Thorne (see below). Helena's investigation is about the Inheritors. Maren's is about the Veil Keepers themselves. These are separate but potentially convergent threads.*
 
 **The Thornwood Family**:
 Marcus Thornwood is a Valdrian Academy historian specializing in the Lost Centuries. His family has always believed Denna died in a "tragic accident" at Sel'Naroth. He's been petitioning for access to the site for twenty years. The Inheritors keep blocking him. He thinks they're protecting dangerous knowledge. He's half right.
@@ -107,6 +109,37 @@ Lady Cassandra Vane is a minor noble in the Maritime Federation. Her family lost
 None of the three families know the others exist. If they discovered their connection—three scholars, one expedition, all dead—they would compare notes. The pattern would be obvious.
 
 Vera Nighthollow knows about all three families. She has people watching them. If any of them gets too close to the truth, she'll have to decide: silence them like her ancestors did, or let the Inheritors' founding crime destroy everything they've built.
+
+### Surveillance of Founder Families
+
+#### Current Operations
+- **Ashford family**: 2 watchers, monthly reports
+- **Thornwood family**: 1 watcher, quarterly reports
+- **Vane family**: 2 watchers, monthly reports (most suspicious activity)
+
+#### Annual Cost
+- Watcher salaries: 300 crowns/year
+- Travel and expenses: 150 crowns/year
+- Emergency funds: 100 crowns/year
+- **Total: ~550 crowns/year** (significant portion of Vera's budget)
+
+#### Risk Assessment
+- Watchers might be turned (each is potential leak)
+- Families might notice surveillance (would trigger investigation)
+- Evidence of surveillance would confirm something worth hiding
+- Vera must personally review reports (time cost)
+
+#### Current Status
+- Helena Ashford now investigating organization origins (convergence imminent)
+- Thornwood family expanding scholarly interests (getting closer)
+- Vane family has hired genealogist (direct threat)
+- Estimated time until discovery: 6-18 months
+
+#### Decision Point
+When truth emerges, Vera must choose:
+- Confess and reshape organization
+- Eliminate discoverers (become what ancestors were)
+- Flee and abandon position
 
 ---
 
@@ -313,13 +346,21 @@ Named after the founder but suspicious of the founding story. He's found gaps in
 
 ### Maren Thorne (Veil Keepers)
 
-Senior Keeper who found the fragment about the original purpose. She's been with the organization for forty years and has seen too many inconsistencies to ignore.
+Senior Keeper and primary investigator of Veil Keeper origins. She found the fragment about the original purpose in Year 1178 and has been quietly investigating ever since. She's been with the organization for forty years and has seen too many inconsistencies to ignore.
+
+**Her investigation**: Maren has no family connection to any founding crime—she's pursuing this purely from archival inconsistencies. She's discovered evidence pointing to the Silent Years cover-up and is now tracing which families were involved. Her research has led her to notice that certain family names—Ashford, Thornwood, Vane—appear in multiple sealed records from Year 789.
+
+**Her approach**: Eventually she will approach Helena Ashford with her findings, creating a proper convergence where information comes from multiple sources rather than a single coincidence.
 
 **Her secret fear**: Her organization destroyed the truth. Everything she's worked for is built on a lie she's only beginning to understand.
 
 ### Helena Ashford (Veil Keepers - Separate from Maren)
 
-Veil Keeper archivist and descendant of Scholar Merik Ashford—murdered by the Inheritors' founders in Year 789. She doesn't know about her family connection to the Inheritors' crime yet. She's suspicious of the Inheritors (she's been copying their sealed texts) but doesn't know why they blocked her family from Sel'Naroth for generations.
+Veil Keeper archivist and descendant of Scholar Merik Ashford—murdered by the Inheritors' founders in Year 789. She knows her family includes a "suspicious scholar death" but hasn't connected it to anything larger. She's suspicious of the Inheritors (she's been copying their sealed texts) but doesn't know why they blocked her family from Sel'Naroth for generations.
+
+**Her role**: Helena is NOT the primary investigator of origins—that's Maren. Helena provides the personal stake and family connection that Maren's research lacks.
+
+**The convergence**: Maren investigates → finds Helena's family in the records → approaches Helena with findings → Helena learns truth about ancestor → identity crisis → must choose response. This creates proper information flow from multiple sources rather than a single character who conveniently occupies all necessary roles.
 
 **Her secret fear**: When she discovers the truth about her ancestor's murder, she'll have both motive and Veil Keeper resources to destroy the Inheritors. But will she also learn what the Veil Keepers themselves did in Year 423?
 

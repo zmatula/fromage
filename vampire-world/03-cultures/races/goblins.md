@@ -232,6 +232,38 @@ The goblins' greatest secret—Twilight sanctuary locations—has been protected
 
 **Why It Might Fail**: Seven's awakening makes sanctuaries relevant again. If someone realizes goblins know, the torture will begin in earnest. How many will die to keep the secret this time?
 
+### Memory Shaman Protocol
+
+#### Structure
+- Only 7 shamans know sanctuary locations at any time
+- Knowledge passed through ritual transfer (one-to-one)
+- Transfer takes 3 years of preparation
+- Failed transfer = lost knowledge forever
+
+#### Selection Process
+- Candidates identified in childhood
+- 20 years of testing and observation
+- Final 3 candidates chosen at age 50
+- Ritual selects one; others' memories blocked
+
+#### Historical Losses
+- Year 412: Shaman Keth captured, tortured, died without revealing (successful)
+- Year 687: Shaman Vros died before transfer; knowledge gap
+- Year 891: Shaman Malk went mad; had to be eliminated
+- Year 1195: Shaman Keth'la died unexpectedly; emergency transfer to unprepared successor
+
+#### Current Vulnerability
+- Successor from Year 1195 transfer is undertrained
+- One shaman is elderly (may die before proper transfer)
+- If vampire returns, bounty for location will be enormous
+- Three shamans have never been tested under torture
+
+#### Why It Works
+- Vampire-hating cultures expect torture; goblins trained to resist
+- Cultural narrative: sanctuaries are myth (fewer seekers)
+- Memory transfer includes psychological conditioning
+- Death before revelation is religious requirement
+
 ---
 
 ## Internal Conflicts

@@ -10,8 +10,9 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 **Annual Artifact Trade Value**: ~500,000 gold crowns
 **For Comparison**:
-- Valdrian imperial budget: 2 million crowns
-- Northern military budget: 800,000 crowns
+- Valdrian imperial budget: ~2,000,000 crowns
+- Northern military budget: ~1,500,000 crowns
+- Total artifact trade: ~500,000 crowns
 - Average merchant's yearly income: 50 crowns
 
 **Artifacts are worth more than kingdoms spend on armies.**
@@ -61,6 +62,33 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 - ~5% by value (but growing)
 - Stolen goods, forbidden items
 - Very dangerous, very profitable
+
+---
+
+## Artifact Market Dynamics
+
+### Price Inflation (Year 1180-1200)
+- Common artifacts: 100 → 200 crowns (+100%)
+- Rare artifacts: 1,000 → 2,500 crowns (+150%)
+- Unique artifacts: 10,000 → 30,000+ crowns (+200%)
+- **Cause**: Demand from all factions, Veil Keeper sabotage reducing supply
+
+### Substitution Effects
+- Northern developing non-artifact tactics (in case supply cut)
+- Scholars studying replication (Forge of Souls interest)
+- Black market growing as official prices spike
+
+### Black Market Structure
+- **Location**: Port Sovereign (Maritime), Free Cities, goblin networks
+- **Operators**: Independent dealers, some Inheritor-connected
+- **Prices**: 150-200% of official market (risk premium)
+- **Risk**: Veil Keeper assassination, legal prosecution, artifact instability
+
+### Who's Winning
+- Maritime: Profits from all sides buying
+- Dwarves: Verification services in demand
+- Inheritors: Best finders, can set prices
+- Losing: Northern (can't outbid Valdris), Sanctified (won't buy "demonic" items)
 
 ---
 
@@ -233,6 +261,132 @@ House Goldvault extended credit to Prince Aldric's faction. House Ironmark backe
 
 ---
 
+## River Toll Systems
+
+### Valdris River System
+- **Length**: 800 miles navigable
+- **Control**: Valdrian Empire (complete)
+- **Checkpoints**: Valdris Prime, Three Forks, River's End
+- **Revenue**: ~200,000 crowns/year in tolls
+- **Strategic value**: Blockade = Northern famine within 6 months
+
+### Goldwater River (400 miles)
+- **Controller**: Disputed between Maritime Republic and Valdrian Empire
+- **Revenue**: 50,000 crowns/year (currently 35,000 Maritime, 15,000 Valdrian)
+- **Control Points**: Delta (Maritime), Upper reaches (Valdrian)
+- **Flashpoint**: New emperor might renegotiate split
+- **Strategic Note**: Artifact transport from inland to coast
+
+### Northern Rush
+- **Controller**: Uncontrolled (rapids make toll collection impossible)
+- **Revenue**: None (toll-free)
+- **Used By**: Smugglers avoiding Valdrian tolls, desperate merchants
+- **Danger**: ~10% cargo loss rate from rapids
+- **Strategic Note**: Alternative route if Valdris River blocked
+
+---
+
+## Mountain Pass Economics
+
+### Iron Gate Pass
+- **Controller**: Ironpeak Confederation
+- **Annual Trade Flow**: ~2 million crowns in goods value
+- **Toll Rate**: 5% = 100,000 crowns/year revenue
+- **Leverage Value**: Closure costs continent ~500,000 crowns/month
+- **Seasonal**: Open Month 4-10; closed Month 12-2 (winter)
+- **Strategy**: Never explicitly close (would provoke invasion), but threat gives veto power
+
+### North Pass (Northern-Valdrian)
+- **Controller**: Contested (Northern claims, Valdrian disputes)
+- **Toll**: Minimal (neither side enforces fully)
+- **Seasonal**: Open Month 5-9 only (harsh conditions)
+- **Military**: Primary invasion route; controls campaign timing
+- **Strategic Note**: Whoever fortifies this controls summer war window
+
+### Coastal Range Passes
+- **Controller**: Various local lords
+- **Toll**: Variable, often evaded
+- **Strategic Note**: Secondary routes, slower but avoid main checkpoints
+
+---
+
+## Trade Dependencies and Leverage
+
+### Northern Dependence on Valdrian Grain
+- **Volume**: 2.7 million bushels/year (30% of Northern consumption)
+- **Cost**: ~450,000 crowns/year
+- **Total Northern imports**: 3.6 million bushels (40% of 9M need)
+- **Total import cost**: ~600,000 crowns/year
+- **Leverage**: Valdrian embargo = Northern famine in 6 months
+- **Why It Continues**: Northern minerals fund Valdrian industry
+- **Breaking Point**: War severs trade; Northern must seize farmland immediately
+
+### Maritime Control of Sea Routes
+- **Volume**: 60% of continental trade passes through Maritime ports
+- **Leverage**: Maritime embargo = economic isolation
+- **Why They Don't**: Profit depends on trade flowing
+- **Breaking Point**: Coup instability already disrupting confidence
+
+### Dwarven Metal Monopoly
+- **Volume**: 80% iron, 90% precious metals, 100% Bloodstone
+- **Leverage**: Embargo = no weapons, no currency, no artifacts
+- **Why They Don't**: Economy depends on trade; can't eat metal
+- **Breaking Point**: If forced to choose sides in war, embargo becomes weapon
+
+### Sanctified Agricultural Surplus
+- **Volume**: Largest grain producer; exports to Northern, others
+- **Leverage**: Could become primary Northern supplier (replacing Valdris)
+- **Why They Haven't**: Church suspicious of Northern "heretical" practices
+- **Breaking Point**: If persecution collapses agriculture, leverage disappears
+
+---
+
+## Artifact Trade as Foreign Policy
+
+### Valdrian Empire Position
+**Want**: Crown of Seeing maintained, strategic artifacts secure
+**Policy**: State licensing of artifact research, export restrictions
+**Action**: Pressure Maritime to restrict sales to rivals
+**Conflict**: Merchants want free trade; state wants control
+
+### Northern Dominion Position
+**Want**: Military artifacts, especially weapons
+**Policy**: Buy everything useful, ignore scholarly value
+**Action**: Premium prices for combat-applicable artifacts
+**Conflict**: Can't outbid Valdris; turning to alternative sources
+
+### Sanctified States Position
+**Want**: Artifacts destroyed or "purified"
+**Policy**: Ban ownership, prosecute dealers
+**Action**: Pressure other states to restrict trade
+**Conflict**: Other states won't comply; black market thrives
+
+### Maritime Republic Position
+**Want**: Maximum trade volume and profit
+**Policy**: Open market, minimal restrictions
+**Action**: Play all buyers against each other
+**Conflict**: Coup may change policy (banks want controlled market)
+
+### Ironpeak Confederation Position
+**Want**: Technical knowledge, verification monopoly
+**Policy**: Buy for study, sell analysis services
+**Action**: Certification market (is this artifact real?)
+**Conflict**: Other factions want dwarven knowledge without paying
+
+### Inheritors Position
+**Want**: Preservation and study of all artifacts
+**Policy**: Acquire at any price, share knowledge selectively
+**Action**: Outbid for significant pieces, sell lesser ones
+**Conflict**: Veil Keepers destroy what Inheritors find
+
+### Veil Keepers Position
+**Want**: Dangerous artifacts secured or destroyed
+**Policy**: Infiltrate expeditions, sabotage discoveries
+**Action**: Assassination of artifact scholars, theft from collections
+**Conflict**: Cannot stop artifact trade entirely
+
+---
+
 ## Other Economic Powers
 
 ### Northern Kingdom Treasury
@@ -324,6 +478,77 @@ House Goldvault extended credit to Prince Aldric's faction. House Ironmark backe
 - **Economic Model**: Institutional backing enables military capability
 
 *See individual faction files for detailed breakdowns.*
+
+---
+
+## Secret Society Funding (True Sources)
+
+The official budgets above are what's reported. The true operating budgets explain how these organizations actually function.
+
+### Order of Dawn
+
+**The Problem**: 400,000 crowns cannot support 15,000 knights and 30 fortress-monasteries
+- 15,000 knights at 50 crowns/year (peacetime) = 750,000 crowns
+- 30 fortress maintenance at 5,000/year = 150,000 crowns
+- **Minimum need: 900,000+ crowns**
+
+**True Funding Sources**:
+- Official Church allocation: 400,000 crowns
+- Hidden state patronage from Sanctified States (military subsidy): 300,000 crowns
+- Noble family "donations" (actually protection payments): 150,000 crowns
+- Confiscated heretic/cultist assets: 100,000 crowns
+- **True operating budget: 950,000 crowns**
+
+**Why It's Hidden**: The Sanctified States don't want to admit they're funding a religious army directly. The nobles don't want others to know they're paying for protection. The confiscations aren't officially Order revenue.
+
+### Inheritors of Blood
+
+**The Problem**: 250,000 crowns sounds adequate but leaves no margin
+- Research expeditions: 100,000 crowns
+- Site security: 50,000 crowns
+- Archive maintenance: 30,000 crowns
+- Agent networks: 40,000 crowns
+- **Leaves only 30,000 for emergencies**
+
+**True Funding Sources**:
+- Official patron donations: 250,000 crowns
+- Artifact sales (keeping best pieces, selling rest): 100,000 crowns
+- University fees laundered through legitimate programs: 50,000 crowns
+- Dwarven silent investment (they want knowledge preserved): 75,000 crowns
+- **True operating budget: 475,000 crowns**
+
+**Why It's Hidden**: The artifact sales would destroy their reputation as preservers. The university connection would expose their infiltration. The dwarven money comes with obligations they don't discuss.
+
+**Still Stretched**: Even 475,000 crowns forces hard choices—they can fund expeditions OR archives, not both fully. This is why they're so aggressive about recruiting wealthy patrons.
+
+### Veil Keepers
+
+**The Problem**: 180,000 crowns for a continental network seems impossible
+- 12 major cells at 10,000/year = 120,000 crowns
+- Archive security: 20,000 crowns
+- Travel and communication: 25,000 crowns
+- **Leaves only 15,000 for operations**
+
+**True Funding Sources**:
+- Official endowments and donations: 180,000 crowns
+- Government payments for "security consulting": 100,000 crowns
+- Blackmail income (they know secrets worth money): 50,000 crowns
+- Asset seizure from terminated targets: variable (avg 30,000/year)
+- **True operating budget: 330,000+ crowns**
+
+**Why It's Hidden**: The government consulting is unofficial and deniable. The blackmail would destroy their credibility as truth-seekers. The asset seizures are technically theft.
+
+**The Real Limit**: Even with true funding, Veil Keepers can't maintain assassination capacity across the continent. They can watch, document, and occasionally act—but they pick targets carefully because each operation is expensive.
+
+### The Budget Triangle
+
+Each society's true funding creates vulnerabilities:
+
+- **Order of Dawn**: If Sanctified States withdrew hidden support, they'd lose 30% of capacity overnight
+- **Inheritors**: If the dwarven connection was exposed, they'd lose access to underground sites
+- **Veil Keepers**: If their blackmail income was revealed, their reputation as truth-seekers collapses
+
+This is why they don't expose each other's finances—mutually assured economic destruction.
 
 ---
 

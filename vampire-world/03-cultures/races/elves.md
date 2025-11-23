@@ -242,6 +242,54 @@ Elves can read vampire script. They've never told humans. They know far more tha
 
 ---
 
+## The Cost of Isolation (Year 1050-1200)
+
+### Demographic Pressure
+- Population stable but not growing
+- Birth rate matches death rate exactly
+- No immigration to add genetic diversity
+- Some elven scholars concerned about long-term viability
+
+### Knowledge Stagnation
+- No new discoveries from outside world
+- Magical research continues but lacks external validation
+- Some techniques may be drifting (no comparison possible)
+- Young scholars frustrated by limits
+
+### Generational Divide
+**Elders (500+ years)**:
+- Remember open borders
+- Made decision to close
+- Confident in reasoning
+- Refuse to reconsider
+
+**Middle Generation (200-500 years)**:
+- Accepted closure, carried it out
+- Beginning to question
+- See young elves' frustration
+- Caught between
+
+**Young (under 200 years)**:
+- Know only isolation
+- Desperate to see outside world
+- Some have attempted to leave (stopped at border)
+- Growing faction wants reopening
+
+### Economic Impact
+- Pre-closure luxury trade: Major income source
+- Post-closure: Complete self-sufficiency required
+- Some goods impossible to produce (require outside materials)
+- Standard of living has dropped
+
+### The Unknown Trigger
+Why did they close in Year 1050?
+- **Official reason**: "Protection during dangerous times"
+- **Actual reason**: Unknown outside Silverwood
+- **Theories**: Discovered something about vampires, Scar, protagonist, or their own past
+- **Key question**: What was worth 150 years of sacrifice?
+
+---
+
 ## Secrets Elves Keep
 
 ### From Other Races

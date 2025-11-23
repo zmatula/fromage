@@ -39,8 +39,8 @@ Major NPCs organized by faction, with their story roles and relationships to pro
 ## Northern Dominion
 
 ### Warlord-King Aldric XII
-- **Age**: 34
-- **Role**: Aggressive young king
+- **Age**: 48
+- **Role**: Desperate king facing grain crisis
 - **Connection**: Would capture and weaponize protagonist
 - **Threat Level**: Very High
 - **Story Use**: Major antagonist, military threat
@@ -72,10 +72,10 @@ Major NPCs organized by faction, with their story roles and relationships to pro
 
 ### High Theocrat Solarius VII
 - **Age**: 71
-- **Role**: Fundamentalist leader
-- **Connection**: Would destroy protagonist at any cost
-- **Threat Level**: Extreme (controls Order)
-- **Story Use**: Religious antagonist
+- **Role**: Moderate leader balancing factions
+- **Connection**: Would weigh political costs before acting
+- **Threat Level**: High (controls Order funding)
+- **Story Use**: Political complexity, potential moderate voice
 
 ### Cardinal Mordecai Blackfire
 - **Age**: 58

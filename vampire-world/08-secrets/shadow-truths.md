@@ -315,7 +315,48 @@ The human expedition didn't approach Sel'Naroth—they found something worse. El
 - Possibly bound entity or artificial mind
 - Very dangerous
 
-### Possible Truths (All Fit Evidence)
+### The Complete History
+
+#### Discovery and Study (Year 1118-1125)
+- Northern expedition to Vel'Krath discovers artifact in collapsed laboratory
+- Artifact shows awareness, responds to proximity, demands blood
+- Northern scholars study for 7 years in secure facility
+- Artifact proves dangerous: 3 researchers killed (one drained, two driven mad)
+- King Thorne II (Aldric's grandfather) becomes concerned about security
+
+#### Veil Keeper Approach (Year 1125-1135)
+- Veil Keepers learn of artifact through academic network (Northern scholars published coded references)
+- Determine it must be contained, not studied—too dangerous for any single power
+- Open diplomatic channel to Northern court through neutral dwarven intermediary
+- Offer: "We will contain it safely; you avoid the danger and political liability"
+
+#### The Secret Agreement (Year 1135-1145)
+- King Thorne II agrees to transfer after artifact kills fourth researcher
+- Political calculation: Can't admit what it is (vampire creation), can't control it, can't destroy it
+- Veil Keepers take custody with written agreement to:
+  - Keep it sealed and contained in specialized vault
+  - Never use it as weapon or tool
+  - Return if Northern formally requests (under specific conditions requiring Council approval)
+- Agreement kept SECRET from Northern court—only king and two advisors knew
+- Transfer conducted as "disposal of dangerous artifacts"
+
+#### The Knowledge Gap (Year 1145-1192)
+- King Thorne II dies (Year 1165) having told successor only that "a vampire thing was given to the Keepers"
+- Aldric's father knows artifact exists but not the full history or reasons for transfer
+- Records of agreement stored in sealed royal archive (Aldric doesn't know to look)
+- King Aldric XII takes throne (Year 1192)
+- Discovers artifact exists through intelligence reports; demands return
+- **Doesn't know why it was given away—assumes theft or coercion**
+
+#### Current Conflict (Year 1192-present)
+- Aldric demands return based on rightful Northern ownership
+- Veil Keepers refuse based on danger and their containment mandate
+- Neither side discusses the original agreement—Veil Keepers assume he knows, Aldric assumes there was no agreement
+- Aldric interprets refusal as insult to Northern sovereignty
+- Conflict escalates through mutual misunderstanding
+- The sealed royal archive contains the truth—if Aldric would look
+
+### Possible Truths About Its Nature (All Fit Evidence)
 
 **Possibility A: Failed Sanguine Vessel**
 Vessel 11 from the protagonist's program. Stasis failed differently—consciousness preserved in different form.
@@ -348,6 +389,7 @@ None of the above. Something genuinely new.
 - Potential information source—or disinformation source
 - Could be weapon, ally, or threat
 - May know truths no one else does—or may lie
+- The Northern-Veil Keeper conflict could be resolved with one conversation—if either side would have it
 
 ---
 
@@ -503,6 +545,45 @@ Vykros died before the Bloodweb recorded memories. The vampires who were present
 
 **Why These Are Unknowable**:
 The vampires spent a thousand years destroying pre-vampire records and modifying subject populations. The Dark Ages finished the job. What remains is fragments, often filtered through vampire perspectives.
+
+---
+
+## The Southern Catacomb Incident (Year 812)
+
+### What Actually Happened
+- Mining operation at Iron Ridge discovered stasis chamber
+- Vampire partially awakened before containment possible
+- 47 witnesses total (miners, supervisors, families who arrived at site)
+- Church-Veil Keeper joint operation for containment
+
+### Containment Cost
+- 23 miners eliminated on site (combat with awakened vampire + Church soldiers)
+- 12 family members "relocated" to distant regions (disappeared from records)
+- 8 supervisors transferred to frontier posts (monitored for life; 3 died within 5 years)
+- 4 merchants paid off (ongoing expense: 200 crowns/year until death)
+- Records fabricated showing mine collapse from gas pocket
+
+### Ongoing Maintenance (Year 812-present)
+- 3 watchers monitoring relocated family descendants (~150 crowns/year)
+- Archive section sealed in both Church and Veil Keeper vaults
+- Cover story reinforced through annual "collapse memorial" at site
+- Mine shaft filled and marked as unstable
+- Total ongoing cost: ~500 crowns/year for 388 years = 194,000 crowns invested in maintaining cover-up
+
+### Vulnerability Points
+- Descendants of paid merchants may have inherited partial knowledge (merchant families kept journals)
+- Relocated families told children *something* (stories persist in those communities)
+- Memorial site draws occasional investigators
+- One Veil Keeper archivist (Maren Thorne) now investigating organization origins—may find connection
+
+### The Six-Day Interrogation
+The vampire was questioned for six days before execution. This was not an hour-long interview—it was methodical extraction:
+- Days 1-2: Establishing communication (vampire script translation)
+- Days 3-4: Historical questions (sanctuaries, survival, collapse)
+- Day 5: Specific revelations (Vessels, dimensional threats)
+- Day 6: Vampire became uncooperative; executed by sunlight exposure
+
+*Note: The cover-up has cost the equivalent of a small fortress in maintenance alone. This is what it takes to keep secrets—not clever plans but money, year after year.*
 
 ---
 

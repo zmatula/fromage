@@ -170,6 +170,83 @@ Plus three others
 
 ---
 
+## Operational Constraints
+
+### Budget Reality
+- Peacetime maintenance: 900,000 crowns/year
+- Active campaign cost: 150 crowns/knight × 15,000 = 2,250,000 crowns
+- **True budget: 950,000 crowns**
+- **Maximum sustainable campaign: 3-4 months before bankruptcy**
+
+### How They Manage Continental Hunt
+The Order cannot sustain full mobilization. Instead:
+
+**Rotation System**:
+- 5,000 knights active pursuit (750,000 crowns/year)
+- 10,000 knights garrison duty (maintains fortresses)
+- Rotates quarterly to spread fatigue and cost
+
+**Regional Prioritization**:
+- Northern territories: High intensity (Seven's escape route)
+- Sanctified States: Medium intensity (home territory)
+- Valdrian/Maritime: Low intensity (political complications)
+
+**Hidden Costs**:
+- Depleting reserve funds (~100,000 crowns available)
+- Accepting noble "donations" with strings attached
+- Reducing training and recruitment
+- Deferring fortress maintenance
+
+### Strategic Vulnerability
+- Extended hunt weakens defenses elsewhere
+- Political patrons may demand concessions
+- If Seven not found within 6 months, financial crisis
+- Success requires early capture or external funding
+
+---
+
+## Budget Crisis Timeline (Year 1200)
+
+### Week 1-3: Initial Mobilization
+- Full 5,000 knight pursuit force deployed
+- Reserve funds tapped (~100,000 crowns)
+- Costs: ~60,000 crowns/month for active pursuit
+
+### Week 4: Costs Spiral
+- Extended pursuit consuming resources faster than expected
+- Noble "donations" coming with political strings
+- Training and recruitment suspended to fund hunt
+- Fortress maintenance deferred
+
+### Week 5-6: Warning Signs
+- Reserve funds depleted
+- Some Commanders reporting supply shortages
+- Requests to Sanctified States for emergency funding
+- Grand Master Aurelius faces internal criticism
+
+### Week 7: Crisis Point
+- Cannot maintain 5,000 knight pursuit force
+- Must choose: reduce force or accept crippling debt
+- Council of Commanders emergency meeting
+- Some advocate abandoning hunt to preserve Order
+
+### Week 8: Tactical Retreat
+- Active pursuit force reduced from 5,000 to 2,000 knights
+- Regional coverage becomes patchy—gaps appear
+- Focus shifts to chokepoints rather than active pursuit
+- Emergency funding request sent to High Theocrat Solarius
+
+### Consequences
+- Seven gains breathing room as pursuit intensity drops
+- Creates window for reaching locations like Ironpeak
+- Order's reputation damaged—first major failure in decades
+- Solarius must decide: fund the hunt or maintain persecution operations
+
+### Story Function
+The Order's budget crisis creates the Week 8 breathing room Seven needs to reach the Living Artifact. Without this financial constraint, the Order would never reduce pursuit intensity. Economics forces tactical retreat that ideology never would.
+
+---
+
 ## Current Activities
 
 ### Monitoring

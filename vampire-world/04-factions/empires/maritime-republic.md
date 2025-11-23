@@ -205,6 +205,101 @@ A merchant oligarchy ruling the seas. The most cosmopolitan power, center of art
 
 ---
 
+## Banking House Coup: Economic Consequences
+
+### Immediate Costs (Year 1199)
+- Coup funding: ~300,000 crowns (military bribes, operations)
+- Council treasury seized: 150,000 crowns recovered
+- Net cost to Consortium: 150,000 crowns
+
+### Revenue Crisis
+- Pre-coup tariff collection: ~200,000 crowns/year
+- Post-coup collection: ~120,000 crowns/year (merchants refusing)
+- Gap: 80,000 crowns/year lost
+- **Problem**: No legitimacy = no compliance
+
+### Merchant Confidence
+- Trade volume down 15% (uncertainty)
+- Insurance rates up 25% (political risk)
+- Capital flight: ~100,000 crowns moved to Valdrian banks
+- Foreign investment frozen
+
+### Counter-Coup Funding
+- Captain Stormwind raising funds from:
+  - Old families: ~150,000 crowns pledged
+  - Merchant houses wanting order restored: ~100,000 crowns
+  - Free Captains (conditional): ~50,000 crowns
+- **Total war chest**: ~300,000 crowns (enough to challenge)
+
+### Consortium Vulnerability
+- Current liquid assets: ~500,000 crowns (down from 10 million in total assets)
+- Monthly burn rate: ~50,000 crowns (military, administration)
+- **Runway**: 10 months before fiscal crisis
+- **Desperate Moves**: May need to foreclose debts early, sell artifacts, seek foreign backing
+
+---
+
+## Post-Coup Recovery (Year 1199-1200)
+
+### What Was Damaged
+- **Political intelligence network**: Informants arrested or fled
+- **Diplomatic communications**: Ambassadors recalled, couriers suspect
+- **Internal security**: Loyalty uncertain, paranoia high
+
+### What Survived Intact
+- **Commercial networks**: Trade must continue for revenue
+- **Banking operations**: Consortium needs income to survive
+- **Shipping routes**: Captains care about cargo, not politics
+
+### Current Status (Year 1200)
+- Political intelligence: 40% capacity (rebuilding)
+- Commercial intelligence: 90% capacity (never disrupted)
+- Overall information reliability: "Moderate" for trade, "Poor" for politics
+
+### Why The Asymmetry
+Banking Consortium protected commercial assets but purged political operatives:
+- Merchants are loyal to profit, not factions
+- Political agents had dangerous knowledge
+- Revenue streams take priority over intelligence
+
+This means Maritime knows trade movements but not political intentions.
+
+---
+
+## Artifact Authentication Network Collapse
+
+### Pre-Coup System
+The Maritime Republic operated the continent's most trusted artifact verification network:
+- Central registry in Scholar's Haven with 500 years of records
+- 200+ trained authenticators in major cities across all powers
+- Certification enabled: legal trade, banking collateral, insurance
+- Fees generated ~50,000 crowns/year in revenue
+
+### Coup Damage
+The Banking Consortium's political purge devastated the network:
+- 60% of authenticators were also political informants (now purged or fled)
+- Registry access restricted to Consortium loyalists
+- Foreign authentication offices closed during "loyalty review"
+- No new certifications issued for 3 months post-coup
+
+### Current Status (Year 1200)
+- Authentication capacity: 40% of pre-coup levels
+- Backlog: 6 months of unverified artifacts
+- Trust level: Other powers now question all Maritime certifications
+- Competition: Ironpeak offering alternative verification (50% market share gain)
+
+### Continental Impact
+Without reliable Maritime authentication:
+- Artifact prices swing wildly (no trusted verification standard)
+- Insurance companies won't cover unverified pieces
+- Banks won't accept artifacts as loan collateral
+- Black market growing (same uncertainty, lower fees, no questions)
+
+### Strategic Consequence
+The Consortium destroyed the network that made Scholar's Haven indispensable. They kept the trade but lost the trust. This cannot be rebuilt quickly—authentication requires reputation earned over generations.
+
+---
+
 ## Culture
 
 ### Values

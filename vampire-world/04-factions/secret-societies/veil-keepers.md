@@ -127,6 +127,40 @@ A secret society dedicated to preventing vampire return and keeping dangerous kn
 
 ---
 
+## Operational Model
+
+### Why Budget Works
+
+**Volunteer Network**:
+- Many agents serve without pay (ideological commitment)
+- Only cell leaders and specialists receive stipend
+- Reduces personnel cost from 240k to ~100k
+
+**Selective Operations**:
+- Continental suppression is myth; actual coverage is regional
+- Focus on: Northern (Seven), Maritime (artifact trade), Valdrian (politics)
+- Sanctified and Ironpeak largely ignored (lower priority)
+
+**Shared Resources**:
+- Use Order of Dawn facilities when aligned
+- Piggyback on government intelligence networks
+- Barter information rather than pay for it
+
+### Actual Costs
+- 12 cells (leadership only): 60,000 crowns
+- Specialist agents (30): 45,000 crowns
+- Archive and security: 20,000 crowns
+- Operations fund: 40,000 crowns
+- **Total: 165,000 crowns** (matches budget)
+
+### What This Means
+- Cannot pursue Seven AND suppress knowledge simultaneously
+- Must choose priorities each quarter
+- Failure to find Seven means knowledge spreads
+- Success requires allies (Order of Dawn cooperation)
+
+---
+
 ## Activities
 
 ### Primary Mission: Containment
@@ -223,6 +257,38 @@ A secret society dedicated to preventing vampire return and keeping dangerous kn
 - Demands blood
 - Shows awareness
 - What is it? What does it want?
+
+#### Living Artifact Containment Protocol
+
+**Physical Requirements**:
+- Sealed chamber in secure location
+- Blood feeding: 1 pint/week (from volunteers)
+- Temperature and humidity control
+- Constant observation (3 shifts)
+
+**Annual Cost**:
+- Facility maintenance: 500 crowns/year
+- Personnel (9 observers, 3 shifts): 900 crowns/year
+- Blood acquisition: 200 crowns/year
+- Security systems: 300 crowns/year
+- **Total: ~1,900 crowns/year** (major budget line)
+
+**Research Value**:
+- Artifact shows awareness, responds to questions sometimes
+- Provides glimpses into vampire psychology
+- May know stasis chamber locations
+- Refuses to cooperate fully; gives partial information
+
+**Current Conflict**:
+- King Aldric XII demands return
+- Veil Keepers believe he'd use it as weapon
+- Artifact itself seems to want to go to Northern (suspicious)
+- Stalemate: Aldric won't admit what it is publicly; Veil Keepers won't admit they have it
+
+**Risk Assessment**:
+- If containment fails, artifact escapes (consequence unknown)
+- If Northern attacks Veil Keeper holdings, artifact is vulnerable
+- Artifact may be manipulating its keepers (can't rule out)
 
 ### Protagonist
 

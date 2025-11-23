@@ -128,6 +128,38 @@ With Vessel Seven, they explode immediately.
 
 ---
 
+## Valdrian Succession: Economic Factions
+
+### Duke Aldric Varen
+- **Backing**: Rural nobility (land-based wealth)
+- **Economic Platform**: Preserve traditional land rights, resist merchant rising
+- **Financial Support**: ~500,000 crowns from noble houses
+- **Trade Policy**: Protectionist; maintain tariffs on foreign goods
+- **Who Benefits**: Established aristocracy, traditional military
+
+### Duchess Margret
+- **Backing**: Urban merchants and guilds
+- **Economic Platform**: Modernize commerce, reduce guild restrictions, open trade
+- **Financial Support**: ~400,000 crowns from merchant consortiums
+- **Trade Policy**: Free trade; reduce tariffs, welcome foreign investment
+- **Who Benefits**: Merchants, craftspeople, Maritime Republic
+
+### Prince-Consort Aldric (Dwarven Heritage)
+- **Backing**: Dwarven interests and mountain provinces
+- **Economic Platform**: Continental integration, standardize currency
+- **Financial Support**: ~600,000 crowns from Ironpeak banking houses
+- **Trade Policy**: Unified continental market; dwarven-backed currency standard
+- **Who Benefits**: Dwarves, traders, anyone with cross-border business
+
+### The Bastard
+- **Backing**: Lower classes and some military
+- **Economic Platform**: Wealth redistribution, reduced taxes on poor
+- **Financial Support**: ~200,000 crowns (limited; mainly popular donations)
+- **Trade Policy**: Unclear; would likely default to advisors
+- **Who Benefits**: Common people, commoner-rise soldiers
+
+---
+
 ## The Maritime Republic Coup
 
 ### What Happened
@@ -242,7 +274,7 @@ With Vessel Seven, they explode immediately.
 ### The Military Position
 
 **Northern Forces**
-- 40,000 professional soldiers
+- 30,000 professional soldiers with 50,000 feudal levies available within 30 days (80,000 total rapid deployment)
 - Best heavy infantry on continent
 - Good cavalry
 - Excellent logistics
@@ -255,11 +287,33 @@ With Vessel Seven, they explode immediately.
 
 ### The Targets
 
-**Phase 1: The Border Marches**
+**Phase 1: The Border Marches** (Quick Raid: 3-4 weeks)
 - Valdrian territory but autonomous
-- Valuable agriculture
+- Primary objective: Capture granaries to secure food supply before extended campaign
+- Valuable agriculture (addresses Northern grain deficit)
 - Vampire ruins (artifact sites)
 - Easy to claim "historical right"
+- NOT full conquest—seize resources, establish forward positions, then assess
+
+### The Calculated Gamble
+
+**What Aldric Knows**:
+- Northern grain reserves: 4 months (critically low)
+- Raid must succeed to enable any future campaign
+- Failure means no full invasion possible for 2-3 years
+- This is reconnaissance-in-force AND resource grab simultaneously
+
+**The Risk He's Taking**:
+- If raid fails: Valdris fortifies, opportunity closes
+- If raid succeeds but casualties high: Army too weak for Phase 2
+- If raid triggers immediate war: No stockpile for extended campaign
+- Success window is narrow—must win fast with minimal losses
+
+**Why He's Acting Anyway**:
+- Valdrian succession crisis creates unique opportunity
+- Waiting means Northern food dependency continues
+- His warrior-king legitimacy requires action
+- Better to gamble now than starve later
 
 **Phase 2: Valdrian Weakness**
 - If succession goes badly, grab more
@@ -326,15 +380,15 @@ With Vessel Seven, they explode immediately.
 
 ### Who's Leading It
 
-**High Confessor Brennan**
+**Grand Master Aurelius Dawnbringer**
 - Order of Dawn supreme leader
-- Absolute believer
-- Convinced vampires are returning
+- Commands the Order's military forces from Dawnhaven
+- Absolute believer whose certainty that darkness is rising drives aggressive hunting operations
 - Has been preparing for decades
 
 **Archbishop Aldric Stern**
 - Highest Church authority in Sanctified States
-- Brennan's political ally
+- Aurelius's political ally
 - Provides legal cover for Order actions
 
 **Inquisitor-General Vera Thorne**
@@ -348,7 +402,7 @@ With Vessel Seven, they explode immediately.
 - Old Twilight prophecy (stolen from elves centuries ago)
 - "When the dead sun wakes, blood will flow again"
 - Interpreted as vampire return
-- Brennan believes it's now
+- Aurelius believes it's now
 
 **The Signs**
 - Dimensional readings at the Scar (real)
@@ -420,17 +474,199 @@ With Vessel Seven, they explode immediately.
 
 **Persecution succeeds**: Church dominance. Knowledge suppressed. Inheritors destroyed. Ignorance wins.
 
-**Persecution fails**: Church weakened. Order of Dawn discredited. Brennan replaced. Knowledge spreads.
+**Persecution fails**: Church weakened. Order of Dawn discredited. Aurelius replaced. Knowledge spreads.
 
 **Escalation**: Full Inquisition like Year 1-50. Mass executions. Civil resistance. Possibly war.
 
 ### Why It Matters for Seven
 
 - He's the ultimate target
-- Brennan has been preparing for exactly this
+- Aurelius has been preparing for exactly this
 - Order will hunt Seven relentlessly
 - They'll kill anyone who helps him
 - They won't negotiate
+
+---
+
+## Order of Dawn Financial Collapse
+
+### The Hunt's Economic Reality
+
+The Order's continental hunt for Seven cannot be sustained indefinitely. Their budget crisis becomes a plot point.
+
+**Timeline**:
+- **Week 4**: Costs spiral beyond projections; reserve funds depleted
+- **Week 5-6**: Noble donors demand political concessions; internal criticism grows
+- **Week 7**: Crisis point—cannot maintain pursuit force without external funding
+- **Week 8**: Tactical retreat forced; active pursuit reduced from 5,000 to 2,000 knights
+
+**Consequences for Story**:
+- Creates breathing room for Seven (Week 8+)
+- Opens window to reach Ironpeak and Living Artifact
+- Forces Sanctified States funding decision (Solarius's choice)
+- Damages Order's reputation and Aurelius's authority
+
+**Political Ripples**:
+- Sanctified States must choose: fund hunt or maintain persecution
+- If they fund hunt, persecution operations suffer
+- If they don't, Order may never recover prestige
+- Either way, the hunt's economic pressure creates cascading effects
+
+---
+
+## Order of Dawn Overextension
+
+### Persecution Capacity Decline Timeline
+
+The Order cannot hunt Seven at full capacity while managing all other threats. Their forces are finite.
+
+**Week 1-2: 100% Persecution Capacity**
+- Full knight deployment on heretic hunts
+- Border monitoring routine
+- All 30 fortress-monasteries contributing to persecution operations
+
+**Week 2-3: Border Clash Response**
+- Northern aggression forces Order to deploy forces to Valdrian border
+- 3-4 fortress-monasteries redirect knights to military operations
+- Persecution capacity drops to ~85%
+
+**Week 3-5: 60% Capacity**
+- Border situation demands sustained presence
+- Succession crisis requires Order protection for Duke Aldric
+- Court politics consume leadership attention
+- Only 18 fortress-monasteries can maintain persecution operations
+- **Gaps appear**: Some regions see no Order patrols for first time in years
+
+**Week 6-8: 30% Capacity**
+- Seven's location becomes known; resources redirect to hunt
+- Continental pursuit requires coordination across jurisdictions
+- Border now requires permanent garrison
+- Persecution effectively suspended in favor of primary target
+- **Enforcement collapses**: Magic users and scholars notice safety, begin moving
+
+### Strategic Consequence for Seven
+
+The more aggressively the Order pursues Seven, the more they must abandon other operations. By Week 6, Seven's existence has accidentally created the largest gap in persecution enforcement in decades. Refugees who fled to Maritime Republic consider returning. Hidden scholars emerge from safe houses.
+
+This creates a potential ally network: people who owe their temporary freedom to Seven's existence.
+
+---
+
+## Northern Invasion Impact on Order Coverage
+
+### Week 2: Border Clash Forces Response
+- Order of Dawn detects Northern military movements
+- Grand Master Aurelius must decide: maintain persecution or defend realm?
+- Three knight-companies redeployed from heretic hunting to border observation
+
+### Week 3-4: Hunt Slows
+- Cassius's vision and subsequent breakdown demands Order presence at court
+- Northern threat assessment consumes intelligence resources
+- Seven pursuit becomes secondary to immediate military threat
+- **Window opens**: Seven has 2-week period with significantly reduced pursuit pressure
+
+### How This Helps Seven Escape
+- Order coordination breaks down across jurisdictions
+- Intelligence network focused on Northern military, not single fugitive
+- Local commanders act independently, creating gaps in coverage
+- Seven reaches Scholar's Haven during lowest Order attention period
+
+---
+
+## Maritime Coup Impact on Continental Systems
+
+### Artifact Authentication Network Collapse
+
+The Maritime Republic ran the continent's most trusted artifact verification system. The Year 1199 coup broke it.
+
+**What Existed Before**:
+- Scholar's Haven maintained registry of authenticated artifacts
+- Maritime experts verified provenance across all major markets
+- Certification enabled legal trade, insurance, banking collateral
+- Network of trained authenticators in every major port and capital
+
+**What the Coup Destroyed**:
+- Political intelligence purged (authenticators often served as informants)
+- Experts fled or were arrested during loyalty checks
+- Registry access now controlled by Banking Consortium
+- Foreign offices closed during "reorganization"
+
+**Current Status (Year 1200)**:
+- Authentication capacity: 40% of pre-coup levels
+- Registry reliability: "Questionable" (may have been altered)
+- Foreign operations: "Suspended indefinitely"
+- Trust level: Collapsed among other powers
+
+### Continental Consequences
+
+**For artifact trade**:
+- Prices volatile (no trusted verification)
+- Insurance unavailable for unverified pieces
+- Banking won't accept artifacts as collateral
+- Black market growing (same uncertainty, lower fees)
+
+**For Seven's story**:
+- Artifacts Seven carries cannot be verified through normal channels
+- Creates opportunity: verification chaos means his nature harder to confirm
+- Creates danger: anyone can claim to verify (or expose) him
+- Consortium might offer authentication services in exchange for access to him
+
+**For other powers**:
+- Valdrian court can't verify succession-related artifacts
+- Northern expedition finds can't be properly catalogued
+- Order of Dawn loses ability to track artifact movement
+- Inheritors lose infrastructure for acquisition network
+
+---
+
+## Crisis Economic Analysis
+
+### Valdrian Succession Crisis
+**Surface Issue**: No clear heir
+**Economic Driver**: Which economic system will rule?
+- Duke Aldric: Land aristocracy (protect estates, resist merchant power)
+- Duchess Margret: Merchant interests (free trade, guild reform)
+- Prince-Consort: Dwarven integration (standardized currency, open borders)
+- Bastard: Redistribution (tax the wealthy, expand services)
+
+**Stakes**: Winner determines Valdrian economic policy for generation.
+
+### Northern Expansion
+**Surface Issue**: Territorial ambition
+**Economic Driver**: Food security crisis
+- 40% grain imports from Valdris
+- 6-month famine window if embargoed
+- Must seize farmland before war, not after
+
+**Stakes**: Northern survival vs Valdrian agricultural heartland.
+
+### Maritime Coup
+**Surface Issue**: Banking vs merchant control
+**Economic Driver**: Who profits from artifact trade?
+- Banks want controlled market (high margins)
+- Merchants want open trade (high volume)
+- Coup already costing 80,000 crowns/year in lost tariffs
+
+**Stakes**: Control of continental artifact economy.
+
+### Sanctified Persecution
+**Surface Issue**: Religious purity
+**Economic Driver**: Destroying own economic base
+- Scholars fleeing = knowledge loss
+- Merchants fleeing = trade loss
+- Craftspeople fleeing = production loss
+- Agricultural disruption growing
+
+**Stakes**: Sanctified economic self-destruction vs doctrinal purity.
+
+### Veil Keeper vs Inheritor War
+**Surface Issue**: Suppress vs preserve knowledge
+**Economic Driver**: Control of artifact discovery
+- Whoever controls expeditions controls findings
+- Whoever controls findings controls power
+- ~500,000 crowns/year in artifact value at stake
+
+**Stakes**: Knowledge monopoly = power monopoly.
 
 ---
 

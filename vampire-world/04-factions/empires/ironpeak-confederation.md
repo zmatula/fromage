@@ -168,6 +168,44 @@ The dwarven industrial power. Neutral in empire conflicts, essential to all, and
 - But understand vampire tech deeply
 - Keep knowledge close
 
+## Economic Foundation
+
+### Revenue Sources
+- Iron mining and export: ~400,000 crowns/year
+- Bloodstone monopoly: ~200,000 crowns/year
+- Banking interest (1.15M principal): ~60,000 crowns/year
+- Certification services (artifact verification): ~50,000 crowns/year
+- **Total revenue: ~710,000 crowns/year**
+
+### Annual Expenditures
+- Hold maintenance (7 major holds): ~200,000 crowns
+- Military (standing forces): ~150,000 crowns
+- Food imports (mountains cannot sustain population): ~250,000 crowns
+- **Total expenditure: ~600,000 crowns/year**
+
+### Treasury Position
+- Current reserves: ~2,000,000 crowns (estimated)
+- Annual surplus: ~110,000 crowns
+- Debt holdings: 1,150,000 crowns in loans to surface powers
+
+### Strategic Vulnerability
+- **Food dependency**: Must import 80% of grain
+- Primary suppliers: Valdrian (60%), Sanctified (40%)
+- Cannot sustain blockade longer than 3 months
+- Neutrality depends on continued trade access
+
+### Why Debt Weapon Is Limited
+- Calling all debts would trigger coordinated retaliation
+- Surface powers could embargo food in response
+- 3-month food reserve vs years of war
+- Leverage works through threat, not execution
+
+### Economic Power Without Military Risk
+- Control verification market (is this artifact real?)
+- Control currency standards (dwarven coins most trusted)
+- Control precision manufacturing (human smiths can't match)
+- Control deep earth resources (no competition)
+
 ---
 
 ## Culture
@@ -202,6 +240,113 @@ The dwarven industrial power. Neutral in empire conflicts, essential to all, and
 - Seal dangerous areas
 - Don't share everything found
 - Some deep holds have sealed chambers
+
+---
+
+## Succession Concerns
+
+### High Thane Borin Stonehammer
+- Age: 312 years (elderly for dwarf)
+- Health: Strong but declining
+- Policy: Strict neutrality, banking leverage, patience
+- Problem: His neutrality is personal conviction, not institutional
+
+### Potential Successors
+
+**Elder Traditionalist: Ancestor Speaker Grom**
+- Age: 289
+- Position: Withdraw further from surface affairs
+- Policy: Seal holds, reduce trade, wait out human conflicts
+- Consequence: Dwarven retreat would collapse human economies
+
+**Young Pragmatist: Forge Master Durin**
+- Age: 156
+- Position: Choose winning side and profit
+- Policy: Alliance with Northern (they'll win, share in victory)
+- Consequence: Would end neutrality, trigger continental realignment
+
+**Merchant Advocate: Vault Keeper Thora**
+- Age: 203
+- Position: Exploit conflict for maximum profit
+- Policy: Lend to all sides, foreclose on losers
+- Consequence: Would make dwarves hated by all, risk coordinated attack
+
+**Deep Hold Conservative: Hold Lord Balin**
+- Age: 267
+- Position: Abandon surface entirely
+- Policy: Seal all holds, become self-sufficient
+- Consequence: Would remove dwarven economy from continent entirely
+
+### Current Succession Politics
+- Borin favors no one openly (maintains authority)
+- Thane Council divided (no majority for any position)
+- Young dwarves increasingly support Durin (tired of "neutral" inaction)
+- Crisis will come when Borin dies or becomes incapacitated
+
+### Timeline
+- Borin has perhaps 20-50 years (dwarven lifespan uncertain at this age)
+- Succession fight could begin at any sign of weakness
+- If war breaks out, pressure to choose sides intensifies
+- Protagonist's awakening may force dwarven choice earlier
+
+---
+
+## Current Crisis Involvement (Year 1200)
+
+### Week 8: Seven's Arrival
+
+When Seven reaches Ironpeak seeking the Living Artifact and technical expertise, the Confederation faces its most consequential decision since Year 1089.
+
+**Initial Reception**:
+- Deep Wardens detect Seven's approach through border monitors
+- High Thane Borin informed immediately
+- Council of Thanes convened in emergency session
+- All factions aware: this moment will define Confederation's future
+
+### Week 8-9: The Great Debate
+
+**Forge Master Durin's Position** (Pragmatist):
+- "This is the opportunity we've waited centuries for"
+- Study Seven, understand vampire technology fully
+- Use knowledge to cement dwarven indispensability
+- Risk: Draws Confederation into human conflict
+
+**Ancestor Speaker Grom's Position** (Isolationist):
+- "We sealed those chambers for reasons our ancestors understood"
+- Turn Seven away, maintain strict neutrality
+- Let humans solve human problems
+- Risk: Miss historic opportunity; if Seven succeeds, dwarves seen as having failed
+
+**Vault Keeper Thora's Position** (Opportunist):
+- "Negotiate terms before committing either way"
+- What will Seven offer for help? What will other powers pay to stop him?
+- Maximum leverage, minimum commitment
+- Risk: Alienates everyone, satisfies no one
+
+### Week 9: Borin's Decision
+
+High Thane Borin must choose, knowing:
+- This ends 111 years of strict neutrality regardless of choice
+- His decision shapes Confederation policy for the next century
+- His successor's mandate will be defined by how this turns out
+
+**If Borin Helps Seven**:
+- Forge of Souls access granted
+- Technical expertise provided
+- Vessel 11 information shared
+- Durin faction strengthened; isolationists weakened
+- Surface powers will remember dwarves "chose the vampire"
+
+**If Borin Refuses**:
+- Seven proceeds without dwarven resources
+- Path significantly harder, success less certain
+- Grom faction vindicated (temporarily)
+- If Seven succeeds anyway, dwarves seen as cowards who let others save the world
+- If Seven fails, dwarves may have doomed everyone
+
+### Consequences Either Way
+
+The Confederation's reputation for neutrality is destroyed by the mere fact of Seven's arrival. Every faction will remember how the dwarves responded when the world needed them. There is no choice that preserves the old order.
 
 ---
 

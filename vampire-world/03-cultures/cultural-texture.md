@@ -653,6 +653,41 @@ Vessel Seven knows vampire culture. He doesn't know:
 
 ---
 
+## Intermarriage and Mixed Populations
+
+### Human-Elf Relationships
+- **Frequency**: Rare but documented throughout history
+- **Children**: Possible; inherit mixed traits (longer life, magical sensitivity)
+- **Status**: Tolerated in Maritime, scandalous in Sanctified, irrelevant in Silverwood (none leave)
+- **Cultural Identity**: Usually identify as human (elven communities won't accept them)
+
+### Human-Dwarf Relationships
+- **Frequency**: Uncommon; size differences create challenges
+- **Children**: Possible; inherit strength and technical aptitude
+- **Status**: Accepted in border communities, surprising elsewhere
+- **Cultural Identity**: Often become intermediaries between communities
+
+### Human-Goblin Relationships
+- **Frequency**: Extremely rare; extreme taboo
+- **Children**: Unknown if possible; no documented cases
+- **Status**: Social death in human communities; execution in some
+- **Reality**: Probably occurs in border regions but never acknowledged
+
+### Historical Shifts
+- **Year 0-300**: Forbidden entirely (post-collapse trauma)
+- **Year 300-700**: Began occurring in Maritime (cosmopolitan tolerance)
+- **Year 700-1200**: Gradually more accepted in urban areas
+- **Present**: Urban tolerance, rural hostility
+
+### Regional Variation
+- **Maritime Republic**: Most accepting (profit over purity)
+- **Valdrian Empire**: Depends on class (nobility forbids, commoners tolerate)
+- **Northern Dominion**: Practical acceptance (anyone who fights is accepted)
+- **Sanctified States**: Strict prohibition (religious law)
+- **Ironpeak**: Rare (dwarves prefer their own)
+
+---
+
 ## Cross-References
 
 - [Races Overview](races/) - Cultural backgrounds

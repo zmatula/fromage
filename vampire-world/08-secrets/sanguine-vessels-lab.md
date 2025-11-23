@@ -1,5 +1,7 @@
 # The Sanguine Vessels Laboratory
 
+> **Note on Vessel Names**: The authoritative names for all Vessels are in [sanguine-vessels-registry.md](sanguine-vessels-registry.md). Names used in this document (e.g., "Arren Thorne," "Mira Coldwell") are informal research nicknames used by lab staff, not official registry designations.
+
 Life inside Vel'Thoras during the Vessels Initiative. The researchers, the subjects, and the bonds that formed in the shadow of extinction.
 
 ---
