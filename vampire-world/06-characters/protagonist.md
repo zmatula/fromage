@@ -401,4 +401,45 @@ An experimental vampire creation, designed to survive outside the Bloodweb. He w
 
 ---
 
+## Vampire Cultural Conditioning
+
+### Automatic Behaviors That Will Betray Him
+- Uses The Old Wave greeting (hand gesture, can get him killed)
+- Formal speech that sounds patronizing to modern ears
+- Instinctively expects deference from "servant races"
+- Thinks in centuries; finds modern urgency alien
+- Uses vampire measurements without realizing they're archaic
+
+### Mind Covenant Specific Markers
+He was made by Mind:
+- Research/knowledge valued above all else
+- Secretive - information hoarded, not shared
+- Belief in Mind superiority over Throne/Twilight
+- Unconscious condescension toward "lesser" approaches
+- Tendency to observe before acting
+
+### Cultural Clashes He Won't Understand
+- Why humans are offended by his politeness (it's patronizing)
+- Why knowing vampire script makes people fear him
+- Why offering "optimization" suggestions is horrifying
+- Why blood feeding is monstrous, not natural
+- Why servants don't want to serve
+
+### Things He Must Learn
+- Human sayings and idioms
+- Current holidays and meanings
+- Which gestures are now offensive
+- Which foods are taboo (anything with blood)
+- Why everyone hates what he is
+- That he's not better than them
+
+### The Learning Curve
+His culture is 1,200 years dead. Every interaction is potential exposure. He must learn:
+- How to pass as human (impossible but necessary)
+- What questions reveal his nature
+- Who might accept him despite knowing
+- Whether he can become something other than vampire
+
+---
+
 *The protagonist is not a hero—he's a weapon that's trying to become a person. His journey is about discovering who he is when everything he was created to be turns out to be a lie.*

@@ -298,6 +298,41 @@ A theocratic confederation united by faith. The most populous human power, most 
 
 ---
 
+## Current Propaganda Campaigns
+
+### "The Corruption Grows" (Year 1198-present)
+
+**Purpose**: Justify expanded persecution
+**Message**: Magic users increasing, non-humans infiltrating, danger rising
+**Method**: Sermons, pamphlets, market-square preachers, traveling shows
+
+**Who Creates It**:
+- Cardinal Blackfire's office controls messaging
+- Order of Dawn contributes "evidence"
+- Local clergy adapt to regional concerns
+
+**Who Believes It**:
+- Faithful peasantry: Completely
+- Urban merchants: Skeptically (hurts trade)
+- Educated clergy: Selectively
+- Other nations: See it as excuse for aggression
+
+### "Northern Threat" (Year 1195-present)
+
+**Purpose**: Prepare population for potential conflict
+**Message**: Northern Kingdom worships vampire artifacts, plans invasion
+**Method**: Military displays, border incident reports (exaggerated)
+
+**The Irony**: The Sanctified States have more vampire artifacts than the Northern Kingdom. But the faithful don't know that.
+
+### Effects
+- Refugee families torn apart
+- Innocent scholars executed
+- Trade with other nations suffering
+- But Church authority strengthened
+
+---
+
 ## Foreign Relations
 
 ### Valdrian Empire

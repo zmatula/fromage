@@ -407,6 +407,46 @@ Both expanding, mutual atrocities, goblins lost because outnumbered
 
 ---
 
+## Border Culture
+
+### The Marcher Humans
+
+Humans who live on the goblin frontier have absorbed goblin influences whether they admit it or not:
+
+**Language**:
+- Know goblin warning calls
+- Use goblin terrain terms
+- Curse in goblin (considered low-class)
+
+**Practices**:
+- Check for goblin signs before travel
+- Leave offerings at certain sites
+- Know which goblins can be traded with (quietly)
+
+**Food**:
+- Eat certain goblin-style preparations
+- Know which swamp plants are edible
+- Brew similar fermented drinks
+
+**Combat**:
+- Adopted goblin tunnel tactics
+- Use goblin-style ambushes
+- Recognize raid patterns by tribe
+
+### Familiar Enemies
+
+After 500 years, goblins and Marcher humans know each other:
+- Same raiding families for generations
+- Personal vendettas and strange respects
+- Unspoken rules about certain targets
+- Occasional warnings about common threats (monsters, weather)
+
+### What the Cities Don't Understand
+
+Urban humans see goblins as monsters. Marcher humans see them as enemies—but enemies they understand. This creates tension between border folk and their own governments.
+
+---
+
 ## Cross-References
 
 - [Goblins Race File](../../03-cultures/races/goblins.md) - Cultural background

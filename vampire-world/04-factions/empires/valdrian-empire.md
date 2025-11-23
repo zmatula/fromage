@@ -186,6 +186,29 @@ The oldest and most traditional of the great powers. Pride in lineage, suspicion
 
 ---
 
+## River Commerce Control
+
+### The Valdris River
+The 800-mile Valdris River is the empire's economic spine:
+
+**Revenue**: River tolls generate ~200,000 crowns/year
+**Control**: Imperial River Patrol (2,000 men, 50 boats)
+**Strategic points**: Valdris Prime, three major bridges, delta port
+
+### The Goldwater Connection
+This tributary connects to Maritime Republic territory:
+- Joint customs agreements
+- Contested jurisdiction at confluence
+- Smuggling corridor
+
+### Political Implications
+- Whoever controls river bridges controls internal trade
+- Succession factions are fighting for River Patrol loyalty
+- Bridge tolls are used as political rewards
+- Northern Kingdom has no river access (vulnerability)
+
+---
+
 ## Economy
 
 ### Economic Base
@@ -447,6 +470,36 @@ The oldest and most traditional of the great powers. Pride in lineage, suspicion
 - Imperial Library head
 - Veil Keeper member
 - Knows more than he reveals
+
+---
+
+## Foreign Cultural Influences
+
+### From Elves
+- Academic citation methods
+- Formal garden design
+- Certain musical forms
+- Tea service rituals
+
+### From Dwarves
+- Banking terminology
+- Contract law precision
+- Guild structures
+- Bridge engineering
+
+### From Maritime
+- Coffee (luxury item)
+- Cosmopolitan tolerance in port cities
+- Certain trade practices
+
+### Vampire-Era Survivals
+- Noble titles and forms of address
+- Legal code structure
+- Calendar system
+- "Traditional" architecture that's actually vampire design
+
+### What They Deny
+Valdrians claim pure descent from pre-vampire civilization. In fact, their culture is a synthesis of everything they've touched. The "ancient traditions" are often post-Collapse reconstructions or vampire-era practices.
 
 ---
 

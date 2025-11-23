@@ -134,6 +134,35 @@ She has people watching all three. If any of them discovers the truth, she'll fa
 
 She tells herself she wouldn't kill them. She's not sure that's true.
 
+### The Cost of Keeping It
+
+Vera maintains active surveillance on three families:
+
+**Helena Ashford** (Veil Keeper descendant):
+- Inheritor mole in Veil Keeper cells reports her movements
+- Cost: 500 crowns/year in bribes
+- Risk: Mole could be discovered or turned
+
+**Marcus Thornwood** (Valdrian historian):
+- Academic colleague reports his research
+- Cost: 200 crowns/year stipend
+- Risk: Colleague might grow conscience
+
+**Cassandra Vane** (Maritime noble):
+- Maritime contact tracks her legal movements
+- Cost: 300 crowns/year
+- Risk: She's getting too close; may need to act
+
+**Total Annual Cost**: ~1,000 crowns
+**Years Maintained**: Since she became Conclave member (12 years)
+**Total Investment**: ~12,000 crowns in keeping one secret
+
+**The Pressure**:
+- Every year they get closer to truth
+- Every year the cost grows
+- She must decide: silence them or confess
+- The Crown whispers: silence is strength
+
 ### The Crown Whispers
 
 Vera has been wearing the Crown of Mordecai during private rituals. The whispers have told her things about Seven she shouldn't know. They've also told her things about herself.
@@ -141,6 +170,39 @@ Vera has been wearing the Crown of Mordecai during private rituals. The whispers
 The whispers say her ancestor made the right choice. They say knowledge must be protected by any means. They say she'll do what she must when the time comes.
 
 She's not sure if that's Mordecai speaking, the Crown itself, or her own thoughts finding a voice.
+
+---
+
+## Maritime Cultural Influence
+
+### "Trade Over Ideology" Background
+Maritime culture is pragmatic:
+- Knowledge is currency to her
+- Everything has a price, including ethics
+- Should be more tolerant of other races
+- Deals with elves, dwarves professionally
+- Should balance Inheritor obsession—but doesn't anymore
+
+### Cosmopolitan Academic Culture
+Scholar's Haven is most diverse city:
+- Used to working across cultures
+- Less baseline prejudice than Valdrian or Sanctified
+- Treats all races as potential sources
+- But still treats subjects AS subjects (scholar's blindness)
+
+### Maritime Customs
+- Drinks coffee, not wine (marks her as Maritime)
+- Comfortable with multiple currencies
+- Information brokerage is normal to her
+- Everything negotiable, nothing sacred
+
+### Where Maritime Failed Her
+Maritime culture should make her balanced. Instead:
+- Inheritor ideology has overtaken Maritime pragmatism
+- She's lost "trade over ideology" perspective
+- Knowledge hoarding replaced knowledge trading
+- This is her corruption: Maritime gave her tools, Inheritors gave her obsession
+- The Crown accelerates this
 
 ---
 

@@ -90,6 +90,33 @@ The fertile eastern plains and river valleys that form the core of the Valdrian 
 
 ---
 
+## Scar Proximity Effects
+
+### Northern Border Crisis
+The Scar's expansion affects Valdrian territory within 100 miles of the border:
+
+**Agricultural Decline**:
+- Northern provinces report 20% crop yield reduction
+- Livestock birth defects increasing
+- Some villages abandoned
+
+**Refugee Movement**:
+- ~50,000 displaced from border region since Year 1180
+- Resettlement strains central provinces
+- Political pressure to "do something"
+
+**Military Repositioning**:
+- Northern garrison strength reduced (soldiers sicken)
+- Patrol routes moved south
+- Defense gap exploited by Northern Kingdom scouts
+
+**Economic Impact**:
+- Lost agricultural production: ~30,000 crowns/year
+- Refugee support costs: ~20,000 crowns/year
+- This contributes to succession crisis budget pressure
+
+---
+
 ## Story Relevance
 
 - Protagonist's awakening location

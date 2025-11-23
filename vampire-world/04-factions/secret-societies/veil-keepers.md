@@ -97,6 +97,34 @@ A secret society dedicated to preventing vampire return and keeping dangerous kn
 **Influence**: Positions in every major institution
 **Knowledge**: Extensive vampire archives (sealed)
 
+### Financial Operations
+
+**Ancient Endowments** (Year 150 foundation):
+- Land grants in three empires generate ~100,000 crowns/year
+- Managed through front organizations (academies, libraries)
+- Principal cannot be touched; income only
+
+**State Patronage**:
+- Valdrian Imperial Library: 30,000 crowns (hidden budget line)
+- Sanctified Church "historical preservation": 25,000 crowns
+- Northern Kingdom intelligence cooperation: 10,000 crowns
+
+**Member Contributions**:
+- 2,000 members average 2.5 crowns/year = 5,000 crowns
+- Wealthy patrons add ~10,000 crowns in emergencies
+
+**Total Annual Budget**: ~180,000 crowns
+
+**Compared to Rivals**:
+- Inheritors: ~250,000 crowns (wealthy patrons, artifact profits)
+- Order of Dawn: ~600,000 crowns (state-funded)
+
+**Operational Constraints**:
+- Cannot match Inheritor expedition funding
+- Must rely on infiltration over force
+- Major operations require special fundraising
+- Always fighting with limited resources
+
 ---
 
 ## Activities

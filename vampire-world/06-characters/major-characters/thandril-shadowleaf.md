@@ -103,4 +103,45 @@ Has followed orders for 150 years without knowing why. What if they're wrong?
 
 ---
 
+## Elven Cultural Burden
+
+### Time-Scale Dissonance
+He is 340 years old:
+- Finds human urgency baffling ("impulsiveness")
+- 150 years of waiting feels like "a season"
+- Plans in decades, thinks in centuries
+- Human lifespans feel tragically brief
+- Their rush to act before thinking seems foolish
+
+### Collaborator Legacy
+Knows elves were "privileged servants":
+- Silverwood narrative says they preserved knowledge heroically
+- But he knows they were closer to vampires than other races
+- "Privileged" means complicit
+- This gnaws at him during 150 years alone
+
+### Secret Knowledge
+- Can read vampire script (humans don't know elves can)
+- Has seen texts that would change human understanding
+- Silverwood forbids sharing
+- Carries secrets he's not sure should be kept
+- His daughter had "foreknowledge" - how?
+
+### Cultural Superiority
+"We endure; others pass" is internal mantra:
+- Finds human institutions charmingly temporary
+- Considers goblins beneath serious notice
+- Respects dwarven patience
+- Despises human haste
+
+### Isolation Effects
+150 years among humans:
+- Hasn't spoken Elvish in decades
+- Dreams in human languages now
+- Culture shock awaits if he returns to Silverwood
+- Is he still truly elven?
+- Would Silverwood even take him back?
+
+---
+
 *Thandril represents the elven mystery—watching, waiting, knowing things they won't share, with 150 years building to this moment.*

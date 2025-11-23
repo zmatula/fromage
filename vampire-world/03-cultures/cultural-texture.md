@@ -4,6 +4,39 @@ Songs, sayings, customs, holidays, and everyday practices that make the world fe
 
 ---
 
+## Linguistic Contamination
+
+### Trade Words (Used by All)
+- **Krath** (dwarven): Standard precious metal weight
+- **Assay** (dwarven): Quality verification
+- **Folio** (vampire via elven): Document format
+- **Protocol** (vampire: pro-tokol): Formal procedure
+- **Archive** (vampire: arkith): Records storage
+
+### Vampire Survivals in Common Speech
+Words everyone uses without knowing origin:
+- **Covenant** - binding agreement (from vampire political units)
+- **Dominion** - controlled territory
+- **Ascension** - rising to power
+- **Vessel** - container (also consciousness housing)
+
+### Forbidden Words
+Known but not spoken:
+- Vampire personal names
+- Bloodweb technical terms
+- Feeding terminology
+- Covenant-specific honorifics
+
+Using these marks you as either a scholar or dangerously interested.
+
+### Slurs That Reveal History
+- **"Collar-neck"** - implies vampire-era service
+- **"Dust-drinker"** - implies consuming vampire remains
+- **"Dawn-blind"** - too zealous to see truth
+- **"Forge-bought"** - implies dwarven corruption
+
+---
+
 ## Common Sayings
 
 ### About the Past

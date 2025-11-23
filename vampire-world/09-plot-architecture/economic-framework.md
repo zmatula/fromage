@@ -164,6 +164,75 @@ Who has money, how they got it, and what it buys. Wars cost gold. Politics cost 
 
 ---
 
+## Continental Debt Matrix
+
+### Who Owes What to Dwarves
+
+| Power | Principal | Interest | Purpose | Leverage |
+|-------|-----------|----------|---------|----------|
+| Valdrian Empire | 500,000 | 5% | War debts, infrastructure | High - succession crisis |
+| Northern Dominion | 300,000 | 6% | Weapons, fortifications | Medium - good payer |
+| Maritime Republic | 200,000 | 4% | Shipbuilding, banking | Low - trade partners |
+| Sanctified States | 150,000 | 5% | Order of Dawn equipment | Medium - reliable |
+
+**Total owed to Ironpeak**: 1,150,000 crowns
+**Annual interest to dwarves**: ~60,000 crowns
+
+### The Nuclear Option
+If dwarves called all debts simultaneously:
+- Every major power's treasury emptied
+- Military funding collapses
+- Trade halts for lack of credit
+- Civil unrest follows
+
+This is why everyone maintains dwarven neutrality.
+
+### Current Dwarven Strategy
+- Never call debts (destroys customers)
+- Use debt for policy influence
+- Extend credit to favored factions
+- Deny credit to disfavored ones
+
+House Goldvault extended credit to Prince Aldric's faction. House Ironmark backed Princess Sophia. The succession crisis is partly a proxy war between dwarven banking houses.
+
+---
+
+## Continental Supply Chains
+
+### Food
+
+| Good | Producer | Consumer | Route | Vulnerability |
+|------|----------|----------|-------|---------------|
+| Grain | Sanctified, Valdrian | Northern, Maritime | Land, Sea | Embargo |
+| Fish | Maritime, Northern | Inland | Coastal | Piracy |
+| Wine | Valdrian | All | All routes | Prestige good |
+| Preserved meat | Northern | Southern | Mountain passes | Winter closure |
+
+### Metals
+
+| Good | Producer | Consumer | Route | Control |
+|------|----------|----------|-------|---------|
+| Iron | Dwarves (80%) | All | Mountain passes | Dwarven monopoly |
+| Silver/Gold | Dwarves (90%) | All | Direct | Dwarven monopoly |
+| Bloodstone | Dwarves (100%) | Artifact users | Restricted | Absolute monopoly |
+| Copper | Various | All | Various | Competitive |
+
+### Strategic Materials
+
+| Good | Source | Use | Who Controls |
+|------|--------|-----|--------------|
+| Timber | Northern | Ships, construction | Northern export |
+| Salt | Sanctified coast | Preservation | Sanctified monopoly |
+| Starweave silk | Elves (none exported) | High magic | Elven refusal |
+| Artifact components | Ruins | Repair, research | Whoever finds them |
+
+### Chokepoints
+- **Iron Gate Pass**: Controls east-west trade (dwarven)
+- **Valdris River**: North-south commerce (Valdrian)
+- **Strait of Sovereigns**: Maritime access (Maritime Republic)
+
+---
+
 ## Other Economic Powers
 
 ### Northern Kingdom Treasury
