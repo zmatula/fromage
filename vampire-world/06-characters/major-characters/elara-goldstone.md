@@ -135,12 +135,48 @@ College of Port Sovereign gave her outsider perspective:
 - This makes traditionalists distrust her
 - But also makes her effective
 
-### Speech Patterns
-- Formal Valdrian register
-- Longer sentences than Northern characters
-- Comfortable with ambiguity and implication
-- Wine and heritage references
-- Never directly states what can be implied
+---
+
+## Speech Patterns
+
+### Linguistic Markers
+- Wine metaphors for everything ("well-aged," "tannins," "vintage")
+- References pre-vampire heritage ("In the days before...")
+- Longer sentences with embedded clauses
+- Strategic pauses before speaking (calculating)
+- Never says anything accidentally
+
+### Sample Dialogue
+- "The vintage of this alliance is questionable—it may turn to vinegar."
+- "She's aged well, but the bouquet of her ambition is becoming... obvious."
+- "In the days before, promise-breaking carried blood price. Now it carries only reputation cost. How we've declined."
+- "A matter of breeding, really. One cannot expect—but I speak too freely."
+
+### Tells
+- Judges people by what they'd serve
+- Unconsciously touches wine glass when thinking
+- Pauses are calculated, not uncertain
+- Reveals heritage concerns when stressed
+
+---
+
+## Planned Cultural Collision Moments
+
+### Elara's Wine Misjudgment
+- **Moment**: Judges new contact by their wine choice, forms strategy around it
+- **Reality**: Person was drinking what was available, not preference
+- **Consequence**: Strategy fails completely; loses valuable alliance
+- **Story Purpose**: Shows cultural blind spots create real failures
+
+---
+
+## Knowledge Limitations
+
+### What Elara Cannot Know
+- Valdrian reputation for promise-breaking is earned (family blind spot)
+- Wine culture can seem frivolous (never occurred to her)
+- Her good intentions might cause harm (doesn't compute)
+- She's being observed by multiple factions
 
 ---
 

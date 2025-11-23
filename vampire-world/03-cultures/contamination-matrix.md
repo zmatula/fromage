@@ -159,3 +159,54 @@ During vampire era, servant races developed common elements:
 - Blame for collaboration
 - Each race's narrative erased others
 - New identities built on difference
+
+---
+
+## Servant Race Solidarity (Deep Layer)
+
+### Shared Vocabulary (Cross-Racial)
+Terms all servant races used during vampire era, surviving in dialects:
+
+**Danger/Safety**:
+- "Vel" (from vampire "velos") - danger approaching
+- "Kor" - safe to speak
+- "Thresh" - punishment imminent
+- "Deep-quiet" - absolute silence needed
+
+**Status/Hierarchy**:
+- "Handler-voice" - tone of command
+- "Feed-time" - scheduled sustenance
+- "Blood-due" - required tribute
+- "Mark-day" - inspection day
+
+**Resistance**:
+- "Slow-work" - deliberate underperformance
+- "Mis-hear" - strategic incomprehension
+- "Lost-things" - sabotaged equipment
+- "Night-talk" - forbidden communication
+
+### Shared Gestures
+- Touching ear lobe: "Someone is listening"
+- Two fingers to throat: "Danger, don't speak"
+- Palm down, pushing: "Slow down, be careful"
+- Closed fist to chest: "I'm with you"
+
+### Shared Mourning
+**Day of Chains** (not officially recognized):
+- Observed quietly by some in all servant races
+- Marks anniversary of Bloodweb activation (Year -600)
+- Private candles, shared silence
+- Older generations observe; younger often unaware
+
+### Cross-Racial Recognition
+When servant race elders meet unexpectedly:
+- May use old gestures without thinking
+- Recognize shared trauma in eyes
+- Unexpected trust despite surface hostility
+- "You know what we know"
+
+### Why It Persists
+- Transmitted through family stories
+- Preserved in underground communities
+- Goblins most active in maintaining (least integrated)
+- Humans most likely to have forgotten (most integrated)

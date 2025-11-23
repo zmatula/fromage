@@ -205,6 +205,40 @@ A merchant oligarchy ruling the seas. The most cosmopolitan power, center of art
 
 ---
 
+## Banking House Coup: Economic Consequences
+
+### Immediate Costs (Year 1199)
+- Coup funding: ~300,000 crowns (military bribes, operations)
+- Council treasury seized: 150,000 crowns recovered
+- Net cost to Consortium: 150,000 crowns
+
+### Revenue Crisis
+- Pre-coup tariff collection: ~200,000 crowns/year
+- Post-coup collection: ~120,000 crowns/year (merchants refusing)
+- Gap: 80,000 crowns/year lost
+- **Problem**: No legitimacy = no compliance
+
+### Merchant Confidence
+- Trade volume down 15% (uncertainty)
+- Insurance rates up 25% (political risk)
+- Capital flight: ~100,000 crowns moved to Valdrian banks
+- Foreign investment frozen
+
+### Counter-Coup Funding
+- Captain Stormwind raising funds from:
+  - Old families: ~150,000 crowns pledged
+  - Merchant houses wanting order restored: ~100,000 crowns
+  - Free Captains (conditional): ~50,000 crowns
+- **Total war chest**: ~300,000 crowns (enough to challenge)
+
+### Consortium Vulnerability
+- Current liquid assets: ~500,000 crowns (down from 10 million in total assets)
+- Monthly burn rate: ~50,000 crowns (military, administration)
+- **Runway**: 10 months before fiscal crisis
+- **Desperate Moves**: May need to foreclose debts early, sell artifacts, seek foreign backing
+
+---
+
 ## Culture
 
 ### Values

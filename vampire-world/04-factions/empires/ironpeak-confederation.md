@@ -205,6 +205,54 @@ The dwarven industrial power. Neutral in empire conflicts, essential to all, and
 
 ---
 
+## Succession Concerns
+
+### High Thane Borin Stonehammer
+- Age: 312 years (elderly for dwarf)
+- Health: Strong but declining
+- Policy: Strict neutrality, banking leverage, patience
+- Problem: His neutrality is personal conviction, not institutional
+
+### Potential Successors
+
+**Elder Traditionalist: Ancestor Speaker Grom**
+- Age: 289
+- Position: Withdraw further from surface affairs
+- Policy: Seal holds, reduce trade, wait out human conflicts
+- Consequence: Dwarven retreat would collapse human economies
+
+**Young Pragmatist: Forge Master Durin**
+- Age: 156
+- Position: Choose winning side and profit
+- Policy: Alliance with Northern (they'll win, share in victory)
+- Consequence: Would end neutrality, trigger continental realignment
+
+**Merchant Advocate: Vault Keeper Thora**
+- Age: 203
+- Position: Exploit conflict for maximum profit
+- Policy: Lend to all sides, foreclose on losers
+- Consequence: Would make dwarves hated by all, risk coordinated attack
+
+**Deep Hold Conservative: Hold Lord Balin**
+- Age: 267
+- Position: Abandon surface entirely
+- Policy: Seal all holds, become self-sufficient
+- Consequence: Would remove dwarven economy from continent entirely
+
+### Current Succession Politics
+- Borin favors no one openly (maintains authority)
+- Thane Council divided (no majority for any position)
+- Young dwarves increasingly support Durin (tired of "neutral" inaction)
+- Crisis will come when Borin dies or becomes incapacitated
+
+### Timeline
+- Borin has perhaps 20-50 years (dwarven lifespan uncertain at this age)
+- Succession fight could begin at any sign of weakness
+- If war breaks out, pressure to choose sides intensifies
+- Protagonist's awakening may force dwarven choice earlier
+
+---
+
 ## Internal Conflicts
 
 ### Isolationist vs Engaged

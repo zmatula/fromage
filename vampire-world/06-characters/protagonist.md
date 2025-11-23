@@ -112,6 +112,28 @@ An experimental vampire creation, designed to survive outside the Bloodweb. He w
 - Can shield thoughts
 - Harder to control
 
+### Vampire Script Fluency
+
+Seven can read and write vampire script with perfect fluency—something no other living being can do. This makes him:
+
+**Invaluable for translation**: Can unlock Blood Archives others can only partially read. Modern scholars have spent centuries reconstructing vampire script with ~60% accuracy; Seven reads it natively.
+
+**Dangerous for verification**: Can expose false translations and forged documents. Many "authoritative" translations are wrong—some deliberately falsified for political purposes. Seven would know immediately.
+
+**Strategic target**: Every faction will want his translation services. The Inheritors have vaults they've never been able to read. The Church has sealed records they claim say one thing but may say another. Scholars would pay fortunes.
+
+**Walking threat**: His knowledge of true vampire history contradicts all modern narratives. The Church's "divine punishment" story, the Inheritors' "noble preservation" claims, the Order's founding mythology—all could be undermined by what he can read.
+
+**Important limitation**: Seven's fluency is comprehensive but his *knowledge* is not. He can read any vampire text, but he doesn't know everything vampires wrote. He's a key, not a library. He can translate a document but may not understand its context or significance.
+
+**Story implications**:
+- Inheritors want him to translate awakening protocols and deeper archive sections
+- Veil Keepers want him to verify their sealed records
+- Church wants him silenced (his reading contradicts divine punishment narrative)
+- Scholars would pay anything for his services
+- He could be captured specifically for translation labor
+- His fluency makes him more valuable alive than dead—but also makes him a permanent threat to anyone with secrets written in vampire script
+
 ### Limitations
 
 **Not Peak Vampire**:
@@ -360,6 +382,29 @@ An experimental vampire creation, designed to survive outside the Bloodweb. He w
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- Formal archaic constructions ("One would observe that...")
+- Vampire measurements ("three blood-spans," "a season of resting")
+- Refers to other races as "service-races" (catches self, substitutes "allies")
+- Complete sentences with Victorian formality
+- No contractions ("cannot" not "can't")
+
+### Sample Dialogue
+- "As I was optimized to understand, the dimensional frequencies require calibration."
+- "The service—that is, the allied races appear to have developed... autonomy."
+- "I estimate three blood-spans before the systems reach critical failure. This seems reasonable for an experiment of this scope."
+- "Your urgency is... noted. In my experience, such matters resolve over centuries."
+
+### Tells
+- Pauses before modern terms (learning them)
+- Unconscious superiority in tone
+- Bafflement at emotional appeals
+- Assumes others will wait for his convenience
+
+---
+
 ## Key Scenes
 
 ### Awakening
@@ -439,6 +484,27 @@ His culture is 1,200 years dead. Every interaction is potential exposure. He mus
 - What questions reveal his nature
 - Who might accept him despite knowing
 - Whether he can become something other than vampire
+
+---
+
+## Planned Cultural Collision Moments
+
+### Seven's Vampire Superiority (Early)
+- **Moment**: Casually refers to allies as having "limited intelligence due to shorter lifespans"
+- **Reaction**: Allies horrified; Seven genuinely confused why this offends
+- **Consequence**: Must learn to filter vampire assumptions
+- **Story Purpose**: Shows depth of cultural programming
+
+---
+
+## Knowledge Limitations
+
+### What Vessel Seven Cannot Know
+- Modern religion concepts (gods that care about individuals)
+- Why "optimization" horrifies people (he was optimized; it worked)
+- Human attachment to single lifespan (his was indefinite)
+- That his memories are partially manufactured
+- How much vampire history has been lost
 
 ---
 

@@ -141,4 +141,46 @@ Grew up near Vel'Krath ruins:
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- Single-word responses preferred
+- Tense verbs, minimal elaboration
+- No filler words or pleasantries
+- Technical descriptions of physical details
+- Northern military vocabulary
+
+### Sample Dialogue
+- "Efficient."
+- "We move at dawn. Weapons. Water for three days."
+- "The structure shows defensive architecture. Pre-collapse. Vampire military design. Threat level: unknown."
+- "Orders conflict. Require clarification."
+
+### Tells
+- Eye movement tracks tactical positions
+- Stance always ready for action
+- Impatient with elaboration
+- Confused by emotional reasoning
+
+---
+
+## Planned Cultural Collision Moments
+
+### Kira's Ruin Knowledge Double-Edge
+- **Saves**: Recognizes trap mechanism from childhood exploration, prevents party death
+- **Traps**: Overconfident in "knowing" ruins, misses new security system, captured
+- **Story Purpose**: Cultural knowledge is both asset and trap
+
+---
+
+## Knowledge Limitations
+
+### What Kira Cannot Know
+- Why both loyalties feel equally binding (never questioned)
+- Her confidence reads as contempt (doesn't see it)
+- Veil Keepers have different end-game than she does
+- Maritime and Valdrian value systems (can't comprehend)
+
+---
+
 *Kira represents the impossible position—when every choice is betrayal, what do you do?*

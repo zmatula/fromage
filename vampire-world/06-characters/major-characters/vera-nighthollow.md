@@ -206,4 +206,47 @@ Maritime culture should make her balanced. Instead:
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- Academic precision ("empirically demonstrated," "the evidence suggests")
+- Maritime pragmatism ("everything has a price," "trade-offs are necessary")
+- Uses "subject" instead of names when clinical
+- Careful measured speech
+- Qualifies everything ("potentially," "apparently")
+
+### Sample Dialogue
+- "The subject demonstrates unexpected stability. Empirically, this suggests..."
+- "Knowledge preservation requires difficult trade-offs. The ethical protocols exist for good reason."
+- "The Crown whispers that he is ready. I have learned to... interpret these communications."
+- "Every choice has cost. Our task is measuring which costs are acceptable."
+
+### Tells
+- Takes notes during conversations
+- Touches pocket containing Crown
+- Deflects personal questions to academic territory
+- Justifies everything through "preservation" framework
+
+---
+
+## Planned Cultural Collision Moments
+
+### Vera's "Ethical Study" Harm
+- **Moment**: Keeps someone contained "for their safety" while studying them
+- **Reality**: Containment causes psychological damage she didn't predict
+- **Consequence**: Must face that her framework causes harm despite intentions
+- **Story Purpose**: Good intentions don't prevent bad outcomes
+
+---
+
+## Knowledge Limitations
+
+### What Vera Cannot Know
+- If Crown is manipulating her (can't tell)
+- How "ethical study" looks like captivity (framework prevents seeing)
+- Three families are getting close to truth
+- What she'll do if forced to choose
+
+---
+
 *Vera represents the Inheritor tragedy—they genuinely care, but can't stop treating people as means to knowledge. And beneath that tragedy is a darker one: she knows the whole organization is built on murder, and she's chosen to carry that secret rather than let the truth destroy what they've built.*

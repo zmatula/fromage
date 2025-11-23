@@ -265,6 +265,29 @@ Chronological event list from Pre-Vampire Era through the Collapse.
 | -12 | Sanguine Vessels Initiative highest priority | Technology |
 | -10 | Last inter-covenant communication | Political |
 | -9 | Bloodweb efficiency at 15% | Technology |
+
+## Bloodweb Efficiency Explained
+
+Efficiency percentage refers to **network reliability**, not power output:
+- 100% efficiency: Network functions continuously; no interruptions
+- 70% efficiency: Outages occur weekly; backup systems engaged frequently
+- 50% efficiency: Outages occur daily; some nodes permanently offline
+- 30% efficiency: Network unstable; cascading failures common
+- 15% efficiency: Network barely functional; imminent total collapse
+
+### Why Population Didn't Crash Earlier
+- Individual vampires can survive short outages (hours to days)
+- Wealthy vampires maintained personal blood reserves
+- Rural vampires adapted to intermittent access
+- True crisis only occurs with total network collapse (Year 0)
+
+### The Collapse Moment
+At 15% efficiency, any additional strain triggers cascade:
+- Ascension Experiment drew massive power
+- Remaining network couldn't compensate
+- Total failure within hours
+- 94% mortality from simultaneous starvation
+
 | -8 | High Seer Amaranth dies; Selene takes power | Political |
 | -7 | Vessels Seven, Eight, Nine, Ten created | Technology |
 | -7 | **Protagonist created** | Technology |
@@ -383,22 +406,70 @@ How faction conflict intensified:
 | 75 | Church declares artifacts "demonic" | Religious |
 | 87 | Last public vampire killing | Military |
 | 100 | Church declares vampires extinct | Religious |
+| 120 | Cave monasteries in remote mountains begin preserving script fragments (locations later lost) | Scholarship |
 | 125 | First artifact dealer guild formed | Economic |
 | 140 | Mystery schools codify preserved knowledge | Cultural |
 | 148 | Functional artifact causes political crisis | Artifact |
+| 150 | Dwarves reverse-engineer captured Bloodweb node; first technical understanding recovered | Technology |
 | 158 | Major ruin expedition lost | Exploration |
 | 160 | First generation with no living vampire memory | Cultural |
 | 168 | Great Plague; 20% population loss | Demographic |
 | 175 | "Vampire" becomes generic term for monster | Cultural |
 | 195 | Healing artifact creates cult following | Artifact |
+| 200 | Multiple competing translation attempts begin; most produce contradictory results | Scholarship |
 | 210 | First secret society forms around artifacts | Political |
 | 230 | Intact but unreadable library discovered | Exploration |
 | 245 | Artifact trade becomes major economic factor | Economic |
+| 250 | First synthesis attempts combining monastery fragments, dwarven technical data, and linguistic guesswork | Scholarship |
 | 258 | First university founded (Free Cities) | Cultural |
 | 270 | Standardized calendar adopted | Cultural |
-| 278 | First successful vampire text translation | Scholarship |
+| 278 | First successful vampire text translation (limited corpus) | Scholarship |
+| 280 | Scholarly network forms between Free Cities and dwarven linguists | Scholarship |
 | 295 | Systematic ruin exploration begins | Exploration |
 | 300 | Dark Ages end; ~25 million population | Demographic |
+
+### The Lost Centuries Knowledge Recovery
+
+The gap between Year 60 (last reader dies) and Year 278 (first translation) wasn't a sudden breakthrough—it was 200+ years of gradual, painful reconstruction:
+
+**Year 60-120: Complete Collapse**
+- No systematic preservation
+- Individual artifacts hoarded but not understood
+- Written knowledge treated as decoration or danger
+- Oral tradition corrupts within two generations
+
+**Year 120-150: Fragmentary Preservation**
+- Remote cave monasteries preserve script samples (motivation unclear—perhaps aesthetic)
+- Locations later lost; some rediscovered, some never found
+- No understanding, only copying
+
+**Year 150-200: Technical Recovery**
+- Dwarves reverse-engineer Bloodweb components
+- Technical knowledge recovered first (numbers, measurements, material names)
+- Still can't read narrative text
+
+**Year 200-250: Competing Translations**
+- Multiple schools claim breakthroughs
+- Most translations contradictory or fabricated
+- Academic fraud rampant
+- No way to verify accuracy
+
+**Year 250-280: Synthesis**
+- First successful combination of monastery fragments + dwarven technical data + linguistic analysis
+- Limited corpus—can read some texts, not all
+- Many errors not discovered for centuries
+
+**Year 280-350: Systematization**
+- Scholarly networks form
+- Knowledge becomes teachable
+- Still riddled with errors
+- Scripts vs. dialect differences not understood
+
+**Lost Centuries Mysteries** (debates continue to Year 1200):
+- Who were the cave monks? Why did they preserve?
+- What knowledge did they actually keep? (Fragments, not systems)
+- Why did some translation schools succeed? (Method mattered more than intelligence)
+- How much was lost that we don't know we lost?
 
 ### Warring Kingdoms (Year 300-700)
 

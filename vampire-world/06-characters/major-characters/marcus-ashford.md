@@ -170,4 +170,47 @@ His Year 1190 raid killed scholars, not cultists. He knows this. He cannot fully
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- Religious idioms constantly ("Light guide us," "by the Dawn")
+- References divine providence
+- Formal oaths with hand gestures
+- Suspicious questioning style
+- Military-religious hybrid vocabulary
+
+### Sample Dialogue
+- "Light guide us in this darkness."
+- "The Divine has shown us this path. Our doubt is our failing."
+- "You speak with... comfortable knowledge of forbidden things. Where did you learn this?"
+- "By my oath and the Dawn's witness, I will see this through."
+
+### Tells
+- Hand moves to weapon at "heresy"
+- Eyes narrow at artifact knowledge
+- Posture shifts when faith questioned
+- Cannot hear evidence that contradicts doctrine
+
+---
+
+## Planned Cultural Collision Moments
+
+### Marcus's Collaborator Prevention
+- **Moment**: Refuses alliance with scholar who "knows too much about artifacts"
+- **Reality**: Scholar was offering critical information freely
+- **Consequence**: Information goes to rival faction instead
+- **Story Purpose**: Pattern recognition prevents necessary flexibility
+
+---
+
+## Knowledge Limitations
+
+### What Marcus Cannot Know
+- Year 1190 raid killed innocent scholars (was told they were cultists)
+- His certainty might be wrong (cannot conceive)
+- Other cultures see Order as threatening
+- Vampires could be anything but evil
+
+---
+
 *Marcus is the protagonist's mirror—both defined by what they were made to be, both must choose who they become.*

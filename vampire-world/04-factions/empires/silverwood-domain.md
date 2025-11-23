@@ -192,6 +192,60 @@ The mysterious elven isolate. Closed borders, deep knowledge, and secrets that c
 
 ---
 
+## The 150-Year Purpose
+
+### Year 1050: The Closure
+**Official Reason**: "Protection during dangerous times"
+**Actual Trigger**: Unknown outside Silverwood
+
+**Theories**:
+1. Detected vampire dimensional activity increasing
+2. Discovered truth about protagonist's existence
+3. Found evidence about Scar's true nature
+4. Learned something about elven origins they couldn't bear
+5. Planning something that requires complete secrecy
+
+### What They've Been Doing (Speculation)
+- Magical research without outside interference
+- Building defenses against something specific
+- Preparing for vampire return
+- Observing dimensional phenomena from inside
+- Training for military operation
+
+### Evidence of Planning
+- Thandril sent outside Year 1050 with vague orders (agent placement)
+- Border completely sealed (no leaks tolerated)
+- Some elves attempted to leave (stopped, possibly killed)
+- Young elves desperate to know why (generational divide)
+
+### What They Know That Others Don't
+- Elves can read vampire script fluently
+- Elves remember pre-collapse era personally (eldest ones)
+- Elves have studied dimensional theory for 1,200 years
+- Elves know something about protagonist (Thandril's orders reference him)
+
+### Predicted Action
+When protagonist awakens:
+- Silverwood will act (they've been waiting)
+- Action will surprise everyone (no one knows their plan)
+- Could be: alliance, intervention, attack, or something unprecedented
+- 150 years of preparation suggests major operation
+
+### Consequences of Uncertainty
+- No faction can predict elven response
+- All plans must account for unknown elven factor
+- Silverwood could tip any balance
+- When they move, everything changes
+
+### Questions Only Silverwood Can Answer
+1. Why did they close in Year 1050 specifically?
+2. What are they preparing for?
+3. What do they intend to do with/about protagonist?
+4. Will they ever reopen borders?
+5. What do they know that made 150 years of sacrifice worthwhile?
+
+---
+
 ## Role in Story
 
 ### Opportunities for Protagonist

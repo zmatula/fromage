@@ -128,6 +128,38 @@ With Vessel Seven, they explode immediately.
 
 ---
 
+## Valdrian Succession: Economic Factions
+
+### Duke Aldric Varen
+- **Backing**: Rural nobility (land-based wealth)
+- **Economic Platform**: Preserve traditional land rights, resist merchant rising
+- **Financial Support**: ~500,000 crowns from noble houses
+- **Trade Policy**: Protectionist; maintain tariffs on foreign goods
+- **Who Benefits**: Established aristocracy, traditional military
+
+### Duchess Margret
+- **Backing**: Urban merchants and guilds
+- **Economic Platform**: Modernize commerce, reduce guild restrictions, open trade
+- **Financial Support**: ~400,000 crowns from merchant consortiums
+- **Trade Policy**: Free trade; reduce tariffs, welcome foreign investment
+- **Who Benefits**: Merchants, craftspeople, Maritime Republic
+
+### Prince-Consort Aldric (Dwarven Heritage)
+- **Backing**: Dwarven interests and mountain provinces
+- **Economic Platform**: Continental integration, standardize currency
+- **Financial Support**: ~600,000 crowns from Ironpeak banking houses
+- **Trade Policy**: Unified continental market; dwarven-backed currency standard
+- **Who Benefits**: Dwarves, traders, anyone with cross-border business
+
+### The Bastard
+- **Backing**: Lower classes and some military
+- **Economic Platform**: Wealth redistribution, reduced taxes on poor
+- **Financial Support**: ~200,000 crowns (limited; mainly popular donations)
+- **Trade Policy**: Unclear; would likely default to advisors
+- **Who Benefits**: Common people, commoner-rise soldiers
+
+---
+
 ## The Maritime Republic Coup
 
 ### What Happened
@@ -431,6 +463,57 @@ With Vessel Seven, they explode immediately.
 - Order will hunt Seven relentlessly
 - They'll kill anyone who helps him
 - They won't negotiate
+
+---
+
+## Crisis Economic Analysis
+
+### Valdrian Succession Crisis
+**Surface Issue**: No clear heir
+**Economic Driver**: Which economic system will rule?
+- Duke Aldric: Land aristocracy (protect estates, resist merchant power)
+- Duchess Margret: Merchant interests (free trade, guild reform)
+- Prince-Consort: Dwarven integration (standardized currency, open borders)
+- Bastard: Redistribution (tax the wealthy, expand services)
+
+**Stakes**: Winner determines Valdrian economic policy for generation.
+
+### Northern Expansion
+**Surface Issue**: Territorial ambition
+**Economic Driver**: Food security crisis
+- 40% grain imports from Valdris
+- 6-month famine window if embargoed
+- Must seize farmland before war, not after
+
+**Stakes**: Northern survival vs Valdrian agricultural heartland.
+
+### Maritime Coup
+**Surface Issue**: Banking vs merchant control
+**Economic Driver**: Who profits from artifact trade?
+- Banks want controlled market (high margins)
+- Merchants want open trade (high volume)
+- Coup already costing 80,000 crowns/year in lost tariffs
+
+**Stakes**: Control of continental artifact economy.
+
+### Sanctified Persecution
+**Surface Issue**: Religious purity
+**Economic Driver**: Destroying own economic base
+- Scholars fleeing = knowledge loss
+- Merchants fleeing = trade loss
+- Craftspeople fleeing = production loss
+- Agricultural disruption growing
+
+**Stakes**: Sanctified economic self-destruction vs doctrinal purity.
+
+### Veil Keeper vs Inheritor War
+**Surface Issue**: Suppress vs preserve knowledge
+**Economic Driver**: Control of artifact discovery
+- Whoever controls expeditions controls findings
+- Whoever controls findings controls power
+- ~500,000 crowns/year in artifact value at stake
+
+**Stakes**: Knowledge monopoly = power monopoly.
 
 ---
 

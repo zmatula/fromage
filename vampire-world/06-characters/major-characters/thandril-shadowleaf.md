@@ -144,4 +144,47 @@ Knows elves were "privileged servants":
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- Time references in centuries ("when we were younger" = 300 years ago)
+- Rarely uses contractions
+- Observational distance ("one notices" not "I notice")
+- Archaic formal patterns
+- Patience-related phrases
+
+### Sample Dialogue
+- "We endure. Your species measures in decades; we measure in ages."
+- "One observes the human tendency toward haste. In the long view, this matter is... trivial."
+- "When we were younger, such disputes resolved themselves. We waited. They died."
+- "Patience teaches what urgency cannot learn."
+
+### Tells
+- Stillness that unnerves humans
+- Eyes track slowly, missing nothing
+- Surprise at human aging
+- Confused by short-term thinking
+
+---
+
+## Planned Cultural Collision Moments
+
+### Thandril's 150-Year Blind Spot
+- **Moment**: Suggests waiting out current conflict ("these wars pass")
+- **Reality**: People are dying now; elven patience is human death sentence
+- **Reaction**: Allies furious at his callousness
+- **Story Purpose**: Different time scales create different ethics
+
+---
+
+## Knowledge Limitations
+
+### What Thandril Cannot Know
+- What Silverwood actually wants (orders were vague)
+- Modern political alignments (150 years out of date)
+- If his daughter's "foreknowledge" was planned
+- Human mortality means their choices matter more
+
+---
+
 *Thandril represents the elven mystery—watching, waiting, knowing things they won't share, with 150 years building to this moment.*

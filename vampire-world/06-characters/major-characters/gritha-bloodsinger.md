@@ -146,4 +146,47 @@ The central contradiction:
 
 ---
 
+## Speech Patterns
+
+### Linguistic Markers
+- "We" instead of "I" (collective identity)
+- Blood metaphors constantly
+- References ancestors and tribal memory
+- Tribal idioms ("tooth-shows," "blood-debt")
+- Speaks for goblins as unified voice
+
+### Sample Dialogue
+- "We remember this. Our blood knows what you have forgotten."
+- "The vampires marked us in ways your soft lives never understood."
+- "Your tribe starves while you speak of honor. Our way is survival."
+- "Blood remembers. Blood always remembers."
+
+### Tells
+- Fingers move in ritual patterns when stressed
+- Eyes unfocus during "blood memory" moments
+- Rage surfaces at vampire references
+- Contempt for human "softness"
+
+---
+
+## Planned Cultural Collision Moments
+
+### Gritha's Blood Magic Cost
+- **Moment**: Uses blood magic to defeat enemy, saves party
+- **Cost**: Magic affects her own people nearby, causes harm
+- **Consequence**: Must face that "vampire tools" hurt vampires and servants alike
+- **Story Purpose**: Philosophical cost of using oppressor's weapons
+
+---
+
+## Knowledge Limitations
+
+### What Gritha Cannot Know
+- If goblins can survive without humans (never tried)
+- Blood magic might be poisoning her people from inside
+- Humans can be victims too (only sees oppressors)
+- Her rage makes alliance impossible
+
+---
+
 *Gritha represents what happens when justified anger becomes everything—wisdom lost to rage.*
