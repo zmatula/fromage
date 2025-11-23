@@ -57,8 +57,13 @@ vampire-world/
 |------|---------|-----------------|
 | master-timeline.md | Complete chronology Year -1200 to 1200 | → All events reference this |
 | vampire-factions.md | The three covenants | → Collapse, artifacts, secrets |
+| vampire-unification-wars.md | How clans became the Dominion | → Pre-vampire era, Vykros |
 | collapse-event.md | Day 0 in detail | → Everything after |
 | collapse-scenes.md | Dramatized collapse | → Style guide |
+| collapse-days-2-7.md | Hour-by-hour Week One aftermath | → Faction decisions |
+| council-final-sessions.md | Last Council meetings Year -95 to -68 | → Covenant breakdown |
+| twilight-sanctuary-selection.md | Who was chosen to survive | → Selene's decisions |
+| pre-vampire-personal-drama.md | Individual stories of conquest | → Thornweald betrayal |
 | year-812-discovery.md | First stasis vampire found | → Seven's precedent |
 | historical-figures.md | Named people who shaped eras | → Cultural memory, conflicts |
 
@@ -76,6 +81,7 @@ vampire-world/
 | era-warring-kingdoms.md | Year 300 to 700 | Conflicts |
 | era-consolidation.md | Year 700 to 1100 | Empire formation |
 | era-recent-past.md | Year 1100 to 1200 | Current tensions |
+| immediate-aftermath-ground.md | Year 0-8 ground level | Warlords, purifiers, survivors |
 
 **Additional Scene Files**: golden-age-scenes.md, pre-vampire-scenes.md, great-gathering.md, technology-loss-scenes.md
 
@@ -221,6 +227,12 @@ vampire-world/
 |------|---------|
 | supporting-cast-registry.md | Secondary characters |
 
+### Additional Character Files
+
+| File | Purpose |
+|------|---------|
+| historical-bloodlines.md | Family lines and ideological successions across 1200 years |
+
 **Interactions**:
 - POV independence → each has arc without Seven
 - Character relationships → drive plot
@@ -237,6 +249,7 @@ vampire-world/
 | vampire-technology.md | What vampires made | → Artifacts, ruins |
 | relic-registry.md | List of artifacts | → Plot items |
 | artifact-histories.md | Major artifacts detailed | → Conflicts, quests |
+| artifact-journeys.md | Where artifacts traveled across 1200 years | → Ownership chains |
 | artifact-plot-connections.md | How artifacts drive story | → Plot architecture |
 
 **Key Artifacts** (in artifact-histories.md):
@@ -260,6 +273,7 @@ vampire-world/
 | protagonist-true-history.md | Seven's real backstory | Reader only |
 | vessel-seven-memories.md | Seven's 7 years awake | Seven (fragmented) |
 | sanguine-vessels-registry.md | All 12 Vessels | Hidden in Vel'Thoras |
+| sanguine-vessels-lab.md | Lab culture and researcher relationships | Hidden in Vel'Thoras |
 | discoverable-secrets.md | When characters learn what | Plot pacing |
 | shadow-truths.md | Disputed facts | Reader knows truth |
 | permanent-mysteries.md | Never resolved | Stays unknown |
@@ -333,6 +347,7 @@ vampire-world/
 | 06-10 | Implementation and validation |
 | 11-pre-awakening-history-enrichment.md | First enrichment pass |
 | 12-second-enrichment-plan.md | Second enrichment pass |
+| 13-pre-awakening-excavation.md | GRRM deep history analysis |
 
 **Use**: Track what's been improved, what needs work.
 
@@ -438,20 +453,20 @@ magic-disagreements.md (how to use them)
 
 | Directory | Files | Purpose |
 |-----------|-------|---------|
-| 00-project-index | 3 | Navigation |
+| 00-project-index | 4 | Navigation |
 | 01-core-framework | 3 | Foundation |
-| 02-timeline | 18 | History |
+| 02-timeline | 24 | History |
 | 03-cultures | 12 | Peoples |
 | 04-factions | 12 | Powers |
 | 05-geography | 15 | Places |
-| 06-characters | 9 | People |
-| 07-artifacts-magic | 6 | Items/Systems |
-| 08-secrets | 6 | Hidden info |
+| 06-characters | 10 | People |
+| 07-artifacts-magic | 7 | Items/Systems |
+| 08-secrets | 7 | Hidden info |
 | 09-plot-architecture | 6 | Structure |
 | 10-style-guide | 4 | Writing |
-| 11-validation | 4 | Checking |
-| 12-grrm-review | 12 | Review |
-| **Total** | **110** | |
+| 11-validation | 5 | Checking |
+| 12-grrm-review | 13 | Review |
+| **Total** | **122** | |
 
 ---
 
