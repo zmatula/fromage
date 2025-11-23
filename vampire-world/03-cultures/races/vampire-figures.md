@@ -621,6 +621,9 @@ They were people. They made choices. The choices killed millions.
 
 - [Vampires Overview](vampires.md) - Civilization details
 - [Collapse Event](../../02-timeline/collapse-event.md) - What happened
+- [Council Final Sessions](../../02-timeline/council-final-sessions.md) - The last Council meetings
+- [Sanguine Vessels Laboratory](../../08-secrets/sanguine-vessels-lab.md) - Lab culture and researchers
+- [Historical Bloodlines](../../06-characters/historical-bloodlines.md) - Lineages and successions
 - [Vessel Seven's Memories](../../08-secrets/vessel-seven-memories.md) - His experience
 - [Sanguine Vessels Registry](../../08-secrets/sanguine-vessels-registry.md) - The project
 

@@ -845,6 +845,9 @@ Named individuals who shaped the 1,200 years between collapse and present. These
 - [Master Timeline](master-timeline.md)
 - [Era Breakdowns](era-breakdowns/)
 - [Cultural Memory Matrix](../03-cultures/cultural-memory-matrix.md)
+- [Historical Bloodlines](../06-characters/historical-bloodlines.md) - Family lines and successions
+- [Vampire Unification Wars](vampire-unification-wars.md) - Pre-vampire era leaders
+- [Immediate Aftermath Ground](era-breakdowns/immediate-aftermath-ground.md) - Post-collapse warlords
 
 ---
 

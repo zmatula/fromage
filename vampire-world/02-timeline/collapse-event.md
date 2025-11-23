@@ -721,6 +721,9 @@ This document connects to:
 - [Core Mysteries](../01-core-framework/core-mysteries.md) - Addresses Mysteries 1, 2, 3, 5
 - [Thematic Pillars](../01-core-framework/thematic-pillars.md) - All five themes manifest in collapse
 - [Premise Constraints](../01-core-framework/premise-constraints.md) - Adheres to all constraints
+- [Council Final Sessions](council-final-sessions.md) - The last Council meetings before collapse
+- [Collapse Days 2-7](collapse-days-2-7.md) - Hour-by-hour Week One aftermath
+- [Twilight Sanctuary Selection](twilight-sanctuary-selection.md) - Who was chosen to survive
 
 To be connected (future phases):
 - Pre-collapse vampire factions

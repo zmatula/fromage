@@ -505,6 +505,7 @@ Every artifact has been fought over. Every artifact will be fought over again.
 ## Cross-References
 
 - [Relic Registry](relic-registry.md) - Full list
+- [Artifact Journeys](artifact-journeys.md) - Where artifacts traveled across 1200 years
 - [Artifact Plot Connections](artifact-plot-connections.md) - Story integration
 - [Vampire Technology](vampire-technology.md) - How they work
 

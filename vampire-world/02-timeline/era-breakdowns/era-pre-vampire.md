@@ -492,6 +492,8 @@ What was the world like before even the early vampires (Year -1200 and earlier)?
 - [Era: The Rise](era-rise.md) - What vampires built with their victory
 - [Core Mysteries](../../01-core-framework/core-mysteries.md) - Mystery 4: Race Origins
 - [Collapse Event](../collapse-event.md) - How it all eventually ended
+- [Vampire Unification Wars](../vampire-unification-wars.md) - How vampire clans united
+- [Pre-Vampire Personal Drama](../pre-vampire-personal-drama.md) - Individual stories of conquest
 
 ---
 
