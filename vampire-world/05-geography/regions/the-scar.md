@@ -216,6 +216,37 @@ Until now.
 
 The Scar grew more in Year 1199 than in any previous year. The rate is accelerating. If it continues, Keth's Hollow—the abandoned village—will be inside the Distortion Ring within five years. Other settlements within twenty.
 
+### The Environmental Collapse
+
+The Scar's expansion isn't just swallowing territory—it's poisoning everything around it.
+
+**Agricultural Failure**:
+Farms within 100 miles of the Distortion Ring are reporting crop failures. Not all crops—specific ones. Wheat grows fine. Barley dies. Root vegetables rot in the ground while still growing. The pattern makes no sense to farmers but terrifies scholars: dimensional instability affects things based on their complexity. Simple plants survive. Complex ones fail.
+
+If the effect strengthens, all crops will fail. Then livestock. Then people.
+
+**Wildlife Migration**:
+Animals are fleeing. Deer, wolves, bears—entire populations moving south and west, away from The Scar. They know something's wrong before humans do.
+
+But some animals are moving toward The Scar. Crows, rats, insects. Things that eat death. They're gathering at the Distortion Ring like they're waiting for something.
+
+**Weather Disruption**:
+Storms form over The Scar and don't move. They sit there for days, spinning, building. Then they release in all directions—flash floods, lightning storms, unseasonable snow. Three villages were destroyed by flooding in Year 1198. The Church blamed divine wrath. The Academy blamed climate patterns. Neither explanation fits the data.
+
+**Trade Route Disruption**:
+The Northern Trade Road passes within 150 miles of The Scar. Caravans are reporting:
+- Compasses failing
+- Horses refusing to continue
+- Guards deserting
+- Goods arriving damaged in ways that make no sense (food rotted from inside, metal corroded, cloth aged decades)
+
+The Federation is discussing rerouting all northern trade to sea lanes. This would add weeks to delivery times and double shipping costs. The Northern Kingdom would be economically isolated.
+
+**The Quiet Plague**:
+People living near The Scar are getting sick—but slowly. They're tired. They forget things. They have nightmares they can't remember. They age faster than they should. None of it is dramatic. All of it is consistent.
+
+The Church has sent healers. They can't find anything wrong. But the people are dying anyway.
+
 ### The Readings
 
 Inheritor instruments show dimensional instability at highest recorded levels. Valdrian Academy confirms. Something is happening. Something is changing.

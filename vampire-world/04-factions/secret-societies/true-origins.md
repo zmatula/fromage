@@ -88,6 +88,24 @@ The stasis vampire they "found"? They'd known about it since Year 789. They just
 
 **Do current Inheritors know?** Some senior members suspect. The leadership chain passes the truth from Vera Nighthollow (current leader) back to Aldric Shadowmend. She knows. She doesn't share.
 
+### The Descendants
+
+The three murdered scholars left families. Those families still exist in Year 1200—and they're closer to the truth than Vera wants to admit.
+
+**The Ashford Family**:
+Helena Ashford is a senior Veil Keeper archivist. She's already suspicious of the Inheritors (she's been copying their sealed texts). She doesn't know her ancestor was murdered by them—yet. When she finds out, she'll have both the motive and the resources to destroy them.
+
+**The Thornwood Family**:
+Marcus Thornwood is a Valdrian Academy historian specializing in the Lost Centuries. His family has always believed Denna died in a "tragic accident" at Sel'Naroth. He's been petitioning for access to the site for twenty years. The Inheritors keep blocking him. He thinks they're protecting dangerous knowledge. He's half right.
+
+**The Vane Family**:
+Lady Cassandra Vane is a minor noble in the Maritime Federation. Her family lost status after Aldric Vane's "disappearance"—they were suspected of involvement in illegal excavation. She's spent her life trying to restore her family name. She believes clearing Aldric's reputation requires proving the Inheritors falsified the cave-in story. She's right.
+
+**The Convergence**:
+None of the three families know the others exist. If they discovered their connection—three scholars, one expedition, all dead—they would compare notes. The pattern would be obvious.
+
+Vera Nighthollow knows about all three families. She has people watching them. If any of them gets too close to the truth, she'll have to decide: silence them like her ancestors did, or let the Inheritors' founding crime destroy everything they've built.
+
 ---
 
 ## The Order of Dawn

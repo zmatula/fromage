@@ -143,6 +143,63 @@ This is the mystery sanctuary. It might be the most important—or it might neve
 
 ---
 
+## The Blood Production Problem
+
+### Why Disconnection Killed
+
+When the Bloodweb collapsed, vampires didn't just lose power—they lost enhanced blood. After centuries of dependency, normal blood couldn't sustain vampire physiology. Disconnected vampires starved even with adequate feeding.
+
+This is why the Collapse killed 99% of vampires over six months, not instantly. They survived the initial inversion but couldn't feed adequately without enhancement.
+
+### How Sanctuaries Solved It
+
+Twilight developed three blood production systems that worked independently of the Bloodweb:
+
+**Modified Animals**:
+Sel'Varis and Mor'Thelas used magically modified livestock—cattle and sheep bred to produce pre-enhanced blood. The animals were essentially living Bloodweb nodes. This required:
+- Breeding stock (limited genetic diversity)
+- Specialized feed
+- Magical maintenance
+- Regular culling and replacement
+
+**Sustainable for**: 500-800 years before genetic degradation
+
+**Synthesized Blood**:
+Vel'Mara attempted artificial blood production using alchemical processes. This worked but was:
+- Nutritionally adequate but unsatisfying
+- Energy-intensive to produce
+- Subject to equipment failure
+- Psychologically demoralizing
+
+**Sustainable for**: Indefinitely, if equipment maintained
+
+**Hibernation Protocols**:
+Mor'Thelas reduced blood consumption through rotating hibernation. 80% of occupants slept at any time, requiring only 20% of normal blood supply. This worked but meant:
+- Loss of community cohesion
+- Skill degradation during long sleeps
+- Psychological damage from centuries of intermittent consciousness
+- Vulnerable to system failure (no one awake to fix problems)
+
+**Sustainable for**: 1,000+ years, but at psychological cost
+
+### Why Systems Failed
+
+**Sel'Varis** (40% survival): Modified animals may have exhausted genetic viability. If the herds died, starvation followed—or the vampires found another solution.
+
+**Vel'Mara** (5% survival): Synthesis equipment requires maintenance. Flooding destroyed the systems. Anyone alive would have starved within months.
+
+**Keth'Vorn** (0% survival): Structural collapse may have killed the herds first. The bodies show signs of starvation before the cave-in.
+
+**Mor'Thelas** (60% survival): Hibernation protocols may still function. The opened seals suggest someone woke up and went looking for better food sources.
+
+### The Inheritor Question
+
+The Inheritors descended from Twilight survivors who had sanctuary access. If they escaped a sanctuary, they would have needed blood production knowledge to survive.
+
+Do they have it? If they know how to produce enhanced blood independently, they've hidden it for 400 years. That would be their most valuable secret—more valuable than any artifact.
+
+---
+
 ## What Went Wrong
 
 ### The Selection Problem

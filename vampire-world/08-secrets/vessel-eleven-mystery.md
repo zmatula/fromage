@@ -54,7 +54,20 @@ The last entry mentioning Eleven is from Day 0, Hour 2:
 
 **What is Protocol Nine?**: Emergency evacuation of valuable assets. Eleven was moved somewhere before the collapse.
 
-**Where?**: Not specified.
+**Who Executed It?**: The entry is signed by Dorian val'Kess, Velanna's primary assistant. Velanna's own notes make no mention of Protocol Nine—she either didn't know or didn't authorize it.
+
+This raises disturbing questions:
+- Did Dorian act on his own initiative?
+- Did Eleven instruct him? (Eleven asked about stasis protocols earlier)
+- Was Protocol Nine Velanna's contingency that Dorian knew about?
+- Or did someone else order Dorian to evacuate Eleven?
+
+Dorian's fate is unknown—possibly in stasis at Vel'Thoras, possibly dead, possibly wherever he took Eleven. If he executed Protocol Nine, he may know where Eleven is. He may be the key to finding them.
+
+**Where?**: Not specified. The "secondary facility" could be:
+- Vel'Thoras deep levels (Dorian would know these)
+- A pre-arranged evacuation site (Velanna's contingency)
+- Somewhere Eleven chose (if Eleven directed Dorian)
 
 ### The Secondary Facility
 

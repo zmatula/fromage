@@ -33,16 +33,21 @@ This is what the sealed Church records say. Note: Sel'Naroth is a Crimson Throne
 ### Problem 1: The Timing
 
 **Official Timeline**:
-- Year -50 to 0: Sanguine Vessels created
+- Year -50 to 0: Sanguine Vessels created at Vel'Thoras
 - Year 0: Collapse
 - Year 812: "First" stasis vampire discovered
 
 **The Issue**: If the Vessels were the only vampires in stasis, and they were all at Vel'Thoras, why was one found at Sel'Naroth—a Throne military installation?
 
-**Possible Explanations**:
-1. Vessels were moved before the collapse (no evidence)
-2. Other stasis projects existed (no records)
-3. The "discovery" was something else entirely
+**The Resolution**: The Vessels weren't the only stasis project.
+
+Throne covenant ran their own stasis experiments at Sel'Naroth, starting around Year -80. Their goal wasn't transcendence like Mind's Vessels—it was military preservation. They wanted to put elite warriors in stasis, wake them for specific campaigns, then return them to storage. Soldiers who never aged, never needed supply lines between wars.
+
+The project failed. Throne couldn't solve the blood dependency problem that Velanna later cracked. Their subjects woke hungry, mad, or dead. By Year -50, they'd abandoned the project.
+
+But they didn't destroy all subjects. At least one remained in stasis—possibly as a template for future attempts, possibly forgotten in the chaos of the Collapse.
+
+**What This Means**: The Year 812 discovery wasn't a Vessel. It was a Throne stasis soldier—cruder, older, and possibly more dangerous than Velanna's refined creations. This explains the location (Throne facility), the destruction (unstable subject), and the cover-up (Northern Kingdom doesn't want to admit their ancestors' experiments).
 
 ---
 

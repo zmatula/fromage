@@ -204,6 +204,28 @@ The dimensional breach at The Scar is related to the power that fed the Bloodweb
 - Reactivate some Bloodweb-dependent artifacts
 - Create new dangers from powered-up relics
 
+### The Feedback Loop Problem
+
+**The Disturbing Theory**: Ambient collectors don't just draw energy from nowhere. They draw it from the weakest point in reality—which is The Scar.
+
+Every time an ambient-powered artifact is used, it pulls dimensional energy through the breach. The Crown of Seeing looks into distant places by bending space—and The Scar is where space is already bent. Healing devices accelerate time for injured tissue—and The Scar is where time is unstable.
+
+**The Evidence**:
+- The Scar's expansion accelerated after Year 1100 (when artifact hunting intensified)
+- Inheritor instruments show dimensional instability spikes correlating with Crown usage
+- The most artifact-rich areas show subtle reality distortions
+
+**The Implication**: Using ambient-powered artifacts may be feeding The Scar's growth. Every time the Crown shows a vision, the breach widens slightly. Every time a healing device activates, the dimensional barrier thins.
+
+If this theory is correct:
+- The Veil Keepers are slowly opening The Scar every time they use the Crown
+- Medical artifacts are poison disguised as medicine
+- Artifact hunting isn't just dangerous—it's catastrophic
+
+**The Terrible Choice**: Stop using artifacts (lose their benefits) or keep using them (accelerate whatever is coming through The Scar).
+
+The Inheritors know about this theory. They've suppressed it. They need artifacts too badly to stop.
+
 ---
 
 ## Strategic Implications
